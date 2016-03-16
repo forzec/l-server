@@ -1,0 +1,1 @@
+alter table `olympiad_nobles` add column `battlesdone_qualified` tinyint not null default '0';

@@ -1,0 +1,1 @@
+DELETE FROM `character_variables` WHERE `type`='user-var' AND `name`='reflection' AND `value`='-4';

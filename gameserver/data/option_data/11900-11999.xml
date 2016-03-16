@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="11900">
+		<!--P. Atk. increases by 3.08. Critical increases by 8.15.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.08" />
+			<add order="0x60" stat="baseCrit" value="8.14877382" />
+		</for>
+	</option_data>
+	<option_data id="11901">
+		<!--M. Atk. increases by 3.53. HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.528" />
+			<add order="0x60" stat="regHp" value="0.11544" />
+		</for>
+	</option_data>
+	<option_data id="11902">
+		<!--M. Atk. increases by 3.53. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.528" />
+			<add order="0x60" stat="regMp" value="0.07904" />
+		</for>
+	</option_data>
+	<option_data id="11903">
+		<!--M. Atk. increases by 3.53. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.528" />
+			<add order="0x60" stat="regCp" value="0.11544" />
+		</for>
+	</option_data>
+	<option_data id="11904">
+		<!--M. Atk. increases by 3.53. Evasion increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.528" />
+			<add order="0x60" stat="rEvas" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11905">
+		<!--M. Atk. increases by 3.53. Accuracy increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.528" />
+			<add order="0x60" stat="accCombat" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11906">
+		<!--M. Atk. increases by 3.53. Critical increases by 8.15.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.528" />
+			<add order="0x60" stat="baseCrit" value="8.14877382" />
+		</for>
+	</option_data>
+	<option_data id="11907">
+		<!--HP Regen increases by 0.12. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.12432" />
+			<add order="0x60" stat="regMp" value="0.07904" />
+		</for>
+	</option_data>
+	<option_data id="11908">
+		<!--HP Regen increases by 0.12. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.12432" />
+			<add order="0x60" stat="regCp" value="0.11544" />
+		</for>
+	</option_data>
+	<option_data id="11909">
+		<!--HP Regen increases by 0.12. Evasion increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.12432" />
+			<add order="0x60" stat="rEvas" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11910">
+		<!--HP Regen increases by 0.12. Accuracy increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.12432" />
+			<add order="0x60" stat="accCombat" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11911">
+		<!--HP Regen increases by 0.12. Critical increases by 8.15.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.12432" />
+			<add order="0x60" stat="baseCrit" value="8.14877382" />
+		</for>
+	</option_data>
+	<option_data id="11912">
+		<!--MP Regen increases by 0.09. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.08512" />
+			<add order="0x60" stat="regCp" value="0.11544" />
+		</for>
+	</option_data>
+	<option_data id="11913">
+		<!--MP Regen increases by 0.09. Evasion increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.08512" />
+			<add order="0x60" stat="rEvas" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11914">
+		<!--MP Regen increases by 0.09. Accuracy increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.08512" />
+			<add order="0x60" stat="accCombat" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11915">
+		<!--MP Regen increases by 0.09. Critical increases by 8.15.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.08512" />
+			<add order="0x60" stat="baseCrit" value="8.14877382" />
+		</for>
+	</option_data>
+	<option_data id="11916">
+		<!--CP Regen increases by 0.12. Evasion increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.12432" />
+			<add order="0x60" stat="rEvas" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11917">
+		<!--CP Regen increases by 0.12. Accuracy increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.12432" />
+			<add order="0x60" stat="accCombat" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11918">
+		<!--CP Regen increases by 0.12. Critical increases by 8.15.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.12432" />
+			<add order="0x60" stat="baseCrit" value="8.14877382" />
+		</for>
+	</option_data>
+	<option_data id="11919">
+		<!--Evasion increases by 0.63. Accuracy increases by 0.75.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="0.632835" />
+			<add order="0x60" stat="accCombat" value="0.752565" />
+		</for>
+	</option_data>
+	<option_data id="11920">
+		<!--Evasion increases by 0.63. Critical increases by 8.15.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="0.632835" />
+			<add order="0x60" stat="baseCrit" value="8.14877382" />
+		</for>
+	</option_data>
+	<option_data id="11921">
+		<!--Accuracy increases by 0.63. Critical increases by 8.15.-->
+		<for>
+			<add order="0x60" stat="accCombat" value="0.632835" />
+			<add order="0x60" stat="baseCrit" value="8.14877382" />
+		</for>
+	</option_data>
+	<option_data id="11922">
+		<!--P. Def. increases by 14.69.-->
+		<for>
+			<add order="0x60" stat="pDef" value="14.69" />
+		</for>
+	</option_data>
+	<option_data id="11923">
+		<!--M. Def. increases by 11.8.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.804" />
+		</for>
+	</option_data>
+	<option_data id="11924">
+		<!--Max HP increases by 36.82-->
+		<for>
+			<add order="0x60" stat="maxHp" value="36.816" />
+		</for>
+	</option_data>
+	<option_data id="11925">
+		<!--Max HP increases by 40.95.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="40.95" />
+		</for>
+	</option_data>
+	<option_data id="11926">
+		<!--Max CP increases by 55.58.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.5828" />
+		</for>
+	</option_data>
+	<option_data id="11927">
+		<!--P. Atk. increases by 6.68.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="6.682" />
+		</for>
+	</option_data>
+	<option_data id="11928">
+		<!--M. Atk. increases by 7.67.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="7.67" />
+		</for>
+	</option_data>
+	<option_data id="11929">
+		<!--HP Regen increases by 0.24.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.23504" />
+		</for>
+	</option_data>
+	<option_data id="11930">
+		<!--MP Regen increases by 0.16.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.16042" />
+		</for>
+	</option_data>
+	<option_data id="11931">
+		<!--CP Regen increases by 0.24.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.23504" />
+		</for>
+	</option_data>
+	<option_data id="11932">
+		<!--Evasion increases by 1.21.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="1.2054" />
+		</for>
+	</option_data>
+	<option_data id="11933">
+		<!--Accuracy increases by 1.21.-->
+		<for>
+			<add order="0x60" stat="accCombat" value="1.2054" />
+		</for>
+	</option_data>
+	<option_data id="11934">
+		<!--Critical increases by 13.05.-->
+		<for>
+			<add order="0x60" stat="baseCrit" value="13.0520712" />
+		</for>
+	</option_data>
+	<option_data id="11935">
+		<!--P. Def. increases by 7.35. M. Def. increases by 5.9.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="mDef" value="5.902" />
+		</for>
+	</option_data>
+	<option_data id="11936">
+		<!--P. Def. increases by 7.35. Max HP increases by 18.41-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="maxHp" value="18.408" />
+		</for>
+	</option_data>
+	<option_data id="11937">
+		<!--P. Def. increases by 7.35. Max HP increases by 20.48.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="maxMp" value="20.475" />
+		</for>
+	</option_data>
+	<option_data id="11938">
+		<!--P. Def. increases by 7.35. Max CP increases by 27.79.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="maxCp" value="27.7914" />
+		</for>
+	</option_data>
+	<option_data id="11939">
+		<!--P. Def. increases by 7.35. P. Atk. increases by 3.34.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="pAtk" value="3.341" />
+		</for>
+	</option_data>
+	<option_data id="11940">
+		<!--P. Def. increases by 7.35. M. Atk. increases by 3.84.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="mAtk" value="3.835" />
+		</for>
+	</option_data>
+	<option_data id="11941">
+		<!--P. Def. increases by 7.35. HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="regHp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11942">
+		<!--P. Def. increases by 7.35. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11943">
+		<!--P. Def. increases by 7.35. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11944">
+		<!--P. Def. increases by 7.35. Evasion increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="rEvas" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11945">
+		<!--P. Def. increases by 7.35. Accuracy increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="accCombat" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11946">
+		<!--P. Def. increases by 7.35. Critical increases by 6.53.-->
+		<for>
+			<add order="0x60" stat="pDef" value="7.345" />
+			<add order="0x60" stat="baseCrit" value="6.5260356" />
+		</for>
+	</option_data>
+	<option_data id="11947">
+		<!--M. Def. increases by 5.9. Max HP increases by 18.41-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="maxHp" value="18.408" />
+		</for>
+	</option_data>
+	<option_data id="11948">
+		<!--M. Def. increases by 5.9. Max HP increases by 20.48.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="maxMp" value="20.475" />
+		</for>
+	</option_data>
+	<option_data id="11949">
+		<!--M. Def. increases by 5.9. Max CP increases by 27.79.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="maxCp" value="27.7914" />
+		</for>
+	</option_data>
+	<option_data id="11950">
+		<!--M. Def. increases by 5.9. P. Atk. increases by 3.34.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="pAtk" value="3.341" />
+		</for>
+	</option_data>
+	<option_data id="11951">
+		<!--M. Def. increases by 5.9. M. Atk. increases by 3.84.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="mAtk" value="3.835" />
+		</for>
+	</option_data>
+	<option_data id="11952">
+		<!--M. Def. increases by 5.9. HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="regHp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11953">
+		<!--M. Def. increases by 5.9. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11954">
+		<!--M. Def. increases by 5.9. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11955">
+		<!--M. Def. increases by 5.9. Evasion increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="rEvas" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11956">
+		<!--M. Def. increases by 5.9. Accuracy increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="accCombat" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11957">
+		<!--M. Def. increases by 5.9. Critical increases by 6.53.-->
+		<for>
+			<add order="0x60" stat="mDef" value="5.902" />
+			<add order="0x60" stat="baseCrit" value="6.5260356" />
+		</for>
+	</option_data>
+	<option_data id="11958">
+		<!--Max HP increases by 18.41 Max HP increases by 20.48.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="maxMp" value="20.475" />
+		</for>
+	</option_data>
+	<option_data id="11959">
+		<!--Max HP increases by 18.41 Max CP increases by 27.79.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="maxCp" value="27.7914" />
+		</for>
+	</option_data>
+	<option_data id="11960">
+		<!--Max HP increases by 18.41 P. Atk. increases by 3.34.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="pAtk" value="3.341" />
+		</for>
+	</option_data>
+	<option_data id="11961">
+		<!--Max HP increases by 18.41 M. Atk. increases by 3.84.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="mAtk" value="3.835" />
+		</for>
+	</option_data>
+	<option_data id="11962">
+		<!--Max HP increases by 18.41 HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="regHp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11963">
+		<!--Max HP increases by 18.41 MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11964">
+		<!--Max HP increases by 18.41 CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11965">
+		<!--Max HP increases by 18.41 Evasion increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="rEvas" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11966">
+		<!--Max HP increases by 18.41 Accuracy increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="accCombat" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11967">
+		<!--Max HP increases by 18.41 Critical increases by 6.53.-->
+		<for>
+			<add order="0x60" stat="maxHp" value="18.408" />
+			<add order="0x60" stat="baseCrit" value="6.5260356" />
+		</for>
+	</option_data>
+	<option_data id="11968">
+		<!--Max HP increases by 20.48. Max CP increases by 27.79.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="maxCp" value="27.7914" />
+		</for>
+	</option_data>
+	<option_data id="11969">
+		<!--Max HP increases by 20.48. P. Atk. increases by 3.34.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="pAtk" value="3.341" />
+		</for>
+	</option_data>
+	<option_data id="11970">
+		<!--Max HP increases by 20.48. M. Atk. increases by 3.84.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="mAtk" value="3.835" />
+		</for>
+	</option_data>
+	<option_data id="11971">
+		<!--Max HP increases by 20.48. HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="regHp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11972">
+		<!--Max HP increases by 20.48. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11973">
+		<!--Max HP increases by 20.48. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11974">
+		<!--Max HP increases by 20.48. Evasion increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="rEvas" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11975">
+		<!--Max HP increases by 20.48. Accuracy increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="accCombat" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11976">
+		<!--Max HP increases by 20.48. Critical increases by 6.53.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="20.475" />
+			<add order="0x60" stat="baseCrit" value="6.5260356" />
+		</for>
+	</option_data>
+	<option_data id="11977">
+		<!--Max CP increases by 27.79. P. Atk. increases by 3.34.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="pAtk" value="3.341" />
+		</for>
+	</option_data>
+	<option_data id="11978">
+		<!--Max CP increases by 27.79. M. Atk. increases by 3.84.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="mAtk" value="3.835" />
+		</for>
+	</option_data>
+	<option_data id="11979">
+		<!--Max CP increases by 27.79. HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="regHp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11980">
+		<!--Max CP increases by 27.79. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11981">
+		<!--Max CP increases by 27.79. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11982">
+		<!--Max CP increases by 27.79. Evasion increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="rEvas" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11983">
+		<!--Max CP increases by 27.79. Accuracy increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="accCombat" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11984">
+		<!--Max CP increases by 27.79. Critical increases by 6.53.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="27.7914" />
+			<add order="0x60" stat="baseCrit" value="6.5260356" />
+		</for>
+	</option_data>
+	<option_data id="11985">
+		<!--P. Atk. increases by 3.34. M. Atk. increases by 3.84.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.341" />
+			<add order="0x60" stat="mAtk" value="3.835" />
+		</for>
+	</option_data>
+	<option_data id="11986">
+		<!--P. Atk. increases by 3.34. HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.341" />
+			<add order="0x60" stat="regHp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11987">
+		<!--P. Atk. increases by 3.34. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.341" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11988">
+		<!--P. Atk. increases by 3.34. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.341" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11989">
+		<!--P. Atk. increases by 3.34. Evasion increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.341" />
+			<add order="0x60" stat="rEvas" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11990">
+		<!--P. Atk. increases by 3.34. Accuracy increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.341" />
+			<add order="0x60" stat="accCombat" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11991">
+		<!--P. Atk. increases by 3.34. Critical increases by 6.53.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="3.341" />
+			<add order="0x60" stat="baseCrit" value="6.5260356" />
+		</for>
+	</option_data>
+	<option_data id="11992">
+		<!--M. Atk. increases by 3.84. HP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.835" />
+			<add order="0x60" stat="regHp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11993">
+		<!--M. Atk. increases by 3.84. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.835" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11994">
+		<!--M. Atk. increases by 3.84. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.835" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+	<option_data id="11995">
+		<!--M. Atk. increases by 3.84. Evasion increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.835" />
+			<add order="0x60" stat="rEvas" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11996">
+		<!--M. Atk. increases by 3.84. Accuracy increases by 0.6.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.835" />
+			<add order="0x60" stat="accCombat" value="0.6027" />
+		</for>
+	</option_data>
+	<option_data id="11997">
+		<!--M. Atk. increases by 3.84. Critical increases by 6.53.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.835" />
+			<add order="0x60" stat="baseCrit" value="6.5260356" />
+		</for>
+	</option_data>
+	<option_data id="11998">
+		<!--HP Regen increases by 0.12. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.11752" />
+			<add order="0x60" stat="regMp" value="0.08021" />
+		</for>
+	</option_data>
+	<option_data id="11999">
+		<!--HP Regen increases by 0.12. CP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.11752" />
+			<add order="0x60" stat="regCp" value="0.11752" />
+		</for>
+	</option_data>
+</list>

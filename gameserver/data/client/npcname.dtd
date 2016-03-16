@@ -1,0 +1,8 @@
+<!ELEMENT out (data)*>
+<!ATTLIST out
+	lang CDATA #REQUIRED>
+<!ELEMENT data (npc_id|name|description|color)*>
+<!ELEMENT npc_id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT color (#PCDATA)>

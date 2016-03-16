@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "moveroute.dtd">
+<list>
+	<moveroute name="hf_prophet_gludio" type="CIRCLE">
+		<node x="-13095" y="122262" z="-2984" />
+		<node x="-13892" y="122266" z="-2984" chat_type="NPC_ALL" npc_string="A_BLACK_MOON_NOW_DO_YOU_UNDERSTAND_THAT_HE_HAS_OPENED_HIS_EYES" />
+		<node x="-14148" y="121679" z="-2984" />
+		<node x="-14153" y="121252" z="-2984" chat_type="NPC_ALL" npc_string="CLOUDS_OF_BLOOD_ARE_GATHERING_SOON_IT_WILL_START_TO_RAIN_THE_RAIN_OF_CRIMSON_BLOOD" />
+		<node x="-13667" y="121247" z="-2984" />
+		<node x="-14566" y="121247" z="-2984" />
+		<node x="-14162" y="121268" z="-2984" chat_type="NPC_ALL" npc_string="WHILE_THE_FOOLISH_LIGHT_WAS_ASLEEP_THE_DARKNESS_WILL_AWAKEN_FIRST_UH" />
+	</moveroute>
+	<moveroute name="hf_prophet_giran" type="CIRCLE">
+		<node x="83510" y="148636" z="-3400" />
+		<node x="83679" y="147701" z="-3400" chat_type="NPC_ALL" npc_string="IT_IS_THE_DEEPEST_DARKNESS_WITH_ITS_ARRIVAL_THE_WORLD_WILL_SOON_DIE" />
+		<node x="84858" y="147764" z="-3400" chat_type="NPC_ALL" npc_string="DEATH_IS_JUST_A_NEW_BEGINNING_HUHU_FEAR_NOT" />
+		<node x="83623" y="147705" z="-3400" />
+		<node x="83626" y="149551" z="-3400" chat_type="NPC_ALL" npc_string="AHH_BEAUTIFUL_GODDES_OF_DEATH_COVER_OVER_THE_FILTH_OF_THOS_WORLD_YOUR_DARKNESS" />
+		<node x="83839" y="149549" z="-3400" />
+	</moveroute>
+	<moveroute name="hf_prophet_aden" type="CIRCLE">
+		<node x="147436" y="25809" z="-2008" />
+		<node x="146358" y="25810" z="-2008" chat_type="NPC_ALL" npc_string="THE_GODDESS_RESURRECTION_HAS_ALREADY_BEGUN_HUHU_INSIGNIFICANT_CREATURES_LIKE_YOU_CAN_DO_NOTHING" />
+		<node x="146363" y="24145" z="-2008" chat_type="NPC_ALL" npc_string="A_BLACK_MOON_NOW_DO_YOU_UNDERSTAND_THAT_HE_HAS_OPENED_HIS_EYES" />
+		<node x="146339" y="25823" z="-2008" />
+		<node x="148546" y="25817" z="-2008" chat_type="NPC_ALL" npc_string="CLOUDS_OF_BLOOD_ARE_GATHERING_SOON_IT_WILL_START_TO_RAIN_THE_RAIN_OF_CRIMSON_BLOOD" />
+	</moveroute>
+	<moveroute name="hf_prophet_rune" type="CIRCLE">
+		<node x="43381" y="-46796" z="-800" />
+		<node x="43302" y="-47413" z="-792" chat_type="NPC_ALL" npc_string="WHILE_THE_FOOLISH_LIGHT_WAS_ASLEEP_THE_DARKNESS_WILL_AWAKEN_FIRST_UH" />
+		<node x="43511" y="-48083" z="-792" />
+		<node x="45208" y="-47955" z="-792" chat_type="NPC_ALL" npc_string="IT_IS_THE_DEEPEST_DARKNESS_WITH_ITS_ARRIVAL_THE_WORLD_WILL_SOON_DIE" />
+		<node x="45902" y="-48181" z="-792" chat_type="NPC_ALL" npc_string="DEATH_IS_JUST_A_NEW_BEGINNING_HUHU_FEAR_NOT" />
+		<node x="45203" y="-47980" z="-792" />
+		<node x="43531" y="-48109" z="-792" />
+		<node x="43319" y="-47412" z="-792" />
+		<node x="43388" y="-46821" z="-800" />
+	</moveroute>
+</list>

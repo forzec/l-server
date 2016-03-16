@@ -1,0 +1,3682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="2200" levels="3" name="Item - Jade Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6495 6496 6497</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Jade Treasure Chest -->
+			<group chance="28.5">
+				<extract item_id="6908" count="24" /> <!-- Fish Oil -->
+			</group>
+			<group chance="26.0572">
+				<extract item_id="7609" count="26" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Jade Treasure Chest -->
+			<group chance="31.5">
+				<extract item_id="6908" count="24" /> <!-- Fish Oil -->
+			</group>
+			<group chance="28.8">
+				<extract item_id="7609" count="26" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big Jade Treasure Chest -->
+			<group chance="34.5">
+				<extract item_id="6908" count="24" /> <!-- Fish Oil -->
+			</group>
+			<group chance="31.5428">
+				<extract item_id="7609" count="26" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2201" levels="3" name="Item - Blue Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6498 6499 6500</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Blue Treasure Chest -->
+			<group chance="39.5">
+				<extract item_id="6908" count="24" /> <!-- Fish Oil -->
+			</group>
+			<group chance="36.1144">
+				<extract item_id="7609" count="26" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Blue Treasure Chest -->
+			<group chance="5.028">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="17.957">
+				<extract item_id="6908" count="28" /> <!-- Fish Oil -->
+			</group>
+			<group chance="16.76">
+				<extract item_id="6909" count="8" /> <!-- Greater Fish Oil -->
+			</group>
+			<group chance="16.76">
+				<extract item_id="7609" count="30" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big Blue Treasure Chest -->
+			<group chance="5.22">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="18.6428">
+				<extract item_id="6908" count="28" /> <!-- Fish Oil -->
+			</group>
+			<group chance="17.3999">
+				<extract item_id="6909" count="8" /> <!-- Greater Fish Oil -->
+			</group>
+			<group chance="17.4">
+				<extract item_id="7609" count="30" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2202" levels="3" name="Item - Yellow Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6501 6502 6503</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Yellow Treasure Chest -->
+			<group chance="5.424">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="19.3714">
+				<extract item_id="6908" count="28" /> <!-- Fish Oil -->
+			</group>
+			<group chance="18.0799">
+				<extract item_id="6909" count="8" /> <!-- Greater Fish Oil -->
+			</group>
+			<group chance="18.08">
+				<extract item_id="7609" count="30" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Yellow Treasure Chest -->
+			<group chance="6.816">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="24.3428">
+				<extract item_id="6908" count="28" /> <!-- Fish Oil -->
+			</group>
+			<group chance="22.7199">
+				<extract item_id="6909" count="8" /> <!-- Greater Fish Oil -->
+			</group>
+			<group chance="22.72">
+				<extract item_id="7609" count="30" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big Yellow Treasure Chest -->
+			<group chance="7.296">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="13.0286">
+				<extract item_id="6908" count="56" /> <!-- Fish Oil -->
+			</group>
+			<group chance="10.8088">
+				<extract item_id="6909" count="14" /> <!-- Greater Fish Oil -->
+			</group>
+			<group chance="24.32">
+				<extract item_id="7609" count="30" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2203" levels="3" name="Item - Orange Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6504 6505 6506</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Orange Treasure Chest -->
+			<group chance="7.788">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="13.9072">
+				<extract item_id="6908" count="56" /> <!-- Fish Oil -->
+			</group>
+			<group chance="11.5376">
+				<extract item_id="6909" count="14" /> <!-- Greater Fish Oil -->
+			</group>
+			<group chance="12.98">
+				<extract item_id="7609" count="60" /> <!-- Proof of Catching a Fish -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Orange Treasure Chest -->
+			<group chance="50.688">
+				<extract item_id="6910" count="3" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big Orange Treasure Chest -->
+			<group chance="54.912">
+				<extract item_id="6910" count="3" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2204" levels="3" name="Item - Violet Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6507 6508 6509</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Purple Treasure Chest -->
+			<group chance="58.24">
+				<extract item_id="6910" count="3" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Purple Treasure Chest -->
+			<group chance="69.76">
+				<extract item_id="6910" count="3" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big Purple Treasure Chest -->
+			<group chance="74.048">
+				<extract item_id="6910" count="3" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2205" levels="3" name="Item - Red Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6510 6511 6512</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Red Treasure Chest -->
+			<group chance="84.864">
+				<extract item_id="6910" count="3" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Red Treasure Chest -->
+			<group chance="89.728">
+				<extract item_id="6910" count="3" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big Red Treasure Chest -->
+			<group chance="54.88">
+				<extract item_id="6910" count="6" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2206" levels="3" name="Item - White Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6513 6514 6515</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small White Treasure Chest -->
+			<group chance="58.048">
+				<extract item_id="6910" count="6" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- White Treasure Chest -->
+			<group chance="61.536">
+				<extract item_id="6910" count="6" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big White Treasure Chest -->
+			<group chance="65.248">
+				<extract item_id="6910" count="6" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2207" levels="3" name="Item - Black Treasue Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">6516 6517 6518</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Black Treasure Chest -->
+			<group chance="69.312">
+				<extract item_id="6910" count="6" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Black Treasure Chest -->
+			<group chance="76.896">
+				<extract item_id="6910" count="6" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Big Black Treasure Chest -->
+			<group chance="81.664">
+				<extract item_id="6910" count="6" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2208" levels="1" name="Item - Blessed Scroll of Enchant Armor">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2209" levels="1" name="Item - Blessed Scroll of Enchant Armor">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2210" levels="1" name="Item - Blessed Scroll of Enchant Armor">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2211" levels="1" name="Item - Blessed Scroll of Enchant Armor">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2212" levels="1" name="Item - Blessed Scroll of Enchant Armor">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2213" levels="22" name="Escape - Talking Island Village">
+		<table name="#itemConsumeId">7117 7118 7119 7120 7121 7122 7123 7124 7125 7126 7127 7128 7129 7130 7131 7132 7133 7134 7135 7618 7619 9716</table>
+		<table name="#townId">1 2 3 4 5 7 6 8 19 9 9 13 10 10 12 11 15 14 16 15 15 17</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="20000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="townId" val="#townId" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2214" levels="10" name="Scroll of Escape to Talking Island">
+		<table name="#itemConsumeId">7554 7555 7556 7557 7558 9647 0 0 0 7559</table>
+		<table name="#townId">1 2 3 4 5 17 0 0 0 9</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="20000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="townId" val="#townId" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2215" levels="4" name="Item - Quest Special Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2216" levels="4" name="Item - Quest Special Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2217" levels="5" name="Item - Quest Treasure Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#box">7629 7630 7631 7632 7633</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#box" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+				<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Looted Goods - White Cargo box -->
+			<group chance="9">
+				<extract item_id="6697" count="1" /> <!-- Arcana Mace Head -->
+			</group>
+			<group chance="9">
+				<extract item_id="6693" count="1" /> <!-- Dragon Hunter Axe Blade -->
+			</group>
+			<group chance="9">
+				<extract item_id="6694" count="1" /> <!-- Saint Spear Blade -->
+			</group>
+			<group chance="9">
+				<extract item_id="6696" count="1" /> <!-- Heavens Divider Edge -->
+			</group>
+			<group chance="9">
+				<extract item_id="7579" count="1" /> <!-- Draconic Bow Shaft -->
+			</group>
+			<group chance="9">
+				<extract item_id="6690" count="1" /> <!-- Imperial Staff Head -->
+			</group>
+			<group chance="9">
+				<extract item_id="6688" count="1" /> <!-- Forgotten Blade Edge -->
+			</group>
+			<group chance="9">
+				<extract item_id="6691" count="1" /> <!-- Angel Slayer Blade -->
+			</group>
+			<group chance="9">
+				<extract item_id="6689" count="1" /> <!-- Basalt Battlehammer Head -->
+			</group>
+			<group chance="9">
+				<extract item_id="6695" count="1" /> <!-- Demon Splinter Blade -->
+			</group>
+			<group chance="10">
+				<extract item_id="57" count="330000" /> <!-- Adena -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Looted Goods - Blue Cargo box -->
+			<group chance="8.5">
+				<extract item_id="6706" count="1" /> <!-- Sealed Imperial Crusader Helmet Pattern -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6710" count="1" /> <!-- Sealed Draconic Leather Helmet Pattern -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6714" count="1" /> <!-- Sealed Major Arcana Circlet Pattern -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6703" count="1" /> <!-- Sealed Imperial Crusader Gauntlets Design -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6704" count="1" /> <!-- Sealed Imperial Crusader Boots Design -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6708" count="1" /> <!-- Sealed Draconic Leather Gloves Fabric -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6709" count="1" /> <!-- Sealed Draconic Leather Boots Design -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6712" count="1" /> <!-- Sealed Major Arcana Gloves Fabric -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6713" count="1" /> <!-- Sealed Major Arcana Boots Design -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6705" count="1" /> <!-- Sealed Imperial Crusader Shield Part -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="13099" count="1" /> <!-- Sealed Arcana Sigil Piece -->
+			</group>
+			<group chance="15">
+				<extract item_id="57" count="292000" /> <!-- Adena -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Looted Goods - Yellow Cargo box -->
+			<group chance="20">
+				<extract item_id="6702" count="1" /> <!-- Sealed Imperial Crusader Gaiters Pattern -->
+			</group>
+			<group chance="20">
+				<extract item_id="6701" count="1" /> <!-- Sealed Imperial Crusader Breastplate Part -->
+			</group>
+			<group chance="20">
+				<extract item_id="6707" count="1" /> <!-- Sealed Draconic Leather Armor Part -->
+			</group>
+			<group chance="20">
+				<extract item_id="6711" count="1" /> <!-- Sealed Major Arcana Robe Part -->
+			</group>
+			<group chance="20">
+				<extract item_id="57" count="93000" /> <!-- Adena -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Looted Goods - Red Cargo Box -->
+			<group chance="8.5">
+				<extract item_id="6857" count="1" /> <!-- Recipe: Sealed Imperial Crusader Gauntlets (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6859" count="1" /> <!-- Recipe: Sealed Imperial Crusader Boots (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6867" count="1" /> <!-- Recipe: Sealed Draconic Leather Gloves (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6869" count="1" /> <!-- Recipe: Sealed Draconic Leather Boots (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6875" count="1" /> <!-- Recipe: Sealed Major Arcana Gloves (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6877" count="1" /> <!-- Recipe: Sealed Major Arcana Boots (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6861" count="1" /> <!-- Recipe: Sealed Imperial Crusader Shield (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="13100" count="1" /> <!-- Recipe - Sealed Arcana Sigil (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6863" count="1" /> <!-- Recipe: Sealed Imperial Crusader Helmet (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6871" count="1" /> <!-- Recipe: Sealed Draconic Leather Helmet (60%) -->
+			</group>
+			<group chance="8.5">
+				<extract item_id="6879" count="1" /> <!-- Recipe: Sealed Major Arcana Circlet (60%) -->
+			</group>
+			<group chance="15">
+				<extract item_id="57" count="340000" /> <!-- Adena -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Looted Goods - Purple Cargo Box -->
+			<group chance="20">
+				<extract item_id="6855" count="1" /> <!-- Recipe: Sealed Imperial Crusader Gaiters (60%) -->
+			</group>
+			<group chance="20">
+				<extract item_id="6853" count="1" /> <!-- Recipe: Sealed Imperial Crusader Breastplate (60%) -->
+			</group>
+			<group chance="20">
+				<extract item_id="6865" count="1" /> <!-- Recipe: Sealed Draconic Leather Armor (60%) -->
+			</group>
+			<group chance="20">
+				<extract item_id="6873" count="1" /> <!-- Recipe: Sealed Major Arcana Robe (60%) -->
+			</group>
+			<group chance="20">
+				<extract item_id="57" count="850000" /> <!-- Adena -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2218" levels="3" name="Item - Quest Sac">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#box">7636 7637 7725</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#box" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Booty - Yellow Pouch -->
+			<group chance="20">
+				<extract item_id="1882" count="3" /> <!-- Leather -->
+			</group>
+			<group chance="16">
+				<extract item_id="1876" count="6" /> <!-- Mithril Ore -->
+			</group>
+			<group chance="12">
+				<extract item_id="1879" count="3" /> <!-- Cokes -->
+			</group>
+			<group chance="12">
+				<extract item_id="1881" count="1" /> <!-- Coarse Bone Powder -->
+			</group>
+			<group chance="10">
+				<extract item_id="1880" count="4" /> <!-- Steel -->
+			</group>
+			<group chance="10">
+				<extract item_id="1874" count="1" /> <!-- Oriharukon Ore -->
+			</group>
+			<group chance="10">
+				<extract item_id="1875" count="3" /> <!-- Stone of Purity -->
+			</group>
+			<group chance="10">
+				<extract item_id="1877" count="3" /> <!-- Adamantite Nugget -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Booty - Brown Pouch -->
+			<group chance="20">
+				<extract item_id="4039" count="4" /> <!-- Mold Glue -->
+			</group>
+			<group chance="20">
+				<extract item_id="4043" count="4" /> <!-- Asofe -->
+			</group>
+			<group chance="20">
+				<extract item_id="4044" count="4" /> <!-- Thons -->
+			</group>
+			<group chance="15">
+				<extract item_id="4040" count="2" /> <!-- Mold Lubricant -->
+			</group>
+			<group chance="15">
+				<extract item_id="4042" count="2" /> <!-- Enria -->
+			</group>
+			<group chance="10">
+				<extract item_id="4041" count="1" /> <!-- Mold Hardener -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Loot - Gray Pouch -->
+			<group chance="39">
+				<extract item_id="1060" count="1" /> <!-- Lesser Healing Potion -->
+			</group>
+			<group chance="11.8">
+				<extract item_id="1061" count="1" /> <!-- Healing Potion -->
+			</group>
+			<group chance="32.2">
+				<extract item_id="1539" count="1" /> <!-- Greater Healing Potion -->
+			</group>
+			<group chance="3">
+				<extract item_id="1540" count="1" /> <!-- Quick Healing Potion -->
+			</group>
+			<group chance="7">
+				<extract item_id="735" count="1" /> <!-- Potion of Alacrity -->
+			</group>
+			<group chance="7">
+				<extract item_id="6035" count="1" /> <!-- Magic Haste Potion -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2219" levels="2" name="Item - Quest Sac">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#box">7634 7635</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#box" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Looted Goods - Brown Pouch -->
+			<group chance="18">
+				<extract item_id="1882" count="20" /> <!-- Leather -->
+			</group>
+			<group chance="16">
+				<extract item_id="1876" count="20" /> <!-- Mithril Ore -->
+			</group>
+			<group chance="10">
+				<extract item_id="1879" count="20" /> <!-- Cokes -->
+			</group>
+			<group chance="10">
+				<extract item_id="1881" count="20" /> <!-- Coarse Bone Powder -->
+			</group>
+			<group chance="5">
+				<extract item_id="1880" count="20" /> <!-- Steel -->
+			</group>
+			<group chance="10">
+				<extract item_id="1874" count="20" /> <!-- Oriharukon Ore -->
+			</group>
+			<group chance="10">
+				<extract item_id="1875" count="20" /> <!-- Stone of Purity -->
+			</group>
+			<group chance="11">
+				<extract item_id="1877" count="20" /> <!-- Adamantite Nugget -->
+			</group>
+			<group chance="10">
+				<extract item_id="57" count="150000" /> <!-- Adena -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Looted Goods - Gray Pouch -->
+			<group chance="20">
+				<extract item_id="4039" count="4" /> <!-- Mold Glue -->
+			</group>
+			<group chance="20">
+				<extract item_id="4043" count="4" /> <!-- Asofe -->
+			</group>
+			<group chance="20">
+				<extract item_id="4044" count="4" /> <!-- Thons -->
+			</group>
+			<group chance="10">
+				<extract item_id="4040" count="4" /> <!-- Mold Lubricant -->
+			</group>
+			<group chance="10">
+				<extract item_id="4042" count="4" /> <!-- Enria -->
+			</group>
+			<group chance="10">
+				<extract item_id="4041" count="4" /> <!-- Mold Hardener -->
+			</group>
+			<group chance="10">
+				<extract item_id="57" count="160000" /> <!-- Adena -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2220" levels="9" name="Item - Easy Green Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7726 7727 7728 7729 7730 7731 7732 7733 7734</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Nimble Green Fish - For Beginners -->
+			<group chance="55.2">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Ugly Green Fish - For Beginners -->
+			<group chance="56.8">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Pudgy Green Fish - For Beginners -->
+			<group chance="61.6">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Nimble Green Fish - For Beginners -->
+			<group chance="67.2">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Ugly Green Fish - For Beginners -->
+			<group chance="75.2">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Pudgy Green Fish - For Beginners -->
+			<group chance="83.2">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Nimble Green Fish - For Beginners -->
+			<group chance="90.4">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Ugly Green Fish - For Beginners -->
+			<group chance="99.2">
+				<extract item_id="6908" count="3" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Pudgy Green Fish - For Beginners -->
+			<group chance="53.2">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2221" levels="9" name="Item - Easy Jade Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7735 7736 7737 7738 7739 7740 7741 7742 7743</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Jade Nimble Fish - For Beginners -->
+			<group chance="57.2">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Jade Ugly Fish - For Beginners -->
+			<group chance="66.8">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Jade Fat Fish - For Beginners -->
+			<group chance="66.8">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Jade Nimble Fish - For Beginners -->
+			<group chance="66.4">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Jade Ugly Fish - For Beginners -->
+			<group chance="66">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Jade Fat Fish - For Beginners -->
+			<group chance="66">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Jade Nimble Fish - For Beginners -->
+			<group chance="65.6">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Jade Ugly Fish - For Beginners -->
+			<group chance="65.6">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Jade Fat Fish - For Beginners -->
+			<group chance="65.2">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2222" levels="9" name="Item - Easy Blue Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7744 7745 7746 7747 7748 7749 7750 7751 7752</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Blue Nimble Fish - For Beginners -->
+			<group chance="65.2">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Blue Ugly Fish - For Beginners -->
+			<group chance="65.2">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Blue Fat Fish - For Beginners -->
+			<group chance="79.2">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Blue Nimble Fish - For Beginners -->
+			<group chance="1.616">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="26.9331">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="16.1598">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Blue Ugly Fish - For Beginners -->
+			<group chance="1.576">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="26.2665">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="15.7598">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Blue Fat Fish - For Beginners -->
+			<group chance="1.68">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="27.9998">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="16.7998">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Blue Nimble Fish - For Beginners -->
+			<group chance="1.704">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="28.3998">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="17.0398">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Blue Ugly Fish - For Beginners -->
+			<group chance="1.728">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="28.7998">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="17.2798">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Blue Fat Fish - For Beginners -->
+			<group chance="1.744">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="29.0665">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="17.4398">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2223" levels="9" name="Item - Easy Yellow Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7753 7754 7755 7756 7757 7758 7759 7760 7761</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Yellow Nimble Fish - For Beginners -->
+			<group chance="1.768">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="29.4664">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="17.6798">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Yellow Ugly Fish - For Beginners -->
+			<group chance="1.792">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="29.8664">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="17.9198">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Yellow Fat Fish - For Beginners -->
+			<group chance="1.808">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="30.1331">
+				<extract item_id="6908" count="6" /> <!-- Fish Oil -->
+			</group>
+			<group chance="18.0798">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Yellow Nimble Fish - For Beginners -->
+			<group chance="2.16">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="17.9998">
+				<extract item_id="6908" count="12" /> <!-- Fish Oil -->
+			</group>
+			<group chance="21.5998">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Yellow Ugly Fish - For Beginners -->
+			<group chance="2.216">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="29.5464">
+				<extract item_id="6908" count="8" /> <!-- Fish Oil -->
+			</group>
+			<group chance="22.16">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Yellow Fat Fish - For Beginners -->
+			<group chance="2.272">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="30.2932">
+				<extract item_id="6908" count="8" /> <!-- Fish Oil -->
+			</group>
+			<group chance="22.72">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Yellow Nimble Fish - For Beginners -->
+			<group chance="2.32">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="30.9332">
+				<extract item_id="6908" count="8" /> <!-- Fish Oil -->
+			</group>
+			<group chance="23.2">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Yellow Ugly Fish - For Beginners -->
+			<group chance="2.376">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="31.68">
+				<extract item_id="6908" count="8" /> <!-- Fish Oil -->
+			</group>
+			<group chance="23.76">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Yellow Fat Fish - For Beginners -->
+			<group chance="2.432">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="32.4264">
+				<extract item_id="6908" count="8" /> <!-- Fish Oil -->
+			</group>
+			<group chance="24.32">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2224" levels="9" name="Item - Easy Orange Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7762 7763 7764 7765 7766 7767 7768 7769 7770</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Orange Nimble Fish - For Beginners -->
+			<group chance="2.488">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="33.1732">
+				<extract item_id="6908" count="8" /> <!-- Fish Oil -->
+			</group>
+			<group chance="24.88">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Orange Ugly Fish - For Beginners -->
+			<group chance="2.544">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="16.96">
+				<extract item_id="6908" count="16" /> <!-- Fish Oil -->
+			</group>
+			<group chance="25.44">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Orange Fat Fish - For Beginners -->
+			<group chance="2.6">
+				<extract item_id="6904" count="1" /> <!-- Party Mask Fabric -->
+			</group>
+			<group chance="17.3332">
+				<extract item_id="6908" count="16" /> <!-- Fish Oil -->
+			</group>
+			<group chance="26">
+				<extract item_id="6909" count="2" /> <!-- Greater Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Orange Nimble Fish - For Beginners -->
+			<group chance="31.872">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Orange Ugly Fish - For Beginners -->
+			<group chance="37.248">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Orange Fat Fish - For Beginners -->
+			<group chance="38.016">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Orange Nimble Fish - For Beginners -->
+			<group chance="39.168">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Orange Ugly Fish - For Beginners -->
+			<group chance="40.32">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Orange Fat Fish - For Beginners -->
+			<group chance="41.184">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2225" levels="9" name="Item - Easy Violet Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7771 7772 7773 7774 7775 7776 7777 7778 7779</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Purple Nimble Fish - For Beginners -->
+			<group chance="42.048">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Purple Ugly Fish - For Beginners -->
+			<group chance="42.912">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Purple Fat Fish - For Beginners -->
+			<group chance="43.68">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Purple Nimble Fish - For Beginners -->
+			<group chance="44.64">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Purple Ugly Fish - For Beginners -->
+			<group chance="45.504">
+				<extract item_id="6910" count="1" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Purple Fat Fish - For Beginners -->
+			<group chance="26.16">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Purple Nimble Fish - For Beginners -->
+			<group chance="26.688">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Purple Ugly Fish - For Beginners -->
+			<group chance="27.216">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Purple Fat Fish - For Beginners -->
+			<group chance="27.792">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2226" levels="9" name="Item - Easy Red Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7780 7781 7782 7783 7784 7785 7786 7787 7788</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Red Nimble Fish - For Beginners -->
+			<group chance="30.672">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Red Ugly Fish - For Beginners -->
+			<group chance="31.248">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Red Fat Fish - For Beginners -->
+			<group chance="31.824">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Red Nimble Fish - For Beginners -->
+			<group chance="32.448">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Red Ugly Fish - For Beginners -->
+			<group chance="33.024">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Red Fat Fish - For Beginners -->
+			<group chance="33.648">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Red Nimble Fish - For Beginners -->
+			<group chance="37.872">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Red Ugly Fish - For Beginners -->
+			<group chance="38.592">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Red Fat Fish - For Beginners -->
+			<group chance="41.184">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2227" levels="9" name="Item - Easy White Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7789 7790 7791 7792 7793 7794 7795 7796 7797</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small White Nimble Fish - For Beginners -->
+			<group chance="41.952">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small White Ugly Fish - For Beginners -->
+			<group chance="42.768">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small White Fat Fish - For Beginners -->
+			<group chance="43.536">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- White Nimble Fish - For Beginners -->
+			<group chance="44.4">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- White Ugly Fish - For Beginners -->
+			<group chance="45.312">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- White Fat Fish - For Beginners -->
+			<group chance="46.176">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large White Nimble Fish - For Beginners -->
+			<group chance="47.088">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large White Ugly Fish - For Beginners -->
+			<group chance="48">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large White Fat Fish - For Beginners -->
+			<group chance="48.96">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2228" levels="9" name="Item - Easy Black Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">7798 7799 7800 7801 7802 7803 7804 7805 7806</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Black Nimble Fish: For Beginners -->
+			<group chance="49.968">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Black Ugly Fish - For Beginners -->
+			<group chance="67.968">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Black Fat Fish - For Beginners -->
+			<group chance="69.312">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Black Nimble Fish - For Beginners -->
+			<group chance="73.92">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Black Ugly Fish - For Beginners -->
+			<group chance="75.456">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Black Fat Fish - For Beginners -->
+			<group chance="76.928">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Black Nimble Fish - For Beginners -->
+			<group chance="78.464">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Black Ugly Fish - For Beginners -->
+			<group chance="80.064">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Black Fat Fish - For Beginners -->
+			<group chance="81.664">
+				<extract item_id="6910" count="2" /> <!-- Premium Fish Oil -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2229" levels="8" name="Treasure Chest Key - 1">
+		<table name="#itemConsumeId">6665 6666 6667 6668 6669 6670 6671 6672</table>
+		<table name="#magicLevel">10 20 30 40 50 60 70 80</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="8000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_UNLOCKABLE" />
+		<set name="skillType" val="UNLOCK" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2230" levels="1" name="Item - Theme Sound Crystal">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="7062" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+	</skill>
+	<skill id="2231" levels="1" name="Amulet: Protection of Valakas">
+		<!--
+			Amulet: Protection of Valakas. Increases one's resistance to attack when Valakas' attacks with its front claws.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_blesscharm_ward_val_i00" />
+		<set name="reuseDelay" val="1000" />
+		<set name="magicLevel" val="75" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="6652" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+		<for>
+			<effect count="1" name="Buff" time="1200" val="0">
+				<mul order="0x30" stat="pDef" val="1.11">
+					<target mobId="29028" />
+				</mul>
+				<mul order="0x30" stat="mDef" val="1.11">
+					<target mobId="29028" />
+				</mul>
+			</effect>
+		</for>
+	</skill>
+	<skill id="2232" levels="1" name="Amulet: Slay Valakas">
+		<!--
+			Amulet: Slay Valakas. Increases ones P.Atk. when fighting against Valakas.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_blesscharm_slay_val_i00" />
+		<set name="reuseDelay" val="1000" />
+		<set name="magicLevel" val="75" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="6655" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+		<for>
+			<effect count="1" name="Buff" time="1200" val="0">
+				<mul order="0x30" stat="pAtk" val="1.11">
+					<target mobId="29028" />
+				</mul>
+				<mul order="0x30" stat="mAtk" val="1.11">
+					<target mobId="29028" />
+				</mul>
+			</effect>
+		</for>
+	</skill>
+	<skill id="2233" levels="2" name="Amulet: Flames of Valakas">
+		<table name="#itemConsumeId">6653 6654</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="75" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="NEGATE_EFFECTS" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="negateStackType" val="ValakasDragonBreath" />
+		<set name="altUse" val="true" />
+	</skill>
+	<skill id="2234" levels="1" name="Soul Breaking Arrow">
+		<!--
+			Done by n0nam3
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_destory_soul_arrow_i00" />
+		<set name="reuseDelay" val="30000" />
+		<set name="magicLevel" val="85" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="500" />
+		<set name="hitCancelTime" val="2000" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="itemConsumeId" val="8192"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="activateRate" val="80" />
+		<set name="effectPoint" val="100" />
+		<set name="trait" val="SHOCK" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="Stun" time="15" val="0" />
+		</for>
+		<cond msgId="144">
+			<target mobId="29045" />
+		</cond>
+	</skill>
+	<skill id="2235" levels="1" name="Anteroom Door Key">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="3000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="HARDCODED" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2236" levels="1" name="Chapel Door Key">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="3000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="HARDCODED" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2237" levels="1" name="Key of Darkness">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="3000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="HARDCODED" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2238" levels="1" name="Room of Splendor Key">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="3000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="HARDCODED" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2239" levels="1" name="Petrifaction Scroll">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.ect_piece_of_paper_white_i00" />
+		<set name="magicLevel" val="99" />
+		<set name="castRange" val="600" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2240" levels="1" name="Hot Spring Nectar">
+		<set name="magicType" val="SPECIAL" />
+		<set name="itemConsumeId" val="8030" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="castRange" val="50" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="hitTime" val="500" />
+		<cond msgId="109">
+			<target npc_class="residences.clanhall.RainbowYeti" />
+		</cond>
+	</skill>
+	<skill id="2241" levels="1" name="Hot Spring Mineral Water">
+		<set name="magicType" val="SPECIAL" />
+		<set name="itemConsumeId" val="8031" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="castRange" val="50" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="hitTime" val="500" />
+		<cond msgId="109">
+			<target npc_class="residences.clanhall.RainbowYeti" />
+		</cond>
+	</skill>
+	<skill id="2242" levels="1" name="Hot Spring Fountain Water">
+		<set name="magicType" val="SPECIAL" />
+		<set name="itemConsumeId" val="8032" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="castRange" val="50" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="hitTime" val="500" />
+		<cond msgId="109">
+			<target npc_class="residences.clanhall.RainbowYeti" />
+		</cond>
+	</skill>
+	<skill id="2243" levels="1" name="Hot Spring Sulfur">
+		<set name="magicType" val="SPECIAL" />
+		<set name="itemConsumeId" val="8033" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="castRange" val="50" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="hitTime" val="500" />
+		<cond msgId="109">
+			<target npc_class="residences.clanhall.RainbowYeti" />
+		</cond>
+	</skill>
+	<skill id="2244" levels="1" name="Herb of Life">
+		<!-- Deprecated -->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="40" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EFFECT" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2245" levels="1" name="Herb of Mana">
+		<!-- Deprecated -->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="40" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EFFECT" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2246" levels="1" name="Herb of Power">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_herb_red_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="40" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<for>
+			<effect applyOnCaster="true" count="1" name="Buff" stackOrder="1" stackType="HerbOfStrength" time="120" val="0">
+				<mul order="0x30" stat="pAtk" val="1.22" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2247" levels="1" name="Herb of Magic">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_herb_blue_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="40" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<for>
+			<effect applyOnCaster="true" count="1" name="Buff" stackOrder="1" stackType="HerbOfMagic" time="120" val="0">
+				<mul order="0x30" stat="mAtk" val="1.41" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2248" levels="1" name="Bless of Fire">
+		<!--
+			Description:
+			Causes normal physical attacks to become fire attacks.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_fire_crystal_i00" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="25" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="1200" stackOrder="1" stackType="holy_attack" val="0">
+				<add order="0x40" stat="attackFire" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2249" levels="1" name="Bless of Water">
+		<!--
+			Description:
+			Causes normal physical attacks to become water attacks.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_water_crystal_i00" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="25" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="1200" stackOrder="1" stackType="holy_attack" val="0">
+				<add order="0x40" stat="attackWater" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2250" levels="1" name="Bless of Wind">
+		<!--
+			Description:
+			Causes normal physical attacks to become wind attacks.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_wind_crystal_i00" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="25" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="1200" stackOrder="1" stackType="holy_attack" val="0">
+				<add order="0x40" stat="attackWind" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2251" levels="1" name="Bless of Earth">
+		<!--
+			Description:
+			Causes normal physical attacks to become earth attacks.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_earth_crystal_i00" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="25" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="1200" stackOrder="1" stackType="holy_attack" val="0">
+				<add order="0x40" stat="attackEarth" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2252" levels="1" name="Bless of Darkness">
+		<!--
+			Description:
+			Causes normal physical attacks to become dark attacks.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_unholy_crystal_i00" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="25" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="1200" stackOrder="1" stackType="holy_attack" val="0">
+				<add order="0x40" stat="attackUnholy" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2253" levels="1" name="Bless of Holyness">
+		<!--
+			Description:
+			Causes normal physical attacks to become holy attacks.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_holy_crystal_i00" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="25" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="1200" stackOrder="1" stackType="holy_attack" val="0">
+				<add order="0x40" stat="attackHoly" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2254" levels="3" name="Crystal of Fire">
+		<!--
+			FIXME: В данном варианте реализации снимает и бафф и дебафф.
+			Description:
+			Eliminates vulnerability to fire attacks.
+		-->
+		<table name="#magicLevel">20 40 70</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="7912" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<set order="0x80" stat="defenceFire" val="0" />
+		</for>
+	</skill>
+	<skill id="2255" levels="3" name="Crystal of Water">
+		<!--
+			FIXME: В данном варианте реализации снимает и бафф и дебафф.
+			Description:
+			Eliminates vulnerability to water attacks.
+		-->
+		<table name="#magicLevel">20 40 70</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="7913" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<set order="0x80" stat="defenceWater" val="0" />
+		</for>
+	</skill>
+	<skill id="2256" levels="3" name="Crystal of Wind">
+		<!--
+			FIXME: В данном варианте реализации снимает и бафф и дебафф.
+			Description:
+			Eliminates vulnerability to wind attacks.
+		-->
+		<table name="#magicLevel">20 40 70</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="7914" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<set order="0x80" stat="defenceWind" val="0" />
+		</for>
+	</skill>
+	<skill id="2257" levels="3" name="Crystal of Earth">
+		<!--
+			FIXME: В данном варианте реализации снимает и бафф и дебафф.
+			Description:
+			Eliminates vulnerability to earth attacks.
+		-->
+		<table name="#magicLevel">20 40 70</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="7915" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<set order="0x80" stat="defenceEarth" val="0" />
+		</for>
+	</skill>
+	<skill id="2258" levels="3" name="Crystal of Darkness">
+		<!--
+			FIXME: В данном варианте реализации снимает и бафф и дебафф.
+			Description:
+			Eliminates vulnerability to darkness attacks.
+		-->
+		<table name="#magicLevel">20 40 70</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="7916" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<set order="0x80" stat="defenceUnholy" val="0" />
+		</for>
+	</skill>
+	<skill id="2259" levels="3" name="Crystal of Holyness">
+		<!--
+			FIXME: В данном варианте реализации снимает и бафф и дебафф.
+			Description:
+			Eliminates vulnerability to holy attacks.
+		-->
+		<table name="#magicLevel">20 40 70</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="7917" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<set order="0x80" stat="defenceHoly" val="0" />
+		</for>
+	</skill>
+	<skill id="2260" levels="1" name="Key of Riddles">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="HARDCODED" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="2261" levels="9" name="Item - Hard Green Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8403 8404 8405 8406 8407 8408 8409 8410 8411</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Nimble Green Fish - Upper Grade -->
+			<group chance="11.04">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="18.4">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="27.6">
+				<extract item_id="8353" count="2" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Ugly Green Fish - Upper Grade -->
+			<group chance="11.28">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="18.8">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="28.2">
+				<extract item_id="8353" count="2" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Pudgy Green Fish - Upper Grade -->
+			<group chance="12.24">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="20.4">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="30.6">
+				<extract item_id="8353" count="2" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Nimble Green Fish - Upper Grade -->
+			<group chance="13.36">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="22.2666">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="16.7">
+				<extract item_id="8353" count="4" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Ugly Green Fish - Upper Grade -->
+			<group chance="14.96">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="24.9332">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="18.7">
+				<extract item_id="8353" count="4" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Pudgy Green Fish - Upper Grade -->
+			<group chance="16.64">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="27.7332">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="20.8">
+				<extract item_id="8353" count="4" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Nimble Green Fish - Upper Grade -->
+			<group chance="18">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="30">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="22.5">
+				<extract item_id="8353" count="4" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Ugly Green Fish - Upper Grade -->
+			<group chance="19.84">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="33.0666">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="24.8">
+				<extract item_id="8353" count="4" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Pudgy Green Fish - Upper Grade -->
+			<group chance="16.96">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="17.6667">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="26.5">
+				<extract item_id="8353" count="4" /> <!-- Green Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2262" levels="9" name="Item - Hard Jade Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8412 8413 8414 8415 8416 8417 8418 8419 8420</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Jade Nimble Fish - Upper Grade -->
+			<group chance="22.8">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="28.5">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="19">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Jade Ugly Fish - Upper Grade -->
+			<group chance="18.88">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="29.5">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="19.6666">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Jade Fat Fish - Upper Grade -->
+			<group chance="19.84">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="31">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="20.6666">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Jade Nimble Fish - Upper Grade -->
+			<group chance="20.8">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="32.5">
+				<extract item_id="6911" count="2" /> <!-- Fish Scale -->
+			</group>
+			<group chance="21.6666">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Jade Ugly Fish - Upper Grade -->
+			<group chance="21.76">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="17">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="22.6666">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Jade Fat Fish - Upper Grade -->
+			<group chance="22.72">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="17.75">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="23.6666">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Jade Nimble Fish - Upper Grade -->
+			<group chance="23.36">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="18.25">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="24.3333">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Jade Ugly Fish - Upper Grade -->
+			<group chance="24">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="18.75">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="24.9999">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Jade Fat Fish - Upper Grade -->
+			<group chance="24.64">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="19.25">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="25.6666">
+				<extract item_id="8359" count="4" /> <!-- Jade Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2263" levels="9" name="Item - Hard Blue Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8421 8422 8423 8424 8425 8426 8427 8428 8429</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Blue Nimble Fish - Upper Grade -->
+			<group chance="25.28">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="19.75">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="17.5556">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Blue Ugly Fish - Upper Grade -->
+			<group chance="25.6">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="20">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="17.7778">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Blue Fat Fish - Upper Grade -->
+			<group chance="26.24">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="20.5">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="18.2223">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Blue Nimble Fish - Upper Grade -->
+			<group chance="25.56">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="20.75">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="18.4445">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Blue Ugly Fish - Upper Grade -->
+			<group chance="26.752">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="20.9">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="18.5778">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Blue Fat Fish - Upper Grade -->
+			<group chance="26.88">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="21">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="18.6667">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Blue Nimble Fish - Upper Grade -->
+			<group chance="27.2">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="21.25">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="18.8889">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Blue Ugly Fish - Upper Grade -->
+			<group chance="27.584">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="21.55">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="19.1556">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Blue Fat Fish - Upper Grade -->
+			<group chance="27.84">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="21.75">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="19.3334">
+				<extract item_id="8355" count="4" /> <!-- Blue Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2264" levels="9" name="Item - Hard Yellow Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8430 8431 8432 8433 8434 8435 8436 8437 8438</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Yellow Nimble Fish - Upper Grade -->
+			<group chance="28.288">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="29.4666">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="22.1">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Yellow Ugly Fish - Upper Grade -->
+			<group chance="28.608">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="29.7998">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="22.35">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Yellow Fat Fish - Upper Grade -->
+			<group chance="28.928">
+				<extract item_id="6913" count="1" /> <!-- Fish Gem -->
+			</group>
+			<group chance="30.1332">
+				<extract item_id="6911" count="4" /> <!-- Fish Scale -->
+			</group>
+			<group chance="22.6">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Yellow Nimble Fish - Upper Grade -->
+			<group chance="17.28">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="17.9999">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="27">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Yellow Ugly Fish - Upper Grade -->
+			<group chance="17.696">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="18.4333">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="27.65">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Yellow Fat Fish - Upper Grade -->
+			<group chance="18.176">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="18.9333">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="28.4">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Yellow Nimble Fish - Upper Grade -->
+			<group chance="18.56">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="19.3333">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="29">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Yellow Ugly Fish - Upper Grade -->
+			<group chance="19.008">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="19.7999">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="29.7">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Yellow Fat Fish - Upper Grade -->
+			<group chance="19.456">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="20.2666">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="30.4">
+				<extract item_id="8354" count="2" /> <!-- Yellow Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2265" levels="9" name="Item - Hard Orange Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8439 8440 8441 8442 8443 8444 8445 8446 8447</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Orange Nimble Fish - Upper Grade -->
+			<group chance="24.88">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="20.7333">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="19.904">
+				<extract item_id="8357" count="2" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Orange Ugly Fish - Upper Grade -->
+			<group chance="25.4">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="21.1666">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="20.32">
+				<extract item_id="8357" count="2" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Orange Fat Fish - Upper Grade -->
+			<group chance="25.96">
+				<extract item_id="6913" count="2" /> <!-- Fish Gem -->
+			</group>
+			<group chance="21.6333">
+				<extract item_id="6911" count="8" /> <!-- Fish Scale -->
+			</group>
+			<group chance="20.768">
+				<extract item_id="8357" count="2" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Orange Nimble Fish - Upper Grade -->
+			<group chance="21.216">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="22.1">
+				<extract item_id="6912" count="4" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="17.68">
+				<extract item_id="8357" count="4" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Orange Ugly Fish - Upper Grade -->
+			<group chance="16.624">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="19.4">
+				<extract item_id="6912" count="4" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="4.656">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="15.5201">
+				<extract item_id="8357" count="4" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Orange Fat Fish - Upper Grade -->
+			<group chance="19.008">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="19.8">
+				<extract item_id="6912" count="4" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="4.752">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="15.8401">
+				<extract item_id="8357" count="4" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Orange Nimble Fish - Upper Grade -->
+			<group chance="21.112">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="27.2">
+				<extract item_id="6912" count="4" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="21.76">
+				<extract item_id="8357" count="4" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Orange Ugly Fish - Upper Grade -->
+			<group chance="20.16">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="21">
+				<extract item_id="6912" count="4" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="5.04">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="16.8001">
+				<extract item_id="8357" count="4" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Orange Fat Fish - Upper Grade -->
+			<group chance="20.592">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="21.45">
+				<extract item_id="6912" count="4" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="5.148">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="17.1601">
+				<extract item_id="8357" count="4" /> <!-- Orange Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2266" levels="9" name="Item - Hard Violet Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8448 8449 8450 8451 8452 8453 8454 8455 8456</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Purple Nimble Fish - Upper Grade -->
+			<group chance="28">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="19.4445">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="29.1666">
+				<extract item_id="8358" count="2" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Purple Ugly Fish - Upper Grade -->
+			<group chance="21.432">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="14.8833">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="5.358">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="22.325">
+				<extract item_id="8358" count="2" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Purple Fat Fish - Upper Grade -->
+			<group chance="21.84">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="15.1667">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="5.46">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="22.75">
+				<extract item_id="8358" count="2" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Purple Nimble Fish - Upper Grade -->
+			<group chance="29.76">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="20.6667">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="31">
+				<extract item_id="8358" count="2" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Purple Ugly Fish - Upper Grade -->
+			<group chance="22.752">
+				<extract item_id="6914" count="1" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="15.8">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="5.688">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="23.7">
+				<extract item_id="8358" count="2" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Purple Fat Fish - Upper Grade -->
+			<group chance="13.08">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="18.1667">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="6.54">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="13.625">
+				<extract item_id="8358" count="4" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Purple Nimble Fish - Upper Grade -->
+			<group chance="17.776">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="16.4592">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="18.5167">
+				<extract item_id="8358" count="4" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Purple Ugly Fish - Upper Grade -->
+			<group chance="13.596">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="18.8833">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="6.798">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="14.1625">
+				<extract item_id="8358" count="4" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Purple Fat Fish - Upper Grade -->
+			<group chance="13.884">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="19.2833">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="6.942">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="14.4625">
+				<extract item_id="8358" count="4" /> <!-- Purple Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2267" levels="9" name="Item - Hard Red Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8457 8458 8459 8460 8461 8462 8463 8464 8465</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Red Nimble Fish - Upper Grade -->
+			<group chance="20.432">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="18.9184">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="18.2428">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Red Ugly Fish - Upper Grade -->
+			<group chance="15.612">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="14.4556">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="7.806">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="13.9393">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Red Fat Fish - Upper Grade -->
+			<group chance="15.912">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="14.7332">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="7.956">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="14.2072">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Red Nimble Fish - Upper Grade -->
+			<group chance="16.212">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="22.5166">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="2.0265">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="14.475">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Red Ugly Fish - Upper Grade -->
+			<group chance="13.2096">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="18.3466">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="6.6048">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="1.6512">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="11.7942">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Red Fat Fish - Upper Grade -->
+			<group chance="13.4592">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="18.6933">
+				<extract item_id="6912" count="8" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="6.7296">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="1.6824">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="12.0171">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Red Nimble Fish - Upper Grade -->
+			<group chance="18.924">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="17.5224">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="2.3655">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="16.8964">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Red Ugly Fish - Upper Grade -->
+			<group chance="15.4368">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="14.2932">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="7.7184">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="1.9296">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="13.7828">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Red Fat Fish - Upper Grade -->
+			<group chance="16.464">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="15.2444">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="8.232">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="2.058">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="14.6999">
+				<extract item_id="8352" count="4" /> <!-- Red Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2268" levels="9" name="Item - Hard White Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8466 8467 8468 8469 8470 8471 8472 8473 8474</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small White Nimble Fish - Upper Grade -->
+			<group chance="20.964">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="19.4112">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="2.6025">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="16.3781">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small White Ugly Fish - Upper Grade -->
+			<group chance="17.0976">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="15.8312">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="8.5488">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="2.1372">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="13.3575">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small White Fat Fish - Upper Grade -->
+			<group chance="17.4144">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="16.1244">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="8.7072">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="2.1768">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="13.605">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- White Nimble Fish - Upper Grade -->
+			<group chance="22.188">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="20.5444">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="2.7735">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="17.3344">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- White Ugly Fish - Upper Grade -->
+			<group chance="18.1152">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="16.7732">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="9.0576">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="2.2644">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="14.1525">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- White Fat Fish - Upper Grade -->
+			<group chance="18.4608">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="17.0932">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="9.2304">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="2.0376">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="14.4225">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- High Grade - Large White Nimble Fish -->
+			<group chance="23.532">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="21.7888">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="2.9415">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="18.3844">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large White Ugly Fish - Upper Grade -->
+			<group chance="19.2">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="17.778">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="9.6">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="2.4">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="15">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large White Fat Fish - Upper Grade -->
+			<group chance="19.5744">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="18.1244">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="9.7872">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="2.4468">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="15.2925">
+				<extract item_id="8356" count="4" /> <!-- White Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2269" levels="9" name="Item - Hard Black Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#fish">8475 8476 8477 8478 8479 8480 8481 8482 8483</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#fish" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="isFish" val="true" />
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Small Black Nimble Fish: Upper Grade -->
+			<group chance="24.972">
+				<extract item_id="6914" count="2" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="23.1224">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="3.1215">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="17.3416">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Small Black Ugly Fish - Upper Grade -->
+			<group chance="10.1904">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="18.8712">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="10.1904">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="2.5476">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="14.1534">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Small Black Fat Fish - Upper Grade -->
+			<group chance="10.3968">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="19.2532">
+				<extract item_id="6912" count="9" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="10.3968">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="2.5992">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="14.44">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Black Nimble Fish - Upper Grade -->
+			<group chance="13.854">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="12.8278">
+				<extract item_id="6912" count="18" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="3.4635">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="19.2417">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Black Ugly Fish - Upper Grade -->
+			<group chance="11.3136">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="10.4756">
+				<extract item_id="6912" count="18" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="11.3636">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="2.8284">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="15.7134">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Black Fat Fish - Upper Grade -->
+			<group chance="11.5344">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="10.68">
+				<extract item_id="6912" count="18" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="11.5344">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="2.8836">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="16.0201">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Large Black Nimble Fish - Upper Grade -->
+			<group chance="14.712">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="13.6222">
+				<extract item_id="6912" count="18" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="3.678">
+				<extract item_id="8373" count="1" /> <!-- Party Hat Fabric -->
+			</group>
+			<group chance="20.4333">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="8"> <!-- Large Black Ugly Fish - Upper Grade -->
+			<group chance="12.0096">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="11.12">
+				<extract item_id="6912" count="18" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="12.0096">
+				<extract item_id="8377" count="1" /> <!-- Little Angel Wings Piece -->
+			</group>
+			<group chance="3.0024">
+				<extract item_id="8374" count="1" /> <!-- Feathered Hat Fabric -->
+			</group>
+			<group chance="16.6801">
+				<extract item_id="8351" count="4" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+		<extractlist level="9"> <!-- Large Black Fat Fish - Upper Grade -->
+			<group chance="12.2496">
+				<extract item_id="6914" count="4" /> <!-- Shiny Fish Gem -->
+			</group>
+			<group chance="11.3422">
+				<extract item_id="6912" count="18" /> <!-- Shiny Fish Scale -->
+			</group>
+			<group chance="12.2496">
+				<extract item_id="8378" count="1" /> <!-- Fairy Antennae Piece -->
+			</group>
+			<group chance="3.0624">
+				<extract item_id="8375" count="1" /> <!-- Artisan's Goggles Fabric -->
+			</group>
+			<group chance="9.722">
+				<extract item_id="8351" count="7" /> <!-- Black Colored Fish Scale -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2270" levels="7" name="Item - Adventurer Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<table name="#box">8534 8535 8536 8537 8538 8539 8540</table>
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#box" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Adventurer's Box: C-Grade Accessory (Low Grade) -->
+			<group chance="14.1723">
+				<extract item_id="853" count="1" /> <!-- Earring of Protection -->
+			</group>
+			<group chance="21.3675">
+				<extract item_id="884" count="1" /> <!-- Ring of Protection -->
+			</group>
+			<group chance="10.6428">
+				<extract item_id="916" count="1" /> <!-- Necklace of Protection -->
+			</group>
+		</extractlist>
+		<extractlist level="2"> <!-- Adventurer's Box: C-Grade Accessory (Medium Grade) -->
+			<group chance="14.1242">
+				<extract item_id="854" count="1" /> <!-- Earring of Binding -->
+			</group>
+			<group chance="21.2585">
+				<extract item_id="885" count="1" /> <!-- Ring of Ages -->
+			</group>
+			<group chance="10.6022">
+				<extract item_id="917" count="1" /> <!-- Necklace of Mermaid -->
+			</group>
+		</extractlist>
+		<extractlist level="3"> <!-- Adventurer's Box: C-Grade Accessory (High Grade) -->
+			<group chance="9.8328">
+				<extract item_id="119" count="1" /> <!-- Necklace of Binding -->
+			</group>
+			<group chance="13.1027">
+				<extract item_id="855" count="1" /> <!-- Nassen's Earring -->
+			</group>
+			<group chance="19.7005">
+				<extract item_id="886" count="1" /> <!-- Ring of Binding -->
+			</group>
+		</extractlist>
+		<extractlist level="4"> <!-- Adventurer's Box: B-Grade Accessory (Low Grade) -->
+			<group chance="13.7513">
+				<extract item_id="856" count="1" /> <!-- Adamantite Earring -->
+			</group>
+			<group chance="20.6270">
+				<extract item_id="887" count="1" /> <!-- Adamantite Ring -->
+			</group>
+			<group chance="10.3135">
+				<extract item_id="918" count="1" /> <!-- Adamantite Necklace -->
+			</group>
+		</extractlist>
+		<extractlist level="5"> <!-- Adventurer's Box: B-Grade Accessory (High Grade) -->
+			<group chance="12.0250">
+				<extract item_id="864" count="1" /> <!-- Earring of Black Ore -->
+			</group>
+			<group chance="18.0375">
+				<extract item_id="895" count="1" /> <!-- Ring of Black Ore -->
+			</group>
+			<group chance="9.0334">
+				<extract item_id="926" count="1" /> <!-- Necklace of Black Ore -->
+			</group>
+		</extractlist>
+		<extractlist level="6"> <!-- Adventurer's Box: Hair Accessory -->
+			<group chance="22.2222">
+				<extract item_id="8177" count="1" /> <!-- Raid Challenger's Circlet -->
+			</group>
+			<group chance="18.5185">
+				<extract item_id="8178" count="1" /> <!-- Raid Adventurer's Circlet -->
+			</group>
+			<group chance="15.873">
+				<extract item_id="8179" count="1" /> <!-- Raid Master's Circlet -->
+			</group>
+		</extractlist>
+		<extractlist level="7"> <!-- Adventurer's Box: Cradle of Creation -->
+			<group chance="16.6666">
+				<extract item_id="8175" count="1" /> <!-- Cradle of Creation -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2271" levels="1" name="Item - Hot Spring Fish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="EXTRACT"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="8547"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="85">
+				<extract item_id="8034" count="3" />
+			</group>
+			<group chance="4">
+				<extract item_id="2134" count="3" />
+			</group>
+			<group chance="11">
+				<extract item_id="2133" count="7" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2272" levels="1" name="Item - Fight Song Crystal">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="8555" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+	</skill>
+	<skill id="2273" levels="1" name="Item - Red Devil Support Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="2274" levels="9" name="Fisherman's Potion – Green">
+		<table name="#level">3 6 9 12 15 18 21 24 27</table>
+		<table name="#id">8193 8194 8195 8196 8197 8198 8199 8200 8201</table>
+		<table name="#power">2 5 8 11 14 17 20 23</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_oblivion_green_i00" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#id" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+		<set name="isHandler" val="true" />
+		<cond msgId="51">
+			<has skill="1315;#level" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="20" stackType="fishPot" time="3600" val="0" />
+		</for>
+	</skill>
+	<skill id="2275" levels="1" name="Fisherman's Recovery Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_oblivion_black_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="8202" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="altUse" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="negateSkill" val="2274" />
+		<set name="isHandler" val="true" />
+	</skill>
+	<skill id="2276" levels="1" name="Dewdrop of Destruction">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="80" />
+		<set name="hitTime" val="2000" />
+		<set name="hitCancelTime" val="2000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2277" levels="6" name="Event Gift Box">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2278" levels="3" name="Herb of Life">
+		<table name="#power">15 25 100</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="HEAL_PERCENT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+	</skill>
+	<skill id="2279" levels="3" name="Herb of Mana">
+		<table name="#power">12 18 100</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="MANAHEAL_PERCENT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+	</skill>
+	<skill id="2280" levels="1" name="Herb of Power">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_herb_red_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="40" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="abnormal_instant" val="true" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="pAtk" time="300" val="0">
+				<mul order="0x30" stat="pAtk" val="1.15" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2281" levels="1" name="Herb of Magic">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_herb_blue_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="52" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="abnormal_instant" val="true" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="mAtk" time="300" val="0">
+				<mul order="0x30" stat="mAtk" val="1.75" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2282" levels="1" name="Herb of Atk. Spd.">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.etc_attack_sp_herb_i01" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="52" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="abnormal_instant" val="true" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="2" stackType="pAtkSpeedUp" time="300" val="0">
+				<mul order="0x30" stat="pAtkSpd" val="1.33" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2283" levels="1" name="Herb of Casting Spd.">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_magic_sp_herb_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="48" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="abnormal_instant" val="true" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="mAtkSpeedUp" time="300" val="0">
+				<mul order="0x30" stat="mAtkSpd" val="1.30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2284" levels="1" name="Herb of Critical Attack">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_critical_herb_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="52" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="abnormal_instant" val="true" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="rCrit" time="300" val="0">
+				<add order="0x40" stat="rCrit" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2285" levels="1" name="Herb of Speed">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.etc_move_herb_i01" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="30" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="abnormal_instant" val="true" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="2" stackType="SpeedUp" time="300" val="0">
+				<add order="0x40" stat="runSpd" val="33" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="2286" levels="6" name="Scroll: Recovery (No Grade)">
+		<table name="#itemConsumeId">8594 8595 8596 8597 8598 8599</table>
+		<table name="#levelMin">1 20 40 52 61 76</table>
+		<table name="#levelMax">19 39 51 60 75 85</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="DEATH_PENALTY" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<cond msgId="1902">
+			<and>
+				<player minLevel="#levelMin" />
+				<player maxLevel="#levelMax" />
+			</and>
+		</cond>
+	</skill>
+	<skill id="2287" levels="6" name="Elixir of Life (No Grade)">
+		<table name="#itemConsumeId">8622 8623 8624 8625 8626 8627</table>
+		<table name="#levelMin">1 20 40 52 61 76</table>
+		<table name="#levelMax">19 39 51 60 75 90</table>
+		<table name="#power">250 650 1100 1500 1900 2300</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="600000" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="HEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1902">
+			<and>
+				<player minLevel="#levelMin" />
+				<player maxLevel="#levelMax" />
+			</and>
+		</cond>
+	</skill>
+	<skill id="2288" levels="6" name="Elixir of Mental Strength (No Grade)">
+		<table name="#itemConsumeId">8628 8629 8630 8631 8632 8633</table>
+		<table name="#levelMin">1 20 40 52 61 76</table>
+		<table name="#levelMax">19 39 51 60 75 90</table>
+		<table name="#power">60 140 220 290 360 420</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="600000" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="MANAHEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1902">
+			<and>
+				<player minLevel="#levelMin" />
+				<player maxLevel="#levelMax" />
+			</and>
+		</cond>
+	</skill>
+	<skill id="2289" levels="6" name="Elixir of CP (No Grade)">
+		<table name="#itemConsumeId">8634 8635 8636 8637 8638 8639</table>
+		<table name="#levelMin">1 20 40 52 61 76</table>
+		<table name="#levelMax">19 39 51 60 75 90</table>
+		<table name="#power">150 350 600 800 1000 1200</table>
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="600000" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="COMBATPOINTHEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1902">
+			<and>
+				<player minLevel="#levelMin" />
+				<player maxLevel="#levelMax" />
+			</and>
+		</cond>
+	</skill>
+	<skill id="2290" levels="1" name="Coffer of Shadows">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2291" levels="1" name="Facelifting Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2292" levels="1" name="Facelifting Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2293" levels="1" name="Facelifting Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2294" levels="1" name="Dye Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2295" levels="1" name="Dye Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2296" levels="1" name="Dye Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2297" levels="1" name="Dye Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2298" levels="1" name="Hair Style Change Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2299" levels="1" name="Hair Style Change Potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+</list>

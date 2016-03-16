@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- Jewels --><!-- All -->
+  <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="14164" count="1" enchant="6"/> <!-- Vesper Necklace -->
+  </item>
+  <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="14163" count="1" enchant="6"/> <!-- Vesper Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="14165" count="1" enchant="6"/> <!-- Vesper Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="15722" count="1" enchant="6"/> <!-- Vorpal Necklace -->
+  </item>
+  <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="15721" count="1" enchant="6"/> <!-- Vorpal Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="15720" count="1" enchant="6"/> <!-- Vorpal Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="15719" count="1" enchant="6"/> <!-- Elegia Necklace -->
+  </item>
+  <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="15718" count="1" enchant="6"/> <!-- Elegia Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="120000000"/>
+    <production id="15717" count="1" enchant="6"/> <!-- Elegia Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="8000000"/>
+    <production id="15725" count="1" enchant="6"/> <!-- Moirai Necklace -->
+  </item>
+  <item>
+    <ingredient id="57" count="8000000"/>
+    <production id="15724" count="1" enchant="6"/> <!-- Moirai Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="8000000"/>
+    <production id="15723" count="1" enchant="6"/> <!-- Moirai Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="20000000"/>
+    <production id="920" count="1" enchant="6"/> <!-- Tateossian Necklace -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="858" count="1" enchant="6"/> <!-- Tateossian Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="889" count="1" enchant="6"/> <!-- Tateossian Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="20000000"/>
+    <production id="9456" count="1" enchant="6"/> <!-- Dynasty Necklace -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="9455" count="1" enchant="6"/> <!-- Dynasty Earrings -->
+  </item>
+  
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="9457" count="1" enchant="6"/> <!-- Dynasty Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="4000000"/>
+    <production id="924" count="1" enchant="6"/> <!-- Majestic Necklace -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="862" count="1" enchant="6"/> <!-- Majestic Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="893" count="1" enchant="6"/> <!-- Majestic Ring -->
+  </item>
+    <item>
+    <ingredient id="57" count="3000000"/>
+    <production id="926" count="1" enchant="6"/> <!-- Necklace of Black Ore -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="864" count="1" enchant="6"/> <!-- Earring of Black Ore -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="895" count="1" enchant="6"/> <!-- Ring of Black Ore -->
+  </item>
+    <item>
+    <ingredient id="57" count="2000000"/>  
+    <production id="919" count="1" enchant="6"/>  <!-- Blessed Necklace -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="857" count="1" enchant="6"/>  <!-- Blessed Earring -->  
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="888" count="1" enchant="6"/>  <!-- Blessed Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="911" count="1" enchant="6"/>  <!-- Enchanted Necklace -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="848" count="1" enchant="6"/> <!-- Enchanted Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="879" count="1" enchant="6"/> <!-- Enchanted Ring -->
+  </item>
+
+</list>

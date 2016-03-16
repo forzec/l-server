@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="214880" y="-116144" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="213696" y="-116592" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="212112" y="-116688" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="211184" y="-115472" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="210336" y="-114592" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="211360" y="-113904" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="213152" y="-112352" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="214032" y="-113232" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="214752" y="-114592" z="-1644" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="209824" y="-115568" z="-1421" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="210528" y="-112192" z="-1403" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="213120" y="-111136" z="-1403" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="215184" y="-111504" z="-1392" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="215456" y="-117328" z="-1392" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+	<spawn group="valakas_tp_cubic_spawn" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="213200" y="-118160" z="-1424" h="0" />
+		<npc id="31759" /><!--Teleportation Cubic-->
+	</spawn>
+</list>

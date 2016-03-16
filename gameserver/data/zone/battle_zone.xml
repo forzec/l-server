@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="[olympiad_arena_147]" type="battle_zone">
+		<polygon>
+			<coords loc="-89773 -254317 -15000 15000" />
+			<coords loc="-86380 -254317 -15000 15000" />
+			<coords loc="-86380 -251387 -15000 15000" />
+			<coords loc="-89773 -251389 -15000 15000" />
+		</polygon>
+	</zone>
+	<zone name="[olympiad_arena_148]" type="battle_zone">
+		<polygon>
+			<coords loc="-77145 -253912 -15000 15000" />
+			<coords loc="-73790 -253912 -15000 15000" />
+			<coords loc="-73787 -251007 -15000 15000" />
+			<coords loc="-77147 -251000 -15000 15000" />
+		</polygon>
+	</zone>
+	<zone name="[olympiad_arena_149]" type="battle_zone">
+		<polygon>
+			<coords loc="-89738 -241051 -15000 15000" />
+			<coords loc="-86454 -241053 -15000 15000" />
+			<coords loc="-86460 -237695 -15000 15000" />
+			<coords loc="-89740 -237698 -15000 15000" />
+		</polygon>
+	</zone>
+	<zone name="[olympiad_arena_150]" type="battle_zone">
+		<polygon>
+			<coords loc="-77057 -240754 -15000 15000" />
+			<coords loc="-73855 -240755 -15000 15000" />
+			<coords loc="-73841 -237607 -15000 15000" />
+			<coords loc="-77059 -237608 -15000 15000" />
+		</polygon>
+	</zone>
+	<zone name="[dion_monster_pvp]" type="battle_zone" >
+		<set name="index" val="1" />
+		<set name="entering_message_no" val="283" />
+		<set name="leaving_message_no" val="284" />
+		<polygon>
+			<coords loc="11947 183019 -3596 -3396" />
+			<coords loc="12937 183019 -3596 -3396" />
+			<coords loc="12943 184010 -3596 -3396" />
+			<coords loc="11941 184010 -3596 -3396" />
+		</polygon>
+	</zone>
+	<zone name="[gludin_pvp]" type="battle_zone" >
+		<set name="index" val="2" />
+		<set name="entering_message_no" val="283" />
+		<set name="leaving_message_no" val="284" />
+		<polygon>
+			<coords loc="-88411 141732 -3752 -3352" />
+			<coords loc="-87429 141733 -3752 -3352" />
+			<coords loc="-87429 142708 -3752 -3352" />
+			<coords loc="-88408 142708 -3752 -3352" />
+		</polygon>
+	</zone>
+	<zone name="[giran_pvp_battle]" type="battle_zone" >
+		<set name="index" val="3" />
+		<set name="entering_message_no" val="283" />
+		<set name="leaving_message_no" val="284" />
+		<polygon>
+			<coords loc="72493 142263 -3850 -3350" />
+			<coords loc="73493 142264 -3850 -3350" />
+			<coords loc="73493 143261 -3850 -3350" />
+			<coords loc="72495 143258 -3850 -3350" />
+		</polygon>
+	</zone>
+	<zone name="[colosseum_battle]" type="battle_zone" >
+		<set name="index" val="4" />
+		<set name="entering_message_no" val="283" />
+		<set name="leaving_message_no" val="284" />
+		<polygon>
+			<coords loc="148040 46440 -3408 -3308" />
+			<coords loc="147816 46184 -3408 -3308" />
+			<coords loc="147800 46152 -3408 -3308" />
+			<coords loc="147800 45992 -3408 -3308" />
+			<coords loc="147832 45912 -3408 -3308" />
+			<coords loc="148248 45400 -3408 -3308" />
+			<coords loc="148312 45368 -3408 -3308" />
+			<coords loc="150680 45368 -3408 -3308" />
+			<coords loc="150744 45400 -3408 -3308" />
+			<coords loc="151176 45928 -3408 -3308" />
+			<coords loc="151192 46152 -3408 -3308" />
+			<coords loc="151176 46184 -3408 -3308" />
+			<coords loc="150952 46440 -3408 -3308" />
+			<coords loc="150952 47000 -3408 -3308" />
+			<coords loc="151176 47256 -3408 -3308" />
+			<coords loc="151192 47288 -3408 -3308" />
+			<coords loc="151192 47448 -3408 -3308" />
+			<coords loc="151176 47512 -3408 -3308" />
+			<coords loc="150760 48024 -3408 -3308" />
+			<coords loc="150696 48056 -3408 -3308" />
+			<coords loc="149640 48056 -3408 -3308" />
+			<coords loc="149624 48008 -3408 -3308" />
+			<coords loc="149368 48008 -3408 -3308" />
+			<coords loc="149352 48056 -3408 -3308" />
+			<coords loc="148312 48056 -3408 -3308" />
+			<coords loc="148248 48024 -3408 -3308" />
+			<coords loc="147832 47512 -3408 -3308" />
+			<coords loc="147800 47448 -3408 -3308" />
+			<coords loc="147800 47288 -3408 -3308" />
+			<coords loc="147816 47256 -3408 -3308" />
+			<coords loc="148040 47000 -3408 -3308" />
+		</polygon>
+	</zone>
+
+	<zone name="[block_checker_1]" type="battle_zone" >
+		<polygon>
+			<coords loc="-57365 -62900 -2467 -2167" />
+			<coords loc="-56393 -62902 -2467 -2167" />
+			<coords loc="-56397 -61931 -2467 -2167" />
+			<coords loc="-57369 -61930 -2467 -2167" />
+		</polygon>
+	</zone>
+	<zone name="[block_checker_2]" type="battle_zone" >
+		<polygon>
+			<coords loc="-58537 -62902 -2469 -2169" />
+			<coords loc="-57565 -62903 -2469 -2169" />
+			<coords loc="-57569 -61933 -2469 -2169" />
+			<coords loc="-58541 -61932 -2469 -2169" />
+		</polygon>
+	</zone>
+	<zone name="[block_checker_3]" type="battle_zone" >
+		<polygon>
+			<coords loc="-57368 -64034 -2451 -2151" />
+			<coords loc="-56397 -64035 -2451 -2151" />
+			<coords loc="-56401 -63065 -2451 -2151" />
+			<coords loc="-57372 -63063 -2451 -2151" />
+		</polygon>
+	</zone>
+	<zone name="[block_checker_4]" type="battle_zone" >
+		<polygon>
+			<coords loc="-58535 -64035 -2463 -2163" />
+			<coords loc="-57563 -64037 -2463 -2163" />
+			<coords loc="-57567 -63067 -2463 -2163" />
+			<coords loc="-58539 -63065 -2463 -2163" />
+		</polygon>
+	</zone>
+	<zone name="[gvg_battle_zone]" type="battle_zone" >
+		<set name="index" val="14" />
+		<polygon>
+			<coords loc="139944 139656 -16000 -15200" />
+			<coords loc="139944 140008 -16000 -15200" />
+			<coords loc="139528 140008 -16000 -15200" />
+			<coords loc="139528 145656 -16000 -15200" />
+			<coords loc="139896 145656 -16000 -15200" />
+			<coords loc="139896 146040 -16000 -15200" />
+			<coords loc="148216 146040 -16000 -15200" />
+			<coords loc="148216 139656 -16000 -15200" />
+		</polygon>
+	</zone>
+	<zone name="[kratei_cube_1]" type="battle_zone" >
+		<set name="index" val="11" />
+		<set name="enabled" val="true" />
+		<set name="entering_message_no" val="283" />
+		<set name="leaving_message_no" val="284" />
+		<polygon>
+			<coords loc="-86600 -21000 -9000 -7500" />
+			<coords loc="-86600 -11800 -9000 -7500" />
+			<coords loc="-77350 -11800 -9000 -7500" />
+			<coords loc="-77350 -21000 -9000 -7500" />
+		</polygon>
+	</zone>
+	<zone name="[kratei_cube_2]" type="battle_zone" >
+		<set name="index" val="12" />
+		<set name="enabled" val="true" />
+		<set name="entering_message_no" val="283" />
+		<set name="leaving_message_no" val="284" />
+		<polygon>
+			<coords loc="-86500 -86400 -9000 -7500" />
+			<coords loc="-86500 -77200 -9000 -7500" />
+			<coords loc="-77300 -77200 -9000 -7500" />
+			<coords loc="-77300 -86400 -9000 -7500" />
+		</polygon>
+	</zone>
+	<zone name="[kratei_cube_3]" type="battle_zone" >
+		<set name="index" val="13" />
+		<set name="enabled" val="true" />
+		<set name="entering_message_no" val="283" />
+		<set name="leaving_message_no" val="284" />
+		<polygon>
+			<coords loc="-53318 -78456 -9000 -7500" />
+			<coords loc="-53318 -87558 -9000 -7500" />
+			<coords loc="-44122 -87558 -9000 -7500" />
+			<coords loc="-44122 -78456 -9000 -7500" />
+		</polygon>
+	</zone>
+	<zone name="[17_16_kerthang_area_01]" type="battle_zone">
+		<set name="blocked_actions" val="drop_item" />
+		<polygon>
+			<coords loc="-85850 -45960 -11624 -11224"/>
+			<coords loc="-86761 -45935 -11624 -11224"/>
+			<coords loc="-87000 -46986 -11624 -11224"/>
+			<coords loc="-87535 -48793 -11624 -11224"/>
+			<coords loc="-87049 -49419 -11624 -11224"/>
+			<coords loc="-85458 -49051 -11624 -11224"/>
+			<coords loc="-84224 -49803 -11624 -11224"/>
+			<coords loc="-83446 -49477 -11624 -11224"/>
+			<coords loc="-83154 -47528 -11624 -11224"/>
+			<coords loc="-83863 -47202 -11624 -11224"/>
+			<coords loc="-84291 -47449 -11624 -11224"/>
+			<coords loc="-84711 -47094 -11624 -11224"/>
+		</polygon>
+	</zone>
+	<zone name="[17_16_kerthang_area_02]" type="battle_zone">
+		<set name="blocked_actions" val="drop_item" />
+		<polygon>
+			<coords loc="-84112 -50103 -11620 -11220"/>
+			<coords loc="-84830 -51342 -11620 -11220"/>
+			<coords loc="-86142 -51844 -11620 -11220"/>
+			<coords loc="-86553 -52634 -11620 -11220"/>
+			<coords loc="-85640 -53190 -11620 -11220"/>
+			<coords loc="-84380 -54211 -11620 -11220"/>
+			<coords loc="-83379 -54413 -11620 -11220"/>
+			<coords loc="-82972 -52054 -11620 -11220"/>
+			<coords loc="-81938 -51822 -11620 -11220"/>
+			<coords loc="-82193 -50685 -11620 -11220"/>
+			<coords loc="-82732 -50575 -11620 -11220"/>
+			<coords loc="-83454 -49986 -11620 -11220"/>
+		</polygon>
+	</zone>
+	<zone name="[17_16_kerthang_area_03]" type="battle_zone">
+		<set name="blocked_actions" val="drop_item" />
+		<polygon>
+			<coords loc="-79843 -49874 -11716 -11316"/>
+			<coords loc="-81401 -50399 -11716 -11316"/>
+			<coords loc="-81709 -51148 -11716 -11316"/>
+			<coords loc="-81639 -51704 -11716 -11316"/>
+			<coords loc="-80712 -52824 -11716 -11316"/>
+			<coords loc="-80414 -54463 -11716 -11316"/>
+			<coords loc="-79510 -54322 -11716 -11316"/>
+			<coords loc="-78717 -52952 -11716 -11316"/>
+			<coords loc="-77725 -52968 -11716 -11316"/>
+			<coords loc="-77416 -51996 -11716 -11316"/>
+			<coords loc="-78890 -51583 -11716 -11316"/>
+			<coords loc="-79378 -50568 -11716 -11316"/>
+		</polygon>
+	</zone>
+	<zone name="[17_16_kerthang_area_04]" type="battle_zone">
+		<set name="blocked_actions" val="drop_item" />
+		<polygon>
+			<coords loc="-79343 -47478 -11592 -11192"/>
+			<coords loc="-80117 -47109 -11592 -11192"/>
+			<coords loc="-80672 -47858 -11592 -11192"/>
+			<coords loc="-80382 -49156 -11592 -11192"/>
+			<coords loc="-79813 -49685 -11592 -11192"/>
+			<coords loc="-79130 -49730 -11592 -11192"/>
+			<coords loc="-77951 -49052 -11592 -11192"/>
+			<coords loc="-76485 -49456 -11592 -11192"/>
+			<coords loc="-76221 -48619 -11592 -11192"/>
+			<coords loc="-76710 -48032 -11592 -11192"/>
+			<coords loc="-76946 -46451 -11592 -11192"/>
+			<coords loc="-77668 -45794 -11592 -11192"/>
+		</polygon>
+	</zone>
+	<zone name="[17_16_kerthang_area_05]" type="battle_zone">
+		<set name="blocked_actions" val="drop_item" />
+		<polygon>
+			<coords loc="-82326 -43857 -11640 -11240"/>
+			<coords loc="-83361 -43681 -11640 -11240"/>
+			<coords loc="-83614 -44430 -11640 -11240"/>
+			<coords loc="-82884 -46072 -11640 -11240"/>
+			<coords loc="-83209 -47165 -11640 -11240"/>
+			<coords loc="-82621 -47718 -11640 -11240"/>
+			<coords loc="-81071 -47576 -11640 -11240"/>
+			<coords loc="-80636 -47169 -11640 -11240"/>
+			<coords loc="-80853 -46291 -11640 -11240"/>
+			<coords loc="-79968 -44123 -11640 -11240"/>
+			<coords loc="-80245 -43614 -11640 -11240"/>
+			<coords loc="-81544 -43878 -11640 -11240"/>
+		</polygon>
+	</zone>
+
+	<!--custom-->
+	<zone name="[14_24_ctf_arena]" type="battle_zone">
+		<set name="enabled" val="false" />
+		<polygon>
+			<coords loc="-196608 196608"/>
+			<coords loc="-163856 196608"/>
+			<coords loc="-163856 229360"/>
+			<coords loc="-196608 229360"/>
+		</polygon>
+	</zone>
+</list>

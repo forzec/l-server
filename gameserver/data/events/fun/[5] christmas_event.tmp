@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<!--формат даты HH:mm dd.MM.yyyy-->
+	<event id="5" name="Christmas Event" impl="Fun">
+		<parameter name="start-pattern" value="6:00 30.12.2012" />
+		<parameter name="stop-pattern" value="6:00 14.1.2013" />
+		<on_start>
+			<spawn name="spawn_group" />
+			<global_add_reward name="droplist" />
+		</on_start>
+		<on_stop>
+			<despawn name="spawn_group" />
+			<global_remove_reward name="droplist" />
+		</on_stop>
+		<objects name="spawn_group">
+			<spawn_ex name="christmas" />
+		</objects>
+		<objects name="droplist">
+			<rewardlist type="EVENT">
+				<reward item_id="5556" min="1" max="1" chance="5.0000" />	<!--Star Ornament-->
+				<reward item_id="5557" min="1" max="1" chance="5.0000" />	<!--Bead Ornament-->
+				<reward item_id="5558" min="1" max="1" chance="10.0000" />	<!--Fir Tree Branch-->
+				<reward item_id="5559" min="1" max="1" chance="3.0000" />	<!--Flower Pot-->
+			</rewardlist>
+		</objects>
+	</event>
+</list>

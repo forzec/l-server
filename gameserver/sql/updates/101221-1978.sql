@@ -1,0 +1,1 @@
+UPDATE `items` SET `custom_type2` = 0 WHERE (SELECT `name` FROM `pets` WHERE `item_obj_id` = `object_id`)='';

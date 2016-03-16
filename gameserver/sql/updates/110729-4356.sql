@@ -1,0 +1,1 @@
+delete from character_variables where name='no_pf';

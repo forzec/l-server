@@ -1,0 +1,18 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+    <!-- Castles Dungeon -->
+	<instance id="21" name="Dungeon" maxChannels="9" collapseIfEmpty="10" timelimit="60" dispelBuffs="false">
+		<collapse on-party-dismiss="true" timer="60" />
+		<level min="70" max="85" />
+		<party min="2" max="9" />
+		<teleport loc="12188 -48770 -3008" />
+		<remove itemId="0" count="0" necessary="false" />
+		<give itemId="0" count="0" />
+		<quest id="512" />
+		<reuse resetReuse="* */4 * * *" setUponEntry="false" sharedReuseGroup="0" />
+		<spawns />
+		<add_parameters>
+			<param name="boss_spawn_location" value="11793 -49190 -3008"/>
+		</add_parameters>
+	</instance>
+</list>

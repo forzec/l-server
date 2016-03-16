@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!-- PCCafe Manager -->
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-80762" y="151118" z="-3043" h="28672"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-84046" y="150193" z="-3129" h="4096"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-82675" y="151652" z="-3129" h="46943"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-12992" y="122818" z="-3117" h="0"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-13964" y="121947" z="-2988" h="32768"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-14823" y="123752" z="-3117" h="8192"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="18178" y="145149" z="-3054" h="7400"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="19185" y="144377" z="-3097" h="32768"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="19508" y="145753" z="-3086" h="47999"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="17396" y="170259" z="-3507" h="30000"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="44150" y="-48708" z="-800" h="32999"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="44280" y="-47664" z="-792" h="49167"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79806" y="55570" z="-1560" h="0"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="83328" y="55824" z="-1525" h="32768"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="83358" y="149223" z="-3400" h="32768"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="82277" y="148598" z="-1497" h="0"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81083" y="56118" z="-3467" h="0"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81621" y="148725" z="-3467" h="32768"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81680" y="145656" z="-3533" h="32768"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="117498" y="76630" z="-2695" h="38000"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="115933" y="76482" z="-2711" h="58999"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="119536" y="76988" z="-2275" h="40960"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="111585" y="221011" z="-3544" h="16384"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="107922" y="218094" z="-3675" h="0"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147285" y="-56461" z="-2776" h="11500"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147120" y="27312" z="-2192" h="40960"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147959" y="25695" z="-2000" h="16384"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="87792" y="-142240" z="-1343" h="44000"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+	<spawn group="pccafe_event_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="87557" y="-140657" z="-1542" h="20476"/>
+		<npc id="32130"/><!--Lucien-->
+	</spawn>
+
+	<!-- Master Enchanter -->
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="16111" y="142850" z="-2707" h="16000"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="17275" y="145000" z="-3037" h="25000"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="83037" y="149324" z="-3470" h="44000"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="82145" y="148609" z="-3468" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81755" y="146487" z="-3534" h="32768"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-81031" y="150038" z="-3045" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-83156" y="150994" z="-3130" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-13727" y="122117" z="-2990" h="16384"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-14129" y="123869" z="-3118" h="40959"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-84411" y="244813" z="-3730" h="57343"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-84023" y="243051" z="-3730" h="4096"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="46908" y="50856" z="-2997" h="8192"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="45538" y="48357" z="-3061" h="50000"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="9929" y="16324" z="-4576" h="62999"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="11546" y="17599" z="-4586" h="46900"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81987" y="53723" z="-1497" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81083" y="56118" z="-1562" h="32768"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147200" y="25614" z="-2014" h="16384"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="148557" y="26806" z="-2206" h="32768"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="117356" y="76708" z="-2695" h="49151"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="115887" y="76382" z="-2714" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-117239" y="46842" z="367" h="49151"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-119494" y="44882" z="367" h="24576"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="111004" y="218928" z="-3544" h="16384"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="108426" y="221876" z="-3600" h="49151"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-45278" y="-112766" z="-241" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-45372" y="-114104" z="-241" h="16384"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="115096" y="-178370" z="-891" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="116199" y="-182694" z="-1506" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="86865" y="-142915" z="-1341" h="26000"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="85584" y="-142490" z="-1341" h="0"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147421" y="-55435" z="-2736" h="49151"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="148206" y="-55786" z="-2782" h="61439"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="43165" y="-48461" z="-797" h="17000"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+	<spawn group="master_enchant_ev_manager" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="43966" y="-47709" z="-798" h="49999"/>
+		<npc id="32599"/><!--Yogi-->
+	</spawn>
+
+</list>

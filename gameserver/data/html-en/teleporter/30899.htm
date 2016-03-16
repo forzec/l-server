@@ -1,0 +1,25 @@
+Gatekeeper Flauen:
+
+Do you wish to leave this place? May the stars light your path...
+
+Have you at least enjoyed your stay in Heine? Innadril is reputed to be the most beautiful city in Aden. If you haven't seen the trade ships setting sail at dawn, or heard the wind singing through the reeds, then I would encourage you to delay your departure. Yes?
+
+[npc_%objectId%_Teleport 1|Teleport]
+
+[npc_%objectId%_multisell 002|Exchange Dimension Diamonds.]
+
+[npc_%objectId%_Util:NoblessTeleport|(Nobless only) Teleport]
+
+[npc_%objectId%_services.TeleToMDT:toMDT @811;Monster Racetrack|Move to Arena & Monster Race Track (free)]
+
+[npc_%objectId%_services.TeleToFantasyIsle:toFantasyIsle @811;Fantasy Isle|Teleport to Fantasy Isle (free)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Move to Parnassus (offshore zone) - ${SERVICES_PARNASSUS_PRICE} Adena]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|I want free admission to Giran Harbor.]<br>
+#end
+[npc_%objectId%_birthdayHelper|Call Alegria]
+
+[npc_%objectId%_Quest|Quest]

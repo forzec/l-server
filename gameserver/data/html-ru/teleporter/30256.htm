@@ -1,0 +1,25 @@
+Gatekeeper Bella:
+
+Здравствуйте! Хорошая погода, не правда ли? В такие дни нужно отправиться в путешествия. Куда бы Вы хотели попасть?
+
+[npc_%objectId%_Chat 1|Воздушная Гавань Глудио]
+
+[npc_%objectId%_Teleport 1|Телепортироваться]
+
+[npc_%objectId%_multisell 002|Обменять Алмазы Иных Миров]
+
+[npc_%objectId%_Util:NoblessTeleport|Телепортироваться (только для Дворян)]
+
+[npc_%objectId%_services.TeleToMDT:toMDT @811;Арену и Ипподром|Отправиться на Арену и Ипподром (беcплатно)]
+
+[npc_%objectId%_services.TeleToFantasyIsle:toFantasyIsle @811;Остров Грез|Отправиться на Остров Грез (беcплатно)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Переместиться в Парнассус (зона без налогов) - ${SERVICES_PARNASSUS_PRICE} Аден]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|Я хочу бесплатно попасть в Гавань Гирана]<br>
+#end
+[npc_%objectId%_birthdayHelper|Призвать Аллегрию]
+
+[npc_%objectId%_Quest|Квест]

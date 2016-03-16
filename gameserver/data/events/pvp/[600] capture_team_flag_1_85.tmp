@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="600" name="Capture Team Flag 1-85 Level" impl="CaptureTeamFlag">
+		<parameter name="min_level" value="1"/>
+		<parameter name="max_level" value="85"/>
+		<parameter name="pattern" value="0 * * * *"/>
+		<parameter name="reward_items" value="57"/>
+		<parameter name="reward_counts" value="1000"/>
+		<on_start>
+			<spawn name="bases" />
+			<spawn name="flags" />
+		</on_start>
+		<on_stop>
+			<despawn name="bases" />
+			<despawn name="flags" />
+		</on_stop>
+		<on_time>
+			<!--за 2 минуты открываем регу-->
+			<on time="-120">
+				<start name="registration" />
+			</on>
+			<!--за 1 минуту переносим игроков(закрывает регу)-->
+			<on time="-60">
+				<teleport_players id="players" />
+			</on>
+			<!--за 10 сек - пишем, до Боя осталось 10 сек-->
+			<on time="-10">
+				<announce val="-10"/>
+			</on>
+			<on time="-5">
+				<announce val="-5"/>
+			</on>
+			<on time="-4">
+				<announce val="-4"/>
+			</on>
+			<on time="-3">
+				<announce val="-3"/>
+			</on>
+			<on time="-2">
+				<announce val="-2"/>
+			</on>
+			<on time="-1">
+				<announce val="-1"/>
+			</on>
+			<on time="0">
+				<start name="event" />
+				<start name="update_arrow" />
+			</on>
+			<on time="30">
+				<start name="update_arrow" />
+			</on>
+			<on time="60">
+				<start name="update_arrow" />
+			</on>
+			<on time="90">
+				<start name="update_arrow" />
+			</on>
+			<on time="120">
+				<start name="update_arrow" />
+			</on>
+			<on time="150">
+				<start name="update_arrow" />
+			</on>
+			<on time="180">
+				<start name="update_arrow" />
+			</on>
+			<on time="210">
+				<start name="update_arrow" />
+			</on>
+			<on time="240">
+				<start name="update_arrow" />
+			</on>
+			<on time="270">
+				<start name="update_arrow" />
+			</on>
+			<on time="300">
+				<start name="update_arrow" />
+			</on>
+			<on time="330">
+				<start name="update_arrow" />
+			</on>
+			<on time="360">
+				<start name="update_arrow" />
+			</on>
+			<on time="390">
+				<start name="update_arrow" />
+			</on>
+			<on time="420">
+				<start name="update_arrow" />
+			</on>
+			<on time="450">
+				<start name="update_arrow" />
+			</on>
+			<on time="480">
+				<start name="update_arrow" />
+			</on>
+			<on time="510">
+				<start name="update_arrow" />
+			</on>
+			<on time="540">
+				<start name="update_arrow" />
+			</on>
+			<on time="570">
+				<start name="update_arrow" />
+			</on>
+			<on time="600">
+				<start name="update_arrow" />
+			</on>
+			<on time="630">
+				<start name="update_arrow" />
+			</on>
+			<on time="660">
+				<stop name="event" />
+			</on>
+		</on_time>
+	</event>
+</list>

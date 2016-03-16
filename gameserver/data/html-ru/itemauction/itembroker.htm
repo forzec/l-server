@@ -1,0 +1,19 @@
+Item Broker Adventure Guildsman:
+
+Добро пожаловать! У меня в продаже есть никогда прежде невиданные предметы. Но так как у меня их не много, я устрою аукцион и продам их тому, кто предложит наивысшую цену. Вас это интересует?
+
+[npc_%objectId%_Chat 1|Ознакомиться с правилами аукциона.]
+
+[npc_%objectId%_auction show|Купить предметы.]
+
+[npc_%objectId%_auction cancel|Восстановить отмененные предложения цены.]
+
+#if ($SERVICES_ALLOW_ITEM_BROKER_SEARCH)
+<font color="LEVEL">Поиск торговцев:</font>
+
+[npc_%objectId%_services.ItemBroker:main 1|Список продаваемых товаров]
+
+[npc_%objectId%_services.ItemBroker:main 3|Список покупаемых товаров]
+
+[npc_%objectId%_services.ItemBroker:main 5|Список создаваемых товаров]
+#end

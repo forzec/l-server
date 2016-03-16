@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn group="lost_gatekeeper" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="85336" y="16200" z="-1248" h="0"/>
+		<npc id="22590"/>
+	</spawn>
+</list>

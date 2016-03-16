@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- Heavy sets -->
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Tallum Set -->
+    <production id="2382" count="1" enchant="6"/>       <!-- Tallum Plate Armor -->
+    <production id="547" count="1" enchant="6"/>        <!-- Tallum Helm -->
+    <production id="5780" count="1" enchant="6"/>       <!-- Tallum Boots Heavy Armor -->
+    <production id="5768" count="1" enchant="6"/>       <!-- Tallum Gloves Heavy Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Majestic Set -->
+    <production id="2383" count="1" enchant="6"/>       <!-- Majestic Plate Armor -->
+    <production id="2419" count="1" enchant="6"/>       <!-- Majestic Circlet -->
+    <production id="5786" count="1" enchant="6"/>       <!-- Majestic Boots Heavy Armor -->
+    <production id="5774" count="1" enchant="6"/>       <!-- Majestic Gauntlets Heavy Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Nightmare Set -->
+    <production id="374" count="1" enchant="6"/>        <!-- Armor of Nightmare -->
+    <production id="2418" count="1" enchant="6"/>       <!-- Helm of Nightmare  -->
+    <production id="5783" count="1" enchant="6"/>       <!-- Boots of Nightmare Heavy Armor -->
+    <production id="5771" count="1" enchant="6"/>       <!-- Gauntletsof Nightmare Heavy Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Dark Crystal Set -->
+    <production id="365"  count="1" enchant="6"/>       <!-- Dark Crystal Breastplate -->
+    <production id="388"  count="1" enchant="6"/>       <!-- Dark Crystal Gaiters  -->
+    <production id="512"  count="1" enchant="6"/>       <!-- Dark Crystal Helmet -->
+    <production id="5777" count="1" enchant="6"/>       <!-- Dark Crystal Boots Heavy Armor -->
+    <production id="5765" count="1" enchant="6"/>       <!-- Dark Crystal Gloves Heavy Armor -->
+  </item>
+  <!-- Leather sets -->
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Tallum Set -->
+    <production id="2393" count="1" enchant="6"/>       <!-- Tallum Leather Armor -->
+    <production id="547"  count="1" enchant="6"/>       <!-- Tallum Helm -->
+    <production id="5781" count="1" enchant="6"/>       <!-- Tallum Boots Light Armor -->
+    <production id="5769" count="1" enchant="6"/>       <!-- Tallum Gloves Light Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Majestic Set -->
+    <production id="2395" count="1" enchant="6"/>       <!-- Majestic Leather Armor -->
+    <production id="2419" count="1" enchant="6"/>       <!-- Majestic Circlet -->
+    <production id="5787" count="1" enchant="6"/>       <!-- Majestic Boots Light Armor -->
+    <production id="5775" count="1" enchant="6"/>       <!-- Majestic Gauntlets Light Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Nightmare Set -->
+    <production id="2394" count="1" enchant="6"/>       <!-- Leather Armor of Nightmare -->
+    <production id="2418" count="1" enchant="6"/>       <!-- Helm of Nightmare  -->
+    <production id="5784" count="1" enchant="6"/>       <!-- Boots of Nightmare Light Armor -->
+    <production id="5772" count="1" enchant="6"/>       <!-- Gauntletsof Nightmare Light Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Dark Crystal Set -->
+    <production id="2385" count="1" enchant="6"/>       <!-- Dark Crystal Leather Armor -->
+    <production id="2389" count="1" enchant="6"/>       <!-- Dark Crystal Leggings  -->
+    <production id="512"  count="1" enchant="6"/>       <!-- Dark Crystal Helmet -->
+    <production id="5778" count="1" enchant="6"/>       <!-- Dark Crystal Boots Light Armor -->
+    <production id="5766" count="1" enchant="6"/>       <!-- Dark Crystal Gloves Light Armor -->
+  </item>
+  <!-- Roba sets -->
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Tallum Set -->
+    <production id="2400" count="1" enchant="6"/>       <!-- Tallum Tunic -->
+    <production id="2405" count="1" enchant="6"/>       <!-- Tallum Stockings -->
+    <production id="547"  count="1" enchant="6"/>       <!-- Tallum Helm -->
+    <production id="5782" count="1" enchant="6"/>       <!-- Tallum Boots Robe -->
+    <production id="5770" count="1" enchant="6"/>       <!-- Tallum Gloves Robe -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Majestic Set -->
+    <production id="2409" count="1" enchant="6"/>       <!-- Majestic Robe -->
+    <production id="2419" count="1" enchant="6"/>       <!-- Majestic Circlet -->
+    <production id="5788" count="1" enchant="6"/>       <!-- Majestic Boots Robe -->
+    <production id="5776" count="1" enchant="6"/>       <!-- Majestic Gauntlets Robe -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Nightmare Set -->
+    <production id="2408" count="1" enchant="6"/>       <!-- Robe of Nightmare -->
+    <production id="2418" count="1" enchant="6"/>       <!-- Helm of Nightmare  -->
+    <production id="5785" count="1" enchant="6"/>       <!-- Boots of Nightmare Robe -->
+    <production id="5773" count="1" enchant="6"/>       <!-- Gauntletsof Nightmare Robe -->
+  </item>
+  <item>
+    <ingredient id="57" count="1000000"/>   <!-- Dark Crystal Set -->
+    <production id="2407" count="1" enchant="6"/>       <!-- Dark Crystal Robe -->
+    <production id="512"  count="1" enchant="6"/>       <!-- Dark Crystal Helmet -->
+    <production id="5779" count="1" enchant="6"/>       <!-- Dark Crystal Boots Robe -->
+    <production id="5767" count="1" enchant="6"/>       <!-- Dark Crystal Gloves Robe -->
+  </item>
+  <!-- A-GRADE-SHILDS -->
+  <item>
+    <ingredient id="57" count="10000"/>  <!-- Shield of Nightmare -->
+    <production id="2498" count="1" enchant="6"/> 
+  </item>
+   <item>
+    <ingredient id="57" count="10000"/>  <!-- Dark Crystal Shield -->
+    <production id="641" count="1" enchant="6"/>
+  </item>
+</list>

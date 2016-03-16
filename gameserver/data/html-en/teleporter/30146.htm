@@ -1,0 +1,19 @@
+Gatekeeper Mirabel:
+
+The Elves once thought that this forest was the whole world, when in reality it is only a very small part of the vast continent. If you wish to see that wider world, we Gatekeepers can help you do so.
+
+[npc_%objectId%_Teleport 1|Teleport]
+
+[npc_%objectId%_multisell 002|Exchange Dimension Diamonds.]
+
+[npc_%objectId%_Util:NoblessTeleport|Noblesse Exclusive Teleport]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Move to Parnassus (offshore zone) - ${SERVICES_PARNASSUS_PRICE} Adena]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|I want free admission to Giran Harbor.]<br>
+#end
+[npc_%objectId%_birthdayHelper|Call Alegria]
+
+[npc_%objectId%_Quest|Quest]

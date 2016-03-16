@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- Heavy sets --><!-- C-grade -->
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Chain Mail Set -->
+    <production id="354" count="1" enchant="6"/>  <!-- Chain Mail Shirt -->
+    <production id="381" count="1" enchant="6"/>  <!-- Chain Gaiters -->
+    <production id="2413" count="1" enchant="6"/> <!-- Chain Hood -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Composite Set -->
+    <production id="60" count="1" enchant="6"/>   <!-- Composite Armor -->
+    <production id="517" count="1" enchant="6"/>  <!-- Composite Helmet -->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Full Plate Set -->
+    <production id="356" count="1" enchant="6"/>  <!-- Full Plate Armor -->
+    <production id="2414" count="1" enchant="6"/> <!-- Full Plate Helmet -->
+  </item>
+  <!-- Leather sets -->
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Mithril Set -->
+    <production id="397" count="1" enchant="6"/>  <!-- Mithril Shirt -->
+    <production id="2387" count="1" enchant="6"/> <!-- Reinforced Mithril Gaiters --> 
+    <production id="62" count="1" enchant="6"/>   <!-- Reinforced Mithril Boots -->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Drake Set -->
+    <production id="401" count="1" enchant="6"/>  <!-- Drake Leather Armor -->
+    <production id="2437" count="1" enchant="6"/> <!-- Drake Leather Boots -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Theca Set -->
+    <production id="400" count="1" enchant="6"/>  <!-- Theca Leather Armor -->
+    <production id="420" count="1" enchant="6"/>  <!-- Theca Leather Gaiters --> 
+    <production id="2436" count="1" enchant="6"/> <!-- Theca Leather Boots -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Plated Leather Set -->
+    <production id="398" count="1" enchant="6"/>  <!-- Plated Leather -->
+    <production id="418" count="1" enchant="6"/>  <!-- Plated Leather Gaiters --> 
+    <production id="2431" count="1" enchant="6"/> <!-- Plated Leather Boots -->
+  </item>
+  <!-- Roba sets -->
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Karmian Set -->
+    <production id="439" count="1" enchant="6"/>  <!-- Karmian Tunic -->
+    <production id="471" count="1" enchant="6"/>  <!-- Karmian Stockings --> 
+    <production id="2454" count="1" enchant="6"/> <!-- Karmian Gloves -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Demon Set -->
+    <production id="441" count="1" enchant="6"/>  <!-- Demon's Tunic -->
+    <production id="472" count="1" enchant="6"/>  <!-- Demon's Stockings --> 
+    <production id="2459" count="1" enchant="6"/> <!-- Demon's Gloves -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Divine Set -->
+    <production id="442" count="1" enchant="6"/>  <!-- Divine Tunic -->
+    <production id="473" count="1" enchant="6"/>  <!-- Divine Stockings --> 
+    <production id="2463" count="1" enchant="6"/> <!-- Divine Gloves -->
+  </item>
+  <!-- Shields -->
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Composite Shield -->
+    <production id="107" count="1" enchant="6"/> 
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/> <!-- Full Plate Shield -->
+    <production id="2497" count="1" enchant="6"/>
+  </item>
+</list>

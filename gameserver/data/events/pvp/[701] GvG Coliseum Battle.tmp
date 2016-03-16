@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="701" name="GvG Coliseum Battle" impl="CustomGvGBattle">
+		<parameter name="instance_id" value="700" />
+		<on_time>
+			<on time="-60">
+				<teleport_players id="to_arena" />
+				<start name="reenter" /> <!-- разрешить релог -->
+				<init name="doors" />
+			</on>
+			<on time="-30">
+				<announce val="30" />
+			</on>
+			<on time="-15">
+				<announce val="15" />
+			</on>
+			<on time="-10">
+				<open name="doors"/>
+				<announce val="10" />
+			</on>
+			<on time="-5">
+				<announce val="5" />
+			</on>
+			<on time="-4">
+				<announce val="4" />
+			</on>
+			<on time="-3">
+				<announce val="3" />
+			</on>
+			<on time="-2">
+				<announce val="2" />
+			</on>
+			<on time="-1">
+				<announce val="1" />
+			</on>
+			<on time="0">
+				<start name="event" />
+			</on>
+			<on time="1740">
+				<stop name="reenter" /> <!-- запретить релог -->
+			</on>
+			<on time="1800">
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="doors">
+			<door id="24190002" />
+			<door id="24190003" />
+		</objects>
+	</event>
+</list>

@@ -1,0 +1,23 @@
+Gatekeeper Wirphy:
+
+I was created through the Teleportation Device, the pinnacle of Giant science. I can send you wherever you wish to go using that power.
+
+Do you want to experience the unlimited power of the Giants?
+
+[npc_%objectId%_Teleport 1|Teleport]
+
+[npc_%objectId%_multisell 002|Exchange Dimension Diamonds.]
+
+[npc_%objectId%_Util:NoblessTeleport|Noblesse Exclusive Teleport]
+
+[npc_%objectId%_Util:QuestGatekeeper -80684 149770 -3040 1 1659|Teleport using Gatekeeper's Token.]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Move to Parnassus (offshore zone) - ${SERVICES_PARNASSUS_PRICE} Adena]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|I want free admission to Giran Harbor.]<br>
+#end
+[npc_%objectId%_birthdayHelper|Call Alegria]
+
+[npc_%objectId%_Quest|Quest]

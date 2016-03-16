@@ -1,0 +1,1 @@
+ALTER TABLE siege_clans ADD COLUMN `param` INT NOT NULL;

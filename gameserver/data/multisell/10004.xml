@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- Heavy sets --><!-- B-grade -->
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Avadon Set -->
+    <production id="2376" count="1" enchant="6"/> <!-- Avadon Breastplate -->
+    <production id="2379" count="1" enchant="6"/> <!-- Avadon Gaiters -->
+    <production id="2415" count="1" enchant="6"/> <!-- Avadon Circlet -->
+    <production id="5730" count="1" enchant="6"/> <!-- Avadon Boots Heavy Armor -->
+    <production id="5714" count="1" enchant="6"/> <!-- Avadon Gloves Heavy Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Zubei Set -->
+    <production id="357" count="1" enchant="6"/>  <!-- Zubei's Breastplate -->
+    <production id="383" count="1" enchant="6"/>  <!-- Zubei's Gaiters -->
+    <production id="503" count="1" enchant="6"/>  <!-- Zubei's Helmet -->
+    <production id="5726" count="1" enchant="6"/> <!-- Zubei's Boots Heavy Armor -->
+    <production id="5710" count="1" enchant="6"/> <!-- Zubei's Gauntlets Heavy Armor -->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Doom Set -->
+    <production id="2381" count="1" enchant="6"/> <!-- Doom Plate Armor -->
+    <production id="2417" count="1" enchant="6"/> <!-- Doom Helmet -->
+    <production id="5722" count="1" enchant="6"/> <!-- Doom Gloves Heavy Armor -->
+    <production id="5738" count="1" enchant="6"/> <!-- Doom Boots Heavy Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Blue Wolf Set -->
+    <production id="358" count="1" enchant="6"/> <!-- Blue Wolf Breastplate -->
+    <production id="2380" count="1" enchant="6"/> <!-- Blue Wolf Gaiters -->
+    <production id="2416" count="1" enchant="6"/> <!-- Blue Wolf Helmet -->
+    <production id="5734" count="1" enchant="6"/> <!-- Blue Wolf Boots Heavy Armor -->
+    <production id="5718" count="1" enchant="6"/> <!-- Blue Wolf Gloves Heavy Armor -->
+  </item>
+  <!-- Leather sets -->
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Avadon Set -->
+    <production id="2390" count="1" enchant="6"/> <!-- Avadon Leather Armor -->
+    <production id="2415" count="1" enchant="6"/> <!-- Avadon Circlet -->
+    <production id="5731" count="1" enchant="6"/> <!-- Avadon Boots Light Armor -->
+    <production id="5715" count="1" enchant="6"/> <!-- Avadon Gloves Light Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Zubei Set -->
+    <production id="2384" count="1" enchant="6"/> <!-- Zubei's Leather Shirt -->
+    <production id="2388" count="1" enchant="6"/> <!-- Zubei's Leather Gaiters -->
+    <production id="503" count="1" enchant="6"/>  <!-- Zubei's Helmet -->
+    <production id="5727" count="1" enchant="6"/> <!-- Zubei's Boots Light Armor -->
+    <production id="5711" count="1" enchant="6"/> <!-- Zubei's Gauntlets Light Armor -->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Doom Set -->
+    <production id="2392" count="1" enchant="6"/> <!-- Leather Armor of Doom -->
+    <production id="2417" count="1" enchant="6"/> <!-- Doom Helmet -->
+    <production id="5723" count="1" enchant="6"/> <!-- Doom Gloves Light Armor -->
+    <production id="5739" count="1" enchant="6"/> <!-- Doom Boots Light Armor -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Blue Wolf Set -->
+    <production id="2391" count="1" enchant="6"/> <!-- Blue Wolf Leather Armor -->
+    <production id="2416" count="1" enchant="6"/> <!-- Blue Wolf Helmet -->
+    <production id="5735" count="1" enchant="6"/> <!-- Blue Wolf Boots Light Armor -->
+    <production id="5719" count="1" enchant="6"/> <!-- Blue Wolf Gloves Light Armor -->
+  </item>
+  <!-- Roba sets -->
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Avadon Set -->
+    <production id="2406" count="1" enchant="6"/> <!-- Avadon Robe -->
+    <production id="2415" count="1" enchant="6"/> <!-- Avadon Circlet -->
+    <production id="5732" count="1" enchant="6"/> <!-- Avadon Boots Robe -->
+    <production id="5716" count="1" enchant="6"/> <!-- Avadon Gloves Robe -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Zubei Set -->
+    <production id="2397" count="1" enchant="6"/> <!-- Tunic of Zubei -->
+    <production id="2402" count="1" enchant="6"/> <!-- Stockings of Zubei -->
+    <production id="503" count="1" enchant="6"/>  <!-- Zubei's Helmet -->
+    <production id="5728" count="1" enchant="6"/> <!-- Zubei's Boots Robe -->
+    <production id="5712" count="1" enchant="6"/> <!-- Zubei's Gauntlets Robe -->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Doom Set -->
+    <production id="2399" count="1" enchant="6"/> <!-- Tunic of Doom -->
+    <production id="2404" count="1" enchant="6"/> <!-- Stockings of Doom -->
+    <production id="2417" count="1" enchant="6"/> <!-- Doom Helmet -->
+    <production id="5724" count="1" enchant="6"/> <!-- Doom Gloves Robe -->
+    <production id="5740" count="1" enchant="6"/> <!-- Doom Boots Robe -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Blue Wolf Set -->
+    <production id="2398" count="1" enchant="6"/> <!-- Blue Wolf Tunic -->
+    <production id="2403" count="1" enchant="6"/> <!-- Blue Wolf Stockings -->
+    <production id="2416" count="1" enchant="6"/> <!-- Blue Wolf Helmet -->
+    <production id="5736" count="1" enchant="6"/> <!-- Blue Wolf Boots Robe -->
+    <production id="5720" count="1" enchant="6"/> <!-- Blue Wolf Gloves Robe -->
+  </item>
+  <!-- Shields -->
+   <item>
+    <ingredient id="57" count="10000000"/> <!-- Avadon Shield -->
+    <production id="673" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/> <!-- Zubei's Shield -->
+    <production id="633" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/> <!-- Doom Shield -->
+    <production id="110" count="1" enchant="6"/>
+  </item>
+</list>

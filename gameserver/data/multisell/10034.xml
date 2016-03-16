@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  
+
+<!--Vesper Necklace-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16377" count="1" enchant="6" />
+</item>
+
+<!--Vesper Earring-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16376" count="1" enchant="6" />
+</item>
+
+<!--Vesper Ring-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16375" count="1" enchant="6" />
+</item>
+
+<!--Moirai Necklace-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="16380" count="1" enchant="6" />
+</item>
+
+<!--Moirai Earring-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="16379" count="1" enchant="6" />
+</item>
+
+<!--Moirai Ring-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="16378" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Necklace-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11599" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Earrings-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11601" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Ring-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11600" count="1" enchant="6" />
+</item>
+
+<!--Tateossian Necklace-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11596" count="1" enchant="6" />
+</item>
+
+<!--Tateossian Earring-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11598" count="1" enchant="6" />
+</item>
+
+<!--Tateossian Ring-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11597" count="1" enchant="6" />
+</item>
+
+<!--Majestic Necklace-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11587" count="1" enchant="6" />
+</item>
+
+<!--Majestic Earring-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11589" count="1" enchant="6" />
+</item>
+
+<!--Majestic Ring-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11588" count="1" enchant="6" />
+</item>
+
+<!--Phoenix Necklace-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11584" count="1" enchant="6" />
+</item>
+
+<!--Phoenix Earring-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11586" count="1" enchant="6" />
+</item>
+
+<!--Phoenix Ring-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11585" count="1" enchant="6" />
+</item>
+
+<!--Necklace of Black Ore-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11579" count="1" enchant="6" />
+</item>
+
+<!--Earring of Black Ore-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11578" count="1" enchant="6" />
+</item>
+
+<!--Ring of Black Ore-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11580" count="1" enchant="6" />
+</item>
+
+<!--Adamantite Necklace-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11576" count="1" enchant="6" />
+</item>
+
+<!--Adamantite Earring-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11575" count="1" enchant="6" />
+</item>
+
+<!--Adamantite Ring-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11577" count="1" enchant="6" />
+</item>
+
+</list>

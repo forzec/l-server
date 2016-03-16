@@ -1,0 +1,1 @@
+ALTER TABLE olympiad_nobles DROP `char_name`;

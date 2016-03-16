@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="18700">
+		<!--Increase Max MP 10.5 Increase M. Atk. 4.65-->
+		<for>
+			<add order="0x60" stat="maxMp" value="10.5" />
+			<add order="0x60" stat="mAtk" value="4.65" />
+		</for>
+	</option_data>
+	<option_data id="18701">
+		<!--Increase Max MP 10.5 Increase HP Regen 0.16-->
+		<for>
+			<add order="0x60" stat="maxMp" value="10.5" />
+			<add order="0x60" stat="regHp" value="0.16" />
+		</for>
+	</option_data>
+	<option_data id="18702">
+		<!--Increase Max MP 10.5 Increase MP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="maxMp" value="10.5" />
+			<add order="0x60" stat="regMp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18703">
+		<!--Increase M. Atk. 9.3-->
+		<for>
+			<add order="0x60" stat="mAtk" value="9.3" />
+		</for>
+	</option_data>
+	<option_data id="18704">
+		<!--Increase M. Atk. 4.65 Increase HP Regen 0.16-->
+		<for>
+			<add order="0x60" stat="mAtk" value="4.65" />
+			<add order="0x60" stat="regHp" value="0.16" />
+		</for>
+	</option_data>
+	<option_data id="18705">
+		<!--Increase M. Atk. 4.65 Increase MP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="mAtk" value="4.65" />
+			<add order="0x60" stat="regMp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18706">
+		<!--Increase HP Regen 0.32-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.32" />
+		</for>
+	</option_data>
+	<option_data id="18707">
+		<!--Increase MP Regen 0.1-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.1" />
+		</for>
+	</option_data>
+	<option_data id="18708">
+		<!--Increase HP Regen 0.16 Increase MP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.16" />
+			<add order="0x60" stat="regMp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18709">
+		<!--Equip Skill: Increase Earth P. Def.-->
+		<skills>
+			<skill id="3915" level="1" /> <!--Augment Option - Earth Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18710">
+		<!--Equip Skill: Increase Fire P. Def.-->
+		<skills>
+			<skill id="3912" level="1" /> <!--Augment Option - Fire Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18711">
+		<!--Equip Skill: Increase Holy P. Def.-->
+		<skills>
+			<skill id="3910" level="1" /> <!--Augment Option - Resistance to Holy-->
+		</skills>
+	</option_data>
+	<option_data id="18712">
+		<!--Equip Skill: Increase Dark P. Def.-->
+		<skills>
+			<skill id="3911" level="1" /> <!--Augment Option - Dark Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18713">
+		<!--Equip Skill: Increase Water P. Def.-->
+		<skills>
+			<skill id="3913" level="1" /> <!--Augment Option - Water Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18714">
+		<!--Equip Skill: Increase Wind P. Def.-->
+		<skills>
+			<skill id="3914" level="1" /> <!--Augment Option - Wind Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18715">
+		<!--Equip Skill: Increase Bleed P. Atk.-->
+		<skills>
+			<skill id="3953" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18716">
+		<!--Equip Skill: Increase Bleed P. Def.-->
+		<skills>
+			<skill id="3959" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18717">
+		<!--Equip Skill: Increase Mental Abnormal P. Atk.-->
+		<skills>
+			<skill id="3957" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18718">
+		<!--Equip Skill: Increase Mental Abnormal P. Def.-->
+		<skills>
+			<skill id="3963" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18719">
+		<!--Equip Skill: Increases the power of paralysis-type attacks.-->
+		<skills>
+			<skill id="3956" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18720">
+		<!--Equip Skill: Increases your defense against paralysis-type attacks.-->
+		<skills>
+			<skill id="3962" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18721">
+		<!--Equip Skill: Increase Poison P. Atk.-->
+		<skills>
+			<skill id="3954" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18722">
+		<!--Equip Skill: Increase Poison P. Def.-->
+		<skills>
+			<skill id="3960" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18723">
+		<!--Equip Skill: Increase Stun P. Atk.-->
+		<skills>
+			<skill id="3952" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18724">
+		<!--Equip Skill: Increase Stun P. Def.-->
+		<skills>
+			<skill id="3958" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18725">
+		<!--Equip Skill: Increase Sleep P. Atk.-->
+		<skills>
+			<skill id="3955" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18726">
+		<!--Equip Skill: Increase Sleep P. Def.-->
+		<skills>
+			<skill id="3961" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="18727">
+		<!--Equip Skill: Increase Earth P. Atk.-->
+		<skills>
+			<skill id="3909" level="1" /> <!--Augment Option - Earth Attack-->
+		</skills>
+	</option_data>
+	<option_data id="18728">
+		<!--Equip Skill: Increase Fire P. Atk.-->
+		<skills>
+			<skill id="3906" level="1" /> <!--Augment Option - Fire Attack-->
+		</skills>
+	</option_data>
+	<option_data id="18729">
+		<!--Equip Skill: Increase Holy P. Atk.-->
+		<skills>
+			<skill id="3904" level="1" /> <!--Augment Option - Holy Attack-->
+		</skills>
+	</option_data>
+	<option_data id="18730">
+		<!--Equip Skill: Increase Unholy P. Atk.-->
+		<skills>
+			<skill id="3905" level="1" /> <!--Augment Option - Dark Attack-->
+		</skills>
+	</option_data>
+	<option_data id="18731">
+		<!--Equip Skill: Increase Water P. Atk.-->
+		<skills>
+			<skill id="3907" level="1" /> <!--Augment Option - Water Attack-->
+		</skills>
+	</option_data>
+	<option_data id="18732">
+		<!--Equip Skill: Increase Wind P. Atk.-->
+		<skills>
+			<skill id="3908" level="1" /> <!--Augment Option - Wind Attack-->
+		</skills>
+	</option_data>
+	<option_data id="18733">
+		<!--Increase M. Def. 2.1-->
+		<for>
+			<add order="0x60" stat="mDef" value="2.1" />
+		</for>
+	</option_data>
+	<option_data id="18734">
+		<!--Increase M. Def. 1.1 Increase Max HP 10.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="maxHp" value="10.5" />
+		</for>
+	</option_data>
+	<option_data id="18735">
+		<!--Increase M. Def. 1.1 Increase Max MP 6.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="maxMp" value="6.5" />
+		</for>
+	</option_data>
+	<option_data id="18736">
+		<!--Increase M. Def. 1.1 Increase M. Atk. 1.25-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="mAtk" value="1.25" />
+		</for>
+	</option_data>
+	<option_data id="18737">
+		<!--Increase M. Def. 1.1 Increase HP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="regHp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18738">
+		<!--Increase M. Def. 1.1 Increase MP Regen 0.015-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="regMp" value="0.015" />
+		</for>
+	</option_data>
+	<option_data id="18739">
+		<!--Increase Max HP 21.0-->
+		<for>
+			<add order="0x60" stat="maxHp" value="21.0" />
+		</for>
+	</option_data>
+	<option_data id="18740">
+		<!--Increase Max HP 10.5 Increase Max MP 6.5-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="maxMp" value="6.5" />
+		</for>
+	</option_data>
+	<option_data id="18741">
+		<!--Increase Max HP 10.5 Increase M. Atk. 1.25-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="mAtk" value="1.25" />
+		</for>
+	</option_data>
+	<option_data id="18742">
+		<!--Increase Max HP 10.5 Increase HP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="regHp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18743">
+		<!--Increase Max HP 10.5 Increase MP Regen 0.015-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="regMp" value="0.015" />
+		</for>
+	</option_data>
+	<option_data id="18744">
+		<!--Increase Max MP 13.0-->
+		<for>
+			<add order="0x60" stat="maxMp" value="13.0" />
+		</for>
+	</option_data>
+	<option_data id="18745">
+		<!--Increase Max MP 6.5 Increase M. Atk. 1.25-->
+		<for>
+			<add order="0x60" stat="maxMp" value="6.5" />
+			<add order="0x60" stat="mAtk" value="1.25" />
+		</for>
+	</option_data>
+	<option_data id="18746">
+		<!--Increase Max MP 6.5 Increase HP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="maxMp" value="6.5" />
+			<add order="0x60" stat="regHp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18747">
+		<!--Increase Max MP 6.5 Increase MP Regen 0.015-->
+		<for>
+			<add order="0x60" stat="maxMp" value="6.5" />
+			<add order="0x60" stat="regMp" value="0.015" />
+		</for>
+	</option_data>
+	<option_data id="18748">
+		<!--Increase M. Atk. 2.5-->
+		<for>
+			<add order="0x60" stat="mAtk" value="2.5" />
+		</for>
+	</option_data>
+	<option_data id="18749">
+		<!--Increase M. Atk. 1.25 Increase HP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="mAtk" value="1.25" />
+			<add order="0x60" stat="regHp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18750">
+		<!--Increase M. Atk. 1.25 Increase MP Regen 0.015-->
+		<for>
+			<add order="0x60" stat="mAtk" value="1.25" />
+			<add order="0x60" stat="regMp" value="0.015" />
+		</for>
+	</option_data>
+	<option_data id="18751">
+		<!--Increase HP Regen 0.1-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.1" />
+		</for>
+	</option_data>
+	<option_data id="18752">
+		<!--Increase MP Regen 0.03-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.03" />
+		</for>
+	</option_data>
+	<option_data id="18753">
+		<!--Increase HP Regen 0.05 Increase MP Regen 0.015-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.05" />
+			<add order="0x60" stat="regMp" value="0.015" />
+		</for>
+	</option_data>
+	<option_data id="18754">
+		<!--Increase M. Def. 2.4-->
+		<for>
+			<add order="0x60" stat="mDef" value="2.4" />
+		</for>
+	</option_data>
+	<option_data id="18755">
+		<!--Increase M. Def. 1.2 Increase Max HP 12.0-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.2" />
+			<add order="0x60" stat="maxHp" value="12.0" />
+		</for>
+	</option_data>
+	<option_data id="18756">
+		<!--Increase M. Def. 1.2 Increase Max MP 7.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.2" />
+			<add order="0x60" stat="maxMp" value="7.5" />
+		</for>
+	</option_data>
+	<option_data id="18757">
+		<!--Increase M. Def. 1.2 Increase M. Atk. 1.45-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.2" />
+			<add order="0x60" stat="mAtk" value="1.45" />
+		</for>
+	</option_data>
+	<option_data id="18758">
+		<!--Increase M. Def. 1.2 Increase HP Regen 0.055-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.2" />
+			<add order="0x60" stat="regHp" value="0.055" />
+		</for>
+	</option_data>
+	<option_data id="18759">
+		<!--Increase M. Def. 1.2 Increase MP Regen 0.02-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.2" />
+			<add order="0x60" stat="regMp" value="0.02" />
+		</for>
+	</option_data>
+	<option_data id="18760">
+		<!--Increase Max HP 24.0-->
+		<for>
+			<add order="0x60" stat="maxHp" value="24.0" />
+		</for>
+	</option_data>
+	<option_data id="18761">
+		<!--Increase Max HP 12.0 Increase Max MP 7.5-->
+		<for>
+			<add order="0x60" stat="maxHp" value="12.0" />
+			<add order="0x60" stat="maxMp" value="7.5" />
+		</for>
+	</option_data>
+	<option_data id="18762">
+		<!--Increase Max HP 12.0 Increase M. Atk. 1.45-->
+		<for>
+			<add order="0x60" stat="maxHp" value="12.0" />
+			<add order="0x60" stat="mAtk" value="1.45" />
+		</for>
+	</option_data>
+	<option_data id="18763">
+		<!--Increase Max HP 12.0 Increase HP Regen 0.055-->
+		<for>
+			<add order="0x60" stat="maxHp" value="12.0" />
+			<add order="0x60" stat="regHp" value="0.055" />
+		</for>
+	</option_data>
+	<option_data id="18764">
+		<!--Increase Max HP 12.0 Increase MP Regen 0.02-->
+		<for>
+			<add order="0x60" stat="maxHp" value="12.0" />
+			<add order="0x60" stat="regMp" value="0.02" />
+		</for>
+	</option_data>
+	<option_data id="18765">
+		<!--Increase Max MP 15.0-->
+		<for>
+			<add order="0x60" stat="maxMp" value="15.0" />
+		</for>
+	</option_data>
+	<option_data id="18766">
+		<!--Increase Max MP 7.5 Increase M. Atk. 1.45-->
+		<for>
+			<add order="0x60" stat="maxMp" value="7.5" />
+			<add order="0x60" stat="mAtk" value="1.45" />
+		</for>
+	</option_data>
+	<option_data id="18767">
+		<!--Increase Max MP 7.5 Increase HP Regen 0.055-->
+		<for>
+			<add order="0x60" stat="maxMp" value="7.5" />
+			<add order="0x60" stat="regHp" value="0.055" />
+		</for>
+	</option_data>
+	<option_data id="18768">
+		<!--Increase Max MP 7.5 Increase MP Regen 0.02-->
+		<for>
+			<add order="0x60" stat="maxMp" value="7.5" />
+			<add order="0x60" stat="regMp" value="0.02" />
+		</for>
+	</option_data>
+	<option_data id="18769">
+		<!--Increase M. Atk. 2.9-->
+		<for>
+			<add order="0x60" stat="mAtk" value="2.9" />
+		</for>
+	</option_data>
+	<option_data id="18770">
+		<!--Increase M. Atk. 1.45 Increase HP Regen 0.055-->
+		<for>
+			<add order="0x60" stat="mAtk" value="1.45" />
+			<add order="0x60" stat="regHp" value="0.055" />
+		</for>
+	</option_data>
+	<option_data id="18771">
+		<!--Increase M. Atk. 1.45 Increase MP Regen 0.02-->
+		<for>
+			<add order="0x60" stat="mAtk" value="1.45" />
+			<add order="0x60" stat="regMp" value="0.02" />
+		</for>
+	</option_data>
+	<option_data id="18772">
+		<!--Increase HP Regen 0.11-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.11" />
+		</for>
+	</option_data>
+	<option_data id="18773">
+		<!--Increase MP Regen 0.04-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.04" />
+		</for>
+	</option_data>
+	<option_data id="18774">
+		<!--Increase HP Regen 0.055 Increase MP Regen 0.02-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.055" />
+			<add order="0x60" stat="regMp" value="0.02" />
+		</for>
+	</option_data>
+	<option_data id="18775">
+		<!--Increase M. Def. 3.0-->
+		<for>
+			<add order="0x60" stat="mDef" value="3.0" />
+		</for>
+	</option_data>
+	<option_data id="18776">
+		<!--Increase M. Def. 1.5 Increase Max HP 15.0-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.5" />
+			<add order="0x60" stat="maxHp" value="15.0" />
+		</for>
+	</option_data>
+	<option_data id="18777">
+		<!--Increase M. Def. 1.5 Increase Max MP 9.0-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.5" />
+			<add order="0x60" stat="maxMp" value="9.0" />
+		</for>
+	</option_data>
+	<option_data id="18778">
+		<!--Increase M. Def. 1.5 Increase M. Atk. 1.8-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.5" />
+			<add order="0x60" stat="mAtk" value="1.8" />
+		</for>
+	</option_data>
+	<option_data id="18779">
+		<!--Increase M. Def. 1.5 Increase HP Regen 0.07-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.5" />
+			<add order="0x60" stat="regHp" value="0.07" />
+		</for>
+	</option_data>
+	<option_data id="18780">
+		<!--Increase M. Def. 1.5 Increase MP Regen 0.025-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.5" />
+			<add order="0x60" stat="regMp" value="0.025" />
+		</for>
+	</option_data>
+	<option_data id="18781">
+		<!--Increase Max HP 30.0-->
+		<for>
+			<add order="0x60" stat="maxHp" value="30.0" />
+		</for>
+	</option_data>
+	<option_data id="18782">
+		<!--Increase Max HP 15.0 Increase Max MP 9.0-->
+		<for>
+			<add order="0x60" stat="maxHp" value="15.0" />
+			<add order="0x60" stat="maxMp" value="9.0" />
+		</for>
+	</option_data>
+	<option_data id="18783">
+		<!--Increase Max HP 15.0 Increase M. Atk. 1.8-->
+		<for>
+			<add order="0x60" stat="maxHp" value="15.0" />
+			<add order="0x60" stat="mAtk" value="1.8" />
+		</for>
+	</option_data>
+	<option_data id="18784">
+		<!--Increase Max HP 15.0 Increase HP Regen 0.07-->
+		<for>
+			<add order="0x60" stat="maxHp" value="15.0" />
+			<add order="0x60" stat="regHp" value="0.07" />
+		</for>
+	</option_data>
+	<option_data id="18785">
+		<!--Increase Max HP 15.0 Increase MP Regen 0.025-->
+		<for>
+			<add order="0x60" stat="maxHp" value="15.0" />
+			<add order="0x60" stat="regMp" value="0.025" />
+		</for>
+	</option_data>
+	<option_data id="18786">
+		<!--Increase Max MP 18.0-->
+		<for>
+			<add order="0x60" stat="maxMp" value="18.0" />
+		</for>
+	</option_data>
+	<option_data id="18787">
+		<!--Increase Max MP 9.0 Increase M. Atk. 1.8-->
+		<for>
+			<add order="0x60" stat="maxMp" value="9.0" />
+			<add order="0x60" stat="mAtk" value="1.8" />
+		</for>
+	</option_data>
+	<option_data id="18788">
+		<!--Increase Max MP 9.0 Increase HP Regen 0.07-->
+		<for>
+			<add order="0x60" stat="maxMp" value="9.0" />
+			<add order="0x60" stat="regHp" value="0.07" />
+		</for>
+	</option_data>
+	<option_data id="18789">
+		<!--Increase Max MP 9.0 Increase MP Regen 0.025-->
+		<for>
+			<add order="0x60" stat="maxMp" value="9.0" />
+			<add order="0x60" stat="regMp" value="0.025" />
+		</for>
+	</option_data>
+	<option_data id="18790">
+		<!--Increase M. Atk. 3.6-->
+		<for>
+			<add order="0x60" stat="mAtk" value="3.6" />
+		</for>
+	</option_data>
+	<option_data id="18791">
+		<!--Increase M. Atk. 1.8 Increase HP Regen 0.07-->
+		<for>
+			<add order="0x60" stat="mAtk" value="1.8" />
+			<add order="0x60" stat="regHp" value="0.07" />
+		</for>
+	</option_data>
+	<option_data id="18792">
+		<!--Increase M. Atk. 1.8 Increase MP Regen 0.025-->
+		<for>
+			<add order="0x60" stat="mAtk" value="1.8" />
+			<add order="0x60" stat="regMp" value="0.025" />
+		</for>
+	</option_data>
+	<option_data id="18793">
+		<!--Increase HP Regen 0.14-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.14" />
+		</for>
+	</option_data>
+	<option_data id="18794">
+		<!--Increase MP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="18795">
+		<!--Increase HP Regen 0.07 Increase MP Regen 0.025-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.07" />
+			<add order="0x60" stat="regMp" value="0.025" />
+		</for>
+	</option_data>
+	<option_data id="18796">
+		<!--Increase M. Def. 3.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="3.5" />
+		</for>
+	</option_data>
+	<option_data id="18797">
+		<!--Increase M. Def. 1.75 Increase Max HP 17.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.75" />
+			<add order="0x60" stat="maxHp" value="17.5" />
+		</for>
+	</option_data>
+	<option_data id="18798">
+		<!--Increase M. Def. 1.75 Increase Max MP 10.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.75" />
+			<add order="0x60" stat="maxMp" value="10.5" />
+		</for>
+	</option_data>
+	<option_data id="18799">
+		<!--Increase M. Def. 1.75 Increase M. Atk. 2.1-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.75" />
+			<add order="0x60" stat="mAtk" value="2.1" />
+		</for>
+	</option_data>
+</list>

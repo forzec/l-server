@@ -1,0 +1,1 @@
+ALTER TABLE `clan_data` ADD `airship` SMALLINT NOT NULL DEFAULT -1;

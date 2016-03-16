@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="2900" levels="1" name="Ancient Herb - Slayer" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: "Possessed by those spirits who existed during the beginning of the world, this herb allows you to strike down your enemies with the strength of a bull."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.freed_soul_core_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="abnormal_instant" val="true" />
+	</skill>
+	<skill id="2901" levels="1" name="Ancient Herb - Immortal" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: "Possessed by those spirits who existed during the beginning of the world, this herb makes you temporarily impervious to your enemy's attacks." none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.freed_soul_core_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="abnormal_instant" val="true" />
+	</skill>
+	<skill id="2902" levels="1" name="Ancient Herb - Terminator" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: "Possessed by those spirits who existed during the beginning of the world, this herb allows you to cast as fast as the wind."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.freed_soul_core_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="abnormal_instant" val="true" />
+	</skill>
+	<skill id="2903" levels="1" name="Ancient Herb - Guide" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: "Possessed by those spirits who existed during the beginning of the world, this herb allows you to move faster than any beast on the plains."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.freed_soul_core_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="abnormal_instant" val="true" />
+	</skill>
+	<skill id="2904" levels="1" name="Guardian Spirit's Divine Protection" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2905" levels="1" name="Growth Accelerator" >
+		<!--  
+			Author: n0nam3
+			Date: 21-05-2010
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="85" />
+		<set name="castRange" val="120" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="itemConsumeId" val="14832" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="isHandler" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="144">
+			<or>
+				<target mobId="18793" />
+				<target mobId="18794" />
+				<target mobId="18795" />
+				<target mobId="18796" />
+				<target mobId="18797" />
+				<target mobId="18798" />
+			</or>
+		</cond>
+	</skill>
+	<skill id="2906" levels="1" name="Incubation Accelerator" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2907" levels="5" name="Battlefield Use Secret Medicine of Life none" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="600000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2908" levels="5" name="Battlefield Use Secret Medicine of Mind none" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="600000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2909" levels="5" name="Battlefield Use Secret Medicine of Will none" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="600000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2910" levels="1" name="Skull Key of Pain" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2911" levels="1" name="Skull Key of Erosion" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2912" levels="1" name="Skull Key of the Heart" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2913" levels="1" name="Soul Extraction none" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="60000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2914" levels="2" name="Equipment Set 10/30 Day Pack" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2915" levels="1" name="Clear Five-Colored Crystal" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="20000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2916" levels="1" name="Feed for Enriched Enhanced Pets none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="14818" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="FEED_PET" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="feedValues" val="2;2;0" /> <!-- 11000,11000,0 -->
+	</skill>
+	<skill id="2917" levels="1" name="Big Staccato Silk Cocoon" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2918" levels="1" name="Small Staccato Silk Cocoon" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2919" levels="1" name="Ancient Parchment" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="itemConsumeId" val="14841" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Ancient Parchment -->
+			<group chance="40">
+				<extract item_id="5942" count="1" /> <!-- Giant's Love Letter -->
+			</group>
+			<group chance="40">
+				<extract item_id="5943" count="1" /> <!-- Giants' Doodle -->
+			</group>
+			<group chance="4">
+				<extract item_id="14836" count="1" /> <!-- Knowledge of the Giants Anthology, Chapter 1 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14837" count="1" /> <!-- Knowledge of the Giants Anthology, Chapter 2 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14838" count="1" /> <!-- Knowledge of the Giants Anthology, Chapter 3 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14839" count="1" /> <!-- Knowledge of the Giants Anthology, Chapter 4 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14840" count="1" /> <!-- Knowledge of the Giants Anthology, Chapter 5 -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2920" levels="1" name="Titan's Ancient Book" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="14847" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1"> <!-- Titan Ancient Book -->
+			<group chance="40">
+				<extract item_id="5942" count="1" /> <!-- Giant's Love Letter -->
+			</group>
+			<group chance="40">
+				<extract item_id="5943" count="1" /> <!-- Giants' Doodle -->
+			</group>
+			<group chance="4">
+				<extract item_id="14842" count="1" /> <!-- Wisdom of the Giants Text, Chapter 1 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14843" count="1" /> <!-- Wisdom of the Giants Text, Chapter 2 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14844" count="1" /> <!-- Wisdom of the Giants Text, Chapter 3 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14845" count="1" /> <!-- Wisdom of the Giants Text, Chapter 4 -->
+			</group>
+			<group chance="4">
+				<extract item_id="14846" count="1" /> <!-- Wisdom of the Giants Text, Chapter 5 -->
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2921" levels="1" name="Gludio Supply Box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13695"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2922" levels="1" name="Dion supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13696"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2923" levels="1" name="Giran supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13697"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2924" levels="1" name="Oren supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13698"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2925" levels="1" name="Aden supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13699"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2926" levels="1" name="Innadril supply box - magic pin none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13700"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2927" levels="1" name="Goddard supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13701"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2928" levels="1" name="Rune supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13702"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2929" levels="1" name="Schuttgart supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13703"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13898" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13899" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2930" levels="1" name="Gludio supply box - magic pouch none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13704"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2931" levels="1" name="Dion supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13705"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2932" levels="1" name="Giran supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13706"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2933" levels="1" name="Oren supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13707"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2934" levels="1" name="Aden supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13708"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2935" levels="1" name="Innadril supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13709"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2936" levels="1" name="Goddard supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13710"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2937" levels="1" name="Rune supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13711"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2938" levels="1" name="Schuttgart supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13712"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13918" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13919" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2939" levels="1" name="Gludio supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13713"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2940" levels="1" name="Dion supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13714"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2941" levels="1" name="Giran supply box - belt none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13715"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2942" levels="1" name="Oren supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13716"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2943" levels="1" name="Aden supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13717"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2944" levels="1" name="Innadril supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13718"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2945" levels="1" name="Goddard supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13719"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2946" levels="1" name="Rune supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13720"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2947" levels="1" name="Schuttgart supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="13721"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13894" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13895" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2948" levels="1" name="Gludio Supply Box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14531"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2949" levels="1" name="Dion supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14532"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2950" levels="1" name="Giran supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14533"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2951" levels="1" name="Oren supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14534"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2952" levels="1" name="Aden supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14535"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2953" levels="1" name="Innadril supply box - magic pin none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14536"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2954" levels="1" name="Goddard supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14537"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2955" levels="1" name="Rune supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14538"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2956" levels="1" name="Schuttgart supply box - magic pin" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14539"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13900" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13901" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2957" levels="1" name="Gludio supply box - magic pouch none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14540"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2958" levels="1" name="Dion supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14541"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2959" levels="1" name="Giran supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14542"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2960" levels="1" name="Oren supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14543"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2961" levels="1" name="Aden supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14544"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2962" levels="1" name="Innadril supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14545"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2963" levels="1" name="Goddard supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14546"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2964" levels="1" name="Rune supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14547"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2965" levels="1" name="Schuttgart supply box - magic pouch" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14548"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13920" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13921" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2966" levels="1" name="Gludio supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14549"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2967" levels="1" name="Dion supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14550"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2968" levels="1" name="Giran supply box - belt none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14551"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2969" levels="1" name="Oren supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14552"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2970" levels="1" name="Aden supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14553"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2971" levels="1" name="Innadril supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14554"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2972" levels="1" name="Goddard supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14555"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2973" levels="1" name="Rune supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14556"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2974" levels="1" name="Schuttgart supply box - belt" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14557"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="30">
+				<extract item_id="13896" count="1" />
+			</group>
+			<group chance="15">
+				<extract item_id="13897" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2975" levels="1" name="Gludio supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14884"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2976" levels="1" name="Dion supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14885"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2977" levels="1" name="Giran supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14886"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2978" levels="1" name="Oren supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14887"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2979" levels="1" name="Aden supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14888"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2980" levels="1" name="Innadril supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14889"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2981" levels="1" name="Goddard supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14890"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2982" levels="1" name="Rune supply box - magic rune clip" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14891"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2983" levels="1" name="Schuttgart supply box - magic rune clip none" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14892"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14902" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14903" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2984" levels="1" name="Gludio supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14893"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2985" levels="1" name="Dion supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14894"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2986" levels="1" name="Giran supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14895"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2987" levels="1" name="Oren supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14896"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2988" levels="1" name="Aden supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14897"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2989" levels="1" name="Innadril supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14898"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2990" levels="1" name="Goddard supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14899"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2991" levels="1" name="Rune supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14900"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2992" levels="1" name="Schuttgart supply box - magic ornament" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXTRACT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<set name="itemConsumeId" val="14901"/>
+		<set name="itemConsumeCount" val="1"/>
+		<cond msgId="113" addName="1">
+			<player encumbered="20;10" />
+		</cond>
+		<extractlist level="1">
+			<group chance="21">
+				<extract item_id="14904" count="1" />
+			</group>
+			<group chance="10.5">
+				<extract item_id="14905" count="1" />
+			</group>
+		</extractlist>
+	</skill>
+	<skill id="2993" levels="1" name="Ancient herb - Deceiver" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: You incur the wrath of the spirits who existed in the chaos of the beginning of the world by taking the ancient herb without permission.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.freed_soul_core_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2994" levels="1" name="Disguised Half - Aqua Elf" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: Disguised as a half aqua elf in alluring dress. none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2995" levels="1" name="PC room private weapon strengthening order sheet - D grade" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2996" levels="1" name="PC room private weapon strengthening order sheet - C grade" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2997" levels="1" name="PC room private weapon strengthening order sheet - B grade" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2998" levels="1" name="PC room private weapon strengthening order sheet - A grade" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="2999" levels="1" name="PC room private weapon strengthening order sheet - S grade" >
+		<!--  Automatically generated from The Gracia Plus client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 21-05-2010 17:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+</list>

@@ -1,0 +1,149 @@
+package handler.bbs;
+
+import java.lang.reflect.Method;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.StringTokenizer;
+
+import org.apache.commons.lang3.tuple.Pair;
+import org.mmocore.commons.dbutils.DbUtils;
+import org.mmocore.gameserver.Config;
+import org.mmocore.gameserver.data.htm.HtmCache;
+import org.mmocore.gameserver.data.xml.holder.MultiSellHolder;
+import org.mmocore.gameserver.database.DatabaseFactory;
+import org.mmocore.gameserver.handler.bbs.BbsHandlerHolder;
+import org.mmocore.gameserver.handler.bypass.BypassHolder;
+import org.mmocore.gameserver.model.Player;
+import org.mmocore.gameserver.network.l2.s2c.ShowBoard;
+import org.mmocore.gameserver.tables.ClanTable;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class CommunityBoard extends ScriptBbsHandler
+{
+	private static final Logger _log = LoggerFactory.getLogger(CommunityBoard.class);
+
+	@Override
+	public String[] getBypassCommands()
+	{
+		return new String[] { "_bbshome", "_bbslink", "_bbsmultisell", "_bbspage", "_bbsscripts" };
+	}
+
+	@Override
+	public void onBypassCommand(Player player, String bypass)
+	{
+		StringTokenizer st = new StringTokenizer(bypass, "_");
+		String cmd = st.nextToken();
+		String html = "";
+		if("bbshome".equals(cmd))
+		{
+			StringTokenizer p = new StringTokenizer(Config.BBS_DEFAULT, "_");
+			String dafault = p.nextToken();
+			if(dafault.equals(cmd))
+			{
+				html = HtmCache.getInstance().getHtml("scripts/services/community/bbs_top.htm", player);
+
+				int favCount = 0;
+				Connection con = null;
+				PreparedStatement statement = null;
+				ResultSet rset = null;
+				try
+				{
+					con = DatabaseFactory.getInstance().getConnection();
+					statement = con.prepareStatement("SELECT count(*) as cnt FROM `bbs_favorites` WHERE `object_id` = ?");
+					statement.setInt(1, player.getObjectId());
+					rset = statement.executeQuery();
+					if(rset.next())
+						favCount = rset.getInt("cnt");
+				}
+				catch(Exception e)
+				{}
+				finally
+				{
+					DbUtils.closeQuietly(con, statement, rset);
+				}
+
+				html = html.replace("<?fav_count?>", String.valueOf(favCount));
+				html = html.replace("<?clan_count?>", String.valueOf(ClanTable.getInstance().getClans().length));
+				html = html.replace("<?market_count?>", String.valueOf(BbsHandlerHolder.getInstance().getIntProperty("col_count")));
+			}
+			else
+			{
+				onBypassCommand(player, Config.BBS_DEFAULT);
+				return;
+			}
+		}
+		else if("bbslink".equals(cmd))
+			html = HtmCache.getInstance().getHtml("scripts/services/community/bbs_homepage.htm", player);
+		else if(bypass.startsWith("_bbspage"))
+		{
+			//Example: "bypass _bbspage:index".
+			String[] b = bypass.split(":");
+			String page = b[1];
+			html = HtmCache.getInstance().getHtml("scripts/services/community/pages/" + page + ".htm", player);
+			if (html == null)
+				return;
+		}
+		else if(bypass.startsWith("_bbsmultisell"))
+		{
+			//Example: "_bbsmultisell:10000;_bbspage:index" or "_bbsmultisell:10000;_bbshome" or "_bbsmultisell:10000"...
+			StringTokenizer st2 = new StringTokenizer(bypass, ";");
+			String[] mBypass = st2.nextToken().split(":");
+			String pBypass = st2.hasMoreTokens() ? st2.nextToken() : null;
+			if(pBypass != null)
+				onBypassCommand(player, pBypass);
+
+			int listId = Integer.parseInt(mBypass[1]);
+			MultiSellHolder.getInstance().SeparateAndSend(listId, player, -1, 0);
+			return;
+		}
+		else if(bypass.startsWith("_bbsscripts"))
+		{
+			//Example: "_bbsscripts:events.GvG.GvG:addGroup;_bbspage:index" or "_bbsscripts:events.GvG.GvG:addGroup;_bbshome" or "_bbsscripts:events.GvG.GvG:addGroup"...
+			/*StringTokenizer st2 = new StringTokenizer(bypass, ";");
+			String sBypass = st2.nextToken().substring(12);
+			String pBypass = st2.hasMoreTokens() ? st2.nextToken() : null;
+			if(pBypass != null)
+				onBypassCommand(player, pBypass);
+
+			String[] word = sBypass.split("\\s+");
+			String[] args = sBypass.substring(word[0].length()).trim().split("\\s+");
+			String[] path = word[0].split(":");
+			if(path.length != 2)
+				return;
+
+			Scripts.getInstance().callScripts(player, path[0], path[1], word.length == 1 ? new Object[] {} : new Object[] { args });
+			return;*/
+			_log.error("Trying to call script bypass: " + bypass + " " + player);
+		}
+		else if(bypass.startsWith("_bbshtmbypass"))
+		{
+			StringTokenizer st2 = new StringTokenizer(bypass, ";");
+			String command = st2.nextToken().substring(14);
+			String pBypass = st2.hasMoreTokens() ? st2.nextToken() : null;
+			if(pBypass != null)
+				onBypassCommand(player, pBypass);
+
+			String word = command.split("\\s+")[0];
+
+			Pair<Object, Method> b = BypassHolder.getInstance().getBypass(word);
+			if(b != null)
+				try
+				{
+					b.getValue().invoke(b.getKey(), player, null, command.substring(word.length()).trim().split("\\s+"));
+				}
+				catch(Exception e)
+				{
+					_log.error("Exception: " + e, e);
+				}
+			return;
+		}
+
+		ShowBoard.separateAndSend(html, player);
+	}
+
+	@Override
+	public void onWriteCommand(Player player, String bypass, String arg1, String arg2, String arg3, String arg4, String arg5)
+	{}
+}

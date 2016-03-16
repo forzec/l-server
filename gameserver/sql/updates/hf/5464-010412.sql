@@ -1,0 +1,1 @@
+update character_quests set value=1 where value='2' and var='cond' and quest_id in(10276, 10277, 10278, 10279, 10280, 10281);

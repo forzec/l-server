@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="15600">
+		<!--Chance: During a critical attack, burns up the target's MP by a fixed rate.-->
+		<triggers>
+			<trigger id="3110" level="6" type="CRIT" chance="5.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="15601">
+		<!--Chance: During a critical attack, inflicts paralysis on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3116" level="6" type="CRIT" chance="5.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="15602">
+		<!--Chance: During a critical attack, blocks the target's magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3121" level="6" type="CRIT" chance="5.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="15603">
+		<!--Chance: During a critical attack, inflicts sleep on the target by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3115" level="6" type="CRIT" chance="5.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="15604">
+		<!--Chance: During a critical attack, inflicts shock on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3113" level="6" type="CRIT" chance="5.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="15605">
+		<!--Chance: Blocks all the physical/magic skills of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3237" level="6" /> <!--Item Skill: Doom-->
+		</skills>
+	</option_data>
+	<option_data id="15606">
+		<!--Chance: Inflicts fear on the target who attacks you by a fixed rate and causes him to flee.-->
+		<skills>
+			<skill id="3233" level="6" /> <!--Item Skill: Fear-->
+		</skills>
+	</option_data>
+	<option_data id="15607">
+		<!--Chance: When damage is received, the amount of MP recovery magic received increases by a fixed rate.-->
+		<skills>
+			<skill id="3212" level="6" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="15608">
+		<!--Chance: When damage is received, recovers your own MP by a fixed rate.-->
+		<skills>
+			<skill id="3210" level="6" /> <!--Item Skill: Recharge-->
+		</skills>
+	</option_data>
+	<option_data id="15609">
+		<!--Chance: Inflicts paralysis on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3231" level="6" /> <!--Item Skill: Paralyze-->
+		</skills>
+	</option_data>
+	<option_data id="15610">
+		<!--Chance: Blocks the magic skills of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3236" level="6" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="15611">
+		<!--Chance: Inflicts shock on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3228" level="6" /> <!--Item Skill: Stun-->
+		</skills>
+	</option_data>
+	<option_data id="15612">
+		<!--Chance: Inflicts flint on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3232" level="6" /> <!--Item Skill: Medusa-->
+		</skills>
+	</option_data>
+	<option_data id="15613">
+		<!--Chance: During a magic attack, blocks all of the target's physical/magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3107" level="6" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="15614">
+		<!--Chance: During a magic attack, burns up the target's MP by a fixed rate.-->
+		<triggers>
+			<trigger id="3095" level="6" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="15615">
+		<!--Chance: During a magic attack, inflicts paralysis on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3101" level="6" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="15616">
+		<!--Chance: During a magic attack, blocks the target's magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3106" level="6" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="15617">
+		<!--Chance: During a magic attack, inflicts sleep on the target by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3100" level="6" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="15618">
+		<!--Chance: During a magic attack, inflicts shock on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3098" level="6" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="15619">
+		<!--Passive: Decreases all skill MP consumption.-->
+		<skills>
+			<skill id="3258" level="1" /> <!--Item Skill: Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="15620">
+		<!--Passive: Increases evasion.-->
+		<skills>
+			<skill id="3247" level="6" /> <!--Item Skill: Agility-->
+		</skills>
+	</option_data>
+	<option_data id="15621">
+		<!--Passive: Increases the rate of critical attacks.-->
+		<skills>
+			<skill id="3249" level="6" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="15622">
+		<!--Passive: Bestows on yourself the ability to reflect some of the damage back to the enemy. Excludes damage caused by skills and long-range attack.-->
+		<skills>
+			<skill id="3259" level="1" /> <!--Item Skill: Reflect Damage-->
+		</skills>
+	</option_data>
+	<option_data id="15623">
+		<!--Passive: Increases one's own accuracy.-->
+		<skills>
+			<skill id="3248" level="6" /> <!--Item Skill: Guidance-->
+		</skills>
+	</option_data>
+	<option_data id="15624">
+		<!--Passive: Increases the critical rate of damage attack magic.-->
+		<skills>
+			<skill id="3250" level="6" /> <!--Item Skill: Wild Magic-->
+		</skills>
+	</option_data>
+	<option_data id="15625">
+		<!--Passive: Increases the recovery rate when MP is being recovered by recharge.-->
+		<skills>
+			<skill id="3239" level="6" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="15626">
+		<!--Passive: Decreases skill MP consumption.-->
+		<skills>
+			<skill id="3255" level="1" /> <!--Item Skill: Skill Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="15627">
+		<!--Passive: Decreases song/dance skill MP consumption.-->
+		<skills>
+			<skill id="3257" level="1" /> <!--Item Skill: Music Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="15628">
+		<!--Passive: Decreases magic MP consumption.-->
+		<skills>
+			<skill id="3256" level="1" /> <!--Item Skill: Spell Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="15629">
+		<!--Equip skill: Head size increases temporarily.-->
+		<skills>
+			<skill id="3203" level="1" /> <!--Item Skill: Mystery Skill-->
+		</skills>
+	</option_data>
+	<option_data id="15630">
+		<!--Active: Temporarily increases lung capacity.-->
+		<skills>
+			<skill id="3143" level="7" /> <!--Item Skill: Kiss of Eva-->
+		</skills>
+	</option_data>
+	<option_data id="15631">
+		<!--Active: Temporarily becomes able to jump from a higher place without fall damage.-->
+		<skills>
+			<skill id="3144" level="7" /> <!--Item Skill: Acrobatics-->
+		</skills>
+	</option_data>
+	<option_data id="15632">
+		<!--Active: Temporarily gains resistance to topography damage.-->
+		<skills>
+			<skill id="3145" level="7" /> <!--Item Skill: Iron Body-->
+		</skills>
+	</option_data>
+	<option_data id="15633">
+		<!--Active: Ignites a firecracker.-->
+		<skills>
+			<skill id="3156" level="1" /> <!--Item Skill: Firework-->
+		</skills>
+	</option_data>
+	<option_data id="15634">
+		<!--Active: Temporarily plays music.-->
+		<skills>
+			<skill id="3206" level="1" /> <!--Item Skill: Music-->
+		</skills>
+	</option_data>
+	<option_data id="15635">
+		<!--Active: Ignites a large firecracker.-->
+		<skills>
+			<skill id="3157" level="1" /> <!--Item Skill: Large Firework-->
+		</skills>
+	</option_data>
+	<option_data id="15636">
+		<!--Chance: During a physical attack, decreases the target's attacking desire for oneself by a fixed rate.-->
+		<triggers>
+			<trigger id="3081" level="7" type="ATTACK" chance="1.0" /> <!--Item Skill: Charm-->
+		</triggers>
+	</option_data>
+	<option_data id="15637">
+		<!--Chance: During a physical attack, stimulates the target's attacking desire by a fixed rate.-->
+		<triggers>
+			<trigger id="3080" level="7" type="ATTACK" chance="1.0" /> <!--Item Skill: Aggression-->
+		</triggers>
+	</option_data>
+	<option_data id="15638">
+		<!--Chance: During a physical attack, decreases the target's moving speed by a fixed rate.-->
+		<triggers>
+			<trigger id="3083" level="7" type="ATTACK" chance="1.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="15639">
+		<!--Chance: During a critical attack, decreases the target's attacking desire for oneself by a fixed rate.-->
+		<triggers>
+			<trigger id="3109" level="7" type="CRIT" chance="5.0" /> <!--Item Skill: Aggression Down-->
+		</triggers>
+	</option_data>
+	<option_data id="15640">
+		<!--Chance: During a critical attack, stimulates the target's attacking desire by a fixed rate.-->
+		<triggers>
+			<trigger id="3108" level="7" type="CRIT" chance="5.0" /> <!--Item Skill: Aggression Up-->
+		</triggers>
+	</option_data>
+	<option_data id="15641">
+		<!--Chance: During a critical attack, decreases the target's moving speed by a fixed rate.-->
+		<triggers>
+			<trigger id="3111" level="7" type="CRIT" chance="5.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="15642">
+		<!--Chance: During a magic attack, decreases the target's moving speed by a fixed rate. Effect 3.-->
+		<triggers>
+			<trigger id="3096" level="7" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="15643">
+		<!--Passive: Increases lung capacity.-->
+		<skills>
+			<skill id="3252" level="7" /> <!--Item Skill: Kiss of Eva-->
+		</skills>
+	</option_data>
+	<option_data id="15644">
+		<!--Passive: Becomes able to jump from a higher place without fall damage.-->
+		<skills>
+			<skill id="3253" level="7" /> <!--Item Skill: Acrobatics-->
+		</skills>
+	</option_data>
+	<option_data id="15645">
+		<!--Passive: Gains resistance to topography damage.-->
+		<skills>
+			<skill id="3254" level="7" /> <!--Item Skill: Iron Body-->
+		</skills>
+	</option_data>
+	<option_data id="15646">
+		<!--Active: Decreases the target's Atk. Spd.by a fixed rate.-->
+		<skills>
+			<skill id="3188" level="7" /> <!--Item Skill: Winter-->
+		</skills>
+	</option_data>
+	<option_data id="15647">
+		<!--Active: Temporarily increase Evasion.-->
+		<skills>
+			<skill id="3139" level="7" /> <!--Item Skill: Agility-->
+		</skills>
+	</option_data>
+	<option_data id="15648">
+		<!--Active: Inflicts bleed on the target by a fixed rate.-->
+		<skills>
+			<skill id="3196" level="7" /> <!--Item Skill: Bleed-->
+		</skills>
+	</option_data>
+	<option_data id="15649">
+		<!--Active: Restores your CP.-->
+		<skills>
+			<skill id="3130" level="7" /> <!--Item Skill: Ritual-->
+		</skills>
+	</option_data>
+	<option_data id="15650">
+		<!--Active: Inflicts damage by throwing a boulder.-->
+		<skills>
+			<skill id="3169" level="7" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="15651">
+		<!--Active: Inflicts fear on the target by a fixed rate and causes him to flee.-->
+		<skills>
+			<skill id="3194" level="7" /> <!--Item Skill: Fear-->
+		</skills>
+	</option_data>
+	<option_data id="15652">
+		<!--Active: Condenses air to burst flames.-->
+		<skills>
+			<skill id="3165" level="7" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="15653">
+		<!--Active: Calms the enemy's heart and causes attacking desire to disappear.-->
+		<skills>
+			<skill id="3151" level="7" /> <!--Item Skill: Peace-->
+		</skills>
+	</option_data>
+	<option_data id="15654">
+		<!--Active: Decreases the target's attacking desire for oneself.-->
+		<skills>
+			<skill id="3150" level="7" /> <!--Item Skill: Charm-->
+		</skills>
+	</option_data>
+	<option_data id="15655">
+		<!--Active: Increases your target's will to attack.-->
+		<skills>
+			<skill id="3149" level="7" /> <!--Item Skill: Aggression-->
+		</skills>
+	</option_data>
+	<option_data id="15656">
+		<!--Active: Temporarily increases accuracy.-->
+		<skills>
+			<skill id="3140" level="7" /> <!--Item Skill: Guidance-->
+		</skills>
+	</option_data>
+	<option_data id="15657">
+		<!--Active: Inflicts hold on the target by a fixed rate. Additional Hold is not available while the effect lasts.-->
+		<skills>
+			<skill id="3190" level="7" /> <!--Item Skill: Hold-->
+		</skills>
+	</option_data>
+	<option_data id="15658">
+		<!--Active: Launches a sacred magic attack.-->
+		<skills>
+			<skill id="3170" level="7" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15659">
+		<!--Active: Temporarily increases HP recovery magic power.-->
+		<skills>
+			<skill id="3138" level="7" /> <!--Item Skill: Heal Empower-->
+		</skills>
+	</option_data>
+	<option_data id="15660">
+		<!--Active: Temporarily increases HP recovery magic effect.-->
+		<skills>
+			<skill id="3126" level="7" /> <!--Item Skill: Prayer-->
+		</skills>
+	</option_data>
+	<option_data id="15661">
+		<!--Active: Regenerates your own HP immediately.-->
+		<skills>
+			<skill id="3123" level="7" /> <!--Item Skill: Heal-->
+		</skills>
+	</option_data>
+	<option_data id="15662">
+		<!--Active: Temporarily increases M. Atk..-->
+		<skills>
+			<skill id="3133" level="7" /> <!--Item Skill: Empower-->
+		</skills>
+	</option_data>
+	<option_data id="15663">
+		<!--Active: Temporarily increases Max CP.-->
+		<skills>
+			<skill id="3131" level="7" /> <!--Item Skill: Cheer-->
+		</skills>
+	</option_data>
+	<option_data id="15664">
+		<!--Active: Temporarily increases Max HP and recovers the amount of increased HP.-->
+		<skills>
+			<skill id="3125" level="7" /> <!--Item Skill: Battle Roar-->
+		</skills>
+	</option_data>
+	<option_data id="15665">
+		<!--Active: Temporarily increases Max HP.-->
+		<skills>
+			<skill id="3124" level="7" /> <!--Item Skill: Blessed Body-->
+		</skills>
+	</option_data>
+	<option_data id="15666">
+		<!--Active: Temporarily increases Max MP.-->
+		<skills>
+			<skill id="3128" level="7" /> <!--Item Skill: Blessed Soul-->
+		</skills>
+	</option_data>
+	<option_data id="15667">
+		<!--Active: Temporarily increases M. Def..-->
+		<skills>
+			<skill id="3136" level="7" /> <!--Item Skill: Magic Barrier-->
+		</skills>
+	</option_data>
+	<option_data id="15668">
+		<!--Active: Burns up your enemy's MP.-->
+		<skills>
+			<skill id="3154" level="7" /> <!--Item Skill: Mana Burn-->
+		</skills>
+	</option_data>
+	<option_data id="15669">
+		<!--Active: Increases the recovery rate when MP is being recovered by recharge.-->
+		<skills>
+			<skill id="3129" level="7" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="15670">
+		<!--Active: Restores the target's MP.-->
+		<skills>
+			<skill id="3127" level="7" /> <!--Item Skill: Recharge-->
+		</skills>
+	</option_data>
+	<option_data id="15671">
+		<!--Active: Inflicts a non-attribute attack.-->
+		<skills>
+			<skill id="3172" level="7" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15672">
+		<!--Active: Temporarily increases P. Atk..-->
+		<skills>
+			<skill id="3132" level="7" /> <!--Item Skill: Might-->
+		</skills>
+	</option_data>
+	<option_data id="15673">
+		<!--Active: Inflicts paralysis on the target by a fixed rate.-->
+		<skills>
+			<skill id="3192" level="7" /> <!--Item Skill: Paralyze-->
+		</skills>
+	</option_data>
+	<option_data id="15674">
+		<!--Active: Temporarily increases P. Def..-->
+		<skills>
+			<skill id="3135" level="7" /> <!--Item Skill: Shield-->
+		</skills>
+	</option_data>
+	<option_data id="15675">
+		<!--Active: Inflicts poison on the target by a fixed rate.-->
+		<skills>
+			<skill id="3195" level="7" /> <!--Item Skill: Poison-->
+		</skills>
+	</option_data>
+	<option_data id="15676">
+		<!--Active: Temporarily decreases the PvP opponent's P. Atk.-->
+		<skills>
+			<skill id="3137" level="7" /> <!--Item Skill: Duel Weakness-->
+		</skills>
+	</option_data>
+	<option_data id="15677">
+		<!--Active: Temporarily increases PvP P.Atk.-->
+		<skills>
+			<skill id="3134" level="7" /> <!--Item Skill: Duel Might-->
+		</skills>
+	</option_data>
+	<option_data id="15678">
+		<!--Active: Teleports to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3146" level="1" /> <!--Item Skill: Recall-->
+		</skills>
+	</option_data>
+	<option_data id="15679">
+		<!--Active: Resurrects a corpse.-->
+		<skills>
+			<skill id="3160" level="7" /> <!--Item Skill: Resurrection-->
+		</skills>
+	</option_data>
+	<option_data id="15680">
+		<!--Active: Emits an area of effect earth attack.-->
+		<skills>
+			<skill id="3183" level="7" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="15681">
+		<!--Active: Emits an area of effect fire attack.-->
+		<skills>
+			<skill id="3180" level="7" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="15682">
+		<!--Active: Emits an area of effect sacred magic attack.-->
+		<skills>
+			<skill id="3184" level="7" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15683">
+		<!--Active: Emits elemental damage over an area.-->
+		<skills>
+			<skill id="3186" level="7" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15684">
+		<!--Active: Emits an area of effect dark attack.-->
+		<skills>
+			<skill id="3185" level="7" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15685">
+		<!--Active: Emits an area of effect water attack.-->
+		<skills>
+			<skill id="3181" level="7" /> <!--Item Skill: Hydro Blast-->
+		</skills>
+	</option_data>
+	<option_data id="15686">
+		<!--Active: Emits an area of effect wind attack.-->
+		<skills>
+			<skill id="3182" level="7" /> <!--Item Skill: Hurricane-->
+		</skills>
+	</option_data>
+	<option_data id="15687">
+		<!--Active: Inflicts sleep on the target by a fixed rate. Additional Sleep is not available while the effect lasts.-->
+		<skills>
+			<skill id="3191" level="7" /> <!--Item Skill: Sleep-->
+		</skills>
+	</option_data>
+	<option_data id="15688">
+		<!--Active: Decreases the target's moving speed by a fixed rate.-->
+		<skills>
+			<skill id="3187" level="7" /> <!--Item Skill: Slow-->
+		</skills>
+	</option_data>
+	<option_data id="15689">
+		<!--Active: Inflicts shock on the target by a fixed rate.-->
+		<skills>
+			<skill id="3189" level="7" /> <!--Item Skill: Stun-->
+		</skills>
+	</option_data>
+	<option_data id="15690">
+		<!--Active: Inflicts an earth attack.-->
+		<skills>
+			<skill id="3176" level="7" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="15691">
+		<!--Active: Inflicts a fire attack.-->
+		<skills>
+			<skill id="3173" level="7" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="15692">
+		<!--Active: Inflicts a sacred magic attack.-->
+		<skills>
+			<skill id="3177" level="7" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15693">
+		<!--Active: Inflicts a non-attribute attack.-->
+		<skills>
+			<skill id="3179" level="7" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15694">
+		<!--Active: Inflicts a dark attack.-->
+		<skills>
+			<skill id="3178" level="7" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+	<option_data id="15695">
+		<!--Active: Inflicts a water attack.-->
+		<skills>
+			<skill id="3174" level="7" /> <!--Item Skill: Hydro Blast-->
+		</skills>
+	</option_data>
+	<option_data id="15696">
+		<!--Active: Inflicts a wind attack.-->
+		<skills>
+			<skill id="3175" level="7" /> <!--Item Skill: Hurricane-->
+		</skills>
+	</option_data>
+	<option_data id="15697">
+		<!--Active: Cancels your enemy's target.-->
+		<skills>
+			<skill id="3152" level="7" /> <!--Item Skill: Trick-->
+		</skills>
+	</option_data>
+	<option_data id="15698">
+		<!--Active: Inflicts flint on the target by a fixed rate.-->
+		<skills>
+			<skill id="3193" level="7" /> <!--Item Skill: Medusa-->
+		</skills>
+	</option_data>
+	<option_data id="15699">
+		<!--Active: Launches a dark attack.-->
+		<skills>
+			<skill id="3171" level="7" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+</list>

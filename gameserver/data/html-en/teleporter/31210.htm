@@ -1,0 +1,18 @@
+Track Gatekeeper:
+
+Come on in! Welcome to the Monster Race Track!
+
+The owner of the track has reached an agreement with the Iwory Tower making it possible to come to the Monster Race Track through the gatekeepers in all the major cities. In order to protect customers and their money, inspections to prevent outsiders have been strengthened.
+
+Go inside and check out the new Monster Race Track! Have fun!
+
+[npc_%objectId%_services.TeleToMDT:toMDT @811;Monster Derby Track|Go to the Monster Race Track! (Free of Charge)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Move to Parnassus (offshore zone) - ${SERVICES_PARNASSUS_PRICE} Adena]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|I want free admission to Giran Harbor.]<br>
+#end
+
+[npc_%objectId%_Quest|Quest]

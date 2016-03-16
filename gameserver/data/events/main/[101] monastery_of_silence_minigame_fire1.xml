@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="101" name="Monastery of Silence MiniGame Fire" impl="MonasteryOfSilenceMiniGameFire">
+		<on_time>
+			<on time="0">
+				<npc_say npc="32758" chat="NPC_ALL" range="1000" text="THE_FURNACE_WILL_GO_OUT" />
+				<start name="event" />
+			</on>
+			<on time="2">
+				<start name="fire_all" />
+			</on>
+			<on time="4">
+				<stop name="fire_all" />
+			</on>
+			<on time="5">
+				<start name="fire_0"/>
+			</on>
+			<on time="7">
+				<stop name="fire_0" />
+			</on>
+			<on time="8">
+				<start name="fire_1"/>
+			</on>
+			<on time="10">
+				<stop name="fire_1" />
+			</on>
+			<on time="11">
+				<start name="fire_2"/>
+			</on>
+			<on time="13">
+				<stop name="fire_2" />
+			</on>
+			<on time="14">
+				<start name="fire_3"/>
+			</on>
+			<on time="16">
+				<stop name="fire_3" />
+			</on>
+			<on time="17">
+				<start name="fire_4"/>
+			</on>
+			<on time="19">
+				<stop name="fire_4" />
+			</on>
+			<on time="20">
+				<start name="fire_5"/>
+			</on>
+			<on time="22">
+				<stop name="fire_5" />
+			</on>
+			<on time="23">
+				<start name="fire_6"/>
+			</on>
+			<on time="25">
+				<stop name="fire_6" />
+			</on>
+			<on time="26">
+				<start name="fire_7"/>
+			</on>
+			<on time="28">
+				<stop name="fire_7" />
+			</on>
+			<on time="29">
+				<start name="fire_8"/>
+			</on>
+			<on time="31">
+				<stop name="fire_8" />
+			</on>
+			<on time="32">
+				<start name="fire_all" />
+			</on>
+			<on time="34">
+				<stop name="fire_all" />
+				<npc_say npc="32758" chat="NPC_ALL" range="1000" text="NOW_LIGHT_THE_FURNACES_FIRE" />
+				<start name="fire_select" />
+			</on>
+		</on_time>
+	</event>
+</list>

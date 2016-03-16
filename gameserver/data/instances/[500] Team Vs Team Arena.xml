@@ -1,0 +1,12 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<instance id="500" name="Team vs Team Arena" maxChannels="50" collapseIfEmpty="0" timelimit="30" dispelBuffs="false">
+		<geodata map="24_19" />
+		<doors>
+			<door id="24190001" opened="false"/>
+			<door id="24190002" opened="false"/>
+			<door id="24190003" opened="false"/>
+			<door id="24190004" opened="false"/>
+		</doors>
+	</instance>
+</list>

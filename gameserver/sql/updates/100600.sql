@@ -1,0 +1,1 @@
+DELETE FROM `raidboss_status` WHERE id = '29022';

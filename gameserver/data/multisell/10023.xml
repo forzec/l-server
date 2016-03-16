@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+<!--Life Stone -  Level 76-->
+<item>
+	<ingredient id="57" count="20000000" />
+	<production id="8732" count="1" />
+</item>
+
+<!--Life Stone -  Level 80-->
+<item>
+	<ingredient id="57" count="25000000" />
+	<production id="9573" count="1" />
+</item>
+
+<!--Life Stone -  Level 84-->
+<item>
+	<ingredient id="57" count="30000000" />
+	<production id="14166" count="1" />
+</item>
+
+<!--Mid-Grade Life Stone -  Level 76-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="8742" count="1" />
+</item>
+
+<!--Mid-Grade Life Stone -  Level 80-->
+<item>
+	<ingredient id="57" count="65000000" />
+	<production id="9574" count="1" />
+</item>
+
+<!--Mid-Grade Life Stone -  Level 84-->
+<item>
+	<ingredient id="57" count="70000000" />
+	<production id="14167" count="1" />
+</item>
+
+<!--High-Grade Life Stone -  Level 76-->
+<item>
+	<ingredient id="57" count="85000000" />
+	<production id="8752" count="1" />
+</item>
+
+<!--High-Grade Life Stone -  Level 80-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9575" count="1" />
+</item>
+
+<!--High-Grade Life Stone -  Level 84-->
+<item>
+	<ingredient id="57" count="120000000" />
+	<production id="14168" count="1" />
+</item>
+
+<!--Top-Grade Life Stone -  Level 76-->
+<item>
+	<ingredient id="57" count="150000000" />
+	<production id="8762" count="1" />
+</item>
+
+<!--Top-Grade Life Stone -  Level 80-->
+<item>
+	<ingredient id="57" count="200000000" />
+	<production id="9576" count="1" />
+</item>
+
+<!--Top-Grade Life Stone -  Level 84-->
+<item>
+	<ingredient id="57" count="250000000" />
+	<production id="14169" count="1" />
+</item>
+
+<!--Accessory Life Stone -  Level 67-->
+<item>
+	<ingredient id="57" count="25000000" />
+	<production id="12761" count="1" />
+</item>
+
+<!--Accessory Life Stone -  Level 70-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="12762" count="1" />
+</item>
+
+<!--Accessory Life Stone -  Level 76-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="12763" count="1" />
+</item>
+
+<!--Accessory Life Stone -  Level 80-->
+<item>
+	<ingredient id="57" count="125000000" />
+	<production id="12821" count="1" />
+</item>
+
+<!--Accessory Life Stone -  Level 82-->
+<item>
+	<ingredient id="57" count="150000000" />
+	<production id="12822" count="1" />
+</item>
+
+<!--Accessory Type Life Stone -  Level 84-->
+<item>
+	<ingredient id="57" count="200000000" />
+	<production id="14008" count="1" />
+</item>
+
+</list>

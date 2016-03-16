@@ -1,0 +1,1 @@
+update castle set siege_date=0;

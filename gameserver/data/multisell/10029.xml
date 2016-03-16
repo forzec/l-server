@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  
+  <!--Normal, Inventory Slots, Weight--> 
+  <!--C-Grade Belts-->
+  <item>
+    <ingredient id="6673" count="25"/>
+    <production id="13894" count="1"/>
+  </item> 
+  
+  <item>
+    <ingredient id="6673" count="25"/>
+    <production id="13941" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="25"/>
+    <production id="13957" count="1"/>
+  </item>
+  
+  <!--B-Grade Belts-->
+  <item>
+    <ingredient id="6673" count="50"/>
+    <production id="13895" count="1"/>
+  </item> 
+  
+  <item>
+    <ingredient id="6673" count="50"/>
+    <production id="13945" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="50"/>
+    <production id="13961" count="1"/>
+  </item>
+  
+  <!--Pvp dmg, pvp skills, pvp attack-->
+  <!--A-Grade Belts-->
+  <item>
+    <ingredient id="6673" count="250"/>
+    <production id="14941" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="250"/>
+    <production id="14945" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="250"/>
+    <production id="14949" count="1"/>
+  </item>
+  
+  <!--S-Grade Belts-->
+  
+  <item>
+	<ingredient id="6673" count="400"/>
+	<production id="14953" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="400"/>
+    <production id="14957" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="400"/>
+    <production id="14961" count="1"/>
+  </item>
+  
+</list>

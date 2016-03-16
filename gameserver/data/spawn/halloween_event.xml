@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-84065" y="244505" z="-3728" h="41000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46853" y="51480" z="-2976" h="47000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46853" y="51480" z="-2976" h="47000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="9741" y="15428" z="-4568" h="6000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45258" y="-112462" z="-240" h="0"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115029" y="-178267" z="-872" h="1000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-80702" y="149754" z="-3040" h="23000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12784" y="122845" z="-3112" h="48000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="15548" y="142852" z="-2696" h="16000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83520" y="147899" z="-3400" h="16700"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82933" y="53120" z="-1488" h="31000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="111298" y="219416" z="-3544" h="48000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="117168" y="76964" z="-2688" h="34000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="146675" y="25892" z="-2008" h="0"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="147929" y="-55156" z="-2728" h="48000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43708" y="-47667" z="-792" h="50000"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87111" y="-143512" z="-1288" h="13685"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+	<spawn group="br_halloween09_event" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117012" y="46834" z="367" h="49151"/>
+		<npc id="4303"/><!--Scooldy-->
+	</spawn>
+</list>

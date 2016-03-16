@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn>
+		<point x="-82168" y="-49167" z="-10326" h="32084" />
+		<npc id="32491" /> <!--Underground Coliseum Helper-->
+	</spawn>
+
+	<!--40-49 levels-->
+	<spawn group="underground_coliseum_40_49_manager" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-84640" y="-45360" z="-10728" h="56156" />
+		<npc id="32513" /><!--Kun-->
+	</spawn>
+
+	<spawn group="underground_coliseum_towers_40_49" respawn="0">
+		<point x="-85936" y="-47824" z="-11488" h="-3072" />
+		<npc id="18539" /><!--Ressurect Tower-->
+	</spawn>
+	<spawn group="underground_coliseum_towers_40_49" respawn="0">
+		<point x="-84720" y="-48144" z="-11488" h="30052" />
+		<npc id="18539" /><!--Ressurect Tower-->
+	</spawn>
+
+	<spawn group="underground_coliseum_boxes_40_49" respawn="0">
+		<territory> <!--etc09_1716_026-->
+			<add x="-85541" y="-47157" zmin="-11548" zmax="-11148" />
+			<add x="-85929" y="-47382" zmin="-11548" zmax="-11148" />
+			<add x="-86157" y="-47762" zmin="-11548" zmax="-11148" />
+			<add x="-86158" y="-48227" zmin="-11548" zmax="-11148" />
+			<add x="-85933" y="-48614" zmin="-11548" zmax="-11148" />
+			<add x="-85536" y="-48849" zmin="-11548" zmax="-11148" />
+			<add x="-85086" y="-48850" zmin="-11548" zmax="-11148" />
+			<add x="-84695" y="-48616" zmin="-11548" zmax="-11148" />
+			<add x="-84472" y="-48224" zmin="-11548" zmax="-11148" />
+			<add x="-84452" y="-47853" zmin="-11548" zmax="-11148" />
+			<add x="-84699" y="-47384" zmin="-11548" zmax="-11148" />
+			<add x="-85096" y="-47154" zmin="-11548" zmax="-11148" />
+		</territory>
+		<npc id="18534" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_40_49" respawn="0">
+		<territory> <!--etc09_1716_027-->
+			<add x="-86937" y="-48333" zmin="-11544" zmax="-11144" />
+			<add x="-87143" y="-48442" zmin="-11544" zmax="-11144" />
+			<add x="-87269" y="-48664" zmin="-11544" zmax="-11144" />
+			<add x="-87266" y="-48905" zmin="-11544" zmax="-11144" />
+			<add x="-87145" y="-49119" zmin="-11544" zmax="-11144" />
+			<add x="-86932" y="-49242" zmin="-11544" zmax="-11144" />
+			<add x="-86693" y="-49239" zmin="-11544" zmax="-11144" />
+			<add x="-86479" y="-49120" zmin="-11544" zmax="-11144" />
+			<add x="-86358" y="-48900" zmin="-11544" zmax="-11144" />
+			<add x="-86374" y="-48626" zmin="-11544" zmax="-11144" />
+			<add x="-86477" y="-48455" zmin="-11544" zmax="-11144" />
+			<add x="-86689" y="-48326" zmin="-11544" zmax="-11144" />
+		</territory>
+		<npc id="18534" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_40_49" respawn="0">
+		<territory> <!--etc09_1716_028-->
+			<add x="-84311" y="-48671" zmin="-11560" zmax="-11160" />
+			<add x="-84465" y="-48763" zmin="-11560" zmax="-11160" />
+			<add x="-84599" y="-48981" zmin="-11560" zmax="-11160" />
+			<add x="-84601" y="-49243" zmin="-11560" zmax="-11160" />
+			<add x="-84475" y="-49462" zmin="-11560" zmax="-11160" />
+			<add x="-84249" y="-49594" zmin="-11560" zmax="-11160" />
+			<add x="-83985" y="-49595" zmin="-11560" zmax="-11160" />
+			<add x="-83771" y="-49467" zmin="-11560" zmax="-11160" />
+			<add x="-83641" y="-49243" zmin="-11560" zmax="-11160" />
+			<add x="-83639" y="-48982" zmin="-11560" zmax="-11160" />
+			<add x="-83768" y="-48764" zmin="-11560" zmax="-11160" />
+			<add x="-83977" y="-48642" zmin="-11560" zmax="-11160" />
+		</territory>
+		<npc id="18534" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_40_49" respawn="0">
+		<territory> <!--etc09_1716_029-->
+			<add x="-83830" y="-47453" zmin="-11552" zmax="-11152" />
+			<add x="-84014" y="-47554" zmin="-11552" zmax="-11152" />
+			<add x="-84121" y="-47740" zmin="-11552" zmax="-11152" />
+			<add x="-84119" y="-47951" zmin="-11552" zmax="-11152" />
+			<add x="-84012" y="-48139" zmin="-11552" zmax="-11152" />
+			<add x="-83830" y="-48243" zmin="-11552" zmax="-11152" />
+			<add x="-83617" y="-48244" zmin="-11552" zmax="-11152" />
+			<add x="-83426" y="-48128" zmin="-11552" zmax="-11152" />
+			<add x="-83325" y="-47951" zmin="-11552" zmax="-11152" />
+			<add x="-83323" y="-47735" zmin="-11552" zmax="-11152" />
+			<add x="-83424" y="-47558" zmin="-11552" zmax="-11152" />
+			<add x="-83606" y="-47449" zmin="-11552" zmax="-11152" />
+		</territory>
+		<npc id="18534" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_40_49" respawn="0">
+		<territory> <!--etc09_1716_030-->
+			<add x="-86372" y="-46136" zmin="-11564" zmax="-11164" />
+			<add x="-86590" y="-46269" zmin="-11564" zmax="-11164" />
+			<add x="-86701" y="-46462" zmin="-11564" zmax="-11164" />
+			<add x="-86703" y="-46708" zmin="-11564" zmax="-11164" />
+			<add x="-86580" y="-46924" zmin="-11564" zmax="-11164" />
+			<add x="-86366" y="-47044" zmin="-11564" zmax="-11164" />
+			<add x="-86124" y="-47043" zmin="-11564" zmax="-11164" />
+			<add x="-85911" y="-46921" zmin="-11564" zmax="-11164" />
+			<add x="-85789" y="-46704" zmin="-11564" zmax="-11164" />
+			<add x="-85791" y="-46469" zmin="-11564" zmax="-11164" />
+			<add x="-85908" y="-46254" zmin="-11564" zmax="-11164" />
+			<add x="-86126" y="-46130" zmin="-11564" zmax="-11164" />
+		</territory>
+		<npc id="18534" />
+	</spawn>
+
+	<!--50-59 levels-->
+	<spawn group="underground_coliseum_50_59_manager" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86359" y="-50593" z="-10728" h="3704" />
+		<npc id="32516" /><!--Candice-->
+	</spawn>
+
+	<spawn group="underground_coliseum_towers_50_59" respawn="0">
+		<point x="-84456" y="-52636" z="-11440" h="9588" />
+		<npc id="18540" /><!--Ressurect Tower-->
+	</spawn>
+	<spawn group="underground_coliseum_towers_40_49" respawn="0">
+		<point x="-83716" y="-51572" z="-11440" h="-21708" />
+		<npc id="18540" /><!--Ressurect Tower-->
+	</spawn>
+
+	<spawn group="underground_coliseum_boxes_50_59" respawn="0">
+		<territory> <!--etc09_1716_002-->
+			<add x="-84460" y="-51274" zmin="-11540" zmax="-11140" />
+			<add x="-84811" y="-51570" zmin="-11540" zmax="-11140" />
+			<add x="-84979" y="-51985" zmin="-11540" zmax="-11140" />
+			<add x="-84912" y="-52432" zmin="-11540" zmax="-11140" />
+			<add x="-84622" y="-52795" zmin="-11540" zmax="-11140" />
+			<add x="-84203" y="-52950" zmin="-11540" zmax="-11140" />
+			<add x="-83756" y="-52880" zmin="-11540" zmax="-11140" />
+			<add x="-83396" y="-52590" zmin="-11540" zmax="-11140" />
+			<add x="-83238" y="-52169" zmin="-11540" zmax="-11140" />
+			<add x="-83309" y="-51720" zmin="-11540" zmax="-11140" />
+			<add x="-83600" y="-51372" zmin="-11540" zmax="-11140" />
+			<add x="-84075" y="-51221" zmin="-11540" zmax="-11140" />
+		</territory>
+		<npc id="18535" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_50_59" respawn="0">
+		<territory> <!--etc09_1716_003-->
+			<add x="-84103" y="-53338" zmin="-11552" zmax="-11152" />
+			<add x="-84292" y="-53487" zmin="-11552" zmax="-11152" />
+			<add x="-84379" y="-53709" zmin="-11552" zmax="-11152" />
+			<add x="-84332" y="-53962" zmin="-11552" zmax="-11152" />
+			<add x="-84190" y="-54138" zmin="-11552" zmax="-11152" />
+			<add x="-83963" y="-54226" zmin="-11552" zmax="-11152" />
+			<add x="-83725" y="-54192" zmin="-11552" zmax="-11152" />
+			<add x="-83533" y="-54034" zmin="-11552" zmax="-11152" />
+			<add x="-83450" y="-53801" zmin="-11552" zmax="-11152" />
+			<add x="-83502" y="-53570" zmin="-11552" zmax="-11152" />
+			<add x="-83639" y="-53400" zmin="-11552" zmax="-11152" />
+			<add x="-83917" y="-53310" zmin="-11552" zmax="-11152" />
+		</territory>
+		<npc id="18535" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_50_59" respawn="0">
+		<territory> <!--etc09_1716_004-->
+			<add x="-82836" y="-50918" zmin="-11568" zmax="-11168" />
+			<add x="-83041" y="-51079" zmin="-11568" zmax="-11168" />
+			<add x="-83124" y="-51385" zmin="-11568" zmax="-11168" />
+			<add x="-83093" y="-51559" zmin="-11568" zmax="-11168" />
+			<add x="-82926" y="-51766" zmin="-11568" zmax="-11168" />
+			<add x="-82688" y="-51847" zmin="-11568" zmax="-11168" />
+			<add x="-82450" y="-51813" zmin="-11568" zmax="-11168" />
+			<add x="-82245" y="-51651" zmin="-11568" zmax="-11168" />
+			<add x="-82151" y="-51413" zmin="-11568" zmax="-11168" />
+			<add x="-82194" y="-51171" zmin="-11568" zmax="-11168" />
+			<add x="-82356" y="-50972" zmin="-11568" zmax="-11168" />
+			<add x="-82594" y="-50878" zmin="-11568" zmax="-11168" />
+		</territory>
+		<npc id="18535" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_50_59" respawn="0">
+		<territory> <!--etc09_1716_005-->
+			<add x="-83845" y="-50164" zmin="-11544" zmax="-11144" />
+			<add x="-84004" y="-50301" zmin="-11544" zmax="-11144" />
+			<add x="-84087" y="-50497" zmin="-11544" zmax="-11144" />
+			<add x="-84053" y="-50701" zmin="-11544" zmax="-11144" />
+			<add x="-83914" y="-50868" zmin="-11544" zmax="-11144" />
+			<add x="-83722" y="-50940" zmin="-11544" zmax="-11144" />
+			<add x="-83512" y="-50910" zmin="-11544" zmax="-11144" />
+			<add x="-83349" y="-50769" zmin="-11544" zmax="-11144" />
+			<add x="-83284" y="-50585" zmin="-11544" zmax="-11144" />
+			<add x="-83310" y="-50380" zmin="-11544" zmax="-11144" />
+			<add x="-83439" y="-50214" zmin="-11544" zmax="-11144" />
+			<add x="-83642" y="-50136" zmin="-11544" zmax="-11144" />
+		</territory>
+		<npc id="18535" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_50_59" respawn="0">
+		<territory> <!--etc09_1716_006-->
+			<add x="-85948" y="-52028" zmin="-11548" zmax="-11148" />
+			<add x="-86137" y="-52176" zmin="-11548" zmax="-11148" />
+			<add x="-86224" y="-52398" zmin="-11548" zmax="-11148" />
+			<add x="-86178" y="-52652" zmin="-11548" zmax="-11148" />
+			<add x="-86035" y="-52827" zmin="-11548" zmax="-11148" />
+			<add x="-85809" y="-52916" zmin="-11548" zmax="-11148" />
+			<add x="-85570" y="-52882" zmin="-11548" zmax="-11148" />
+			<add x="-85378" y="-52724" zmin="-11548" zmax="-11148" />
+			<add x="-85296" y="-52490" zmin="-11548" zmax="-11148" />
+			<add x="-85347" y="-52260" zmin="-11548" zmax="-11148" />
+			<add x="-85488" y="-52072" zmin="-11548" zmax="-11148" />
+			<add x="-85714" y="-51989" zmin="-11548" zmax="-11148" />
+		</territory>
+		<npc id="18535" />
+	</spawn>
+
+	<!--60-69 levels-->
+	<spawn group="underground_coliseum_60_69_manager" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-81904" y="-53904" z="-10728" h="17044" />
+		<npc id="32515" /><!--Leo-->
+	</spawn>
+
+	<spawn group="underground_coliseum_towers_60_69" respawn="0">
+		<point x="-79448" y="-52648" z="-11440" h="22100" />
+		<npc id="18541" /><!--Ressurect Tower-->
+	</spawn>
+	<spawn group="underground_coliseum_towers_60_69" respawn="0">
+		<point x="-80144" y="-51632" z="-11440" h="-10064" />
+		<npc id="18541" /><!--Ressurect Tower-->
+	</spawn>
+
+	<spawn group="underground_coliseum_boxes_60_69" respawn="0">
+		<territory> <!--etc09_1716_008-->
+			<add x="-80366" y="-51465" zmin="-11548" zmax="-11148" />
+			<add x="-80638" y="-51879" zmin="-11548" zmax="-11148" />
+			<add x="-80693" y="-52272" zmin="-11548" zmax="-11148" />
+			<add x="-80514" y="-52690" zmin="-11548" zmax="-11148" />
+			<add x="-80156" y="-52958" zmin="-11548" zmax="-11148" />
+			<add x="-79714" y="-53022" zmin="-11548" zmax="-11148" />
+			<add x="-79290" y="-52845" zmin="-11548" zmax="-11148" />
+			<add x="-79026" y="-52481" zmin="-11548" zmax="-11148" />
+			<add x="-78964" y="-52037" zmin="-11548" zmax="-11148" />
+			<add x="-79142" y="-51611" zmin="-11548" zmax="-11148" />
+			<add x="-79495" y="-51348" zmin="-11548" zmax="-11148" />
+			<add x="-79948" y="-51293" zmin="-11548" zmax="-11148" />
+		</territory>
+		<npc id="18536" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_60_69" respawn="0">
+		<territory> <!--etc09_1716_009-->
+			<add x="-80212" y="-53471" zmin="-11548" zmax="-11148" />
+			<add x="-80369" y="-53667" zmin="-11548" zmax="-11148" />
+			<add x="-80394" y="-53899" zmin="-11548" zmax="-11148" />
+			<add x="-80295" y="-54132" zmin="-11548" zmax="-11148" />
+			<add x="-80116" y="-54276" zmin="-11548" zmax="-11148" />
+			<add x="-79884" y="-54302" zmin="-11548" zmax="-11148" />
+			<add x="-79641" y="-54205" zmin="-11548" zmax="-11148" />
+			<add x="-79506" y="-54016" zmin="-11548" zmax="-11148" />
+			<add x="-79476" y="-53777" zmin="-11548" zmax="-11148" />
+			<add x="-79569" y="-53563" zmin="-11548" zmax="-11148" />
+			<add x="-79753" y="-53413" zmin="-11548" zmax="-11148" />
+			<add x="-80000" y="-53391" zmin="-11548" zmax="-11148" />
+		</territory>
+		<npc id="18536" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_60_69" respawn="0">
+		<territory> <!--etc09_1716_010-->
+			<add x="-78447" y="-52073" zmin="-11544" zmax="-11144" />
+			<add x="-78595" y="-52298" zmin="-11544" zmax="-11144" />
+			<add x="-78625" y="-52500" zmin="-11544" zmax="-11144" />
+			<add x="-78533" y="-52712" zmin="-11544" zmax="-11144" />
+			<add x="-78339" y="-52862" zmin="-11544" zmax="-11144" />
+			<add x="-78097" y="-52894" zmin="-11544" zmax="-11144" />
+			<add x="-77874" y="-52803" zmin="-11544" zmax="-11144" />
+			<add x="-77718" y="-52604" zmin="-11544" zmax="-11144" />
+			<add x="-77697" y="-52366" zmin="-11544" zmax="-11144" />
+			<add x="-77794" y="-52145" zmin="-11544" zmax="-11144" />
+			<add x="-77977" y="-51999" zmin="-11544" zmax="-11144" />
+			<add x="-78229" y="-51973" zmin="-11544" zmax="-11144" />
+		</territory>
+		<npc id="18536" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_60_69" respawn="0">
+		<territory> <!--etc09_1716_011-->
+			<add x="-80173" y="-50061" zmin="-11560" zmax="-11160" />
+			<add x="-80405" y="-50153" zmin="-11560" zmax="-11160" />
+			<add x="-80557" y="-50349" zmin="-11560" zmax="-11160" />
+			<add x="-80597" y="-50612" zmin="-11560" zmax="-11160" />
+			<add x="-80489" y="-50848" zmin="-11560" zmax="-11160" />
+			<add x="-80353" y="-50953" zmin="-11560" zmax="-11160" />
+			<add x="-80041" y="-51036" zmin="-11560" zmax="-11160" />
+			<add x="-79797" y="-50930" zmin="-11560" zmax="-11160" />
+			<add x="-79641" y="-50714" zmin="-11560" zmax="-11160" />
+			<add x="-79619" y="-50470" zmin="-11560" zmax="-11160" />
+			<add x="-79713" y="-50240" zmin="-11560" zmax="-11160" />
+			<add x="-79913" y="-50074" zmin="-11560" zmax="-11160" />
+		</territory>
+		<npc id="18536" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_60_69" respawn="0">
+		<territory> <!--etc09_1716_012-->
+			<add x="-81435" y="-50997" zmin="-11552" zmax="-11152" />
+			<add x="-81567" y="-51152" zmin="-11552" zmax="-11152" />
+			<add x="-81595" y="-51365" zmin="-11552" zmax="-11152" />
+			<add x="-81507" y="-51557" zmin="-11552" zmax="-11152" />
+			<add x="-81341" y="-51689" zmin="-11552" zmax="-11152" />
+			<add x="-81136" y="-51714" zmin="-11552" zmax="-11152" />
+			<add x="-80935" y="-51629" zmin="-11552" zmax="-11152" />
+			<add x="-80807" y="-51461" zmin="-11552" zmax="-11152" />
+			<add x="-80780" y="-51254" zmin="-11552" zmax="-11152" />
+			<add x="-80869" y="-51056" zmin="-11552" zmax="-11152" />
+			<add x="-81033" y="-50933" zmin="-11552" zmax="-11152" />
+			<add x="-81247" y="-50902" zmin="-11552" zmax="-11152" />
+		</territory>
+		<npc id="18536" />
+	</spawn>
+
+	<!--70-79 levels-->
+	<spawn group="underground_coliseum_70_79_manager" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-77408" y="-50656" z="-10728" h="29664" />
+		<npc id="32514" /><!--Tarion-->
+	</spawn>
+
+	<spawn group="underground_coliseum_towers_70_79" respawn="0">
+		<point x="-77792" y="-47920" z="-11440" h="-29332" />
+		<npc id="18542" /><!--Ressurect Tower-->
+	</spawn>
+	<spawn group="underground_coliseum_towers_70_79" respawn="0">
+		<point x="-79008" y="-48348" z="-11440" h="3192" />
+		<npc id="18542" /><!--Ressurect Tower-->
+	</spawn>
+
+	<spawn group="underground_coliseum_boxes_70_79" respawn="0">
+		<territory> <!--etc09_1716_014-->
+			<add x="-78706" y="-47338" zmin="-11544" zmax="-11144" />
+			<add x="-79077" y="-47584" zmin="-11544" zmax="-11144" />
+			<add x="-79266" y="-47999" zmin="-11544" zmax="-11144" />
+			<add x="-79249" y="-48441" zmin="-11544" zmax="-11144" />
+			<add x="-78924" y="-48859" zmin="-11544" zmax="-11144" />
+			<add x="-78569" y="-49009" zmin="-11544" zmax="-11144" />
+			<add x="-78123" y="-48974" zmin="-11544" zmax="-11144" />
+			<add x="-77748" y="-48714" zmin="-11544" zmax="-11144" />
+			<add x="-77554" y="-48307" zmin="-11544" zmax="-11144" />
+			<add x="-77591" y="-47863" zmin="-11544" zmax="-11144" />
+			<add x="-77851" y="-47485" zmin="-11544" zmax="-11144" />
+			<add x="-78262" y="-47295" zmin="-11544" zmax="-11144" />
+		</territory>
+		<npc id="18537" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_70_79" respawn="0">
+		<territory> <!--etc09_1716_015-->
+			<add x="-77002" y="-48343" zmin="-11556" zmax="-11156" />
+			<add x="-77197" y="-48474" zmin="-11556" zmax="-11156" />
+			<add x="-77295" y="-48691" zmin="-11556" zmax="-11156" />
+			<add x="-77288" y="-48933" zmin="-11556" zmax="-11156" />
+			<add x="-77140" y="-49137" zmin="-11556" zmax="-11156" />
+			<add x="-76925" y="-49242" zmin="-11556" zmax="-11156" />
+			<add x="-76686" y="-49219" zmin="-11556" zmax="-11156" />
+			<add x="-76477" y="-49078" zmin="-11556" zmax="-11156" />
+			<add x="-76383" y="-48851" zmin="-11556" zmax="-11156" />
+			<add x="-76401" y="-48620" zmin="-11556" zmax="-11156" />
+			<add x="-76536" y="-48421" zmin="-11556" zmax="-11156" />
+			<add x="-76763" y="-48321" zmin="-11556" zmax="-11156" />
+		</territory>
+		<npc id="18537" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_70_79" respawn="0">
+		<territory> <!--etc09_1716_016-->
+			<add x="-77791" y="-46211" zmin="-11556" zmax="-11156" />
+			<add x="-77989" y="-46347" zmin="-11556" zmax="-11156" />
+			<add x="-78096" y="-46566" zmin="-11556" zmax="-11156" />
+			<add x="-78078" y="-46810" zmin="-11556" zmax="-11156" />
+			<add x="-77906" y="-47030" zmin="-11556" zmax="-11156" />
+			<add x="-77709" y="-47119" zmin="-11556" zmax="-11156" />
+			<add x="-77455" y="-47085" zmin="-11556" zmax="-11156" />
+			<add x="-77263" y="-46927" zmin="-11556" zmax="-11156" />
+			<add x="-77170" y="-46724" zmin="-11556" zmax="-11156" />
+			<add x="-77189" y="-46492" zmin="-11556" zmax="-11156" />
+			<add x="-77327" y="-46292" zmin="-11556" zmax="-11156" />
+			<add x="-77547" y="-46189" zmin="-11556" zmax="-11156" />
+		</territory>
+		<npc id="18537" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_70_79" respawn="0">
+		<territory> <!--etc09_1716_017-->
+			<add x="-80193" y="-47457" zmin="-11568" zmax="-11168" />
+			<add x="-80406" y="-47596" zmin="-11568" zmax="-11168" />
+			<add x="-80512" y="-47832" zmin="-11568" zmax="-11168" />
+			<add x="-80494" y="-48081" zmin="-11568" zmax="-11168" />
+			<add x="-80347" y="-48295" zmin="-11568" zmax="-11168" />
+			<add x="-80116" y="-48408" zmin="-11568" zmax="-11168" />
+			<add x="-79843" y="-48369" zmin="-11568" zmax="-11168" />
+			<add x="-79622" y="-48168" zmin="-11568" zmax="-11168" />
+			<add x="-79550" y="-48016" zmin="-11568" zmax="-11168" />
+			<add x="-79557" y="-47766" zmin="-11568" zmax="-11168" />
+			<add x="-79713" y="-47550" zmin="-11568" zmax="-11168" />
+			<add x="-79939" y="-47433" zmin="-11568" zmax="-11168" />
+		</territory>
+		<npc id="18537" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_70_79" respawn="0">
+		<territory> <!--etc09_1716_018-->
+			<add x="-79774" y="-48804" zmin="-11560" zmax="-11160" />
+			<add x="-79938" y="-48920" zmin="-11560" zmax="-11160" />
+			<add x="-80031" y="-49122" zmin="-11560" zmax="-11160" />
+			<add x="-80017" y="-49326" zmin="-11560" zmax="-11160" />
+			<add x="-79894" y="-49508" zmin="-11560" zmax="-11160" />
+			<add x="-79706" y="-49593" zmin="-11560" zmax="-11160" />
+			<add x="-79491" y="-49570" zmin="-11560" zmax="-11160" />
+			<add x="-79324" y="-49443" zmin="-11560" zmax="-11160" />
+			<add x="-79238" y="-49265" zmin="-11560" zmax="-11160" />
+			<add x="-79254" y="-49049" zmin="-11560" zmax="-11160" />
+			<add x="-79373" y="-48883" zmin="-11560" zmax="-11160" />
+			<add x="-79571" y="-48791" zmin="-11560" zmax="-11160" />
+		</territory>
+		<npc id="18537" />
+	</spawn>
+
+	<!--1-80 levels-->
+	<spawn group="underground_coliseum_1_85_manager" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-79117" y="-45433" z="-10731" h="40959" />
+		<npc id="32377" /><!--Kuram-->
+	</spawn>
+
+	<spawn group="underground_coliseum_towers_1_85" respawn="0">
+		<point x="-81856" y="-44944" z="-11440" h="-15576" />
+		<npc id="18543" /><!--Ressurect Tower-->
+	</spawn>
+	<spawn group="underground_coliseum_towers_1_85" respawn="0">
+		<point x="-81792" y="-46160" z="-11440" h="16988" />
+		<npc id="18543" /><!--Ressurect Tower-->
+	</spawn>
+
+	<spawn group="underground_coliseum_boxes_1_85" respawn="0">
+		<territory> <!--etc09_1716_020-->
+			<add x="-82229" y="-44818" zmin="-11548" zmax="-11148" />
+			<add x="-82546" y="-45143" zmin="-11548" zmax="-11148" />
+			<add x="-82663" y="-45581" zmin="-11548" zmax="-11148" />
+			<add x="-82556" y="-46004" zmin="-11548" zmax="-11148" />
+			<add x="-82226" y="-46333" zmin="-11548" zmax="-11148" />
+			<add x="-81847" y="-46454" zmin="-11548" zmax="-11148" />
+			<add x="-81309" y="-46281" zmin="-11548" zmax="-11148" />
+			<add x="-81023" y="-45991" zmin="-11548" zmax="-11148" />
+			<add x="-80922" y="-45552" zmin="-11548" zmax="-11148" />
+			<add x="-81039" y="-45126" zmin="-11548" zmax="-11148" />
+			<add x="-81364" y="-44807" zmin="-11548" zmax="-11148" />
+			<add x="-81799" y="-44696" zmin="-11548" zmax="-11148" />
+		</territory>
+		<npc id="18538" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_1_85" respawn="0">
+		<territory> <!--etc09_1716_021-->
+			<add x="-80913" y="-43877" zmin="-11548" zmax="-11148" />
+			<add x="-81092" y="-44058" zmin="-11548" zmax="-11148" />
+			<add x="-81156" y="-44289" zmin="-11548" zmax="-11148" />
+			<add x="-81091" y="-44529" zmin="-11548" zmax="-11148" />
+			<add x="-80907" y="-44704" zmin="-11548" zmax="-11148" />
+			<add x="-80677" y="-44761" zmin="-11548" zmax="-11148" />
+			<add x="-80438" y="-44695" zmin="-11548" zmax="-11148" />
+			<add x="-80269" y="-44523" zmin="-11548" zmax="-11148" />
+			<add x="-80209" y="-44285" zmin="-11548" zmax="-11148" />
+			<add x="-80279" y="-44050" zmin="-11548" zmax="-11148" />
+			<add x="-80457" y="-43881" zmin="-11548" zmax="-11148" />
+			<add x="-80688" y="-43816" zmin="-11548" zmax="-11148" />
+		</territory>
+		<npc id="18538" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_1_85" respawn="0">
+		<territory> <!--etc09_1716_022-->
+			<add x="-83185" y="-43938" zmin="-11556" zmax="-11156" />
+			<add x="-83358" y="-44112" zmin="-11556" zmax="-11156" />
+			<add x="-83420" y="-44345" zmin="-11556" zmax="-11156" />
+			<add x="-83352" y="-44583" zmin="-11556" zmax="-11156" />
+			<add x="-83179" y="-44753" zmin="-11556" zmax="-11156" />
+			<add x="-82942" y="-44811" zmin="-11556" zmax="-11156" />
+			<add x="-82683" y="-44725" zmin="-11556" zmax="-11156" />
+			<add x="-82542" y="-44572" zmin="-11556" zmax="-11156" />
+			<add x="-82476" y="-44339" zmin="-11556" zmax="-11156" />
+			<add x="-82553" y="-44103" zmin="-11556" zmax="-11156" />
+			<add x="-82732" y="-43932" zmin="-11556" zmax="-11156" />
+			<add x="-82953" y="-43868" zmin="-11556" zmax="-11156" />
+		</territory>
+		<npc id="18538" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_1_85" respawn="0">
+		<territory> <!--etc09_1716_023-->
+			<add x="-82798" y="-46605" zmin="-11572" zmax="-11172" />
+			<add x="-82978" y="-46791" zmin="-11572" zmax="-11172" />
+			<add x="-83041" y="-47032" zmin="-11572" zmax="-11172" />
+			<add x="-82975" y="-47276" zmin="-11572" zmax="-11172" />
+			<add x="-82780" y="-47466" zmin="-11572" zmax="-11172" />
+			<add x="-82535" y="-47521" zmin="-11572" zmax="-11172" />
+			<add x="-82287" y="-47445" zmin="-11572" zmax="-11172" />
+			<add x="-82100" y="-47253" zmin="-11572" zmax="-11172" />
+			<add x="-82046" y="-47015" zmin="-11572" zmax="-11172" />
+			<add x="-82097" y="-46841" zmin="-11572" zmax="-11172" />
+			<add x="-82305" y="-46602" zmin="-11572" zmax="-11172" />
+			<add x="-82550" y="-46533" zmin="-11572" zmax="-11172" />
+		</territory>
+		<npc id="18538" />
+	</spawn>
+	<spawn group="underground_coliseum_boxes_1_85" respawn="0">
+		<territory> <!--etc09_1716_024-->
+			<add x="-81424" y="-46715" zmin="-11552" zmax="-11152" />
+			<add x="-81572" y="-46870" zmin="-11552" zmax="-11152" />
+			<add x="-81624" y="-47070" zmin="-11552" zmax="-11152" />
+			<add x="-81575" y="-47274" zmin="-11552" zmax="-11152" />
+			<add x="-81417" y="-47426" zmin="-11552" zmax="-11152" />
+			<add x="-81216" y="-47479" zmin="-11552" zmax="-11152" />
+			<add x="-81000" y="-47418" zmin="-11552" zmax="-11152" />
+			<add x="-80848" y="-47265" zmin="-11552" zmax="-11152" />
+			<add x="-80805" y="-47063" zmin="-11552" zmax="-11152" />
+			<add x="-80858" y="-46865" zmin="-11552" zmax="-11152" />
+			<add x="-81014" y="-46714" zmin="-11552" zmax="-11152" />
+			<add x="-81225" y="-46660" zmin="-11552" zmax="-11152" />
+		</territory>
+		<npc id="18538" />
+	</spawn>
+</list>

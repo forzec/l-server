@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <!-- Donat Shop --><!-- JEWELS -->
+  <config showall="true" notax="false" keepenchanted="false" />
+  <item>
+    <ingredient id="4037" count="399"/>
+    <production id="6660" count="1" enchant="6"/> <!-- Ring of Queen Ant -->
+  </item>
+  <item>
+    <ingredient id="4037" count="599"/>
+    <production id="6658" count="1" enchant="6"/> <!-- Ring of Baium -->
+  </item>
+   <item>
+    <ingredient id="4037" count="450"/>
+    <production id="10314" count="1" enchant="6"/> <!-- Ring of Beleth -->
+  </item>
+   <item>
+    <ingredient id="4037" count="299"/>
+    <production id="6659" count="1" enchant="6"/> <!-- Earring of Zaken -->
+  </item>
+   <item>
+    <ingredient id="4037" count="499"/>
+    <production id="21712" count="1"  enchant="6"/> <!-- Blessed Earring of Zaken -->
+  </item>
+   <item>
+    <ingredient id="4037" count="699"/>
+    <production id="6656" count="1" enchant="6"/> <!-- Earring of Antharas -->
+  </item>
+   <item>
+    <ingredient id="4037" count="499"/>
+    <production id="8191" count="1" enchant="6"/> <!-- Necklace of Frintezza -->
+  </item>
+   <item>
+    <ingredient id="4037" count="899"/>
+    <production id="6657" count="1" enchant="6"/> <!-- Necklace of Valakas -->
+  </item>
+   <item>
+    <ingredient id="4037" count="599"/>
+    <production id="16026" count="1" enchant="6"/> <!-- Blessed Necklace of Freya -->
+  </item>
+   <item>
+    <ingredient id="4037" count="99"/>
+    <production id="6662" count="1" enchant="6"/> <!-- Ring of Core -->
+  </item>
+   <item>
+    <ingredient id="4037" count="99"/>
+    <production id="6661" count="1" enchant="6"/> <!-- Earring of Orfen -->
+  </item>
+</list>

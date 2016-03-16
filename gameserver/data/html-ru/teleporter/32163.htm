@@ -1,0 +1,23 @@
+Gatekeeper Ragara:
+
+Раньше магическое перемещение не было доступно расе Камаэль. Это не было большой проблемой, пока Камаэль не начали распространяться по континенту с его огромными расстояниями. Камаэли были вынуждены заимствовать силы других рас.
+
+Мы обратились к магам Ivory Tower, которые установили несколько цитаделей телепортации в часто посещаемых областях Камаэлей. Начинающие путешественники могут использовать их бесплатно.
+
+[npc_%objectId%_Teleport 1|Телепортация]
+
+[npc_%objectId%_Tele20Lvl 4|Телепорт Цитадели (Бесплатно)]
+
+[npc_%objectId%_multisell 002|Обменять Алмаз Иных Миров]
+
+[npc_%objectId%_Util:NoblessTeleport|Телепортация (Только для дворян)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Переместиться в Парнассус (зона без налогов) - ${SERVICES_PARNASSUS_PRICE} Аден]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|Я хочу бесплатно попасть в Гавань Гирана]<br>
+#end
+[npc_%objectId%_birthdayHelper|Призвать Аллегрию]
+
+[npc_%objectId%_Quest|Квест]

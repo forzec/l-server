@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<!--формат даты HH:mm dd.MM.yyyy-->
+	<event id="2" name="Master Enchanting" impl="Fun">
+		<parameter name="start-pattern" value="18:00 08.04.2012" />
+		<parameter name="stop-pattern" value="18:15 21.04.2012" />
+		<parameter name="staff_price" value="1000" />
+		<parameter name="scroll_price" value="77777" />
+		<parameter name="timed_scroll_number" value="24" />
+		<parameter name="timed_scroll_hours" value="6" />
+		<parameter name="timed_scroll_price" value="6000" />
+		<on_start>
+			<spawn name="spawn_group" />
+			<global_add_reward name="droplist" />
+		</on_start>
+		<on_stop>
+			<despawn name="spawn_group" />
+			<global_remove_reward name="droplist" />
+		</on_stop>
+		<objects name="spawn_group">
+			<spawn_ex name="master_enchant_ev_manager" />
+		</objects>
+		<objects name="droplist">
+			<rewardlist type="EVENT">
+				<reward item_id="13540" min="1" max="1" chance="12.0000" />	<!--Yogi's Enchant Scroll-->
+			</rewardlist>
+		</objects>
+	</event>
+</list>

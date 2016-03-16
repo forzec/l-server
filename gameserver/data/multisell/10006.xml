@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- Heavy sets --><!-- D-grade -->
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Brigandine Tunic Set -->
+    <production id="352" count="1" enchant="6"/>  <!-- Brigandine Tunic -->
+    <production id="2378" count="1" enchant="6"/> <!-- Brigandine Gaiters -->
+    <production id="2411" count="1" enchant="6"/> <!-- Brigandine Helmet -->
+  </item>
+  <item>
+    <ingredient id="57" count="10000000"/>  <!-- Clan Oath Set -->
+    <production id="7851" count="1" enchant="6"/> <!-- Clan Oath Armor -->
+    <production id="7850" count="1" enchant="6"/> <!-- Clan Oath Helm -->
+    <production id="7853" count="1" enchant="6"/> <!-- Clan Oath Sabaton Heavy Armor -->
+    <production id="7852" count="1" enchant="6"/> <!-- Clan Oath Gauntlets Heavy Armor -->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Mithril Set -->
+    <production id="58" count="1" enchant="6"/>   <!-- Mithril Breastplate -->
+    <production id="59" count="1" enchant="6"/>   <!-- Mithril Gaiters -->
+    <production id="47" count="1" enchant="6"/>   <!-- Helmet -->  
+  </item>
+  <!-- Leather sets -->
+   <item>
+    <ingredient id="57" count="10000000"/>    <!-- Manticore Skin Set -->
+    <production id="395" count="1" enchant="6"/>    <!-- Manticore Skin Shirt -->
+    <production id="417" count="1" enchant="6"/>    <!-- Manticore Skin Gaiters -->
+    <production id="2424" count="1" enchant="6"/>   <!-- Manticore Skin Boots -->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>     <!-- Clan Oath Set -->
+    <production id="7854" count="1" enchant="6"/>    <!-- Clan Oath Brigandine -->
+    <production id="7850" count="1" enchant="6"/>    <!-- Clan Oath Helm -->
+    <production id="7856" count="1" enchant="6"/>    <!-- Clan Oath Boots Light Armor-->
+    <production id="7855" count="1" enchant="6"/>    <!-- Clan Oath Leather Gloves Light Armor-->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>     <!-- Reinforced Leather Set -->
+    <production id="394" count="1" enchant="6"/>     <!-- Reinforced Leather Shirt -->
+    <production id="416" count="1" enchant="6"/>     <!-- Reinforced Leather Gaiters -->
+    <production id="2422" count="1" enchant="6"/>    <!-- Reinforced Leather Boots-->
+  </item>
+  <!-- Roba sets -->
+   <item>
+    <ingredient id="57" count="10000000"/>     <!-- Knowledge Set -->
+    <production id="436" count="1" enchant="6"/>     <!-- Tunic of Knowledge -->
+    <production id="469" count="1" enchant="6"/>     <!-- Stockings of Knowledge -->
+    <production id="2447" count="1" enchant="6"/>    <!-- Gloves of Knowledge-->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>     <!-- Clan Oath Set -->
+    <production id="7857" count="1" enchant="6"/>    <!-- Clan Oath Aketon -->
+    <production id="7850" count="1" enchant="6"/>    <!-- Clan Oath Helm -->
+    <production id="7859" count="1" enchant="6"/>    <!-- Clan Oath Sandals Robe-->
+    <production id="7858" count="1" enchant="6"/>    <!-- Clan Oath Padded Gloves Robe-->
+  </item>
+   <item>
+    <ingredient id="57" count="10000000"/>     <!-- Mithril Set -->
+    <production id="437" count="1" enchant="6"/>     <!-- Mithril Tunic -->
+    <production id="470" count="1" enchant="6"/>     <!-- Mithril Stockongs -->
+    <production id="2450" count="1" enchant="6"/>    <!-- Mithril Gloves-->
+  </item>
+  <!-- Shield -->
+   <item>
+    <ingredient id="57" count="10000000"/>  <!-- Brigandine Shield -->
+    <production id="2493" count="1" enchant="6"/>
+  </item>
+
+</list>

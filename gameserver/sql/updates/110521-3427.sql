@@ -1,0 +1,1 @@
+ALTER TABLE siege_clans CHANGE `param` `param` BIGINT NOT NULL;

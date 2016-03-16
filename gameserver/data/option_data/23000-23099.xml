@@ -1,0 +1,626 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="23000">
+		<!--Equip skill: Increases HP recovery magic effect.-->
+		<skills>
+			<skill id="3238" level="10" /> <!--Item Skill: Prayer-->
+		</skills>
+	</option_data>
+	<option_data id="23001">
+		<!--Equip skill: Increases one's own M. Atk.-->
+		<skills>
+			<skill id="3241" level="10" /> <!--Item Skill: Empower-->
+		</skills>
+	</option_data>
+	<option_data id="23002">
+		<!--Equip skill: Increases one's own M. Def.-->
+		<skills>
+			<skill id="3245" level="10" /> <!--Item Skill: Magic Barrier-->
+		</skills>
+	</option_data>
+	<option_data id="23003">
+		<!--Equip skill: Increases one's own P. Atk.-->
+		<skills>
+			<skill id="3240" level="10" /> <!--Item Skill: Might-->
+		</skills>
+	</option_data>
+	<option_data id="23004">
+		<!--Equip skill: Increases one's own P. Def.-->
+		<skills>
+			<skill id="3244" level="10" /> <!--Item Skill: Shield-->
+		</skills>
+	</option_data>
+	<option_data id="23005">
+		<!--Equip skill: Increases PvP P. Atk.-->
+		<skills>
+			<skill id="3243" level="10" /> <!--Item Skill: Duel Might-->
+		</skills>
+	</option_data>
+	<option_data id="23006">
+		<!--Equip skill: Increases the weight limit 2 times.-->
+		<skills>
+			<skill id="3251" level="10" /> <!--Item Skill: Weight Limit-->
+		</skills>
+	</option_data>
+	<option_data id="23007">
+		<!--Use skill: Temporarily decreases skill reuse time.-->
+		<skills>
+			<skill id="3202" level="3" /> <!--Item Skill: Refresh-->
+		</skills>
+	</option_data>
+	<option_data id="23008">
+		<!--Use skill: Temporarily decreases all skill MP consumption.-->
+		<skills>
+			<skill id="3164" level="3" /> <!--Item Skill: Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23009">
+		<!--Use skill: Temporarily increases the probability of critical attack.-->
+		<skills>
+			<skill id="3141" level="10" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="23010">
+		<!--Use skill: Temporarily bestows on yourself the ability to reflect some of the received damage back to the enemy. Excludes damage caused by skills and long-range attack.-->
+		<skills>
+			<skill id="3204" level="3" /> <!--Item Skill: Reflect Damage-->
+		</skills>
+	</option_data>
+	<option_data id="23011">
+		<!--Use skill: Instantly blocks all of the target's physical/magic skills. Increase.-->
+		<skills>
+			<skill id="3198" level="10" /> <!--Item Skill: Doom-->
+		</skills>
+	</option_data>
+	<option_data id="23012">
+		<!--Use skill: Teleports to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3147" level="1" /> <!--Item Skill: Recall-->
+		</skills>
+	</option_data>
+	<option_data id="23013">
+		<!--Use skill: Becomes invincible momentarily.-->
+		<skills>
+			<skill id="3158" level="1" /> <!--Item Skill: Lesser Celestial Shield-->
+		</skills>
+	</option_data>
+	<option_data id="23014">
+		<!--Use skill: Temporarily increases the critical rate of damage attack magic.-->
+		<skills>
+			<skill id="3142" level="10" /> <!--Item Skill: Wild Magic-->
+		</skills>
+	</option_data>
+	<option_data id="23015">
+		<!--Use skill: Teleports party members to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3205" level="2" /> <!--Item Skill: Party Recall-->
+		</skills>
+	</option_data>
+	<option_data id="23016">
+		<!--Use skill: Temporarily blocks the target's magic skills.-->
+		<skills>
+			<skill id="3197" level="10" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="23017">
+		<!--Use skill: Temporarily decreases skill reuse time.-->
+		<skills>
+			<skill id="3199" level="3" /> <!--Item Skill: Skill Refresh-->
+		</skills>
+	</option_data>
+	<option_data id="23018">
+		<!--Use skill: Temporarily decreases skill MP consumption.-->
+		<skills>
+			<skill id="3161" level="3" /> <!--Item Skill: Skill Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23019">
+		<!--Use skill: Temporarily decreases skill reuse time.-->
+		<skills>
+			<skill id="3201" level="3" /> <!--Item Skill: Music Refresh-->
+		</skills>
+	</option_data>
+	<option_data id="23020">
+		<!--Use skill: Temporarily decreases song/dance skill MP consumption.-->
+		<skills>
+			<skill id="3163" level="3" /> <!--Item Skill: Music Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23021">
+		<!--Use skill: Temporarily decreases skill reuse time.-->
+		<skills>
+			<skill id="3200" level="3" /> <!--Item Skill: Spell Refresh-->
+		</skills>
+	</option_data>
+	<option_data id="23022">
+		<!--Use skill: Temporarily decreases spell MP consumption.-->
+		<skills>
+			<skill id="3162" level="3" /> <!--Item Skill: Spell Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23023">
+		<!--Use skill: You can momentarily avoid a monster's preemptive attack. Your attack abilities are greatly decreased while the effect lasts. Increase.-->
+		<skills>
+			<skill id="3159" level="3" /> <!--Item Skill: Stealth-->
+		</skills>
+	</option_data>
+	<option_data id="23024">
+		<!--Use skill: Temporarily bestows the ability to restore as HP some of the damage inflicted on the enemy. Excludes damage caused by skills and long-range attack.-->
+		<skills>
+			<skill id="3148" level="10" /> <!--Item Skill: Vampiric Rage-->
+		</skills>
+	</option_data>
+	<option_data id="23025">
+		<!--Chance: During a physical attack, instantly blocks all of the target's physical/magic skills. Increase.-->
+		<triggers>
+			<trigger id="3094" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="23026">
+		<!--Chance: During a physical attack, temporarily burns up the target's MP.-->
+		<triggers>
+			<trigger id="3082" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="23027">
+		<!--Chance: During a physical attack, instantly inflicts paralysis on the target.-->
+		<triggers>
+			<trigger id="3088" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="23028">
+		<!--Chance: During a physical attack, temporarily blocks the target's magic skills.-->
+		<triggers>
+			<trigger id="3093" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="23029">
+		<!--Chance: During a physical attack, instantly inflicts sleep on the target. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3087" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="23030">
+		<!--Chance: During a physical attack, instantly inflicts shock on the target.-->
+		<triggers>
+			<trigger id="3085" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="23031">
+		<!--Chance: During a critical attack, instantly blocks all of the target's physical/magic skills. Increase.-->
+		<triggers>
+			<trigger id="3122" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="23032">
+		<!--Chance: During a critical attack, temporarily burns up the target's MP.-->
+		<triggers>
+			<trigger id="3110" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="23033">
+		<!--Chance: During a critical attack, instantly inflicts paralysis on the target.-->
+		<triggers>
+			<trigger id="3116" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="23034">
+		<!--Chance: During a critical attack, temporarily blocks the target's magic skills.-->
+		<triggers>
+			<trigger id="3121" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="23035">
+		<!--Chance: During a critical attack, instantly inflicts sleep on the target. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3115" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="23036">
+		<!--Chance: During a critical attack, instantly inflicts shock on the target.-->
+		<triggers>
+			<trigger id="3113" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="23037">
+		<!--Chance: Blocks all the physical/magic skills of the target who caused you damage by a fixed rate. Increase.-->
+		<skills>
+			<skill id="3237" level="10" /> <!--Item Skill: Doom-->
+		</skills>
+	</option_data>
+	<option_data id="23038">
+		<!--Chance: Inflicts fear on the target who caused you damage and causes him to flee by a fixed rate.-->
+		<skills>
+			<skill id="3233" level="10" /> <!--Item Skill: Fear-->
+		</skills>
+	</option_data>
+	<option_data id="23039">
+		<!--Chance: When damage is received, the amount of MP recovery magic received increases by a fixed rate.-->
+		<skills>
+			<skill id="3212" level="10" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="23040">
+		<!--Chance: When damage is received, recovers your own MP by a fixed rate.-->
+		<skills>
+			<skill id="3210" level="10" /> <!--Item Skill: Recharge-->
+		</skills>
+	</option_data>
+	<option_data id="23041">
+		<!--Chance: Inflicts paralysis on the target who caused you damage by a fixed rate.-->
+		<skills>
+			<skill id="3231" level="10" /> <!--Item Skill: Paralyze-->
+		</skills>
+	</option_data>
+	<option_data id="23042">
+		<!--Chance: Blocks the magic skills of the target who caused you damage by a fixed rate.-->
+		<skills>
+			<skill id="3236" level="10" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="23043">
+		<!--Chance: Inflicts shock on the target who caused you damage by a fixed rate.-->
+		<skills>
+			<skill id="3228" level="10" /> <!--Item Skill: Stun-->
+		</skills>
+	</option_data>
+	<option_data id="23044">
+		<!--Chance: Inflicts flint on the target who caused you damage by a fixed rate.-->
+		<skills>
+			<skill id="3232" level="10" /> <!--Item Skill: Medusa-->
+		</skills>
+	</option_data>
+	<option_data id="23045">
+		<!--Chance: During a magic attack, instantly blocks all of the target's physical/magic skills. Increase.-->
+		<triggers>
+			<trigger id="3107" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="23046">
+		<!--Chance: During a magic attack, temporarily burns up the target's MP.-->
+		<triggers>
+			<trigger id="3095" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="23047">
+		<!--Chance: During a magic attack, instantly inflicts paralysis on the target.-->
+		<triggers>
+			<trigger id="3101" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="23048">
+		<!--Chance: During a magic attack, temporarily blocks the target's magic skills.-->
+		<triggers>
+			<trigger id="3106" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="23049">
+		<!--Chance: During a magic attack, instantly inflicts sleep on the target. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3100" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="23050">
+		<!--Chance: During a magic attack, instantly inflicts shock on the target.-->
+		<triggers>
+			<trigger id="3098" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="23051">
+		<!--Equip skill: Decreases all skill MP consumption.-->
+		<skills>
+			<skill id="3258" level="3" /> <!--Item Skill: Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23052">
+		<!--Equip skill: Increases evasion.-->
+		<skills>
+			<skill id="3247" level="10" /> <!--Item Skill: Agility-->
+		</skills>
+	</option_data>
+	<option_data id="23053">
+		<!--Equip skill: Increases the probability of critical attack.-->
+		<skills>
+			<skill id="3249" level="10" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="23054">
+		<!--Equip skill: Bestows on yourself the ability to reflect some of the damage back to the enemy. Excludes damage caused by skills and long-range attack.-->
+		<skills>
+			<skill id="3259" level="3" /> <!--Item Skill: Reflect Damage-->
+		</skills>
+	</option_data>
+	<option_data id="23055">
+		<!--Equip skill: Increases one's own accuracy.-->
+		<skills>
+			<skill id="3248" level="10" /> <!--Item Skill: Guidance-->
+		</skills>
+	</option_data>
+	<option_data id="23056">
+		<!--Equip skill: Increases the critical rate of damage attack magic.-->
+		<skills>
+			<skill id="3250" level="10" /> <!--Item Skill: Wild Magic-->
+		</skills>
+	</option_data>
+	<option_data id="23057">
+		<!--Equip skill: Increases the recovery rate when MP is being recovered by recharge.-->
+		<skills>
+			<skill id="3239" level="10" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="23058">
+		<!--Equip skill: Decreases skill MP consumption.-->
+		<skills>
+			<skill id="3255" level="3" /> <!--Item Skill: Skill Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23059">
+		<!--Equip skill: Decreases song skill MP consumption.-->
+		<skills>
+			<skill id="3257" level="3" /> <!--Item Skill: Music Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23060">
+		<!--Equip skill: Decreases magic MP consumption.-->
+		<skills>
+			<skill id="3256" level="3" /> <!--Item Skill: Spell Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="23061">
+		<!--STR +1 increase.-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="23062">
+		<!--CON +1 increase.-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="23063">
+		<!--INT +1 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="23064">
+		<!--MEN +1 increase.-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="23065">
+		<!--P. Def. increases by 24.52.-->
+		<for>
+			<add order="0x60" stat="pDef" value="24.524" />
+		</for>
+	</option_data>
+	<option_data id="23066">
+		<!--M. Def. increases by 20.8.-->
+		<for>
+			<add order="0x60" stat="mDef" value="20.798" />
+		</for>
+	</option_data>
+	<option_data id="23067">
+		<!--Max HP increases by 90.29-->
+		<for>
+			<add order="0x60" stat="maxHp" value="90.287" />
+		</for>
+	</option_data>
+	<option_data id="23068">
+		<!--Max HP increases by 29.65.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="29.646" />
+		</for>
+	</option_data>
+	<option_data id="23069">
+		<!--Max CP increases by 162.52.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="162.516" />
+		</for>
+	</option_data>
+	<option_data id="23070">
+		<!--P. Atk. increases by 16.72.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="16.722" />
+		</for>
+	</option_data>
+	<option_data id="23071">
+		<!--M. Atk. increases by 21.03.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="21.03" />
+		</for>
+	</option_data>
+	<option_data id="23072">
+		<!--HP Regen increases by 0.39.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.394" />
+		</for>
+	</option_data>
+	<option_data id="23073">
+		<!--MP Regen increases by 0.17.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.166" />
+		</for>
+	</option_data>
+	<option_data id="23074">
+		<!--CP Regen increases by 0.39.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.394" />
+		</for>
+	</option_data>
+	<option_data id="23075">
+		<!--Evasion increases by 1.99.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="1.987" />
+		</for>
+	</option_data>
+	<option_data id="23076">
+		<!--Accuracy increases by 1.99.-->
+		<for>
+			<add order="0x60" stat="accCombat" value="1.987" />
+		</for>
+	</option_data>
+	<option_data id="23077">
+		<!--Critical increases by 14.96.-->
+		<for>
+			<add order="0x60" stat="baseCrit" value="14.96" />
+		</for>
+	</option_data>
+	<option_data id="23078">
+		<!--P. Def. increases by 12.98. M. Def. increases by 9.79.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="mDef" value="9.787" />
+		</for>
+	</option_data>
+	<option_data id="23079">
+		<!--P. Def. increases by 12.98. Max HP increases by 42.49-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="maxHp" value="42.488" />
+		</for>
+	</option_data>
+	<option_data id="23080">
+		<!--P. Def. increases by 12.98. Max HP increases by 13.95.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="maxMp" value="13.951" />
+		</for>
+	</option_data>
+	<option_data id="23081">
+		<!--P. Def. increases by 12.98. Max CP increases by 76.48.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="maxCp" value="76.478" />
+		</for>
+	</option_data>
+	<option_data id="23082">
+		<!--P. Def. increases by 12.98. P. Atk. increases by 7.87.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="pAtk" value="7.869" />
+		</for>
+	</option_data>
+	<option_data id="23083">
+		<!--P. Def. increases by 12.98. M. Atk. increases by 9.9.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="mAtk" value="9.896" />
+		</for>
+	</option_data>
+	<option_data id="23084">
+		<!--P. Def. increases by 12.98. HP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="regHp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="23085">
+		<!--P. Def. increases by 12.98. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="regMp" value="0.078" />
+		</for>
+	</option_data>
+	<option_data id="23086">
+		<!--P. Def. increases by 12.98. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="23087">
+		<!--P. Def. increases by 12.98. Evasion increases by 0.94.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="rEvas" value="0.935" />
+		</for>
+	</option_data>
+	<option_data id="23088">
+		<!--P. Def. increases by 12.98. Accuracy increases by 0.94.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="accCombat" value="0.935" />
+		</for>
+	</option_data>
+	<option_data id="23089">
+		<!--P. Def. increases by 12.98. Critical increases by 7.04.-->
+		<for>
+			<add order="0x60" stat="pDef" value="12.983" />
+			<add order="0x60" stat="baseCrit" value="7.039999999999999" />
+		</for>
+	</option_data>
+	<option_data id="23090">
+		<!--M. Def. increases by 11.01. Max HP increases by 42.49-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="maxHp" value="42.488" />
+		</for>
+	</option_data>
+	<option_data id="23091">
+		<!--M. Def. increases by 11.01. Max HP increases by 13.95.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="maxMp" value="13.951" />
+		</for>
+	</option_data>
+	<option_data id="23092">
+		<!--M. Def. increases by 11.01. Max CP increases by 76.48.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="maxCp" value="76.478" />
+		</for>
+	</option_data>
+	<option_data id="23093">
+		<!--M. Def. increases by 11.01. P. Atk. increases by 7.87.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="pAtk" value="7.869" />
+		</for>
+	</option_data>
+	<option_data id="23094">
+		<!--M. Def. increases by 11.01. M. Atk. increases by 9.9.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="mAtk" value="9.896" />
+		</for>
+	</option_data>
+	<option_data id="23095">
+		<!--M. Def. increases by 11.01. HP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="regHp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="23096">
+		<!--M. Def. increases by 11.01. MP Regen increases by 0.08.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="regMp" value="0.078" />
+		</for>
+	</option_data>
+	<option_data id="23097">
+		<!--M. Def. increases by 11.01. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="23098">
+		<!--M. Def. increases by 11.01. Evasion increases by 0.94.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="rEvas" value="0.935" />
+		</for>
+	</option_data>
+	<option_data id="23099">
+		<!--M. Def. increases by 11.01. Accuracy increases by 0.94.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.01" />
+			<add order="0x60" stat="accCombat" value="0.935" />
+		</for>
+	</option_data>
+</list>

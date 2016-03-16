@@ -1,0 +1,1 @@
+ALTER TABLE dominion DROP `siege_date`;

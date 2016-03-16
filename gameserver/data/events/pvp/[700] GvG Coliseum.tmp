@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="700" name="GvG Coliseum" impl="CustomGvG">
+		<parameter name="battle_event_ids" value="701" />
+		<parameter name="is_arena" value="false" />
+		<parameter name="allow_pets" value="true" />
+		<parameter name="remove_buffs" value="true" />
+		<parameter name="disable_hero_skills" value="true" />
+		<parameter name="disable_clan_skills" value="true" />
+		<parameter name="clear_cooldown" value="true" />
+		<parameter name="max_enchanted_skills" value="true" />
+		<parameter name="phys_weapon_enchant_lock" value="16" />
+		<parameter name="magic_weapon_enchant_lock" value="10" />
+		<parameter name="armor_enchant_lock" value="6" />
+		<parameter name="accessory_enchant_lock" value="6" />
+		<parameter name="weapon_attribute_lock" value="300" />
+		<parameter name="armor_attribute_lock" value="120" />
+		<parameter name="forbidden_items" value="6611;6612;6613;6614;6615;6616;6617;6618;6619;6620;6621;9388;9389;9390;13300;10649" />
+		<!-- <parameter name="administrators" value="-1" /> -->
+		<on_init>
+			<spawn name="spawn_group" />
+		</on_init>
+		<objects name="spawn_group">
+			<spawn_ex name="custom_observation_manager" />
+		</objects>
+	</event>
+</list>

@@ -1,0 +1,1 @@
+ALTER TABLE items ADD COLUMN `agathion_energy` INT NOT NULL;

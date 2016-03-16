@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- VESPER SETs --><!-- S84 -->
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Helmet -->
+    <production id="13137" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Nooble Helmet -->
+    <production id="13140" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Leather Helmet -->
+    <production id="13138" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Nooble Leather Helmet -->
+    <production id="13141" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Circlet -->
+    <production id="13139" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Circlet -->
+    <production id="13142" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Breastplate -->
+    <production id="13432" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Breastplate -->
+    <production id="13435" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Leather Breastplate -->
+    <production id="13433" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Leather Breastplate -->
+    <production id="13436" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Tunic -->
+    <production id="13434" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Tunic -->
+    <production id="13437" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Gaiters -->
+    <production id="13438" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Gaiters -->
+    <production id="13448" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Leather Leggings -->
+    <production id="13441" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Leather Leggings -->
+    <production id="13451" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Stockings -->
+    <production id="13444" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Stockings -->
+    <production id="13454" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Gauntlet -->
+    <production id="13439" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Gauntlet -->
+    <production id="13449" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Leather Gloves -->
+    <production id="13442" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Leather Gloves -->
+    <production id="13452" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Gloves -->
+    <production id="13445" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Gloves -->
+    <production id="13455" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Boots -->
+    <production id="13440" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Boots -->
+    <production id="13450" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Leather Boots -->
+    <production id="13443" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Leather Boots -->
+    <production id="13453" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Shoes -->
+    <production id="13446" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Noble Shoes -->
+    <production id="13456" count="1" enchant="6"/>
+  </item>
+  <!-- VORPAL, ELEGIA SETs -->
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Helmet -->
+    <production id="15591" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Leather Helmet -->
+    <production id="15590" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Circlet -->
+    <production id="15589" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Helmet -->
+    <production id="15572" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Leather Helmet -->
+    <production id="15573" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Circlet -->
+    <production id="15574" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Breastplate -->
+    <production id="15592" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Leather Breastplate-->
+    <production id="15593" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Tunic -->
+    <production id="15594" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Breastplate --> 
+    <production id="15575" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Leather Breastplate -->
+    <production id="15576" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Tunic -->
+    <production id="15577" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Gaiter -->
+    <production id="15595" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Leather Legging -->
+    <production id="15596" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Stockings -->
+    <production id="15597" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Gaiter -->
+    <production id="15578" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Leather Legging -->
+    <production id="15579" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Stockings -->
+    <production id="15580" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Gauntlet -->
+    <production id="15598" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Leather Gloves -->
+    <production id="15599" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Gloves -->
+    <production id="15600" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Gauntlet -->
+    <production id="15581" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Leather Gloves -->
+    <production id="15582" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Gloves -->
+    <production id="15583" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Boots -->
+    <production id="15601" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Leather Boots -->
+    <production id="15602" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Shoes -->
+    <production id="15603" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Boots -->
+    <production id="15584" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Leather Boots -->
+    <production id="15585" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Shoes -->
+    <production id="15586" count="1" enchant="6"/>
+  </item>
+  <!-- SHILDs, SIGILs-->
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Shield -->
+    <production id="13471" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Shield -->
+    <production id="15604" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Shield -->
+    <production id="15587" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vesper Sigil -->
+    <production id="12813" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Vorpal Sigil -->
+    <production id="15605" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Elegia Sigil -->
+    <production id="15588" count="1" enchant="6"/>
+  </item>
+
+</list>

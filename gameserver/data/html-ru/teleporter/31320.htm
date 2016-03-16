@@ -1,0 +1,25 @@
+Gatekeeper Illiyana:
+
+Этот город был изначально построен для усиления экономической и военной мощи. Он стал столицей Королевства Эльмора. Количество людей, прибывающих в город и покидающих его с помощью портала, исчисляется сотнями.
+
+А Вы по какому делу прибыли в Rune Township?
+
+[npc_%objectId%_Teleport 1|Телепортироваться]
+
+[npc_%objectId%_multisell 002|Обменять Алмазы Иных Миров]
+
+[npc_%objectId%_Util:NoblessTeleport|Телепортироваться (только для Дворян)]
+
+[npc_%objectId%_services.TeleToMDT:toMDT @811;Арену и Ипподром|Отправиться на Арену и Ипподром (Бесплатно)]
+
+[npc_%objectId%_services.TeleToFantasyIsle:toFantasyIsle @811;Остров Грез|Отправиться на Остров Грез (Бесплатно)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Переместиться в Парнассус (зона без налогов) - ${SERVICES_PARNASSUS_PRICE} Аден]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|Я хочу бесплатно попасть в Гавань Гирана]<br>
+#end
+[npc_%objectId%_birthdayHelper|Призвать Аллегрию]
+
+[npc_%objectId%_Quest|Квест]

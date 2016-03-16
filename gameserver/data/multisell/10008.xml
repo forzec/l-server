@@ -1,0 +1,212 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+  
+<!--Icarus Swords-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10434" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10435" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10436" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10440" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10441" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10442" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus 2h Swords-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10437" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10438" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10439" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Blunts-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10452" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10453" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10454" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10455" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10456" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10457" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus 2h Blunts-->
+	
+<!--Icarus Daggers-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10446" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10447" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10448" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Bows-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10443" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10444" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10445" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Spears-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10449" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10450" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10451" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Claws-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10458" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10459" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10460" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Rapiers-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10461" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10462" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10463" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Ancient Swords-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10464" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10465" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10466" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Arbalet-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10467" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10468" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10469" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Dual Swords-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="10415" count="1" enchant="6"/>
+	</item>
+
+<!--Icarus Dual Daggers-->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="13883" count="1" enchant="6"/>
+	</item>
+</list>
+
+
+

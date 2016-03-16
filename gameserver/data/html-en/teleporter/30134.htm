@@ -1,0 +1,19 @@
+Gatekeeper Jasmine:
+
+The Gatekeeper Guild stewards the doors of time and space that connects a multitude of locations on the continent. Do you wish to leave this forest and seek your dreams in the wide world beyond? If you wish it, I can send you to an exotic land filled with romance and adventure!
+
+[npc_%objectId%_Teleport 1|Teleport]
+
+[npc_%objectId%_multisell 002|Exchange Dimension Diamonds.]
+
+[npc_%objectId%_Util:NoblessTeleport|Noblesse Exclusive Teleport]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Move to Parnassus (offshore zone) - ${SERVICES_PARNASSUS_PRICE} Adena]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|I want free admission to Giran Harbor.]<br>
+#end
+[npc_%objectId%_birthdayHelper|Call Alegria]
+
+[npc_%objectId%_Quest|Quest]

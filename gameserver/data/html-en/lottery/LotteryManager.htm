@@ -1,0 +1,13 @@
+Lottery Ticket Seller:
+
+Every ticket a potential winner! Step right up!
+
+[npc_%objectId%_Loto 0|Purchase lottery ticket]
+
+[npc_%objectId%_Loto 23|Current lottery jackpot]
+
+[npc_%objectId%_Loto 24|Previous winning numbers/Prize claim]
+
+#if ( $SERVICES_ALLOW_ROULETTE )
+[npc_%objectId%_services.Roulette:dialog|Play roulette]
+#end

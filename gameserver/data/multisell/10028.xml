@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  
+  <!--Shirts HP, CP, MP-->
+  <!--C Grade-->
+  <item>
+    <ingredient id="6673" count="50"/>
+    <production id="10503" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="50"/>
+    <production id="10504" count="1"/>
+  </item> 
+  
+  <item>
+    <ingredient id="6673" count="50"/>
+    <production id="10505" count="1"/>
+  </item> 
+  
+  <!--B Grade-->
+  <item>
+    <ingredient id="6673" count="100"/>
+    <production id="10506" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="100"/>
+    <production id="10507" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="100"/>
+    <production id="10508" count="1"/>
+  </item>
+  
+  <!--A Grade-->
+  <item>
+    <ingredient id="6673" count="250"/>
+    <production id="10509" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="250"/>
+    <production id="10510" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="250"/>
+    <production id="10511" count="1"/>
+  </item>
+  
+  <!--S Grade-->
+  <item>
+    <ingredient id="6673" count="350"/>
+    <production id="10512" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="350"/>
+    <production id="10513" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="6673" count="350"/>
+    <production id="10514" count="1"/>
+  </item>
+  
+  <!--M.def shirt S Grade-->
+  <item>
+    <ingredient id="6673" count="350"/>
+    <production id="10208" count="1"/>
+  </item>
+  
+</list>

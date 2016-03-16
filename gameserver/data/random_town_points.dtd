@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!ELEMENT list (town)*>
+<!ELEMENT town (point)*>
+<!ATTLIST town
+	id CDATA #REQUIRED
+	name CDATA #REQUIRED>
+<!ELEMENT point (#PCDATA)>
+<!ATTLIST point
+	x CDATA #REQUIRED
+	y CDATA #REQUIRED
+	z CDATA #REQUIRED
+	h CDATA #IMPLIED>

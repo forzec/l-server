@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<!--формат даты HH:mm dd.MM.yyyy-->
+	<event id="4" name="Rating Event" impl="RepeatingFun">
+		<parameter name="start-pattern" value="6:00 30.10.2012" />
+		<parameter name="stop-pattern" value="4:00 7.11.2012" />
+		<parameter name="repeat-pattern" value="0 6 * * *" />
+		<parameter name="event_item_id" value="20706" />
+		<parameter name="reward_item_id" value="57" />
+		<parameter name="reward_item_count" value="100" />
+		<parameter name="first_item_id" value="20519" />
+		<parameter name="first_item_count" value="1" />
+		<parameter name="second_item_id" value="20520" />
+		<parameter name="second_item_count" value="1" />
+		<parameter name="third_item_id" value="6577" />
+		<parameter name="third_item_count" value="10" />
+		<parameter name="additional_reward" value="250;20724;1;2500;20723;1" /> <!-- required;itemId;count;... -->
+		<on_start>
+			<spawn name="spawn_group" />
+			<global_add_reward name="droplist" />
+		</on_start>
+		<on_time>
+			<on time="54000">
+				<refresh name="spawn_group" />
+			</on>
+			<on time="79200">
+				<despawn name="spawn_group" />
+				<global_remove_reward name="droplist" />
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="spawn_group">
+			<spawn_ex name="br_halloween09_event" />
+		</objects>
+		<objects name="droplist">
+			<rewardlist type="EVENT">
+				<reward item_id="20706" min="1" max="1" chance="5.0000" />	<!--Halloween Candy - Event-->
+			</rewardlist>
+		</objects>
+	</event>
+</list>

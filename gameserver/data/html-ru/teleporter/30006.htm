@@ -1,0 +1,23 @@
+Gatekeeper Roxxy:
+
+Здравствуйте! Я Gatekeeper Roxxy. Меня направили сюда из Баншю Слоновой Кости. Так приятно работать на родине! Вы случайно не были в Einhovant's School of Magic? Grand Magister Gallint был моим любимым учителем. Итак, что я могу сделать для Вас?
+
+[npc_%objectId%_Chat 1|Спросить о Воздуной Гавани]
+
+[npc_%objectId%_Chat 2|Спросить про Баншю Слоновой Кости]
+
+[npc_%objectId%_Teleport 1|Телепортироваться]
+
+[npc_%objectId%_multisell 002|Обменять Алмазы Иных Миров]
+
+[npc_%objectId%_Util:NoblessTeleport|Телепортироваться (только для Дворян)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Переместиться в Парнассус (зона без налогов) - ${SERVICES_PARNASSUS_PRICE} Аден]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|Я хочу бесплатно попасть в Гавань Гирана]<br>
+#end
+[npc_%objectId%_birthdayHelper|Призвать Аллегрию]
+
+[npc_%objectId%_Quest|Квест]

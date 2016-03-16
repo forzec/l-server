@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="16600">
+		<!--None-->
+		<skills>
+			<skill id="8124" level="1" /> <!--Augment Option - Water Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16601">
+		<!--None-->
+		<skills>
+			<skill id="8125" level="1" /> <!--Augment Option - Wind Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16602">
+		<!--None-->
+		<skills>
+			<skill id="8126" level="1" /> <!--Augment Option - Earth Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16603">
+		<!--None-->
+		<skills>
+			<skill id="8127" level="1" /> <!--Augment Option - Resistance to Holy-->
+		</skills>
+	</option_data>
+	<option_data id="16604">
+		<!--None-->
+		<skills>
+			<skill id="8128" level="1" /> <!--Augment Option - Dark Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16605">
+		<!--None-->
+		<skills>
+			<skill id="8129" level="1" /> <!--Augment Option - Fire Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16606">
+		<!--None-->
+		<skills>
+			<skill id="8130" level="1" /> <!--Augment Option - Water Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16607">
+		<!--None-->
+		<skills>
+			<skill id="8131" level="1" /> <!--Augment Option - Wind Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16608">
+		<!--None-->
+		<skills>
+			<skill id="8132" level="1" /> <!--Augment Option - Earth Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16609">
+		<!--None-->
+		<skills>
+			<skill id="8133" level="1" /> <!--Augment Option - Holy Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16610">
+		<!--None-->
+		<skills>
+			<skill id="8134" level="1" /> <!--Augment Option - Dark Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16611">
+		<!--None-->
+		<skills>
+			<skill id="8135" level="1" /> <!--Augment Option - Fire Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16612">
+		<!--None-->
+		<skills>
+			<skill id="8136" level="1" /> <!--Augment Option - Water Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16613">
+		<!--None-->
+		<skills>
+			<skill id="8137" level="1" /> <!--Augment Option - Wind Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16614">
+		<!--None-->
+		<skills>
+			<skill id="8138" level="1" /> <!--Augment Option - Earth Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16615">
+		<!--None-->
+		<skills>
+			<skill id="8139" level="1" /> <!--Augment Option - Resistance to Holy-->
+		</skills>
+	</option_data>
+	<option_data id="16616">
+		<!--None-->
+		<skills>
+			<skill id="8140" level="1" /> <!--Augment Option - Dark Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16617">
+		<!--None-->
+		<skills>
+			<skill id="8141" level="1" /> <!--Augment Option - Fire Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16618">
+		<!--None-->
+		<skills>
+			<skill id="8142" level="1" /> <!--Augment Option - Water Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16619">
+		<!--None-->
+		<skills>
+			<skill id="8143" level="1" /> <!--Augment Option - Wind Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16620">
+		<!--None-->
+		<skills>
+			<skill id="8144" level="1" /> <!--Augment Option - Earth Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16621">
+		<!--None-->
+		<skills>
+			<skill id="8145" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16622">
+		<!--None-->
+		<skills>
+			<skill id="8146" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16623">
+		<!--None-->
+		<skills>
+			<skill id="8147" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16624">
+		<!--None-->
+		<skills>
+			<skill id="8148" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16625">
+		<!--None-->
+		<skills>
+			<skill id="8149" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16626">
+		<!--None-->
+		<skills>
+			<skill id="8150" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16627">
+		<!--None-->
+		<skills>
+			<skill id="8151" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16628">
+		<!--None-->
+		<skills>
+			<skill id="8152" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16629">
+		<!--None-->
+		<skills>
+			<skill id="8153" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16630">
+		<!--None-->
+		<skills>
+			<skill id="8154" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16631">
+		<!--None-->
+		<skills>
+			<skill id="8155" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16632">
+		<!--None-->
+		<skills>
+			<skill id="8156" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16633">
+		<!--None-->
+		<skills>
+			<skill id="8157" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16634">
+		<!--None-->
+		<skills>
+			<skill id="8158" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16635">
+		<!--None-->
+		<skills>
+			<skill id="8159" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16636">
+		<!--None-->
+		<skills>
+			<skill id="8160" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16637">
+		<!--None-->
+		<skills>
+			<skill id="8161" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16638">
+		<!--None-->
+		<skills>
+			<skill id="8162" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16639">
+		<!--None-->
+		<skills>
+			<skill id="8163" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16640">
+		<!--None-->
+		<skills>
+			<skill id="8164" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16641">
+		<!--None-->
+		<skills>
+			<skill id="8165" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16642">
+		<!--None-->
+		<skills>
+			<skill id="8166" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16643">
+		<!--None-->
+		<skills>
+			<skill id="8167" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16644">
+		<!--None-->
+		<skills>
+			<skill id="8168" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16645">
+		<!--None-->
+		<skills>
+			<skill id="8169" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16646">
+		<!--None-->
+		<skills>
+			<skill id="8170" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16647">
+		<!--None-->
+		<skills>
+			<skill id="8171" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16648">
+		<!--None-->
+		<skills>
+			<skill id="8172" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16649">
+		<!--None-->
+		<skills>
+			<skill id="8173" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16650">
+		<!--None-->
+		<skills>
+			<skill id="8174" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16651">
+		<!--None-->
+		<skills>
+			<skill id="8175" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16652">
+		<!--None-->
+		<skills>
+			<skill id="8176" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16653">
+		<!--None-->
+		<skills>
+			<skill id="8177" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16654">
+		<!--None-->
+		<skills>
+			<skill id="8178" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16655">
+		<!--None-->
+		<skills>
+			<skill id="8179" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16656">
+		<!--None-->
+		<skills>
+			<skill id="8180" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16657">
+		<!--None-->
+		<skills>
+			<skill id="8181" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16658">
+		<!--None-->
+		<skills>
+			<skill id="8182" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16659">
+		<!--None-->
+		<skills>
+			<skill id="8183" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16660">
+		<!--None-->
+		<skills>
+			<skill id="8184" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16661">
+		<!--None-->
+		<skills>
+			<skill id="8185" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16662">
+		<!--None-->
+		<skills>
+			<skill id="8186" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16663">
+		<!--None-->
+		<skills>
+			<skill id="8187" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16664">
+		<!--None-->
+		<skills>
+			<skill id="8188" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16665">
+		<!--None-->
+		<skills>
+			<skill id="8189" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16666">
+		<!--None-->
+		<skills>
+			<skill id="8190" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16667">
+		<!--None-->
+		<skills>
+			<skill id="8191" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16668">
+		<!--None-->
+		<skills>
+			<skill id="8192" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16669">
+		<!--Equip Skill: Increase Earth P. Def.-->
+		<skills>
+			<skill id="8012" level="1" /> <!--Augment Option - Earth Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16670">
+		<!--Equip Skill: Increase Fire P. Def.-->
+		<skills>
+			<skill id="8009" level="1" /> <!--Augment Option - Fire Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16671">
+		<!--Equip Skill: Increase Holy P. Def.-->
+		<skills>
+			<skill id="8007" level="1" /> <!--Augment Option - Resistance to Holy-->
+		</skills>
+	</option_data>
+	<option_data id="16672">
+		<!--Equip Skill: Increase Dark P. Def.-->
+		<skills>
+			<skill id="8008" level="1" /> <!--Augment Option - Dark Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16673">
+		<!--Equip Skill: Increase Water P. Def.-->
+		<skills>
+			<skill id="8010" level="1" /> <!--Augment Option - Water Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16674">
+		<!--Equip Skill: Increase Wind P. Def.-->
+		<skills>
+			<skill id="8011" level="1" /> <!--Augment Option - Wind Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16675">
+		<!--Equip Skill: Increase Bleed P. Atk.-->
+		<skills>
+			<skill id="8050" level="1" /> <!--Augment Option - Enhance Bleed-->
+		</skills>
+	</option_data>
+	<option_data id="16676">
+		<!--Equip Skill: Increase Bleed P. Def.-->
+		<skills>
+			<skill id="8056" level="1" /> <!--Augment Option - Bleed Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16677">
+		<!--Equip Skill: Increase Mental Abnormal P. Atk.-->
+		<skills>
+			<skill id="8054" level="1" /> <!--Augment Option - Enhance Mental Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16678">
+		<!--Equip Skill: Increase Mental Abnormal P. Def.-->
+		<skills>
+			<skill id="8060" level="1" /> <!--Augment Option - Mental Attack Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16679">
+		<!--Equip Skill: Increases the power of paralysis-type attacks.-->
+		<skills>
+			<skill id="8053" level="1" /> <!--Augment Option - Enhance Paralysis-->
+		</skills>
+	</option_data>
+	<option_data id="16680">
+		<!--Equip Skill: Increases your defense against paralysis-type attacks.-->
+		<skills>
+			<skill id="8059" level="1" /> <!--Augment Option - Paralysis Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16681">
+		<!--Equip Skill: Increase Poison P. Atk.-->
+		<skills>
+			<skill id="8051" level="1" /> <!--Augment Option - Enhance Poison-->
+		</skills>
+	</option_data>
+	<option_data id="16682">
+		<!--Equip Skill: Increase Poison P. Def.-->
+		<skills>
+			<skill id="8057" level="1" /> <!--Augment Option - Poison Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16683">
+		<!--Equip Skill: Increase Stun P. Atk.-->
+		<skills>
+			<skill id="8049" level="1" /> <!--Augment Option - Enhance Stun-->
+		</skills>
+	</option_data>
+	<option_data id="16684">
+		<!--Equip Skill: Increase Stun P. Def.-->
+		<skills>
+			<skill id="8055" level="1" /> <!--Augment Option - Stun Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16685">
+		<!--Equip Skill: Increase Sleep P. Atk.-->
+		<skills>
+			<skill id="8052" level="1" /> <!--Augment Option - Enhance Sleep-->
+		</skills>
+	</option_data>
+	<option_data id="16686">
+		<!--Equip Skill: Increase Sleep P. Def.-->
+		<skills>
+			<skill id="8058" level="1" /> <!--Augment Option - Sleep Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16687">
+		<!--Increase M. Def. 2.1-->
+		<for>
+			<add order="0x60" stat="mDef" value="2.1" />
+		</for>
+	</option_data>
+	<option_data id="16688">
+		<!--Increase M. Def. 1.1 Increase Max HP 10.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="maxHp" value="10.5" />
+		</for>
+	</option_data>
+	<option_data id="16689">
+		<!--Increase M. Def. 1.1 Increase Max MP 6.5-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="maxMp" value="6.5" />
+		</for>
+	</option_data>
+	<option_data id="16690">
+		<!--Increase M. Def. 1.1 Increase M. Atk. 1.25-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="mAtk" value="1.25" />
+		</for>
+	</option_data>
+	<option_data id="16691">
+		<!--Increase M. Def. 1.1 Increase HP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="regHp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="16692">
+		<!--Increase M. Def. 1.1 Increase MP Regen 0.015-->
+		<for>
+			<add order="0x60" stat="mDef" value="1.1" />
+			<add order="0x60" stat="regMp" value="0.015" />
+		</for>
+	</option_data>
+	<option_data id="16693">
+		<!--Increase Max HP 21.0-->
+		<for>
+			<add order="0x60" stat="maxHp" value="21.0" />
+		</for>
+	</option_data>
+	<option_data id="16694">
+		<!--Increase Max HP 10.5 Increase Max MP 6.5-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="maxMp" value="6.5" />
+		</for>
+	</option_data>
+	<option_data id="16695">
+		<!--Increase Max HP 10.5 Increase M. Atk. 1.25-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="mAtk" value="1.25" />
+		</for>
+	</option_data>
+	<option_data id="16696">
+		<!--Increase Max HP 10.5 Increase HP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="regHp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="16697">
+		<!--Increase Max HP 10.5 Increase MP Regen 0.015-->
+		<for>
+			<add order="0x60" stat="maxHp" value="10.5" />
+			<add order="0x60" stat="regMp" value="0.015" />
+		</for>
+	</option_data>
+	<option_data id="16698">
+		<!--Increase Max MP 13.0-->
+		<for>
+			<add order="0x60" stat="maxMp" value="13.0" />
+		</for>
+	</option_data>
+	<option_data id="16699">
+		<!--Increase Max MP 6.5 Increase M. Atk. 1.25-->
+		<for>
+			<add order="0x60" stat="maxMp" value="6.5" />
+			<add order="0x60" stat="mAtk" value="1.25" />
+		</for>
+	</option_data>
+</list>

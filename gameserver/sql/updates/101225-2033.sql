@@ -1,0 +1,1 @@
+﻿DELETE FROM `character_effects_save` WHERE `skill_id` > 1000000;

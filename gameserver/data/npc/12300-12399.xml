@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="12311" name="Hatchling of the Wind" title="">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseAtkType" value="FIST" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="610" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="4.9" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="22" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="39" />
+		<set name="baseMEN" value="25" />
+		<set name="baseMpMax" value="433" />
+		<set name="baseMpReg" value="1.8" />
+		<set name="basePAtk" value="48" />
+		<set name="basePAtkSpd" value="304" />
+		<set name="basePDef" value="42" />
+		<set name="baseRunSpd" value="140" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="80" />
+		<set name="collision_height" value="10.0" />
+		<set name="collision_radius" value="9.0" />
+		<set name="corpse_time" value="86400" />
+		<set name="level" value="35" />
+		<set name="race" value="DRAGON" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="2" />
+		<set name="spiritshot_count" value="2" />
+		<set name="type" value="Pet" />
+		<equip>
+			<rhand item_id="5191" />	<!--Diabolic Grinder-->
+		</equip>
+		<skills>
+			<skill id="4121" level="1" />	<!--Summoned Monster Magic Protection-->
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="1" />	<!--Bare Hands-->
+			<skill id="4416" level="10" />	<!--Dragons-->
+			<skill id="4715" level="1" />	<!--Wind Dragon-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="12312" name="Hatchling of the Stars" title="">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseAtkType" value="FIST" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="1202" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="4.9" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="22" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="39" />
+		<set name="baseMEN" value="25" />
+		<set name="baseMpMax" value="433" />
+		<set name="baseMpReg" value="1.8" />
+		<set name="basePAtk" value="48" />
+		<set name="basePAtkSpd" value="304" />
+		<set name="basePDef" value="42" />
+		<set name="baseRunSpd" value="140" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="80" />
+		<set name="collision_height" value="10.0" />
+		<set name="collision_radius" value="9.0" />
+		<set name="corpse_time" value="86400" />
+		<set name="level" value="35" />
+		<set name="race" value="DRAGON" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="2" />
+		<set name="spiritshot_count" value="2" />
+		<set name="type" value="Pet" />
+		<equip>
+			<rhand item_id="3923" />	<!--Torturer-->
+		</equip>
+		<skills>
+			<skill id="4121" level="1" />	<!--Summoned Monster Magic Protection-->
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="1" />	<!--Bare Hands-->
+			<skill id="4416" level="10" />	<!--Dragons-->
+			<skill id="4716" level="1" />	<!--Star Dragon-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="12313" name="Hatchling of Twilight" title="">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseAtkType" value="FIST" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2710" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="4.9" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="22" />
+		<set name="baseMAtkSpd" value="257" />
+		<set name="baseMDef" value="39" />
+		<set name="baseMEN" value="25" />
+		<set name="baseMpMax" value="433" />
+		<set name="baseMpReg" value="1.8" />
+		<set name="basePAtk" value="48" />
+		<set name="basePAtkSpd" value="282" />
+		<set name="basePDef" value="42" />
+		<set name="baseRunSpd" value="140" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="80" />
+		<set name="collision_height" value="10.0" />
+		<set name="collision_radius" value="9.0" />
+		<set name="corpse_time" value="86400" />
+		<set name="level" value="35" />
+		<set name="race" value="DRAGON" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="2" />
+		<set name="spiritshot_count" value="2" />
+		<set name="type" value="Pet" />
+		<skills>
+			<skill id="4121" level="1" />	<!--Summoned Monster Magic Protection-->
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="1" />	<!--Bare Hands-->
+			<skill id="4416" level="10" />	<!--Dragons-->
+			<skill id="4714" level="1" />	<!--Twilight Dragon-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+</list>

@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  
+  <!--Event - Rider Goggles-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13522" count="1" />
+</item>
+
+<!--Visor-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20024" count="1" />
+</item>
+
+<!--Black Gem Mask-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20324" count="1" />
+</item>
+
+<!--Goggle-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20321" count="1" />
+</item>
+
+<!--Horn-Rimmed Glasses-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20016" count="1" />
+</item>
+
+<!--Ruthless Tribe Mask-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20022" count="1" />
+</item>
+
+<!--Jester Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="8562" count="1" />
+</item>
+
+<!--Refined Jester Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13499" count="1" />
+</item>
+
+<!--Dapper Cap-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="8564" count="1" />
+</item>
+
+<!--Refined Dapper Cap-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13504" count="1" />
+</item>
+
+<!--Romantic Chapeau-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="8565" count="1" />
+</item>
+
+<!--Refined Romantic Chapeau-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13501" count="1" />
+</item>
+
+<!--Leather Cap-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="8918" count="1" />
+</item>
+
+<!--First Mate's Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="8919" count="1" />
+</item>
+
+<!--Adventurer Hat (Event)-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="10250" count="1" />
+</item>
+
+<!--Straw Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="10248" count="1" />
+</item>
+
+<!--Pirate Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="8922" count="1" />
+</item>
+
+<!--Refined Pirate Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13496" count="1" />
+</item>
+
+<!--Mining Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13513" count="1" />
+</item>
+
+<!--Improved Mining Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13514" count="1" />
+</item>
+
+<!--Search Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13515" count="1" />
+</item>
+
+<!--Improved Search Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13516" count="1" />
+</item>
+
+<!--Artisan's Goggles-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="22172" count="1" />
+</item>
+
+<!--Rocket Gun Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20789" count="1" />
+</item>
+
+<!--Gold Skeleton Circlet-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="14962" count="1" />
+</item>
+
+<!--Silver Skeleton Circlet-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="14963" count="1" />
+</item>
+
+<!--Red Skeleton Circlet-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="14964" count="1" />
+</item>
+
+<!--Black Skeleton Circlet-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="14965" count="1" />
+</item>
+
+<!--Purple Viking Circlet-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="10241" count="1" />
+</item>
+
+<!--Golden Viking Circlet-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="10242" count="1" />
+</item>
+
+<!--Uniform Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20020" count="1" />
+</item>
+
+<!--Assassin's Bamboo Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20021" count="1" />
+</item>
+
+<!--Ribbon Hairband-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20023" count="1" />
+</item>
+
+<!--Napoleon Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20322" count="1" />
+</item>
+
+<!--Horn Hairband-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20323" count="1" />
+</item>
+
+<!--Laborer Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20401" count="1" />
+</item>
+
+<!--Feline Queen Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20499" count="1" />
+</item>
+
+<!--Feline King Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20500" count="1" />
+</item>
+
+<!--Kai the Cat Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20501" count="1" />
+</item>
+
+<!--Eva's Circlet-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20569" count="1" />
+</item>
+
+<!--Anniversary Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20601" count="1" />
+</item>
+
+<!--Gatekeeper Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20678" count="1" />
+</item>
+
+<!--Event - Jindo Dog Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13520" count="1" />
+</item>
+
+<!--Event - Raccoon Hat -->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13517" count="1" />
+</item>
+
+<!--Event - Shaggy Dog Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13521" count="1" />
+</item>
+
+<!--Panda Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="10243" count="1" />
+</item>
+
+<!--White Sheep Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="10244" count="1" />
+</item>
+
+<!--Black Sheep Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="10245" count="1" />
+</item>
+
+<!--Graduation Cap-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13492" count="1" />
+</item>
+
+<!--Wizard Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="8563" count="1" />
+</item>
+
+<!--Refined Wizard Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13498" count="1" />
+</item>
+
+<!--Event - Top Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13518" count="1" />
+</item>
+
+<!--Refined Devil Horn-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13495" count="1" />
+</item>
+
+<!--Halloween Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13489" count="1" />
+</item>
+
+<!--Varka Karm (used by Varka Silenos)-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13234" count="1" />
+</item>
+
+<!--Ketra Karm (used by Ketra Orcs)-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="13235" count="1" />
+</item>
+
+<!--Valkyrie Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20666" count="1" />
+</item>
+
+<!--Red Flame of Valakas-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20725" count="1" />
+</item>
+
+<!--Jack O'Lantern Mask (Event)-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20711" count="1" />
+</item>
+
+<!--Tiger Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20668" count="1" />
+</item>
+
+<!--Plastic Hair-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20325" count="1" />
+</item>
+
+<!--Afro Hair-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20017" count="1" />
+</item>
+
+<!--Maid's Hairband-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20670" count="1" />
+</item>
+
+<!--Sexy Panda Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20676" count="1" />
+</item>
+
+<!--Baby Panda Hat-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20672" count="1" />
+</item>
+
+<!--Headphone-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="20614" count="1" />
+</item>
+  
+</list>

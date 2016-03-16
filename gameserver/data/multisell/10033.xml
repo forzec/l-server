@@ -1,0 +1,924 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+<!--Vesper Helmet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16306" count="1" enchant="6" />
+</item>
+
+<!--Vesper Gaiter-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16312" count="1" enchant="6" />
+</item>
+
+<!--Vesper Boots-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16318" count="1" enchant="6" />
+</item>
+
+<!--Vesper Gauntlet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16315" count="1" enchant="6" />
+</item>
+
+<!--Vesper Leather Helmet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16307" count="1" enchant="6" />
+</item>
+
+<!--Vesper Leather Legging-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16313" count="1" enchant="6" />
+</item>
+
+<!--Vesper Leather Boots-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16319" count="1" enchant="6" />
+</item>
+
+<!--Vesper Leather Gloves-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16316" count="1" enchant="6" />
+</item>
+
+<!--Vesper Circlet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16308" count="1" enchant="6" />
+</item>
+
+<!--Vesper Stockings-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16314" count="1" enchant="6" />
+</item>
+
+<!--Vesper Shoes-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16320" count="1" enchant="6" />
+</item>
+
+<!--Vesper Gloves-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16317" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Helmet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16837" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Gaiter-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16843" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Boots-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16849" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Gauntlet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16846" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Leather Helmet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16838" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Leather Legging-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16844" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Leather Boots-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16850" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Leather Gloves-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16847" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Circlet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16839" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Stockings-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16845" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Shoes-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16851" count="1" enchant="6" />
+</item>
+
+<!--Vesper Noble Gloves-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16848" count="1" enchant="6" />
+</item>
+
+<!--Moirai Helmet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16289" count="1" enchant="6" />
+</item>
+
+<!--Moirai Gaiter-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16295" count="1" enchant="6" />
+</item>
+
+<!--Moirai Boots-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16301" count="1" enchant="6" />
+</item>
+
+<!--Moirai Gauntlet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16298" count="1" enchant="6" />
+</item>
+
+<!--Moirai Leather Helmet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16290" count="1" enchant="6" />
+</item>
+
+<!--Moirai Leather Legging-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16296" count="1" enchant="6" />
+</item>
+
+<!--Moirai Leather Gloves-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16299" count="1" enchant="6" />
+</item>
+
+<!--Moirai Leather Boots-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16302" count="1" enchant="6" />
+</item>
+
+<!--Moirai Circlet-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16291" count="1" enchant="6" />
+</item>
+
+<!--Moirai Stockings-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16297" count="1" enchant="6" />
+</item>
+
+<!--Moirai Shoes-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16303" count="1" enchant="6" />
+</item>
+
+<!--Moirai Gloves-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16300" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Helmet-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11557" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Gaiters-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11512" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Gauntlet-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11513" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Boots-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11526" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Leather Helmet-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11525" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Leather Leggings-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11516" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Leather Gloves-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11515" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Leather Boots-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11524" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Circlet-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11539" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Stockings-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11558" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Gloves-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11514" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Shoes-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11533" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Shield-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11532" count="1" enchant="6" />
+</item>
+
+<!--Moirai Shield-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16304" count="1" enchant="6" />
+</item>
+
+<!--Vesper Shield-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16321" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Sigil-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="10119" count="1" enchant="6" />
+</item>
+
+<!--Moirai Sigil-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16305" count="1" enchant="6" />
+</item>
+
+<!--Vesper Sigil-->
+<item>
+	<ingredient id="6673" count="100" />
+	<production id="16322" count="1" enchant="6" />
+</item>
+
+<!--Imperial Crusader Helmet-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11509" count="1" enchant="6" />
+</item>
+
+<!--Imperial Crusader Gaiters-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11505" count="1" enchant="6" />
+</item>
+
+<!--Imperial Crusader Gauntlet-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11506" count="1" enchant="6" />
+</item>
+
+<!--Imperial Crusader Boots-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11507" count="1" enchant="6" />
+</item>
+
+<!--Draconic Leather Gloves-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11483" count="1" enchant="6" />
+</item>
+
+<!--Draconic Leather Boots-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11484" count="1" enchant="6" />
+</item>
+
+<!--Draconic Leather Helmet-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11486" count="1" enchant="6" />
+</item>
+
+<!--Major Arcana Gloves-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11487" count="1" enchant="6" />
+</item>
+
+<!--Major Arcana Boots-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11489" count="1" enchant="6" />
+</item>
+
+<!--Major Arcana Circlet-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11490" count="1" enchant="6" />
+</item>
+
+<!--Arcana Sigil-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="13078" count="1" enchant="6" />
+</item>
+
+<!--Imperial Crusader Shield-->
+<item>
+	<ingredient id="6673" count="50" />
+	<production id="11508" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12986" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Leggings-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11419" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11409" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11414" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11417" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Gaiters-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11407" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11408" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11413" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12987" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11410" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11415" count="1" enchant="6" />
+</item>
+
+<!--Dark Crystal Shield-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11416" count="1" enchant="6" />
+</item>
+
+<!--Tallum Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12988" count="1" enchant="6" />
+</item>
+
+<!--Tallum Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11438" count="1" enchant="6" />
+</item>
+
+<!--Tallum Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11442" count="1" enchant="6" />
+</item>
+
+<!--Tallum Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11446" count="1" enchant="6" />
+</item>
+
+<!--Tallum Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11437" count="1" enchant="6" />
+</item>
+
+<!--Tallum Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11441" count="1" enchant="6" />
+</item>
+
+<!--Tallum Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12989" count="1" enchant="6" />
+</item>
+
+<!--Tallum Stockings-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11447" count="1" enchant="6" />
+</item>
+
+<!--Tallum Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11439" count="1" enchant="6" />
+</item>
+
+<!--Tallum Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11443" count="1" enchant="6" />
+</item>
+
+<!--Majestic Circlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12990" count="1" enchant="6" />
+</item>
+
+<!--Majestic Gauntlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11449" count="1" enchant="6" />
+</item>
+
+<!--Majestic Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11454" count="1" enchant="6" />
+</item>
+
+<!--Majestic Circlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11456" count="1" enchant="6" />
+</item>
+
+<!--Majestic Gauntlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11448" count="1" enchant="6" />
+</item>
+
+<!--Majestic Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11453" count="1" enchant="6" />
+</item>
+
+<!--Majestic Circlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12991" count="1" enchant="6" />
+</item>
+
+<!--Majestic Gauntlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11450" count="1" enchant="6" />
+</item>
+
+<!--Majestic Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11455" count="1" enchant="6" />
+</item>
+
+<!--Helm of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12992" count="1" enchant="6" />
+</item>
+
+<!--Gauntlet of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11473" count="1" enchant="6" />
+</item>
+
+<!--Boots of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11478" count="1" enchant="6" />
+</item>
+
+<!--Helm of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11481" count="1" enchant="6" />
+</item>
+
+<!--Gauntlet of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11472" count="1" enchant="6" />
+</item>
+
+<!--Boots of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11477" count="1" enchant="6" />
+</item>
+
+<!--Helm of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12993" count="1" enchant="6" />
+</item>
+
+<!--Gauntlet of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11474" count="1" enchant="6" />
+</item>
+
+<!--Boots of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11479" count="1" enchant="6" />
+</item>
+
+<!--Shield of Nightmare-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11480" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Shield-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11362" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11363" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Gaiters-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11355" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Gauntlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11356" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11359" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12978" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Leather Gaiters-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11353" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Gauntlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11357" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11360" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12979" count="1" enchant="6" />
+</item>
+
+<!--Stockings of Zubei-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11378" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Gauntlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11358" count="1" enchant="6" />
+</item>
+
+<!--Zubei's Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11361" count="1" enchant="6" />
+</item>
+
+<!--Avadon Circlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11373" count="1" enchant="6" />
+</item>
+
+<!--Avadon Gaiters-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11375" count="1" enchant="6" />
+</item>
+
+<!--Avadon Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11365" count="1" enchant="6" />
+</item>
+
+<!--Avadon Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11370" count="1" enchant="6" />
+</item>
+
+<!--Avadon Circlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12980" count="1" enchant="6" />
+</item>
+
+<!--Avadon Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11371" count="1" enchant="6" />
+</item>
+
+<!--Avadon Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11366" count="1" enchant="6" />
+</item>
+
+<!--Avadon Circlet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12981" count="1" enchant="6" />
+</item>
+
+<!--Avadon Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11367" count="1" enchant="6" />
+</item>
+
+<!--Avadon Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11372" count="1" enchant="6" />
+</item>
+
+<!--Avadon Shield-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11374" count="1" enchant="6" />
+</item>
+
+<!--Doom Shield-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11385" count="1" enchant="6" />
+</item>
+
+<!--Doom Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11387" count="1" enchant="6" />
+</item>
+
+<!--Doom Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11379" count="1" enchant="6" />
+</item>
+
+<!--Doom Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11382" count="1" enchant="6" />
+</item>
+
+<!--Doom Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12982" count="1" enchant="6" />
+</item>
+
+<!--Doom Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11380" count="1" enchant="6" />
+</item>
+
+<!--Doom Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11383" count="1" enchant="6" />
+</item>
+
+<!--Doom Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12983" count="1" enchant="6" />
+</item>
+
+<!--Stockings of Doom-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11406" count="1" enchant="6" />
+</item>
+
+<!--Doom Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11381" count="1" enchant="6" />
+</item>
+
+<!--Doom Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11384" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11403" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Gaiters-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11394" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11399" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11396" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12984" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11400" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11397" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Helmet-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="12985" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Stockings-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11404" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Gloves-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11401" count="1" enchant="6" />
+</item>
+
+<!--Blue Wolf Boots-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11398" count="1" enchant="6" />
+</item>
+
+</list>

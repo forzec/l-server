@@ -1,0 +1,62 @@
+﻿<html>
+<body>
+
+<center>
+<table>
+<tr>
+<td><button value="Новости" action="bypass -h _bbshome" width=80 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="О Сервере" action="bypass -h _bbsinfo" width=80 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Сервисы" action="bypass -h _bbsservice" width=80 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Магазин" action="bypass -h _bbsshop" width=80 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Баффер" action="bypass -h _bbsbuff" width=80 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Телепорт" action="bypass -h _bbsteleport" width=80 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Карьера" action="bypass -h _bbsclass" width=80 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table>
+
+<table width="300" align=center>
+<tr>
+<td align=center><button value="Все баффы" action="Write _clbuffshow_ 0 0 cbox cbox cbox" width=150 height=30 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button value="Набор для воина" action="Write _cluseskill_ 0 warrior cbox cbox cbox" width=150 height=30 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button value="Набор для мага" action="Write _cluseskill_ 0 mage cbox cbox cbox" width=150 height=30 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+</table>
+<table width="300" align=center>
+<tr>
+<td align=center><button value="Восстановить CP\HP\MP" action="Write _cluseskill_ 0 heal cbox cbox cbox" width=150 height=30 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button value="Cброс" action="Write _cluseskill_ 0 cancel cbox cbox cbox" width=150 height=30 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+</table>
+<table width="300" align=center>
+<tr>
+<td align=center>
+<font color=aadd77>Кого бафать:</font>
+<combobox width=145 var=cbox list="Player;Pet">
+</td>
+</tr>
+</table>
+
+<br>
+<center><img src="L2UI.SquareWhite" width=300 height=1></center>
+<br>
+
+<table width="300" align=center>
+<tr>
+<td><center>Имя профиля: <edit var="command" width=150 height=11></center></td>
+<td align=center><button value="Сохранить" action="Write _savebuff_ 0 0 command command command" width=150 height=40 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+</table>
+
+<table width="300" align=center>
+<tr>
+%user_buff%
+</tr>
+</table>
+
+<img src="L2UI.SquareWhite" width=600 height=1>
+
+<font color=3293F3>PVP Community Board</font>
+
+</center>
+</body>
+</html>

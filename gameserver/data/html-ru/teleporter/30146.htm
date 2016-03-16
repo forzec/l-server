@@ -1,0 +1,19 @@
+Gatekeeper Mirabel:
+
+Когда-то Эльфы считали, что этот лес и есть весь мир, но на самом деле это всего лишь маленькая часть огромного материка. Если хотите отправиться в путешествие в дальние края, мы, хранители порталов, откроем Вам туда дорогу.
+
+[npc_%objectId%_Teleport 1|Телепортироваться]
+
+[npc_%objectId%_multisell 002|Обменять Алмазы Иных Миров]
+
+[npc_%objectId%_Util:NoblessTeleport|Телепортироваться (только для Дворян)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Переместиться в Парнассус (зона без налогов) - ${SERVICES_PARNASSUS_PRICE} Аден]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|Я хочу бесплатно попасть в Гавань Гирана]<br>
+#end
+[npc_%objectId%_birthdayHelper|Призвать Аллегрию]
+
+[npc_%objectId%_Quest|Квест]

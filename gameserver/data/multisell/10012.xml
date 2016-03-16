@@ -1,0 +1,278 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+  
+<!--C Grade Swords-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4708" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4709" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4710" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6313" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6314" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6315" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade 2h Swords-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6347" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6348" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6349" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade Blunts-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4744" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4745" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4746" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8138" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8139" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8140" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade 2h Blunts-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8123" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8124" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8125" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8120" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8121" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="8122" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade Daggers-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4774" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4775" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6358" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4771" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4772" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4773" count="1" enchant="6"/>
+	</item>
+
+
+<!--C Grade Bows-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4813" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4814" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4815" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4822" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4823" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4824" count="1" enchant="6"/>
+	</item>
+
+
+<!--C Grade Spears-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4852" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4853" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4854" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade Claws-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4795" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4796" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="4797" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade Rapiers-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9293" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9294" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9295" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade Ancient Swords-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9297" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9298" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9299" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade Arbalet-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9301" count="1" enchant="6"/>
+	</item>
+	
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9302" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="9303" count="1" enchant="6"/>
+	</item>
+
+<!--C Grade Dual Swords-->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="2572" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="2574" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="2575" count="1" enchant="6"/>
+	</item>
+
+</list>
+
+
+

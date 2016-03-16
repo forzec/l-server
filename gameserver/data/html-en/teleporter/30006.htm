@@ -1,0 +1,23 @@
+Gatekeeper Roxxy:
+
+Welcome! I am Gatekeeper Roxxy:, dispatched from the Ivory Tower. I'm very happy to return to my hometown. Have you perhaps been to Einhovant's School of Magic? Grand Magister Gallint was my old teacher. Now then, how can I help you?
+
+[npc_%objectId%_Chat 1|Ask about the airship wharf.]
+
+[npc_%objectId%_Chat 2|Ask about the Ivory Tower.]
+
+[npc_%objectId%_Teleport 1|Teleport]
+
+[npc_%objectId%_multisell 002|Exchange Dimension Diamonds.]
+
+[npc_%objectId%_Util:NoblessTeleport|Noblesse Exclusive Teleport]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Move to Parnassus (offshore zone) - ${SERVICES_PARNASSUS_PRICE} Adena]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|I want free admission to Giran Harbor.]<br>
+#end
+[npc_%objectId%_birthdayHelper|Call Alegria]
+
+[npc_%objectId%_Quest|Quest]

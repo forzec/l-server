@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+  
+<!--Soul Shots-->
+	<!--No Grade-->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="1835" count="1000"/>
+	</item>
+	
+	<!--D Grade-->
+	<item>
+		<ingredient id="57" count="2000"/>
+		<production id="1463" count="1000"/>
+	</item>
+
+	<!--C Grade-->
+	<item>
+		<ingredient id="57" count="4000"/>
+		<production id="1464" count="1000"/>
+	</item>
+	
+	<!--B Grade-->
+	<item>
+		<ingredient id="57" count="8000"/>
+		<production id="1465" count="1000"/>
+	</item>
+
+	<!--A Grade-->
+	<item>
+		<ingredient id="57" count="16000"/>
+		<production id="1466" count="1000"/>
+	</item>
+
+	<!--S Grade-->
+	<item>
+		<ingredient id="57" count="32000"/>
+		<production id="1467" count="1000"/>
+	</item>
+
+<!--Blessed SpiritShots-->
+	<!--No Grade-->
+	<item>
+		<ingredient id="57" count="4000"/>
+		<production id="3947" count="1000"/>
+	</item>
+	
+	<!--D Grade-->
+	<item>
+		<ingredient id="57" count="8000"/>
+		<production id="3948" count="1000"/>
+	</item>
+
+	<!--C Grade-->
+	<item>
+		<ingredient id="57" count="16000"/>
+		<production id="3949" count="1000"/>
+	</item>
+	
+	<!--B Grade-->
+	<item>
+		<ingredient id="57" count="32000"/>
+		<production id="3950" count="1000"/>
+	</item>
+
+	<!--A Grade-->
+	<item>
+		<ingredient id="57" count="64000"/>
+		<production id="3951" count="1000"/>
+	</item>
+
+	<!--S Grade-->
+	<item>
+		<ingredient id="57" count="128000"/>
+		<production id="3952" count="1000"/>
+	</item>
+
+<!--Fishing Shots-->
+	
+	<!--C Grade-->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="6537" count="1000"/>
+	</item>
+	
+	<!--B Grade-->
+	<item>
+		<ingredient id="57" count="250000"/>
+		<production id="6538" count="1000"/>
+	</item>
+
+	<!--A Grade-->
+	<item>
+		<ingredient id="57" count="500000"/>
+		<production id="6539" count="1000"/>
+	</item>
+
+	<!--S Grade-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="6540" count="1000"/>
+	</item>
+
+<!--Pet and servitor shots-->
+	<!--Beast SS-->
+	<item>
+		<ingredient id="57" count="10000"/>
+		<production id="6645" count="1000"/>
+	</item>
+
+	<!--Beast Bsps-->
+	<item>
+		<ingredient id="57" count="50000"/>
+		<production id="6647" count="1000"/>
+	</item>
+
+</list>
+
+
+

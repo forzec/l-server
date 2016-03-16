@@ -1,0 +1,1 @@
+ALTER TABLE `heroes` ADD `message` varchar(300) NOT NULL default '';

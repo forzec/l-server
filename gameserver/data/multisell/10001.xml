@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- MORAI HEAVY SET --><!-- S80 -->
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Helmet -->
+    <production id="15606" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Breastplate -->
+    <production id="15609" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Gaiter -->
+    <production id="15612" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Gauntlet -->
+    <production id="15615" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Boots -->
+    <production id="15618" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Shield -->
+    <production id="15621" count="1" enchant="6"/>
+  </item>
+  <!-- MOIRAI ROBA SET -->
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Circlet -->
+    <production id="15608" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Tunic -->
+    <production id="15611" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Stockings -->
+    <production id="15614" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Gloves -->
+    <production id="15617" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Shoes -->
+    <production id="15620" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Sigil -->
+    <production id="15622" count="1" enchant="6"/>
+  </item>
+  <!-- MOIRAI LEATHER SET -->
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Leather Helmet -->
+    <production id="15607" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Leather Breastplate -->
+    <production id="15610" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Leather Legging -->
+    <production id="15613" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Leather Gloves -->
+    <production id="15616" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="100000000"/>  <!-- Moirai Leather Boots -->
+    <production id="15619" count="1" enchant="6"/>
+  </item>
+</list>

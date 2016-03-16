@@ -1,0 +1,15 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<instance id="700" displayId="1" name="GvG in Coliseum" maxChannels="20" collapseIfEmpty="5" timelimit="30" dispelBuffs="false" respawn="60">
+		<geodata map="24_19" />
+		<teleport loc="147608 46728 -3400" />
+		<teleport loc="151320 46728 -3400 32768" />
+		<teleport loc="149544 46728 -3400" />
+		<doors>
+			<door id="24190001" opened="false"/>
+			<door id="24190002" opened="false"/>
+			<door id="24190003" opened="false"/>
+			<door id="24190004" opened="false"/>
+		</doors>
+	</instance>
+</list>

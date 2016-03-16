@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="24500">
+		<!--M. Atk. increases by 14.85. HP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="14.845" />
+			<add order="0x60" stat="regHp" value="0.188" />
+		</for>
+	</option_data>
+	<option_data id="24501">
+		<!--M. Atk. increases by 14.85. MP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="14.845" />
+			<add order="0x60" stat="regMp" value="0.122" />
+		</for>
+	</option_data>
+	<option_data id="24502">
+		<!--M. Atk. increases by 14.85. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="14.845" />
+			<add order="0x60" stat="regCp" value="0.188" />
+		</for>
+	</option_data>
+	<option_data id="24503">
+		<!--M. Atk. increases by 14.85. Evasion increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="14.845" />
+			<add order="0x60" stat="rEvas" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24504">
+		<!--M. Atk. increases by 14.85. Accuracy increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="14.845" />
+			<add order="0x60" stat="accCombat" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24505">
+		<!--M. Atk. increases by 14.85. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="14.845" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="24506">
+		<!--HP Regen increases by 0.21. MP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.206" />
+			<add order="0x60" stat="regMp" value="0.122" />
+		</for>
+	</option_data>
+	<option_data id="24507">
+		<!--HP Regen increases by 0.21. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.206" />
+			<add order="0x60" stat="regCp" value="0.188" />
+		</for>
+	</option_data>
+	<option_data id="24508">
+		<!--HP Regen increases by 0.21. Evasion increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.206" />
+			<add order="0x60" stat="rEvas" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24509">
+		<!--HP Regen increases by 0.21. Accuracy increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.206" />
+			<add order="0x60" stat="accCombat" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24510">
+		<!--HP Regen increases by 0.21. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.206" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="24511">
+		<!--MP Regen increases by 0.13. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.133" />
+			<add order="0x60" stat="regCp" value="0.188" />
+		</for>
+	</option_data>
+	<option_data id="24512">
+		<!--MP Regen increases by 0.13. Evasion increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.133" />
+			<add order="0x60" stat="rEvas" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24513">
+		<!--MP Regen increases by 0.13. Accuracy increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.133" />
+			<add order="0x60" stat="accCombat" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24514">
+		<!--MP Regen increases by 0.13. Critical increases by 0.97.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.133" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="24515">
+		<!--CP Regen increases by 0.21. Evasion increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.206" />
+			<add order="0x60" stat="rEvas" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24516">
+		<!--CP Regen increases by 0.21. Accuracy increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.206" />
+			<add order="0x60" stat="accCombat" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24517">
+		<!--CP Regen increases by 0.21. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.206" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="24518">
+		<!--Evasion increases by 1.4. Accuracy increases by 1.29.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="1.402" />
+			<add order="0x60" stat="accCombat" value="1.285" />
+		</for>
+	</option_data>
+	<option_data id="24519">
+		<!--Evasion increases by 1.4. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="1.402" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="24520">
+		<!--Accuracy increases by 1.4. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="accCombat" value="1.402" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="24521">
+		<!--Use skill: Head size increases temporarily. Increase.-->
+		<skills>
+			<skill id="3203" level="1" /> <!--Item Skill: Mystery Skill-->
+		</skills>
+	</option_data>
+	<option_data id="24522">
+		<!--Use skill: Temporarily increases lung capacity.-->
+		<skills>
+			<skill id="3143" level="10" /> <!--Item Skill: Kiss of Eva-->
+		</skills>
+	</option_data>
+	<option_data id="24523">
+		<!--Use skill: Temporarily becomes able to jump from a higher place without fall damage.-->
+		<skills>
+			<skill id="3144" level="10" /> <!--Item Skill: Acrobatics-->
+		</skills>
+	</option_data>
+	<option_data id="24524">
+		<!--Use skill: Temporarily gains resistance to topography damage.-->
+		<skills>
+			<skill id="3145" level="10" /> <!--Item Skill: Iron Body-->
+		</skills>
+	</option_data>
+	<option_data id="24525">
+		<!--Use skill: Sets off firecrackers.-->
+		<skills>
+			<skill id="3156" level="1" /> <!--Item Skill: Firework-->
+		</skills>
+	</option_data>
+	<option_data id="24526">
+		<!--Use skill: Temporarily plays music.-->
+		<skills>
+			<skill id="3206" level="1" /> <!--Item Skill: Music-->
+		</skills>
+	</option_data>
+	<option_data id="24527">
+		<!--Use skill: Sets off large firecrackers.-->
+		<skills>
+			<skill id="3157" level="1" /> <!--Item Skill: Large Firework-->
+		</skills>
+	</option_data>
+	<option_data id="24528">
+		<!--Chance: During a physical attack, temporarily decreases the target's attacking desire for oneself.-->
+		<triggers>
+			<trigger id="3081" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Charm-->
+		</triggers>
+	</option_data>
+	<option_data id="24529">
+		<!--Chance: During a physical attack, temporarily stimulates the target's attacking desire.-->
+		<triggers>
+			<trigger id="3080" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Aggression-->
+		</triggers>
+	</option_data>
+	<option_data id="24530">
+		<!--Chance: During a physical attack, temporarily decreases the target's moving speed.-->
+		<triggers>
+			<trigger id="3083" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="24531">
+		<!--Chance: During a critical attack, temporarily decreases the target's attacking desire for oneself.-->
+		<triggers>
+			<trigger id="3109" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Aggression Down-->
+		</triggers>
+	</option_data>
+	<option_data id="24532">
+		<!--Chance: During a critical attack, temporarily stimulates the target's attacking desire.-->
+		<triggers>
+			<trigger id="3108" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Aggression Up-->
+		</triggers>
+	</option_data>
+	<option_data id="24533">
+		<!--Chance: During a critical attack, temporarily decreases the target's moving speed.-->
+		<triggers>
+			<trigger id="3111" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="24534">
+		<!--Chance: During a magic attack, temporarily decreases the target's moving speed. Effect 3.-->
+		<triggers>
+			<trigger id="3096" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="24535">
+		<!--Equip skill: Increases lung capacity.-->
+		<skills>
+			<skill id="3252" level="10" /> <!--Item Skill: Kiss of Eva-->
+		</skills>
+	</option_data>
+	<option_data id="24536">
+		<!--Equip skill: Becomes able to jump from a higher place without fall damage.-->
+		<skills>
+			<skill id="3253" level="10" /> <!--Item Skill: Acrobatics-->
+		</skills>
+	</option_data>
+	<option_data id="24537">
+		<!--Equip skill: Gains resistance to topography damage.-->
+		<skills>
+			<skill id="3254" level="10" /> <!--Item Skill: Iron Body-->
+		</skills>
+	</option_data>
+	<option_data id="24538">
+		<!--Use skill: Temporarily decreases the target's Atk. Spd.-->
+		<skills>
+			<skill id="3188" level="10" /> <!--Item Skill: Winter-->
+		</skills>
+	</option_data>
+	<option_data id="24539">
+		<!--Use skill: Temporarily increase Evasion.-->
+		<skills>
+			<skill id="3139" level="10" /> <!--Item Skill: Agility-->
+		</skills>
+	</option_data>
+	<option_data id="24540">
+		<!--Use skill: Instantly inflicts bleed on the target.-->
+		<skills>
+			<skill id="3196" level="10" /> <!--Item Skill: Bleed-->
+		</skills>
+	</option_data>
+	<option_data id="24541">
+		<!--Use skill: Restores one's own CP.-->
+		<skills>
+			<skill id="3130" level="10" /> <!--Item Skill: Ritual-->
+		</skills>
+	</option_data>
+	<option_data id="24542">
+		<!--Use skill: Attacks by throwing a stone.-->
+		<skills>
+			<skill id="3169" level="10" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="24543">
+		<!--Use skill: Instantly inflicts fear on the target and cause him to flee.-->
+		<skills>
+			<skill id="3194" level="10" /> <!--Item Skill: Fear-->
+		</skills>
+	</option_data>
+	<option_data id="24544">
+		<!--Use skill: Condenses air to burst flames.-->
+		<skills>
+			<skill id="3165" level="10" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="24545">
+		<!--Use skill: Calms the enemy's heart and causes attacking desire to disappear.-->
+		<skills>
+			<skill id="3151" level="10" /> <!--Item Skill: Peace-->
+		</skills>
+	</option_data>
+	<option_data id="24546">
+		<!--Use skill: Decreases the target's attacking desire for oneself.-->
+		<skills>
+			<skill id="3150" level="10" /> <!--Item Skill: Charm-->
+		</skills>
+	</option_data>
+	<option_data id="24547">
+		<!--Use skill: Stimulates the target's attacking desire.-->
+		<skills>
+			<skill id="3149" level="10" /> <!--Item Skill: Aggression-->
+		</skills>
+	</option_data>
+	<option_data id="24548">
+		<!--Use skill: Temporarily increase accuracy.-->
+		<skills>
+			<skill id="3140" level="10" /> <!--Item Skill: Guidance-->
+		</skills>
+	</option_data>
+	<option_data id="24549">
+		<!--Use skill: Instantly inflicts hold on the target. Additional hold is not available while the effect lasts.-->
+		<skills>
+			<skill id="3190" level="10" /> <!--Item Skill: Hold-->
+		</skills>
+	</option_data>
+	<option_data id="24550">
+		<!--Use skill: Inflicts a holy attack.-->
+		<skills>
+			<skill id="3170" level="10" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24551">
+		<!--Use skill: Temporarily increases HP recovery magic power.-->
+		<skills>
+			<skill id="3138" level="10" /> <!--Item Skill: Heal Empower-->
+		</skills>
+	</option_data>
+	<option_data id="24552">
+		<!--Use skill: Temporarily increases HP recovery magic effect.-->
+		<skills>
+			<skill id="3126" level="10" /> <!--Item Skill: Prayer-->
+		</skills>
+	</option_data>
+	<option_data id="24553">
+		<!--Use skill: Immediately regenerates the target's HP.-->
+		<skills>
+			<skill id="3123" level="10" /> <!--Item Skill: Heal-->
+		</skills>
+	</option_data>
+	<option_data id="24554">
+		<!--Use skill: Temporarily increases M. Atk.-->
+		<skills>
+			<skill id="3133" level="10" /> <!--Item Skill: Empower-->
+		</skills>
+	</option_data>
+	<option_data id="24555">
+		<!--Use skill: Temporarily increases Max CP.-->
+		<skills>
+			<skill id="3131" level="10" /> <!--Item Skill: Cheer-->
+		</skills>
+	</option_data>
+	<option_data id="24556">
+		<!--Use skill: Temporarily increases Max HP and recovers the amount of increased HP.-->
+		<skills>
+			<skill id="3125" level="10" /> <!--Item Skill: Battle Roar-->
+		</skills>
+	</option_data>
+	<option_data id="24557">
+		<!--Use skill: Temporarily increases Max HP.-->
+		<skills>
+			<skill id="3124" level="10" /> <!--Item Skill: Blessed Body-->
+		</skills>
+	</option_data>
+	<option_data id="24558">
+		<!--Use skill: Temporarily increases Max MP.-->
+		<skills>
+			<skill id="3128" level="10" /> <!--Item Skill: Blessed Soul-->
+		</skills>
+	</option_data>
+	<option_data id="24559">
+		<!--Use skill: Temporarily increases M. Def.-->
+		<skills>
+			<skill id="3136" level="10" /> <!--Item Skill: Magic Barrier-->
+		</skills>
+	</option_data>
+	<option_data id="24560">
+		<!--Use skill: Burns up the enemy's MP.-->
+		<skills>
+			<skill id="3154" level="10" /> <!--Item Skill: Mana Burn-->
+		</skills>
+	</option_data>
+	<option_data id="24561">
+		<!--Use skill: Increases the recovery rate when MP is being recovered by recharge.-->
+		<skills>
+			<skill id="3129" level="10" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="24562">
+		<!--Use skill: Restores MP.-->
+		<skills>
+			<skill id="3127" level="10" /> <!--Item Skill: Recharge-->
+		</skills>
+	</option_data>
+	<option_data id="24563">
+		<!--Use skill: Uses a non-attribute attack and momentarily decreases your attack magic power during PvP.-->
+		<skills>
+			<skill id="3172" level="10" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24564">
+		<!--Use skill: Temporarily increases P. Atk.-->
+		<skills>
+			<skill id="3132" level="10" /> <!--Item Skill: Might-->
+		</skills>
+	</option_data>
+	<option_data id="24565">
+		<!--Use skill: Instantly inflicts paralysis on the target.-->
+		<skills>
+			<skill id="3192" level="10" /> <!--Item Skill: Paralyze-->
+		</skills>
+	</option_data>
+	<option_data id="24566">
+		<!--Use skill: Temporarily increases P. Def.-->
+		<skills>
+			<skill id="3135" level="10" /> <!--Item Skill: Shield-->
+		</skills>
+	</option_data>
+	<option_data id="24567">
+		<!--Use skill: Instantly inflicts poison on the target.-->
+		<skills>
+			<skill id="3195" level="10" /> <!--Item Skill: Poison-->
+		</skills>
+	</option_data>
+	<option_data id="24568">
+		<!--Use skill: Temporarily decreases the PvP opponent's P. Atk.-->
+		<skills>
+			<skill id="3137" level="10" /> <!--Item Skill: Duel Weakness-->
+		</skills>
+	</option_data>
+	<option_data id="24569">
+		<!--Use skill: Temporarily increases PvP P. Atk.-->
+		<skills>
+			<skill id="3134" level="10" /> <!--Item Skill: Duel Might-->
+		</skills>
+	</option_data>
+	<option_data id="24570">
+		<!--Use skill: Teleports to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3146" level="1" /> <!--Item Skill: Recall-->
+		</skills>
+	</option_data>
+	<option_data id="24571">
+		<!--Use skill: Resurrects a corpse.-->
+		<skills>
+			<skill id="3160" level="9" /> <!--Item Skill: Resurrection-->
+		</skills>
+	</option_data>
+	<option_data id="24572">
+		<!--Use skill: Inflicts a rock type range attack.-->
+		<skills>
+			<skill id="3183" level="10" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="24573">
+		<!--Use skill: Inflicts a fire type range attack.-->
+		<skills>
+			<skill id="3180" level="10" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="24574">
+		<!--Use skill: Inflicts a holy range attack.-->
+		<skills>
+			<skill id="3184" level="10" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24575">
+		<!--Use skill: Inflicts a non-attribute type range attack.-->
+		<skills>
+			<skill id="3186" level="10" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24576">
+		<!--Use skill: Inflicts a Dark range attack.-->
+		<skills>
+			<skill id="3185" level="10" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24577">
+		<!--Use skill: Inflicts a water type range attack.-->
+		<skills>
+			<skill id="3181" level="10" /> <!--Item Skill: Hydro Blast-->
+		</skills>
+	</option_data>
+	<option_data id="24578">
+		<!--Use skill: Inflicts a wind type range attack.-->
+		<skills>
+			<skill id="3182" level="10" /> <!--Item Skill: Hurricane-->
+		</skills>
+	</option_data>
+	<option_data id="24579">
+		<!--Use skill: Instantly inflicts sleep on the target. Additional sleep is not available while the effect lasts.-->
+		<skills>
+			<skill id="3191" level="10" /> <!--Item Skill: Sleep-->
+		</skills>
+	</option_data>
+	<option_data id="24580">
+		<!--Use skill: Temporarily decreases the target's moving speed.-->
+		<skills>
+			<skill id="3187" level="10" /> <!--Item Skill: Slow-->
+		</skills>
+	</option_data>
+	<option_data id="24581">
+		<!--Use skill: Instantly inflicts shock on the target.-->
+		<skills>
+			<skill id="3189" level="10" /> <!--Item Skill: Stun-->
+		</skills>
+	</option_data>
+	<option_data id="24582">
+		<!--Use skill: Inflicts a rock type attack.-->
+		<skills>
+			<skill id="3176" level="10" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="24583">
+		<!--Use skill: Inflicts a fire type attack.-->
+		<skills>
+			<skill id="3173" level="10" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="24584">
+		<!--Use skill: Inflicts a dinivity type attack.-->
+		<skills>
+			<skill id="3177" level="10" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24585">
+		<!--Use skill: Inflicts a non-attribute type attack.-->
+		<skills>
+			<skill id="3179" level="10" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24586">
+		<!--Use skill: Inflicts a Dark attack.-->
+		<skills>
+			<skill id="3178" level="10" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24587">
+		<!--Use skill: Inflicts a water type attack.-->
+		<skills>
+			<skill id="3174" level="10" /> <!--Item Skill: Hydro Blast-->
+		</skills>
+	</option_data>
+	<option_data id="24588">
+		<!--Use skill: Inflicts a wind type attack.-->
+		<skills>
+			<skill id="3175" level="10" /> <!--Item Skill: Hurricane-->
+		</skills>
+	</option_data>
+	<option_data id="24589">
+		<!--Use skill: Cancels the target.-->
+		<skills>
+			<skill id="3152" level="10" /> <!--Item Skill: Trick-->
+		</skills>
+	</option_data>
+	<option_data id="24590">
+		<!--Use skill: Instantly inflicts flint.-->
+		<skills>
+			<skill id="3193" level="10" /> <!--Item Skill: Medusa-->
+		</skills>
+	</option_data>
+	<option_data id="24591">
+		<!--Use skill: Inflicts a Dark attack.-->
+		<skills>
+			<skill id="3171" level="10" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+	<option_data id="24592">
+		<!--Use skill: Opens doors and treasure chests by a fixed rate. Requires a Thief Key.-->
+		<skills>
+			<skill id="3155" level="10" /> <!--Item Skill: Unlock-->
+		</skills>
+	</option_data>
+	<option_data id="24593">
+		<!--Use skill: Absorbs HP.-->
+		<skills>
+			<skill id="3153" level="10" /> <!--Item Skill: Vampiric Touch-->
+		</skills>
+	</option_data>
+	<option_data id="24594">
+		<!--Use skill: Inflicts a water type attack.-->
+		<skills>
+			<skill id="3167" level="10" /> <!--Item Skill: Hydro Blast-->
+		</skills>
+	</option_data>
+	<option_data id="24595">
+		<!--Use skill: Inflicts a fire type attack.-->
+		<skills>
+			<skill id="3168" level="10" /> <!--Item Skill: Tempest-->
+		</skills>
+	</option_data>
+	<option_data id="24596">
+		<!--Chance: During a physical attack, temporarily decreases the target's Atk. Spd.-->
+		<triggers>
+			<trigger id="3084" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Winter-->
+		</triggers>
+	</option_data>
+	<option_data id="24597">
+		<!--Chance: During a physical attack, instantly inflicts bleed on the target.-->
+		<triggers>
+			<trigger id="3092" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Bleed-->
+		</triggers>
+	</option_data>
+	<option_data id="24598">
+		<!--Chance: During a physical attack, instantly inflicts fear on the target and cause him to flee.-->
+		<triggers>
+			<trigger id="3090" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Fear-->
+		</triggers>
+	</option_data>
+	<option_data id="24599">
+		<!--Chance: During a physical attack, instantly inflicts hold on the target. Additional hold is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3086" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Hold-->
+		</triggers>
+	</option_data>
+</list>

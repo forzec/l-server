@@ -1,0 +1,1 @@
+ALTER TABLE mail CHANGE `system` `type` int NOT NULL;

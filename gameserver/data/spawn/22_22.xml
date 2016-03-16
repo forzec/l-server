@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70944" y="131260" zmin="-3720" zmax="-2920" />
+			<add x="72592" y="133828" zmin="-3720" zmax="-2920" />
+			<add x="74152" y="134412" zmin="-3720" zmax="-2920" />
+			<add x="75076" y="131212" zmin="-3720" zmax="-2920" />
+		</territory>
+		<npc id="20199" /><!--Amber Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74752" y="132472" zmin="-3728" zmax="-3128" />
+			<add x="75060" y="131224" zmin="-3728" zmax="-3128" />
+			<add x="78232" y="131232" zmin="-3728" zmax="-3128" />
+			<add x="76840" y="133124" zmin="-3728" zmax="-3128" />
+		</territory>
+		<npc id="20199" /><!--Amber Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90596" y="133092" zmin="-3700" zmax="-3100" />
+			<add x="91436" y="131228" zmin="-3700" zmax="-3100" />
+			<add x="95288" y="131196" zmin="-3700" zmax="-3100" />
+			<add x="94504" y="133400" zmin="-3700" zmax="-3100" />
+		</territory>
+		<npc id="20199" /><!--Amber Basilisk-->
+	</spawn>
+	<spawn count="3" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70944" y="131260" zmin="-3720" zmax="-2920" />
+			<add x="72592" y="133828" zmin="-3720" zmax="-2920" />
+			<add x="74152" y="134412" zmin="-3720" zmax="-2920" />
+			<add x="75076" y="131212" zmin="-3720" zmax="-2920" />
+		</territory>
+		<npc id="20267" /><!--Breka Orc-->
+	</spawn>
+	<spawn count="1" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74752" y="132472" zmin="-3728" zmax="-3128" />
+			<add x="75060" y="131224" zmin="-3728" zmax="-3128" />
+			<add x="78232" y="131232" zmin="-3728" zmax="-3128" />
+			<add x="76840" y="133124" zmin="-3728" zmax="-3128" />
+		</territory>
+		<npc id="20267" /><!--Breka Orc-->
+	</spawn>
+	<spawn count="3" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90596" y="133092" zmin="-3700" zmax="-3100" />
+			<add x="91436" y="131228" zmin="-3700" zmax="-3100" />
+			<add x="95288" y="131196" zmin="-3700" zmax="-3100" />
+			<add x="94504" y="133400" zmin="-3700" zmax="-3100" />
+		</territory>
+		<npc id="20267" /><!--Breka Orc-->
+	</spawn>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70944" y="131260" zmin="-3720" zmax="-2920" />
+			<add x="72592" y="133828" zmin="-3720" zmax="-2920" />
+			<add x="74152" y="134412" zmin="-3720" zmax="-2920" />
+			<add x="75076" y="131212" zmin="-3720" zmax="-2920" />
+		</territory>
+		<npc id="20268" /><!--Breka Orc Archer-->
+	</spawn>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74752" y="132472" zmin="-3728" zmax="-3128" />
+			<add x="75060" y="131224" zmin="-3728" zmax="-3128" />
+			<add x="78232" y="131232" zmin="-3728" zmax="-3128" />
+			<add x="76840" y="133124" zmin="-3728" zmax="-3128" />
+		</territory>
+		<npc id="20268" /><!--Breka Orc Archer-->
+	</spawn>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90596" y="133092" zmin="-3700" zmax="-3100" />
+			<add x="91436" y="131228" zmin="-3700" zmax="-3100" />
+			<add x="95288" y="131196" zmin="-3700" zmax="-3100" />
+			<add x="94504" y="133400" zmin="-3700" zmax="-3100" />
+		</territory>
+		<npc id="20268" /><!--Breka Orc Archer-->
+	</spawn>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="88284" y="131212" zmin="-3768" zmax="-2968" />
+			<add x="88708" y="133620" zmin="-3768" zmax="-2968" />
+			<add x="90252" y="133484" zmin="-3768" zmax="-2968" />
+			<add x="91352" y="131240" zmin="-3768" zmax="-2968" />
+		</territory>
+		<npc id="20269" /><!--Breka Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="88284" y="131212" zmin="-3768" zmax="-2968" />
+			<add x="88708" y="133620" zmin="-3768" zmax="-2968" />
+			<add x="90252" y="133484" zmin="-3768" zmax="-2968" />
+			<add x="91352" y="131240" zmin="-3768" zmax="-2968" />
+		</territory>
+		<npc id="20270" /><!--Breka Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="33" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="88284" y="131212" zmin="-3768" zmax="-2968" />
+			<add x="88708" y="133620" zmin="-3768" zmax="-2968" />
+			<add x="90252" y="133484" zmin="-3768" zmax="-2968" />
+			<add x="91352" y="131240" zmin="-3768" zmax="-2968" />
+		</territory>
+		<npc id="20271" /><!--Breka Orc Warrior-->
+	</spawn>
+	<spawn count="5" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65639" y="145754" zmin="-3796" zmax="-2996" />
+			<add x="65653" y="140593" zmin="-3796" zmax="-2996" />
+			<add x="70132" y="141486" zmin="-3796" zmax="-2996" />
+			<add x="70297" y="144673" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20941" /><!--Tanor Silenos Chieftain-->
+	</spawn>
+	<spawn count="2" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65647" y="145871" zmin="-3796" zmax="-2996" />
+			<add x="65655" y="150018" zmin="-3796" zmax="-2996" />
+			<add x="66515" y="149891" zmin="-3796" zmax="-2996" />
+			<add x="67633" y="145307" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20941" /><!--Tanor Silenos Chieftain-->
+	</spawn>
+	<spawn count="1" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65625" y="154132" zmin="-3796" zmax="-2996" />
+			<add x="65640" y="150135" zmin="-3796" zmax="-2996" />
+			<add x="66531" y="149992" zmin="-3796" zmax="-2996" />
+			<add x="67559" y="151048" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20941" /><!--Tanor Silenos Chieftain-->
+	</spawn>
+	<spawn count="4" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65694" y="155668" zmin="-3796" zmax="-2996" />
+			<add x="65694" y="161414" zmin="-3796" zmax="-2996" />
+			<add x="69046" y="159913" zmin="-3796" zmax="-2996" />
+			<add x="68513" y="155405" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20941" /><!--Tanor Silenos Chieftain-->
+	</spawn>
+	<spawn count="5" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65639" y="145754" zmin="-3796" zmax="-2996" />
+			<add x="65653" y="140593" zmin="-3796" zmax="-2996" />
+			<add x="70132" y="141486" zmin="-3796" zmax="-2996" />
+			<add x="70297" y="144673" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="2" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65647" y="145871" zmin="-3796" zmax="-2996" />
+			<add x="65655" y="150018" zmin="-3796" zmax="-2996" />
+			<add x="66515" y="149891" zmin="-3796" zmax="-2996" />
+			<add x="67633" y="145307" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="2" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65625" y="154132" zmin="-3796" zmax="-2996" />
+			<add x="65640" y="150135" zmin="-3796" zmax="-2996" />
+			<add x="66531" y="149992" zmin="-3796" zmax="-2996" />
+			<add x="67559" y="151048" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="6" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65694" y="155668" zmin="-3796" zmax="-2996" />
+			<add x="65694" y="161414" zmin="-3796" zmax="-2996" />
+			<add x="69046" y="159913" zmin="-3796" zmax="-2996" />
+			<add x="68513" y="155405" zmin="-3796" zmax="-2996" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="87936" y="141032" zmin="-3560" zmax="-2960" />
+			<add x="88840" y="141224" zmin="-3560" zmax="-2960" />
+			<add x="89640" y="140844" zmin="-3560" zmax="-2960" />
+			<add x="88636" y="139892" zmin="-3560" zmax="-2960" />
+			<add x="87716" y="140240" zmin="-3560" zmax="-2960" />
+		</territory>
+		<npc id="25082" /><!--Leader of Cat Gang-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83508" y="148636" z="-3400" h="1638" />
+		<npc id="4310" /><!--Prophet-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_aden" period_of_day="none">
+		<territory>
+			<add x="152161" y="24122" zmin="-2225" zmax="-225" />
+			<add x="153154" y="24282" zmin="-2225" zmax="-225" />
+			<add x="153201" y="25375" zmin="-2225" zmax="-225" />
+			<add x="152192" y="25263" zmin="-2225" zmax="-225" />
+		</territory>
+		<npc id="25793" /><!--Doom Blade Tanatos BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_aden" period_of_day="none">
+		<territory>
+			<add x="152161" y="24122" zmin="-2225" zmax="-225" />
+			<add x="153154" y="24282" zmin="-2225" zmax="-225" />
+			<add x="153201" y="25375" zmin="-2225" zmax="-225" />
+			<add x="152192" y="25263" zmin="-2225" zmax="-225" />
+		</territory>
+		<npc id="25794" /><!--Kernon BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_aden" period_of_day="none">
+		<territory>
+			<add x="152161" y="24122" zmin="-2225" zmax="-225" />
+			<add x="153154" y="24282" zmin="-2225" zmax="-225" />
+			<add x="153201" y="25375" zmin="-2225" zmax="-225" />
+			<add x="152192" y="25263" zmin="-2225" zmax="-225" />
+		</territory>
+		<npc id="25797" /><!--Meanas Anor BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_darkelf" period_of_day="none">
+		<territory>
+			<add x="1024" y="21418" zmin="-3587" zmax="-1587" />
+			<add x="2544" y="21339" zmin="-3587" zmax="-1587" />
+			<add x="2887" y="22661" zmin="-3587" zmax="-1587" />
+			<add x="987" y="22681" zmin="-3587" zmax="-1587" />
+		</territory>
+		<npc id="25750" /><!--Zombie Lord Ferkel BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_dion" period_of_day="none">
+		<territory>
+			<add x="16174" y="147742" zmin="-3461" zmax="-1461" />
+			<add x="17422" y="147800" zmin="-3461" zmax="-1461" />
+			<add x="17247" y="149115" zmin="-3461" zmax="-1461" />
+			<add x="16131" y="149094" zmin="-3461" zmax="-1461" />
+		</territory>
+		<npc id="25753" /><!--Guillotine Warden BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_dion" period_of_day="none">
+		<territory>
+			<add x="16174" y="147742" zmin="-3461" zmax="-1461" />
+			<add x="17422" y="147800" zmin="-3461" zmax="-1461" />
+			<add x="17247" y="149115" zmin="-3461" zmax="-1461" />
+			<add x="16131" y="149094" zmin="-3461" zmax="-1461" />
+		</territory>
+		<npc id="25754" /><!--Fire Lord Shadar BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_dion" period_of_day="none">
+		<territory>
+			<add x="16174" y="147742" zmin="-3461" zmax="-1461" />
+			<add x="17422" y="147800" zmin="-3461" zmax="-1461" />
+			<add x="17247" y="149115" zmin="-3461" zmax="-1461" />
+			<add x="16131" y="149094" zmin="-3461" zmax="-1461" />
+		</territory>
+		<npc id="25757" /><!--Soul Collector Acheron BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_dwarw" period_of_day="none">
+		<territory>
+			<add x="129598" y="-181376" zmin="-3386" zmax="-1386" />
+			<add x="130515" y="-181633" zmin="-3386" zmax="-1386" />
+			<add x="130768" y="-180439" zmin="-3386" zmax="-1386" />
+			<add x="129688" y="-180364" zmin="-3386" zmax="-1386" />
+		</territory>
+		<npc id="25782" /><!--Nellis' Vengeful Spirit BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_dwarw" period_of_day="none">
+		<territory>
+			<add x="129598" y="-181376" zmin="-3386" zmax="-1386" />
+			<add x="130515" y="-181633" zmin="-3386" zmax="-1386" />
+			<add x="130768" y="-180439" zmin="-3386" zmax="-1386" />
+			<add x="129688" y="-180364" zmin="-3386" zmax="-1386" />
+		</territory>
+		<npc id="25800" /><!--Mammon Collector Talos BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_giran" period_of_day="none">
+		<territory>
+			<add x="80381" y="142150" zmin="-3638" zmax="-1638" />
+			<add x="81113" y="142014" zmin="-3638" zmax="-1638" />
+			<add x="81352" y="142947" zmin="-3638" zmax="-1638" />
+			<add x="80208" y="142795" zmin="-3638" zmax="-1638" />
+		</territory>
+		<npc id="25760" /><!--Lord Ishka BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_giran" period_of_day="none">
+		<territory>
+			<add x="80381" y="142150" zmin="-3638" zmax="-1638" />
+			<add x="81113" y="142014" zmin="-3638" zmax="-1638" />
+			<add x="81352" y="142947" zmin="-3638" zmax="-1638" />
+			<add x="80208" y="142795" zmin="-3638" zmax="-1638" />
+		</territory>
+		<npc id="25763" /><!--Demon Kuri BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_giran" period_of_day="none">
+		<territory>
+			<add x="80381" y="142150" zmin="-3638" zmax="-1638" />
+			<add x="81113" y="142014" zmin="-3638" zmax="-1638" />
+			<add x="81352" y="142947" zmin="-3638" zmax="-1638" />
+			<add x="80208" y="142795" zmin="-3638" zmax="-1638" />
+		</territory>
+		<npc id="25766" /><!--Ancient Drake BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_gludin" period_of_day="none">
+		<territory>
+			<add x="-87293" y="150809" zmin="-3306" zmax="-1306" />
+			<add x="-85839" y="150375" zmin="-3306" zmax="-1306" />
+			<add x="-85740" y="152357" zmin="-3306" zmax="-1306" />
+			<add x="-87177" y="152339" zmin="-3306" zmax="-1306" />
+		</territory>
+		<npc id="25735" /><!--Greyclaw Kutus BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_gludin" period_of_day="none">
+		<territory>
+			<add x="-87293" y="150809" zmin="-3306" zmax="-1306" />
+			<add x="-85839" y="150375" zmin="-3306" zmax="-1306" />
+			<add x="-85740" y="152357" zmin="-3306" zmax="-1306" />
+			<add x="-87177" y="152339" zmin="-3306" zmax="-1306" />
+		</territory>
+		<npc id="25738" /><!--Lead Tracker Sharuk BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_gludin" period_of_day="none">
+		<territory>
+			<add x="-87293" y="150809" zmin="-3306" zmax="-1306" />
+			<add x="-85839" y="150375" zmin="-3306" zmax="-1306" />
+			<add x="-85740" y="152357" zmin="-3306" zmax="-1306" />
+			<add x="-87177" y="152339" zmin="-3306" zmax="-1306" />
+		</territory>
+		<npc id="25741" /><!--Sukar Wererat Chief BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_gludio" period_of_day="none">
+		<territory>
+			<add x="-15260" y="119954" zmin="-3384" zmax="-1384" />
+			<add x="-13761" y="119805" zmin="-3384" zmax="-1384" />
+			<add x="-12978" y="121012" zmin="-3384" zmax="-1384" />
+			<add x="-15055" y="120955" zmin="-3384" zmax="-1384" />
+		</territory>
+		<npc id="25744" /><!--Ikuntai BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_gludio" period_of_day="none">
+		<territory>
+			<add x="-15260" y="119954" zmin="-3384" zmax="-1384" />
+			<add x="-13761" y="119805" zmin="-3384" zmax="-1384" />
+			<add x="-12978" y="121012" zmin="-3384" zmax="-1384" />
+			<add x="-15055" y="120955" zmin="-3384" zmax="-1384" />
+		</territory>
+		<npc id="25747" /><!--Zombie Lord Crowl BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_goddart" period_of_day="none">
+		<territory>
+			<add x="151502" y="-57732" zmin="-3528" zmax="-1528" />
+			<add x="152698" y="-58771" zmin="-3528" zmax="-1528" />
+			<add x="153384" y="-57644" zmin="-3528" zmax="-1528" />
+			<add x="152473" y="-56388" zmin="-3528" zmax="-1528" />
+		</territory>
+		<npc id="25787" /><!--Ketra's Hero Hekaton BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_goddart" period_of_day="none">
+		<territory>
+			<add x="151502" y="-57732" zmin="-3528" zmax="-1528" />
+			<add x="152698" y="-58771" zmin="-3528" zmax="-1528" />
+			<add x="153384" y="-57644" zmin="-3528" zmax="-1528" />
+			<add x="152473" y="-56388" zmin="-3528" zmax="-1528" />
+		</territory>
+		<npc id="25790" /><!--Varka's Hero Shadith BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_heine" period_of_day="none">
+		<territory>
+			<add x="119458" y="218608" zmin="-3730" zmax="-1730" />
+			<add x="120716" y="218223" zmin="-3730" zmax="-1730" />
+			<add x="121044" y="219602" zmin="-3730" zmax="-1730" />
+			<add x="119464" y="220159" zmin="-3730" zmax="-1730" />
+		</territory>
+		<npc id="25773" /><!--Beacon of Blue Sky BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_heine" period_of_day="none">
+		<territory>
+			<add x="119458" y="218608" zmin="-3730" zmax="-1730" />
+			<add x="120716" y="218223" zmin="-3730" zmax="-1730" />
+			<add x="121044" y="219602" zmin="-3730" zmax="-1730" />
+			<add x="119464" y="220159" zmin="-3730" zmax="-1730" />
+		</territory>
+		<npc id="25776" /><!--Earth Protector Panathen BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_orc" period_of_day="none">
+		<territory>
+			<add x="-45841" y="-118724" zmin="-335" zmax="1665" />
+			<add x="-44823" y="-118877" zmin="-335" zmax="1665" />
+			<add x="-44845" y="-117702" zmin="-335" zmax="1665" />
+			<add x="-46102" y="-117826" zmin="-335" zmax="1665" />
+		</territory>
+		<npc id="25779" /><!--Betrayer of Urutu Freki BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_oren" period_of_day="none">
+		<territory>
+			<add x="79332" y="46362" zmin="-3274" zmax="-1274" />
+			<add x="80826" y="46174" zmin="-3274" zmax="-1274" />
+			<add x="81087" y="47571" zmin="-3274" zmax="-1274" />
+			<add x="79700" y="48200" zmin="-3274" zmax="-1274" />
+		</territory>
+		<npc id="25767" /><!--Carnage Lord Gato BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_oren" period_of_day="none">
+		<territory>
+			<add x="79332" y="46362" zmin="-3274" zmax="-1274" />
+			<add x="80826" y="46174" zmin="-3274" zmax="-1274" />
+			<add x="81087" y="47571" zmin="-3274" zmax="-1274" />
+			<add x="79700" y="48200" zmin="-3274" zmax="-1274" />
+		</territory>
+		<npc id="25770" /><!--Ketra Commander Atis BOD-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" group="bloodaltar_boss_schutgart" period_of_day="none">
+		<territory>
+			<add x="81341" y="-139800" zmin="-2327" zmax="-327" />
+			<add x="82237" y="-140179" zmin="-2327" zmax="-327" />
+			<add x="83039" y="-138912" zmin="-2327" zmax="-327" />
+			<add x="81535" y="-138534" zmin="-2327" zmax="-327" />
+		</territory>
+		<npc id="25784" /><!--Rayito the Looter BOD-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16254" y="142808" z="-2696" h="16384" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81925" y="148302" z="-3464" h="49152" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-83248" y="150832" z="-3136" h="32768" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13865" y="122081" z="-2984" h="32768" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82325" y="53278" z="-1488" h="16384" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="147919" y="26631" z="-2200" h="16384" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116899" y="77256" z="-2688" h="49152" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="111678" y="219197" z="-3536" h="49152" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86971" y="-142772" z="-1336" h="20480" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44165" y="-48494" z="-792" h="32768" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="nevitt_herald_group" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="148017" y="-55264" z="-2728" h="49152" />
+		<npc id="4326" /><!--Nevit's Herald-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-92420" y="244602" z="-3536" h="53247" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-92636" y="244670" z="-3536" h="36864" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86672" y="151712" z="-3056" h="16384" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86483" y="151655" z="-3056" h="8192" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104187" y="44957" z="-1456" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104194" y="45168" z="-1456" h="24576" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14304" y="120560" z="-2976" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14304" y="120784" z="-2976" h="28672" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="1712" y="21824" z="-3312" h="24576" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="1952" y="21840" z="-3312" h="8192" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40272" y="53776" z="-3296" h="49152" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40048" y="53904" z="-3296" h="36864" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10944" y="-24240" z="-3632" h="49152" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10816" y="-24064" z="-3632" h="32768" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="27900" y="-49019" z="-1328" h="24576" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="28120" y="-49031" z="-1328" h="12288" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16845" y="148467" z="-3248" h="8192" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16880" y="148240" z="-3248" h="61440" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80864" y="142656" z="-3520" h="8192" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80850" y="142418" z="-3520" h="57344" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="69396" y="118688" z="-3456" h="32768" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="69520" y="118879" z="-3456" h="20480" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="97024" y="76619" z="-3552" h="53248" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="96793" y="76629" z="-3552" h="45056" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80320" y="46896" z="-3152" h="53248" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80064" y="46896" z="-3152" h="45056" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87904" y="7584" z="-3056" h="53248" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87680" y="7584" z="-3056" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="119974" y="219040" z="-3360" h="36864" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="119971" y="219281" z="-3360" h="28672" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45472" y="-118458" z="-208" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45472" y="-118208" z="-208" h="24576" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81936" y="-139280" z="-2256" h="24576" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82192" y="-139264" z="-2256" h="12288" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152400" y="-57824" z="-3424" h="53248" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152176" y="-57856" z="-3424" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152848" y="24576" z="-2112" h="53248" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152592" y="24560" z="-2112" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="176976" y="47296" z="-3936" h="57344" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="176729" y="47287" z="-3936" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130256" y="-181104" z="-3312" h="57344" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130000" y="-181104" z="-3312" h="40960" />
+		<npc id="4328" /><!--altar guard dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-92539" y="244621" z="-3536" h="13500" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86566" y="151721" z="-3056" h="45999" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104236" y="45060" z="-1456" h="0" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14353" y="120676" z="-2976" h="0" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="1835" y="21890" z="-3312" h="49999" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40130" y="53814" z="-3296" h="10000" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10837" y="-24174" z="-3632" h="6000" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="28009" y="-48988" z="-1328" h="48999" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16902" y="148358" z="-3248" h="33999" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80906" y="142538" z="-3520" h="33000" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="69430" y="118804" z="-3456" h="59000" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="96912" y="76571" z="-3552" h="15000" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80187" y="46849" z="-3152" h="16384" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87791" y="7542" z="-3056" h="16384" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="119930" y="219165" z="-3360" h="0" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45520" y="-118328" z="-208" h="0" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82064" y="-139232" z="-2256" h="49151" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152291" y="-57900" z="-3424" h="17000" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152720" y="24528" z="-2112" h="16384" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="176848" y="47232" z="-3936" h="16384" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130131" y="-181162" z="-3312" h="16384" />
+		<npc id="4327" /><!--altar prayer dead-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-92420" y="244602" z="-3536" h="53247" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-92636" y="244670" z="-3536" h="36864" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86672" y="151712" z="-3056" h="16384" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86483" y="151655" z="-3056" h="8192" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104187" y="44957" z="-1456" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104194" y="45168" z="-1456" h="24576" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14304" y="120560" z="-2976" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14304" y="120784" z="-2976" h="28672" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="1712" y="21824" z="-3312" h="24576" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="1952" y="21840" z="-3312" h="8192" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40272" y="53776" z="-3296" h="49152" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40048" y="53904" z="-3296" h="36864" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10944" y="-24240" z="-3632" h="49152" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10816" y="-24064" z="-3632" h="32768" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="27900" y="-49019" z="-1328" h="24576" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="28120" y="-49031" z="-1328" h="12288" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16845" y="148467" z="-3248" h="8192" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16880" y="148240" z="-3248" h="61440" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80864" y="142656" z="-3520" h="8192" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80850" y="142418" z="-3520" h="57344" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="69396" y="118688" z="-3456" h="32768" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="69520" y="118879" z="-3456" h="20480" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="97024" y="76619" z="-3552" h="53248" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="96793" y="76629" z="-3552" h="45056" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80320" y="46896" z="-3152" h="53248" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80064" y="46896" z="-3152" h="45056" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87904" y="7584" z="-3056" h="53248" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87680" y="7584" z="-3056" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="119974" y="219040" z="-3360" h="36864" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="119971" y="219281" z="-3360" h="28672" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45472" y="-118458" z="-208" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45472" y="-118208" z="-208" h="24576" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81936" y="-139280" z="-2256" h="24576" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82192" y="-139264" z="-2256" h="12288" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152400" y="-57824" z="-3424" h="53248" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152176" y="-57856" z="-3424" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152848" y="24576" z="-2112" h="53248" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152592" y="24560" z="-2112" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="176976" y="47296" z="-3936" h="57344" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="176729" y="47287" z="-3936" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130256" y="-181104" z="-3312" h="57344" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130000" y="-181104" z="-3312" h="40960" />
+		<npc id="4325" /><!--altar guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-92539" y="244621" z="-3536" h="13500" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86566" y="151721" z="-3056" h="45999" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104236" y="45060" z="-1456" h="0" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14353" y="120676" z="-2976" h="0" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="1835" y="21890" z="-3312" h="49999" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40130" y="53814" z="-3296" h="10000" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10837" y="-24174" z="-3632" h="6000" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="28009" y="-48988" z="-1328" h="48999" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16902" y="148358" z="-3248" h="33999" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80906" y="142538" z="-3520" h="33000" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="69430" y="118804" z="-3456" h="59000" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="96912" y="76571" z="-3552" h="15000" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80187" y="46849" z="-3152" h="16384" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87791" y="7542" z="-3056" h="16384" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="119930" y="219165" z="-3360" h="0" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45520" y="-118328" z="-208" h="0" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82064" y="-139232" z="-2256" h="49151" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152291" y="-57900" z="-3424" h="17000" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="152720" y="24528" z="-2112" h="16384" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="176848" y="47232" z="-3936" h="16384" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130131" y="-181162" z="-3312" h="16384" />
+		<npc id="4324" /><!--altar prayer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none" group="territory_manager_3">
+		<point x="81896" y="149584" z="-3472" h="36864" />
+		<npc id="36492" /><!--Territory Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none" group="territory_manager_3">
+		<point x="79336" y="148128" z="-3536" h="53248" />
+		<npc id="36492" /><!--Territory Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none" group="territory_manager_3">
+		<point x="80544" y="152328" z="-3536" h="24576" />
+		<npc id="36492" /><!--Territory Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none" group="territory_manager_3">
+		<point x="82176" y="149616" z="-3474" h="53247" />
+		<npc id="36483" /><!--Mercenary Captain-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83327" y="149141" z="-3405" h="32500"/>
+		<npc id="31864"/><!--Santa Trainee-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83329" y="149095" z="-3405" h="49152"/>
+		<npc id="13006"/><!--Christmas Tree-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82277" y="148598" z="-3467" h="0"/>
+		<npc id="31864"/><!--Santa Trainee-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82277" y="148564" z="-3467" h="0"/>
+		<npc id="13006"/><!--Christmas Tree-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81621" y="148725" z="-3467" h="32768"/>
+		<npc id="31864"/><!--Santa Trainee-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81620" y="148689" z="-3464" h="32768"/>
+		<npc id="13006"/><!--Christmas Tree-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81680" y="145656" z="-3467" h="32768"/>
+		<npc id="31864"/><!--Santa Trainee-->
+	</spawn>
+	<spawn group="christmas" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81691" y="145610" z="-3467" h="32768"/>
+		<npc id="13006"/><!--Christmas Tree-->
+	</spawn>
+	<spawn group="event_best_enchanter" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83037" y="149324" z="-3470" h="44000"/>
+		<npc id="32599"/><!--Master Yogi-->
+	</spawn>
+	<spawn group="event_best_enchanter" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82145" y="148609" z="-3468" h="0"/>
+		<npc id="32599"/><!--Master Yogi-->
+	</spawn>
+	<spawn group="event_best_enchanter" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81755" y="146487" z="-3534" h="32768"/>
+		<npc id="32599"/><!--Master Yogi-->
+	</spawn>
+</list>

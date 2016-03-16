@@ -1,0 +1,1 @@
+ALTER TABLE character_variables CHANGE `value` `value` VARCHAR(355) CHARACTER SET UTF8 NOT NULL DEFAULT '0';

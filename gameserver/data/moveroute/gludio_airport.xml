@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "moveroute.dtd">
+<list>
+	<moveroute name="gludio_airport1" type="CIRCLE">
+		<node x="-149268" y="254124" z="-184" />
+		<node x="-148700" y="254399" z="-184" />
+		<node x="-148313" y="254841" z="-184" />
+		<node x="-148256" y="255338" z="-184" />
+	</moveroute>
+	<moveroute name="gludio_airport2" type="CIRCLE">
+		<node x="-149469" y="254124" z="-184" />
+		<node x="-150054" y="254373" z="-184" />
+		<node x="-150431" y="254837" z="-184" />
+		<node x="-150437" y="255335" z="-184" />
+	</moveroute>
+	<moveroute name="gludio_airport3" type="CIRCLE">
+		<node x="-149239" y="254100" z="-184" />
+		<node x="-148671" y="254375" z="-184" />
+		<node x="-148284" y="254817" z="-184" />
+		<node x="-148227" y="255314" z="-184" />
+	</moveroute>
+	<moveroute name="gludio_airport4" type="CIRCLE">
+		<node x="-149499" y="254101" z="-184" />
+		<node x="-150085" y="254350" z="-184" />
+		<node x="-150462" y="254813" z="-184" />
+		<node x="-150504" y="255312" z="-184" />
+	</moveroute>
+</list>

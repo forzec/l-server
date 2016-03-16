@@ -1,0 +1,25 @@
+Gatekeeper Valentina:
+
+Да? Я Gatekeeper Valentina:. Меня прислали из Ivory Tower к северу отсюда. Некоторые считают, что мы готовим заговор с целью захватить весь мир. Другие видят в Башне лишь убежище для магов. Конечно, некоторые считают, что у нас ключ к спасению мира...
+
+Возможно, у Вас также есть свое мнение по этому вопросу...
+
+[npc_%objectId%_Teleport 1|Телепортироваться]
+
+[npc_%objectId%_multisell 002|Обменять Алмазы Иных Миров]
+
+[npc_%objectId%_Util:NoblessTeleport|Телепортироваться (только для Дворян)]
+
+[npc_%objectId%_services.TeleToMDT:toMDT @811;Арену и Ипподром|Телепортироваться на Арену и Ипподром (беcплатно)]
+
+[npc_%objectId%_services.TeleToFantasyIsle:toFantasyIsle @811;Остров Грез|Телепортироваться на Остров Грез (беcплатно)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Переместиться в Парнассус (зона без налогов) - ${SERVICES_PARNASSUS_PRICE} Аден]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|Я хочу бесплатно попасть в Гавань Гирана]<br>
+#end
+[npc_%objectId%_birthdayHelper|Призвать Аллегрию]
+
+[npc_%objectId%_Quest|Квест]

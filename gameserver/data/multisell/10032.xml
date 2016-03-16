@@ -1,0 +1,1153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+<!--Vesper Cutter - Thunder-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16056" count="1" enchant="6" />
+</item>
+
+<!--Vesper Cutter - Thunder-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16057" count="1" enchant="6" />
+</item>
+
+<!--Vesper Cutter - Thunder-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16058" count="1" enchant="6" />
+</item>
+
+<!--Vesper Buster - Cleverness-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16062" count="1" enchant="6" />
+</item>
+
+<!--Vesper Buster - Cleverness-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16063" count="1" enchant="6" />
+</item>
+
+<!--Vesper Buster - Cleverness-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16064" count="1" enchant="6" />
+</item>
+
+<!--Vesper Slasher - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16059" count="1" enchant="6" />
+</item>
+
+<!--Vesper Slasher - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16060" count="1" enchant="6" />
+</item>
+
+<!--Vesper Slasher - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16061" count="1" enchant="6" />
+</item>
+
+<!--Vesper Avenger - Landslide-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16074" count="1" enchant="6" />
+</item>
+
+<!--Vesper Avenger - Landslide-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16075" count="1" enchant="6" />
+</item>
+
+<!--Vesper Avenger - Landslide-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16076" count="1" enchant="6" />
+</item>
+
+<!--Vesper Caster - Cleverness-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16080" count="1" enchant="6" />
+</item>
+
+<!--Vesper Caster - Cleverness-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16081" count="1" enchant="6" />
+</item>
+
+<!--Vesper Caster - Cleverness-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16082" count="1" enchant="6" />
+</item>
+
+<!--Vesper Retributer - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16077" count="1" enchant="6" />
+</item>
+
+<!--Vesper Retributer - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16078" count="1" enchant="6" />
+</item>
+
+<!--Vesper Retributer - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16079" count="1" enchant="6" />
+</item>
+
+<!--Vesper Singer - Hail-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16083" count="1" enchant="6" />
+</item>
+
+<!--Vesper Singer - Hail-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16084" count="1" enchant="6" />
+</item>
+
+<!--Vesper Singer - Hail-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16085" count="1" enchant="6" />
+</item>
+
+<!--Vesper Shaper - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16065" count="1" enchant="6" />
+</item>
+
+<!--Vesper Shaper - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16066" count="1" enchant="6" />
+</item>
+
+<!--Vesper Shaper - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16067" count="1" enchant="6" />
+</item>
+
+<!--Vesper Thrower - Clairvoyance-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16086" count="1" enchant="6" />
+</item>
+
+<!--Vesper Thrower - Clairvoyance-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16087" count="1" enchant="6" />
+</item>
+
+<!--Vesper Thrower - Clairvoyance-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16088" count="1" enchant="6" />
+</item>
+
+<!--Vesper Stormer - Thunder-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16071" count="1" enchant="6" />
+</item>
+
+<!--Vesper Stormer - Thunder-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16072" count="1" enchant="6" />
+</item>
+
+<!--Vesper Stormer - Thunder-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16073" count="1" enchant="6" />
+</item>
+
+<!--Vesper Fighter - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16068" count="1" enchant="6" />
+</item>
+
+<!--Vesper Fighter - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16069" count="1" enchant="6" />
+</item>
+
+<!--Vesper Fighter - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16070" count="1" enchant="6" />
+</item>
+
+<!--Icarus Sawsword - Destruction-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11306" count="1" enchant="6" />
+</item>
+
+<!--Icarus Sawsword - Destruction-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11307" count="1" enchant="6" />
+</item>
+
+<!--Icarus Sawsword - Destruction-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11308" count="1" enchant="6" />
+</item>
+
+<!--Icarus Spirit - Nature-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11318" count="1" enchant="6" />
+</item>
+
+<!--Icarus Spirit - Nature-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11319" count="1" enchant="6" />
+</item>
+
+<!--Icarus Spirit - Nature-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11320" count="1" enchant="6" />
+</item>
+
+<!--Icarus Heavy Arms - Lightning-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11342" count="1" enchant="6" />
+</item>
+
+<!--Icarus Heavy Arms - Lightning-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11343" count="1" enchant="6" />
+</item>
+
+<!--Icarus Heavy Arms - Lightning-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11344" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hammer - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11334" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hammer - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11335" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hammer - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11336" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hall - Hail-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11346" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hall - Hail-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11347" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hall - Hail-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11348" count="1" enchant="6" />
+</item>
+
+<!--Icarus Disperser - Confusion-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11302" count="1" enchant="6" />
+</item>
+
+<!--Icarus Disperser - Confusion-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11303" count="1" enchant="6" />
+</item>
+
+<!--Icarus Disperser - Confusion-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11304" count="1" enchant="6" />
+</item>
+
+<!--Icarus Spitter - Concentration-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11322" count="1" enchant="6" />
+</item>
+
+<!--Icarus Spitter - Concentration-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11323" count="1" enchant="6" />
+</item>
+
+<!--Icarus Spitter - Concentration-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11324" count="1" enchant="6" />
+</item>
+
+<!--Icarus Trident - Thunder-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11330" count="1" enchant="6" />
+</item>
+
+<!--Icarus Trident - Thunder-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11331" count="1" enchant="6" />
+</item>
+
+<!--Icarus Trident - Thunder-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11332" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hand - Destruction-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11338" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hand - Destruction-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11339" count="1" enchant="6" />
+</item>
+
+<!--Icarus Hand - Destruction-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11340" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Sword - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11273" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Sword - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11274" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Sword - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11275" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Phantom - Nature-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11293" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Phantom - Nature-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11294" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Phantom - Nature-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11295" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Blade - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11269" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Blade - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11270" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Blade - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11271" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Cudgel - Landslide-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11281" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Cudgel - Landslide-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11283" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Cudgel - Landslide-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11282" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Mace - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11257" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Mace - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11258" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Mace - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11259" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Crusher - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11285" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Crusher - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11286" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Crusher - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11287" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Knife - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11248" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Knife - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11249" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Knife - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11250" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Bow - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11265" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Bow - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11266" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Bow - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11267" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Halberd - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11297" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Halberd - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11299" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Halberd - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11298" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Bagh-Nakh - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11261" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Bagh-Nakh - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11262" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Bagh-Nakh - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11263" count="1" enchant="6" />
+</item>
+
+<!--Vesper Dual Sword - Destruction-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16150" count="1" enchant="6" />
+</item>
+
+<!--Vesper Dual Daggers - Gale-->
+<item>
+	<ingredient id="6673" count="200" />
+	<production id="16148" count="1" enchant="6" />
+</item>
+
+<!--Icarus Dual Sword - Destruction-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11300" count="1" enchant="6" />
+</item>
+
+<!--Icarus Dual Daggers - Confusion-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="14527" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Dual Sword - Earth-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="11251" count="1" enchant="6" />
+</item>
+
+<!--Dynasty Dual Daggers - Great Gale-->
+<item>
+	<ingredient id="6673" count="150" />
+	<production id="14526" count="1" enchant="6" />
+</item>
+
+<!--Forgotten Blade - Lightning-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11236" count="1" enchant="6" />
+</item>
+
+<!--Forgotten Blade - Lightning-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11237" count="1" enchant="6" />
+</item>
+
+<!--Forgotten Blade - Lightning-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11238" count="1" enchant="6" />
+</item>
+
+<!--Heaven's Divider - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11240" count="1" enchant="6" />
+</item>
+
+<!--Heaven's Divider - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11242" count="1" enchant="6" />
+</item>
+
+<!--Heaven's Divider - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11241" count="1" enchant="6" />
+</item>
+
+<!--Basalt Battlehammer - Concentration-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11211" count="1" enchant="6" />
+</item>
+
+<!--Basalt Battlehammer - Concentration-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11212" count="1" enchant="6" />
+</item>
+
+<!--Basalt Battlehammer - Concentration-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11213" count="1" enchant="6" />
+</item>
+
+<!--Dragon Hunter Axe - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11203" count="1" enchant="6" />
+</item>
+
+<!--Dragon Hunter Axe - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11204" count="1" enchant="6" />
+</item>
+
+<!--Dragon Hunter Axe - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11205" count="1" enchant="6" />
+</item>
+
+<!--Angel Slayer - Concentration-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11227" count="1" enchant="6" />
+</item>
+
+<!--Angel Slayer - Concentration-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11228" count="1" enchant="6" />
+</item>
+
+<!--Angel Slayer - Concentration-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11229" count="1" enchant="6" />
+</item>
+
+<!--Draconic Bow - Earth-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11199" count="1" enchant="6" />
+</item>
+
+<!--Draconic Bow - Earth-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11200" count="1" enchant="6" />
+</item>
+
+<!--Draconic Bow - Earth-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11201" count="1" enchant="6" />
+</item>
+
+<!--Saint Spear - Destruction-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11219" count="1" enchant="6" />
+</item>
+
+<!--Saint Spear - Destruction-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11220" count="1" enchant="6" />
+</item>
+
+<!--Saint Spear - Destruction-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11221" count="1" enchant="6" />
+</item>
+
+<!--Demon Splinter - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11195" count="1" enchant="6" />
+</item>
+
+<!--Demon Splinter - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11196" count="1" enchant="6" />
+</item>
+
+<!--Demon Splinter - Thunder-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11197" count="1" enchant="6" />
+</item>
+
+<!--Dark Legion's Edge - Thunder-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11081" count="1" enchant="6" />
+</item>
+
+<!--Dark Legion's Edge - Thunder-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11082" count="1" enchant="6" />
+</item>
+
+<!--Dark Legion's Edge - Thunder-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11083" count="1" enchant="6" />
+</item>
+
+<!--Sirra's Blade - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11170" count="1" enchant="6" />
+</item>
+
+<!--Sirra's Blade - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11171" count="1" enchant="6" />
+</item>
+
+<!--Sirra's Blade - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11172" count="1" enchant="6" />
+</item>
+
+<!--Sword of Miracles - Holy Spirit-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11109" count="1" enchant="6" />
+</item>
+
+<!--Sword of Miracles - Holy Spirit-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11110" count="1" enchant="6" />
+</item>
+
+<!--Sword of Miracles - Holy Spirit-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11111" count="1" enchant="6" />
+</item>
+
+<!--Themis' Tongue - Cleverness-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11183" count="1" enchant="6" />
+</item>
+
+<!--Themis' Tongue - Cleverness-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11184" count="1" enchant="6" />
+</item>
+
+<!--Themis' Tongue - Cleverness-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11185" count="1" enchant="6" />
+</item>
+
+<!--Infernal Master - Concentration-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11050" count="1" enchant="6" />
+</item>
+
+<!--Infernal Master - Concentration-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11051" count="1" enchant="6" />
+</item>
+
+<!--Infernal Master - Concentration-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11052" count="1" enchant="6" />
+</item>
+
+<!--Sword of Ipos - Earth-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11162" count="1" enchant="6" />
+</item>
+
+<!--Sword of Ipos - Earth-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11163" count="1" enchant="6" />
+</item>
+
+<!--Sword of Ipos - Earth-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11164" count="1" enchant="6" />
+</item>
+
+<!--Elysian - Great Gale-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11121" count="1" enchant="6" />
+</item>
+
+<!--Elysian - Great Gale-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11122" count="1" enchant="6" />
+</item>
+
+<!--Elysian - Great Gale-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11123" count="1" enchant="6" />
+</item>
+
+<!--Barakiel's Axe - On Fire-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11142" count="1" enchant="6" />
+</item>
+
+<!--Barakiel's Axe - On Fire-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11143" count="1" enchant="6" />
+</item>
+
+<!--Barakiel's Axe - On Fire-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11144" count="1" enchant="6" />
+</item>
+
+<!--Flaming Dragon Skull - Wisdom-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11101" count="1" enchant="6" />
+</item>
+
+<!--Flaming Dragon Skull - Wisdom-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11102" count="1" enchant="6" />
+</item>
+
+<!--Flaming Dragon Skull - Wisdom-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11103" count="1" enchant="6" />
+</item>
+
+<!--Cabrio's Hand - Cleverness-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11187" count="1" enchant="6" />
+</item>
+
+<!--Cabrio's Hand - Cleverness-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11188" count="1" enchant="6" />
+</item>
+
+<!--Cabrio's Hand - Cleverness-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11189" count="1" enchant="6" />
+</item>
+
+<!--Doom Crusher - Thunder-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11089" count="1" enchant="6" />
+</item>
+
+<!--Doom Crusher - Thunder-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11090" count="1" enchant="6" />
+</item>
+
+<!--Doom Crusher - Thunder-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11091" count="1" enchant="6" />
+</item>
+
+<!--Behemoth's Tuning Fork - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11150" count="1" enchant="6" />
+</item>
+
+<!--Behemoth's Tuning Fork - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11151" count="1" enchant="6" />
+</item>
+
+<!--Behemoth's Tuning Fork - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11152" count="1" enchant="6" />
+</item>
+
+<!--Branch of the Mother Tree - Nature-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11105" count="1" enchant="6" />
+</item>
+
+<!--Branch of the Mother Tree - Nature-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11106" count="1" enchant="6" />
+</item>
+
+<!--Branch of the Mother Tree - Nature-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11107" count="1" enchant="6" />
+</item>
+
+<!--Daimon Crystal - Wisdom-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11138" count="1" enchant="6" />
+</item>
+
+<!--Daimon Crystal - Wisdom-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11139" count="1" enchant="6" />
+</item>
+
+<!--Daimon Crystal - Wisdom-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11140" count="1" enchant="6" />
+</item>
+
+<!--Bloody Orchid - Confusion-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11038" count="1" enchant="6" />
+</item>
+
+<!--Bloody Orchid - Confusion-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11039" count="1" enchant="6" />
+</item>
+
+<!--Bloody Orchid - Confusion-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11040" count="1" enchant="6" />
+</item>
+
+<!--Naga Storm - Molar-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11134" count="1" enchant="6" />
+</item>
+
+<!--Naga Storm - Molar-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11135" count="1" enchant="6" />
+</item>
+
+<!--Naga Storm - Molar-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11136" count="1" enchant="6" />
+</item>
+
+<!--Soul Bow - Clairvoyance-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11125" count="1" enchant="6" />
+</item>
+
+<!--Soul Bow - Clairvoyance-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11126" count="1" enchant="6" />
+</item>
+
+<!--Soul Bow - Clairvoyance-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11127" count="1" enchant="6" />
+</item>
+
+<!--Shyeed's Bow - Concentration-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11158" count="1" enchant="6" />
+</item>
+
+<!--Shyeed's Bow - Concentration-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11159" count="1" enchant="6" />
+</item>
+
+<!--Shyeed's Bow - Concentration-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11160" count="1" enchant="6" />
+</item>
+
+<!--Halberd - Lightning-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11071" count="1" enchant="6" />
+</item>
+
+<!--Halberd - Lightning-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11072" count="1" enchant="6" />
+</item>
+
+<!--Halberd - Lightning-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11073" count="1" enchant="6" />
+</item>
+
+<!--Tiphon's Spear - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11178" count="1" enchant="6" />
+</item>
+
+<!--Tiphon's Spear - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11179" count="1" enchant="6" />
+</item>
+
+<!--Tiphon's Spear - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11180" count="1" enchant="6" />
+</item>
+
+<!--Blood Tornado - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11034" count="1" enchant="6" />
+</item>
+
+<!--Blood Tornado - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11035" count="1" enchant="6" />
+</item>
+
+<!--Blood Tornado - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11036" count="1" enchant="6" />
+</item>
+
+<!--Sobekk's Hurricane - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11166" count="1" enchant="6" />
+</item>
+
+<!--Sobekk's Hurricane - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11167" count="1" enchant="6" />
+</item>
+
+<!--Sobekk's Hurricane - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11168" count="1" enchant="6" />
+</item>
+
+<!--Keshanberk*Keshanberk - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11057" count="1" enchant="6" />
+</item>
+
+<!--Keshanberk*Damascus - Destruction-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11074" count="1" enchant="6" />
+</item>
+
+<!--Damascus*Damascus - Thunder-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11079" count="1" enchant="6" />
+</item>
+
+<!--Tallum Blade*Damascus - Landslide-->
+<item>
+	<ingredient id="6673" count="30" />
+	<production id="11181" count="1" enchant="6" />
+</item>
+
+<!--Tallum Blade*Dark Legion's Edge - Lightning-->
+<item>
+	<ingredient id="6673" count="75" />
+	<production id="11234" count="1" enchant="6" />
+</item>
+
+</list>
+

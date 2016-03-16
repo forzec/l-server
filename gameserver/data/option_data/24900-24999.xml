@@ -1,0 +1,717 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="24900">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24901">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24902">
+		<!--CON +1 increase.-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24903">
+		<!--CON +1 increase. MEN +1 increase.-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24904">
+		<!--INT +1 increase. STR +1 increase. CON +1 increase. MEN +1 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+			<add order="0x60" stat="STR" value="1.0" />
+			<add order="0x60" stat="CON" value="1.0" />
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24905">
+		<!--INT +1 increase. STR +1 increase. CON +2 increase. MEN +1 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+			<add order="0x60" stat="STR" value="1.0" />
+			<add order="0x60" stat="CON" value="2.0" />
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24906">
+		<!--INT +1 increase. STR +1 increase. CON +2 increase. MEN +2 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+			<add order="0x60" stat="STR" value="1.0" />
+			<add order="0x60" stat="CON" value="2.0" />
+			<add order="0x60" stat="MEN" value="2.0" />
+		</for>
+	</option_data>
+	<option_data id="24907">
+		<!--INT +2 increase. STR +2 increase. CON +2 increase. MEN +2 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="2.0" />
+			<add order="0x60" stat="STR" value="2.0" />
+			<add order="0x60" stat="CON" value="2.0" />
+			<add order="0x60" stat="MEN" value="2.0" />
+		</for>
+	</option_data>
+	<option_data id="24908">
+		<!--INT +2 increase. STR +2 increase. CON +3 increase. MEN +2 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="2.0" />
+			<add order="0x60" stat="STR" value="2.0" />
+			<add order="0x60" stat="CON" value="3.0" />
+			<add order="0x60" stat="MEN" value="2.0" />
+		</for>
+	</option_data>
+	<option_data id="24909">
+		<!--INT +2 increase. STR +2 increase. CON +3 increase. MEN +3 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="2.0" />
+			<add order="0x60" stat="STR" value="2.0" />
+			<add order="0x60" stat="CON" value="3.0" />
+			<add order="0x60" stat="MEN" value="3.0" />
+		</for>
+	</option_data>
+	<option_data id="24910">
+		<!--INT +3 increase. STR +3 increase. CON +3 increase. MEN +3 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="3.0" />
+			<add order="0x60" stat="STR" value="3.0" />
+			<add order="0x60" stat="CON" value="3.0" />
+			<add order="0x60" stat="MEN" value="3.0" />
+		</for>
+	</option_data>
+	<option_data id="24911">
+		<!--INT +3 increase. STR +3 increase. CON +4 increase. MEN +3 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="3.0" />
+			<add order="0x60" stat="STR" value="3.0" />
+			<add order="0x60" stat="CON" value="4.0" />
+			<add order="0x60" stat="MEN" value="3.0" />
+		</for>
+	</option_data>
+	<option_data id="24912">
+		<!--INT +3 increase. STR +3 increase. CON +4 increase. MEN +4 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="3.0" />
+			<add order="0x60" stat="STR" value="3.0" />
+			<add order="0x60" stat="CON" value="4.0" />
+			<add order="0x60" stat="MEN" value="4.0" />
+		</for>
+	</option_data>
+	<option_data id="24913">
+		<!--INT +4 increase. STR +4 increase. CON +4 increase. MEN +4 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="4.0" />
+			<add order="0x60" stat="STR" value="4.0" />
+			<add order="0x60" stat="CON" value="4.0" />
+			<add order="0x60" stat="MEN" value="4.0" />
+		</for>
+	</option_data>
+	<option_data id="24914">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24915">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24916">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24917">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24918">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24919">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24920">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24921">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24922">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24923">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24924">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24925">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24926">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24927">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24928">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24929">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24930">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24931">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24932">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24933">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24934">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24935">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24936">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24937">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24938">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24939">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24940">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24941">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24942">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24943">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24944">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24945">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24946">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24947">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24948">
+		<!--INT +5 increase. STR +5 increase. CON +5 increase. MEN +5 increase.-->
+		<for>
+			<add order="0x60" stat="INT" value="5.0" />
+			<add order="0x60" stat="STR" value="5.0" />
+			<add order="0x60" stat="CON" value="5.0" />
+			<add order="0x60" stat="MEN" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24949">
+		<!--Increases P. Def. by 27.0 Increases Magic M. Def. by 8.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="27.0" />
+			<add order="0x60" stat="mDef" value="8.0" />
+		</for>
+	</option_data>
+	<option_data id="24950">
+		<!--Equip skill: Item drop rate increases by 10%.-->
+		<skills>
+			<skill id="8415" level="1" /> <!--Ring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24951">
+		<!--Equip skill: Item drop rate increases by 20%.-->
+		<skills>
+			<skill id="8415" level="2" /> <!--Ring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24952">
+		<!--Equip skill: Item drop rate increases by 30%.-->
+		<skills>
+			<skill id="8415" level="3" /> <!--Ring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24953">
+		<!--Equip skill: Item drop rate increases by 40%.-->
+		<skills>
+			<skill id="8415" level="4" /> <!--Ring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24954">
+		<!--Equip skill: Item drop rate increases by 50%.-->
+		<skills>
+			<skill id="8415" level="5" /> <!--Ring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24955">
+		<!--Equip skill: Item drop rate increases by 10%.-->
+		<skills>
+			<skill id="8416" level="1" /> <!--Earring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24956">
+		<!--Equip skill: Item drop rate increases by 20%.-->
+		<skills>
+			<skill id="8416" level="2" /> <!--Earring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24957">
+		<!--Equip skill: Item drop rate increases by 30%.-->
+		<skills>
+			<skill id="8416" level="3" /> <!--Earring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24958">
+		<!--Equip skill: Item drop rate increases by 40%.-->
+		<skills>
+			<skill id="8416" level="4" /> <!--Earring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24959">
+		<!--Equip skill: Item drop rate increases by 50%.-->
+		<skills>
+			<skill id="8416" level="5" /> <!--Earring Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24960">
+		<!--Equip skill: Item drop rate increases by 10%.-->
+		<skills>
+			<skill id="8417" level="1" /> <!--Necklace Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24961">
+		<!--Equip skill: Item drop rate increases by 20%.-->
+		<skills>
+			<skill id="8417" level="2" /> <!--Necklace Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24962">
+		<!--Equip skill: Item drop rate increases by 30%.-->
+		<skills>
+			<skill id="8417" level="3" /> <!--Necklace Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24963">
+		<!--Equip skill: Item drop rate increases by 40%.-->
+		<skills>
+			<skill id="8417" level="4" /> <!--Necklace Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24964">
+		<!--Equip skill: Item drop rate increases by 50%.-->
+		<skills>
+			<skill id="8417" level="5" /> <!--Necklace Ability - Drop Rate Up-->
+		</skills>
+	</option_data>
+	<option_data id="24965">
+		<!--Increase M. Def. by 8.-->
+		<for>
+			<add order="0x60" stat="mDef" value="8.0" />
+		</for>
+	</option_data>
+	<option_data id="24966">
+		<!--Increase M. Def. by 9.-->
+		<for>
+			<add order="0x60" stat="mDef" value="9.0" />
+		</for>
+	</option_data>
+	<option_data id="24967">
+		<!--Increase M. Def. by 10.-->
+		<for>
+			<add order="0x60" stat="mDef" value="10.0" />
+		</for>
+	</option_data>
+	<option_data id="24968">
+		<!--Increase M. Def. by 11.-->
+		<for>
+			<add order="0x60" stat="mDef" value="11.0" />
+		</for>
+	</option_data>
+	<option_data id="24969">
+		<!--Increase M. Def. by 12.-->
+		<for>
+			<add order="0x60" stat="mDef" value="12.0" />
+		</for>
+	</option_data>
+	<option_data id="24970">
+		<!--Increase M. Def. by 13 and Speed by 7.-->
+		<for>
+			<add order="0x60" stat="mDef" value="13.0" />
+			<add order="0x60" stat="runSpd" value="7.0" />
+		</for>
+	</option_data>
+	<option_data id="24971">
+		<!--Increase M. Def. by 14 and Speed by 7.-->
+		<for>
+			<add order="0x60" stat="mDef" value="14.0" />
+			<add order="0x60" stat="runSpd" value="7.0" />
+		</for>
+	</option_data>
+	<option_data id="24972">
+		<!--Increase M. Def. by 15 and Speed by 7. Increases physical skill damage by 93. Decreases MP Consumption by 3%.-->
+		<for>
+			<add order="0x60" stat="mDef" value="15.0" />
+			<add order="0x60" stat="runSpd" value="7.0" />
+			<add order="0x60" stat="skillPower" value="93.0" />
+			<mul order="0x30" stat="mpConsumePhysical" value="0.97" />
+			<mul order="0x30" stat="mpConsum" value="0.97" />
+			<mul order="0x30" stat="mpDanceConsume" value="0.97" />
+		</for>
+	</option_data>
+	<option_data id="24973">
+		<!--Increase M. Def. by 16 and Speed by 7. Increases physical skill damage by 93. Decreases MP Consumption by 3%. Increases Critical Damage by 41.3 and Magical Critical Rate by 2.-->
+		<for>
+			<add order="0x60" stat="mDef" value="16.0" />
+			<add order="0x60" stat="runSpd" value="7.0" />
+			<add order="0x60" stat="skillPower" value="93.0" />
+			<mul order="0x30" stat="mpConsumePhysical" value="0.97" />
+			<mul order="0x30" stat="mpConsum" value="0.97" />
+			<mul order="0x30" stat="mpDanceConsume" value="0.97" />
+			<add order="0x60" stat="cAtkStatic" value="41.3" />
+			<add order="0x60" stat="mCritRate" value="2.0" />
+		</for>
+	</option_data>
+	<option_data id="24974">
+		<!--Increase M. Def. by 17 and Speed by 7. Increases physical skill damage by 93. Decreases MP Consumption by 3%. Increases Critical Damage by 41.3 and Magical Critical Rate by 2.-->
+		<for>
+			<add order="0x60" stat="mDef" value="17.0" />
+			<add order="0x60" stat="runSpd" value="7.0" />
+			<add order="0x60" stat="skillPower" value="93.0" />
+			<mul order="0x30" stat="mpConsumePhysical" value="0.97" />
+			<mul order="0x30" stat="mpConsum" value="0.97" />
+			<mul order="0x30" stat="mpDanceConsume" value="0.97" />
+			<add order="0x60" stat="cAtkStatic" value="41.3" />
+			<add order="0x60" stat="mCritRate" value="2.0" />
+		</for>
+	</option_data>
+	<option_data id="24975">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24976">
+		<!--CON +1 and MEN +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24977">
+		<!--INT +1, STR +1, CON +1, MEN +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+			<add order="0x60" stat="STR" value="1.0" />
+			<add order="0x60" stat="CON" value="1.0" />
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24978">
+		<!--INT +1, STR +1, CON +1, MEN +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+			<add order="0x60" stat="STR" value="1.0" />
+			<add order="0x60" stat="CON" value="1.0" />
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24979">
+		<!--STR +1, DEX +1, CON +1, INT +1, WIT +1, MEN +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+			<add order="0x60" stat="STR" value="1.0" />
+			<add order="0x60" stat="CON" value="1.0" />
+			<add order="0x60" stat="MEN" value="1.0" />
+			<add order="0x60" stat="WIT" value="1.0" />
+			<add order="0x60" stat="DEX" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24980">
+		<!--STR +1, DEX +1, CON +2, INT +1, WIT +1, MEN +2-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+			<add order="0x60" stat="STR" value="1.0" />
+			<add order="0x60" stat="CON" value="2.0" />
+			<add order="0x60" stat="MEN" value="2.0" />
+			<add order="0x60" stat="WIT" value="1.0" />
+			<add order="0x60" stat="DEX" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="24981">
+		<!--Passive Skill: Moving speed increases by 7.-->
+		<skills>
+			<skill id="21235" level="1" /> <!--Olf's T-shirt: Speed-->
+		</skills>
+	</option_data>
+	<option_data id="24982">
+		<!--Active Skil: Blessed Escape ability can be used. Can be used every 20 hour(s).-->
+		<skills>
+			<skill id="21236" level="1" /> <!--Olf's T-shirt: Blessed Escape-->
+		</skills>
+	</option_data>
+	<option_data id="24983">
+		<!--Active Skil: Temporarily becomes invincible for 7 seconds. Can be used every 20 hour(s).-->
+		<skills>
+			<skill id="21237" level="1" /> <!--Olf's T-shirt: Blessed Invincibility-->
+		</skills>
+	</option_data>
+	<option_data id="24984">
+		<!--Increases M. Def by 18 and Speed by 7. Increases physical skill damage by 93. Decreases MP Consumption by 3%. Increases Critical Damage by 41.3, and Magical Critical Rate by 2.-->
+		<for>
+			<add order="0x60" stat="mDef" value="18.0" />
+			<add order="0x60" stat="runSpd" value="7.0" />
+			<add order="0x60" stat="skillPower" value="93.0" />
+			<mul order="0x30" stat="mpConsumePhysical" value="0.97" />
+			<mul order="0x30" stat="mpConsum" value="0.97" />
+			<mul order="0x30" stat="mpDanceConsume" value="0.97" />
+			<add order="0x60" stat="cAtkStatic" value="41.3" />
+			<add order="0x60" stat="mCritRate" value="2.0" />
+		</for>
+	</option_data>
+	<option_data id="24985">
+		<!--STR +2, DEX +1, CON +2, INT +2, WIT +1, MEN +2-->
+		<for>
+			<add order="0x60" stat="INT" value="2.0" />
+			<add order="0x60" stat="STR" value="2.0" />
+			<add order="0x60" stat="CON" value="2.0" />
+			<add order="0x60" stat="MEN" value="2.0" />
+			<add order="0x60" stat="WIT" value="1.0" />
+			<add order="0x60" stat="DEX" value="1.0" />
+		</for>
+	</option_data>
+</list>

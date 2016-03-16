@@ -1,0 +1,1 @@
+DELETE FROM `character_quests` WHERE name LIKE "_126_IntheNameofEvilPart2";

@@ -1,0 +1,85 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+  
+<!--D Grade Sword-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2499" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade 2h Sword-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="70" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Blunt-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="88" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="189" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade 2h Blunt-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="190" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Dagger-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="225" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Bow-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="280" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Spear-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="297" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Claw-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="262" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Rapier-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9225" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Ancient Sword-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9226" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Arbalet-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9227" count="1" enchant="6"/>
+	</item>
+
+<!--D Grade Dual Swords-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2542" count="1" enchant="6"/>
+	</item>
+</list>
+
+
+

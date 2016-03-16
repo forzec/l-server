@@ -1,0 +1,9 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<instance id="600" name="Capture Team Flag" maxChannels="50" collapseIfEmpty="0" timelimit="30" dispelBuffs="false">
+		<geodata map="14_24" />
+		<zones>
+			<zone name="[14_24_ctf_arena]" active="true" />
+		</zones>
+	</instance>
+</list>

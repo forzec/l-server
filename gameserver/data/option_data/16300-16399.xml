@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="16300">
+		<!--Active: Temporarily decreases the MP consumption of song/dance skills.-->
+		<skills>
+			<skill id="3163" level="3" /> <!--Item Skill: Music Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="16301">
+		<!--Active: Temporarily decreases magic reuse time.-->
+		<skills>
+			<skill id="3200" level="3" /> <!--Item Skill: Spell Refresh-->
+		</skills>
+	</option_data>
+	<option_data id="16302">
+		<!--Active: Temporarily decreases magic MP consumption.-->
+		<skills>
+			<skill id="3162" level="3" /> <!--Item Skill: Spell Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="16303">
+		<!--Active: You can momentarily avoid a monster's preemptive attack. Your attack abilities are greatly decreased while the effect lasts.-->
+		<skills>
+			<skill id="3159" level="3" /> <!--Item Skill: Stealth-->
+		</skills>
+	</option_data>
+	<option_data id="16304">
+		<!--Active: Temporarily bestows the ability to recover some of the damage inflicted on the enemy as HP. Excludes damage by skill and long-range attacks.-->
+		<skills>
+			<skill id="3148" level="10" /> <!--Item Skill: Vampiric Rage-->
+		</skills>
+	</option_data>
+	<option_data id="16305">
+		<!--Chance: During a physical attack, blocks all of the target's physical/magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3094" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="16306">
+		<!--Chance: During a physical attack, burns up the target's MP by a fixed rate.-->
+		<triggers>
+			<trigger id="3082" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="16307">
+		<!--Chance: During a physical attack, inflicts paralysis on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3088" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="16308">
+		<!--Chance: During a physical attack, blocks the target's magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3093" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="16309">
+		<!--Chance: During a physical attack, inflicts sleep on the target by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3087" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="16310">
+		<!--Chance: During a physical attack, inflicts shock on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3085" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="16311">
+		<!--Chance: During a critical attack, blocks all of the target's physical/magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3122" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="16312">
+		<!--Chance: During a critical attack, burns up the target's MP by a fixed rate.-->
+		<triggers>
+			<trigger id="3110" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="16313">
+		<!--Chance: During a critical attack, inflicts paralysis on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3116" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="16314">
+		<!--Chance: During a critical attack, blocks the target's magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3121" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="16315">
+		<!--Chance: During a critical attack, inflicts sleep on the target by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3115" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="16316">
+		<!--Chance: During a critical attack, inflicts shock on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3113" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="16317">
+		<!--Chance: Blocks all the physical/magic skills of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3237" level="10" /> <!--Item Skill: Doom-->
+		</skills>
+	</option_data>
+	<option_data id="16318">
+		<!--Chance: Inflicts fear on the target who attacks you by a fixed rate and causes him to flee.-->
+		<skills>
+			<skill id="3233" level="10" /> <!--Item Skill: Fear-->
+		</skills>
+	</option_data>
+	<option_data id="16319">
+		<!--Chance: When damage is received, the amount of MP recovery magic received increases by a fixed rate.-->
+		<skills>
+			<skill id="3212" level="10" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="16320">
+		<!--Chance: When damage is received, recovers your own MP by a fixed rate.-->
+		<skills>
+			<skill id="3210" level="10" /> <!--Item Skill: Recharge-->
+		</skills>
+	</option_data>
+	<option_data id="16321">
+		<!--Chance: Inflicts paralysis on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3231" level="10" /> <!--Item Skill: Paralyze-->
+		</skills>
+	</option_data>
+	<option_data id="16322">
+		<!--Chance: Blocks the magic skills of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3236" level="10" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="16323">
+		<!--Chance: Inflicts shock on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3228" level="10" /> <!--Item Skill: Stun-->
+		</skills>
+	</option_data>
+	<option_data id="16324">
+		<!--Chance: Inflicts flint on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3232" level="10" /> <!--Item Skill: Medusa-->
+		</skills>
+	</option_data>
+	<option_data id="16325">
+		<!--Chance: During a magic attack, blocks all of the target's physical/magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3107" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="16326">
+		<!--Chance: During a magic attack, burns up the target's MP by a fixed rate.-->
+		<triggers>
+			<trigger id="3095" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="16327">
+		<!--Chance: During a magic attack, inflicts paralysis on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3101" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="16328">
+		<!--Chance: During a magic attack, blocks the target's magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3106" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="16329">
+		<!--Chance: During a magic attack, inflicts sleep on the target by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3100" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="16330">
+		<!--Chance: During a magic attack, inflicts shock on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3098" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="16331">
+		<!--Passive: Decreases all skill MP consumption.-->
+		<skills>
+			<skill id="3258" level="3" /> <!--Item Skill: Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="16332">
+		<!--Passive: Increases evasion.-->
+		<skills>
+			<skill id="3247" level="10" /> <!--Item Skill: Agility-->
+		</skills>
+	</option_data>
+	<option_data id="16333">
+		<!--Passive: Increases the rate of critical attacks.-->
+		<skills>
+			<skill id="3249" level="10" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="16334">
+		<!--Passive: Bestows on yourself the ability to reflect some of the damage back to the enemy. Excludes damage caused by skills and long-range attack.-->
+		<skills>
+			<skill id="3259" level="3" /> <!--Item Skill: Reflect Damage-->
+		</skills>
+	</option_data>
+	<option_data id="16335">
+		<!--Passive: Increases one's own accuracy.-->
+		<skills>
+			<skill id="3248" level="10" /> <!--Item Skill: Guidance-->
+		</skills>
+	</option_data>
+	<option_data id="16336">
+		<!--Passive: Increases the critical rate of damage attack magic.-->
+		<skills>
+			<skill id="3250" level="10" /> <!--Item Skill: Wild Magic-->
+		</skills>
+	</option_data>
+	<option_data id="16337">
+		<!--Passive: Increases the recovery rate when MP is being recovered by recharge.-->
+		<skills>
+			<skill id="3239" level="10" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="16338">
+		<!--Passive: Decreases skill MP consumption.-->
+		<skills>
+			<skill id="3255" level="3" /> <!--Item Skill: Skill Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="16339">
+		<!--Passive: Decreases song/dance skill MP consumption.-->
+		<skills>
+			<skill id="3257" level="3" /> <!--Item Skill: Music Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="16340">
+		<!--Passive: Decreases magic MP consumption.-->
+		<skills>
+			<skill id="3256" level="3" /> <!--Item Skill: Spell Clarity-->
+		</skills>
+	</option_data>
+	<option_data id="16341">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16342">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16343">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16344">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16345">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16346">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16347">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16348">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16349">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16350">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16351">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16352">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16353">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16354">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16355">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16356">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16357">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16358">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16359">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16360">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16361">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16362">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16363">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16364">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16365">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16366">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16367">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16368">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16369">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16370">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16371">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16372">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16373">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16374">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16375">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16376">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16377">
+		<!--STR +1-->
+		<for>
+			<add order="0x60" stat="STR" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16378">
+		<!--CON +1-->
+		<for>
+			<add order="0x60" stat="CON" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16379">
+		<!--INT +1-->
+		<for>
+			<add order="0x60" stat="INT" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16380">
+		<!--MEN +1-->
+		<for>
+			<add order="0x60" stat="MEN" value="1.0" />
+		</for>
+	</option_data>
+	<option_data id="16381">
+		<!--None-->
+		<skills>
+			<skill id="3904" level="1" /> <!--Augment Option - Holy Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16382">
+		<!--None-->
+		<skills>
+			<skill id="3905" level="1" /> <!--Augment Option - Dark Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16383">
+		<!--None-->
+		<skills>
+			<skill id="3906" level="1" /> <!--Augment Option - Fire Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16384">
+		<!--None-->
+		<skills>
+			<skill id="3907" level="1" /> <!--Augment Option - Water Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16385">
+		<!--None-->
+		<skills>
+			<skill id="3908" level="1" /> <!--Augment Option - Wind Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16386">
+		<!--None-->
+		<skills>
+			<skill id="3909" level="1" /> <!--Augment Option - Earth Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16387">
+		<!--None-->
+		<skills>
+			<skill id="3910" level="1" /> <!--Augment Option - Resistance to Holy-->
+		</skills>
+	</option_data>
+	<option_data id="16388">
+		<!--None-->
+		<skills>
+			<skill id="3911" level="1" /> <!--Augment Option - Dark Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16389">
+		<!--None-->
+		<skills>
+			<skill id="3912" level="1" /> <!--Augment Option - Fire Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16390">
+		<!--None-->
+		<skills>
+			<skill id="3913" level="1" /> <!--Augment Option - Water Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16391">
+		<!--None-->
+		<skills>
+			<skill id="3914" level="1" /> <!--Augment Option - Wind Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16392">
+		<!--None-->
+		<skills>
+			<skill id="3915" level="1" /> <!--Augment Option - Earth Resistance-->
+		</skills>
+	</option_data>
+	<option_data id="16393">
+		<!--None-->
+		<skills>
+			<skill id="3916" level="1" /> <!--Augment Option - Holy Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16394">
+		<!--None-->
+		<skills>
+			<skill id="3917" level="1" /> <!--Augment Option - Dark Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16395">
+		<!--None-->
+		<skills>
+			<skill id="3918" level="1" /> <!--Augment Option - Fire Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16396">
+		<!--None-->
+		<skills>
+			<skill id="3919" level="1" /> <!--Augment Option - Water Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16397">
+		<!--None-->
+		<skills>
+			<skill id="3920" level="1" /> <!--Augment Option - Wind Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16398">
+		<!--None-->
+		<skills>
+			<skill id="3921" level="1" /> <!--Augment Option - Earth Attack-->
+		</skills>
+	</option_data>
+	<option_data id="16399">
+		<!--None-->
+		<skills>
+			<skill id="3922" level="1" /> <!--Augment Option - Resistance to Holy-->
+		</skills>
+	</option_data>
+</list>

@@ -1,0 +1,6 @@
+<!ELEMENT out (data)*>
+<!ATTLIST out
+	lang CDATA #REQUIRED>
+<!ELEMENT data (id|text)*>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT text (#PCDATA)>

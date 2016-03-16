@@ -1,0 +1,37 @@
+!The list of goods:
+
+[npc_%objectId%_services.ItemBroker:list ${type} 0 1 0 0|<font color=\"FF9900\">List all</font>]
+
+[npc_%objectId%_services.ItemBroker:equipment ${type}|<font color=\"FF9900\">Equipment</font>]
+#if (${type} == 1)
+
+[npc_%objectId%_services.ItemBroker:equipment4 ${type}|<font color=\"FF9900\">Equipment +4 and more</font>]
+#end
+#if (${type} != 5)
+
+[npc_%objectId%_services.ItemBroker:list ${type} 0 1 0 1|<font color=\"FF9900\">Rare equipment</font>]
+#end
+
+[npc_%objectId%_services.ItemBroker:list ${type} 5 1 0 0|<font color=\"FF9900\">Consumable</font>]
+
+[npc_%objectId%_services.ItemBroker:list ${type} 6 1 0 0|<font color=\"FF9900\">Materials</font>]
+
+[npc_%objectId%_services.ItemBroker:list ${type} 7 1 0 0|<font color=\"FF9900\">Key materials</font>]
+
+[npc_%objectId%_services.ItemBroker:list ${type} 8 1 0 0|<font color=\"FF9900\">Recipes</font>]
+
+[npc_%objectId%_services.ItemBroker:list ${type} 9 1 0 0|<font color=\"FF9900\">Books and amulets</font>]
+
+[npc_%objectId%_services.ItemBroker:list ${type} 10 1 0 0|<font color=\"FF9900\">Enchant items</font>]
+
+[npc_%objectId%_services.ItemBroker:list ${type} 11 1 0 0|<font color=\"FF9900\">Other</font>]
+
+#if (${type} != 5)
+[npc_%objectId%_services.ItemBroker:list ${type} 90 1 0 0|<font color=\"FF9900\">Commons</font>]
+#end
+
+<edit var="tofind" width=100>
+
+[npc_%objectId%_services.ItemBroker:find ${type} 1 $tofind|<font color=\"FF9900\">Find</font>]
+
+[npc_%objectId%_Chat 0|<font color=\"FF9900\">Back</font>]

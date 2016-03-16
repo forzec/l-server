@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="4" name="Underground Coliseum 50-59 Level" impl="UndergroundColiseum">
+		<parameter name="min_level" value="50" />
+		<parameter name="max_level" value="59" />
+		<on_init>
+			<spawn name="manager" />
+			<init name="doors" />
+			<init name="zones" />
+		</on_init>
+		<on_time>
+			<on time="0">
+				<start name="event" />
+			</on>
+			<on time="7200">
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="zones">
+			<zone name="[17_16_kerthang_005]" />
+			<zone name="[17_16_kerthang_004]" />
+			<zone name="[17_16_kerthang_003]" />
+			<zone name="[17_16_kerthang_002]" />
+			<zone name="[17_16_kerthang_001]" />
+		</objects>
+		<objects name="doors">
+			<door id="17160039" />
+			<door id="17160040" />
+			<door id="17160034" />
+			<door id="17160033" />
+			<door id="17160036" />
+			<door id="17160035" />
+			<door id="17160038" />
+			<door id="17160037" />
+		</objects>
+		<objects name="manager">
+			<spawn_ex name="underground_coliseum_50_59_manager" />
+		</objects>
+		<objects name="towers">
+			<spawn_ex name="underground_coliseum_towers_50_59" />
+		</objects>
+		<objects name="boxes">
+			<spawn_ex name="underground_coliseum_boxes_50_59" />
+		</objects>
+		<objects name="blue_teleport_locs">
+			<point x="-85823" y="-52669" z="-11496" />
+			<point x="-84280" y="-53771" z="-11496" />
+			<point x="-82764" y="-51737" z="-11496" />
+			<point x="-83744" y="-50461" z="-11496" />
+			<point x="-84509" y="-52150" z="-11496" />
+			<point x="-84418" y="-52340" z="-11496" />
+			<point x="-84248" y="-52443" z="-11496" />
+			<point x="-84054" y="-52472" z="-11496" />
+			<point x="-84253" y="-52292" z="-11496" />
+		</objects>
+		<objects name="red_teleport_locs">
+			<point x="-85716" y="-52234" z="-11496" />
+			<point x="-83565" y="-53805" z="-11496" />
+			<point x="-82516" y="-51012" z="-11496" />
+			<point x="-83615" y="-50635" z="-11496" />
+			<point x="-84172" y="-51686" z="-11496" />
+			<point x="-83968" y="-51709" z="-11496" />
+			<point x="-83803" y="-51828" z="-11496" />
+			<point x="-83713" y="-52022" z="-11496" />
+		</objects>
+	</event>
+</list>

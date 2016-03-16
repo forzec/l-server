@@ -1,0 +1,1 @@
+ UPDATE `clan_skills` SET `skill_level`=1 WHERE `skill_id`=378 AND `skill_level`>1;

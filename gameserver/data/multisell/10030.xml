@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  
+  <!--Knight's Cloak-->
+  <item>
+    <ingredient id="6673" count="25"/>
+    <production id="13687" count="1"/>
+  </item>
+  
+  <!--Holy Spirit's Cloak-->
+  <item>
+    <ingredient id="6673" count="25"/>
+    <production id="13890" count="1"/>
+  </item>
+  
+  <!--Ancient Cloak-->
+  <item>
+    <ingredient id="6673" count="25"/>
+    <production id="14609" count="1"/>
+  </item>
+  
+  <!--7th Anniversary Cloak - Pitch Black-->
+  <item>
+    <ingredient id="6673" count="100"/>
+    <production id="21583" count="1"/>
+  </item>
+  
+  <!--7th Anniversary Cloak - Blood Red-->
+  <item>
+    <ingredient id="6673" count="100"/>
+    <production id="21587" count="1"/>
+  </item>
+  
+  <!--7th Anniversary Cloak - Pearl White-->
+  <item>
+    <ingredient id="6673" count="100"/>
+    <production id="21588" count="1"/>
+  </item>
+  
+  <!--Cloak of Zaken-->
+  <item>
+    <ingredient id="6673" count="150"/>
+    <production id="21716" count="1"/>
+  </item>
+  
+  <!--Cloak of Freya-->
+  <item>
+    <ingredient id="6673" count="150"/>
+    <production id="21717" count="1"/>
+  </item>
+  
+  <!--Cloak of Frintezza-->
+  <item>
+    <ingredient id="6673" count="150"/>
+    <production id="21718" count="1"/>
+  </item>
+  
+  <!--Soul Cloak of Zaken-->
+  <item>
+    <ingredient id="6673" count="300"/>
+    <production id="21719" count="1"/>
+  </item>
+  
+  <!--Soul Cloak of Freya-->
+  <item>
+    <ingredient id="6673" count="300"/>
+    <production id="21720" count="1"/>
+  </item>
+  
+  <!--Soul Cloak of Frintezza-->
+  <item>
+    <ingredient id="6673" count="300"/>
+    <production id="21721" count="1"/>
+  </item>
+</list>

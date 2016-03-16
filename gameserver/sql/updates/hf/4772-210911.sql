@@ -1,0 +1,1 @@
+DELETE s FROM summons s LEFT JOIN character_servitors c ON c.object_id = s.object_id AND c.servitor_id = s.call_skill_id AND c.type = 1 WHERE c.object_id IS NULL;

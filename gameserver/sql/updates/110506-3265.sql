@@ -1,0 +1,1 @@
+ALTER TABLE siege_clans ADD `date` BIGINT NOT NULL;

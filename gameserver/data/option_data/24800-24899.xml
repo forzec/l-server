@@ -1,0 +1,882 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="24800">
+		<!--Increase M. Atk. by 4.7 Increase HP Regen 0.16-->
+		<for>
+			<add order="0x60" stat="mAtk" value="4.7" />
+			<add order="0x60" stat="regHp" value="0.16" />
+		</for>
+	</option_data>
+	<option_data id="24801">
+		<!--Increase M. Atk. by 4.7 Increase MP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="mAtk" value="4.7" />
+			<add order="0x60" stat="regMp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="24802">
+		<!--Increase HP Regen 0.34-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.34" />
+		</for>
+	</option_data>
+	<option_data id="24803">
+		<!--Increase MP Regen 0.1-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.1" />
+		</for>
+	</option_data>
+	<option_data id="24804">
+		<!--Increase HP Regen 0.16 Increase MP Regen 0.05-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.16" />
+			<add order="0x60" stat="regMp" value="0.05" />
+		</for>
+	</option_data>
+	<option_data id="24805">
+		<!--Increase P. Def. 28.0 Increase Magic M. Def. 9.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="28.0" />
+			<add order="0x60" stat="mDef" value="9.0" />
+		</for>
+	</option_data>
+	<option_data id="24806">
+		<!--Increase P. Def. 29.0 Increase Magic M. Def. 10.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="29.0" />
+			<add order="0x60" stat="mDef" value="10.0" />
+		</for>
+	</option_data>
+	<option_data id="24807">
+		<!--Increase P. Def. 30.0 Increase Magic M. Def. 11.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="30.0" />
+			<add order="0x60" stat="mDef" value="11.0" />
+		</for>
+	</option_data>
+	<option_data id="24808">
+		<!--Increase P. Def. 31.0 Increase Magic M. Def. 12.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="31.0" />
+			<add order="0x60" stat="mDef" value="12.0" />
+		</for>
+	</option_data>
+	<option_data id="24809">
+		<!--Increase P. Def. 32.0 Increase Magic M. Def. 13.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="32.0" />
+			<add order="0x60" stat="mDef" value="13.0" />
+		</for>
+	</option_data>
+	<option_data id="24810">
+		<!--Increase P. Def. 33.0 Increase Magic M. Def. 14.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="33.0" />
+			<add order="0x60" stat="mDef" value="14.0" />
+		</for>
+	</option_data>
+	<option_data id="24811">
+		<!--Increase P. Def. 34.0 Increase Magic M. Def. 15.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="34.0" />
+			<add order="0x60" stat="mDef" value="15.0" />
+		</for>
+	</option_data>
+	<option_data id="24812">
+		<!--Increase P. Def. 35.0 Increase Magic M. Def. 16.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="35.0" />
+			<add order="0x60" stat="mDef" value="16.0" />
+		</for>
+	</option_data>
+	<option_data id="24813">
+		<!--Increase P. Def. 36.0 Increase Magic M. Def. 17.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="36.0" />
+			<add order="0x60" stat="mDef" value="17.0" />
+		</for>
+	</option_data>
+	<option_data id="24814">
+		<!--Increase P. Def. 37.0 Increase Magic M. Def. 18.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="37.0" />
+			<add order="0x60" stat="mDef" value="18.0" />
+		</for>
+	</option_data>
+	<option_data id="24815">
+		<!--Increase P. Def. 38.0 Increase Magic M. Def. 19.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="38.0" />
+			<add order="0x60" stat="mDef" value="19.0" />
+		</for>
+	</option_data>
+	<option_data id="24816">
+		<!--Increase P. Def. 39.0 Increase Magic M. Def. 20.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="39.0" />
+			<add order="0x60" stat="mDef" value="20.0" />
+		</for>
+	</option_data>
+	<option_data id="24817">
+		<!--Increase P. Def. 40.0 Increase Magic M. Def. 21.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="40.0" />
+			<add order="0x60" stat="mDef" value="21.0" />
+		</for>
+	</option_data>
+	<option_data id="24818">
+		<!--Increase P. Def. 41.0 Increase Magic M. Def. 22.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="41.0" />
+			<add order="0x60" stat="mDef" value="22.0" />
+		</for>
+	</option_data>
+	<option_data id="24819">
+		<!--Increase P. Def. 42.0 Increase Magic M. Def. 23.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="42.0" />
+			<add order="0x60" stat="mDef" value="23.0" />
+		</for>
+	</option_data>
+	<option_data id="24820">
+		<!--Increase P. Def. 43.0 Increase Magic M. Def. 24.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="43.0" />
+			<add order="0x60" stat="mDef" value="24.0" />
+		</for>
+	</option_data>
+	<option_data id="24821">
+		<!--Increase P. Def. 44.0 Increase Magic M. Def. 25.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="44.0" />
+			<add order="0x60" stat="mDef" value="25.0" />
+		</for>
+	</option_data>
+	<option_data id="24822">
+		<!--Increase P. Def. 45.0 Increase Magic M. Def. 26.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="45.0" />
+			<add order="0x60" stat="mDef" value="26.0" />
+		</for>
+	</option_data>
+	<option_data id="24823">
+		<!--Increase P. Def. 46.0 Increase Magic M. Def. 27.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="46.0" />
+			<add order="0x60" stat="mDef" value="27.0" />
+		</for>
+	</option_data>
+	<option_data id="24824">
+		<!--Increase P. Def. 47.0 Increase Magic M. Def. 28.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="47.0" />
+			<add order="0x60" stat="mDef" value="28.0" />
+		</for>
+	</option_data>
+	<option_data id="24825">
+		<!--Increase P. Def. 48.0 Increase Magic M. Def. 29.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="48.0" />
+			<add order="0x60" stat="mDef" value="29.0" />
+		</for>
+	</option_data>
+	<option_data id="24826">
+		<!--Increase P. Def. 49.0 Increase Magic M. Def. 30.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="49.0" />
+			<add order="0x60" stat="mDef" value="30.0" />
+		</for>
+	</option_data>
+	<option_data id="24827">
+		<!--Increase P. Def. 50.0 Increase Magic M. Def. 31.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="50.0" />
+			<add order="0x60" stat="mDef" value="31.0" />
+		</for>
+	</option_data>
+	<option_data id="24828">
+		<!--Increase P. Def. 51.0 Increase Magic M. Def. 32.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="51.0" />
+			<add order="0x60" stat="mDef" value="32.0" />
+		</for>
+	</option_data>
+	<option_data id="24829">
+		<!--Increase P. Def. 52.0 Increase Magic M. Def. 33.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="52.0" />
+			<add order="0x60" stat="mDef" value="33.0" />
+		</for>
+	</option_data>
+	<option_data id="24830">
+		<!--Increase P. Def. 53.0 Increase Magic M. Def. 34.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="53.0" />
+			<add order="0x60" stat="mDef" value="34.0" />
+		</for>
+	</option_data>
+	<option_data id="24831">
+		<!--Increase P. Def. 54.0 Increase Magic M. Def. 35.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="54.0" />
+			<add order="0x60" stat="mDef" value="35.0" />
+		</for>
+	</option_data>
+	<option_data id="24832">
+		<!--Increase P. Def. 55.0 Increase Magic M. Def. 36.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="55.0" />
+			<add order="0x60" stat="mDef" value="36.0" />
+		</for>
+	</option_data>
+	<option_data id="24833">
+		<!--Increase P. Def. 56.0 Increase Magic M. Def. 37.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="56.0" />
+			<add order="0x60" stat="mDef" value="37.0" />
+		</for>
+	</option_data>
+	<option_data id="24834">
+		<!--Increase P. Def. 57.0 Increase Magic M. Def. 38.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="57.0" />
+			<add order="0x60" stat="mDef" value="38.0" />
+		</for>
+	</option_data>
+	<option_data id="24835">
+		<!--Increase P. Def. 58.0 Increase Magic M. Def. 39.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="58.0" />
+			<add order="0x60" stat="mDef" value="39.0" />
+		</for>
+	</option_data>
+	<option_data id="24836">
+		<!--Increase P. Def. 59.0 Increase Magic M. Def. 40.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="59.0" />
+			<add order="0x60" stat="mDef" value="40.0" />
+		</for>
+	</option_data>
+	<option_data id="24837">
+		<!--Increase P. Def. 60.0 Increase Magic M. Def. 41.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="60.0" />
+			<add order="0x60" stat="mDef" value="41.0" />
+		</for>
+	</option_data>
+	<option_data id="24838">
+		<!--Increase P. Def. 61.0 Increase Magic M. Def. 42.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="61.0" />
+			<add order="0x60" stat="mDef" value="42.0" />
+		</for>
+	</option_data>
+	<option_data id="24839">
+		<!--Increase P. Def. 62.0 Increase Magic M. Def. 43.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="62.0" />
+			<add order="0x60" stat="mDef" value="43.0" />
+		</for>
+	</option_data>
+	<option_data id="24840">
+		<!--Increase P. Def. 63.0 Increase Magic M. Def. 44.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="63.0" />
+			<add order="0x60" stat="mDef" value="44.0" />
+		</for>
+	</option_data>
+	<option_data id="24841">
+		<!--Increase P. Def. 64.0 Increase Magic M. Def. 45.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="64.0" />
+			<add order="0x60" stat="mDef" value="45.0" />
+		</for>
+	</option_data>
+	<option_data id="24842">
+		<!--Increase P. Def. 65.0 Increase Magic M. Def. 46.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="65.0" />
+			<add order="0x60" stat="mDef" value="46.0" />
+		</for>
+	</option_data>
+	<option_data id="24843">
+		<!--Increase P. Def. 66.0 Increase Magic M. Def. 47.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="66.0" />
+			<add order="0x60" stat="mDef" value="47.0" />
+		</for>
+	</option_data>
+	<option_data id="24844">
+		<!--Increase P. Def. 67.0 Increase Magic M. Def. 48.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="67.0" />
+			<add order="0x60" stat="mDef" value="48.0" />
+		</for>
+	</option_data>
+	<option_data id="24845">
+		<!--Increase P. Def. 68.0 Increase Magic M. Def. 49.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="68.0" />
+			<add order="0x60" stat="mDef" value="49.0" />
+		</for>
+	</option_data>
+	<option_data id="24846">
+		<!--Increase P. Def. 69.0 Increase Magic M. Def. 50.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="69.0" />
+			<add order="0x60" stat="mDef" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24847">
+		<!--Increase P. Def. 70.0 Increase Magic M. Def. 51.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="70.0" />
+			<add order="0x60" stat="mDef" value="51.0" />
+		</for>
+	</option_data>
+	<option_data id="24848">
+		<!--Increase P. Def. 71.0 Increase Magic M. Def. 52.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="71.0" />
+			<add order="0x60" stat="mDef" value="52.0" />
+		</for>
+	</option_data>
+	<option_data id="24849">
+		<!--Increase P. Def. 72.0 Increase Magic M. Def. 53.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="72.0" />
+			<add order="0x60" stat="mDef" value="53.0" />
+		</for>
+	</option_data>
+	<option_data id="24850">
+		<!--Increase P. Def. 73.0 Increase Magic M. Def. 54.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="73.0" />
+			<add order="0x60" stat="mDef" value="54.0" />
+		</for>
+	</option_data>
+	<option_data id="24851">
+		<!--Increase P. Def. 74.0 Increase Magic M. Def. 55.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="74.0" />
+			<add order="0x60" stat="mDef" value="55.0" />
+		</for>
+	</option_data>
+	<option_data id="24852">
+		<!--Increase P. Def. 75.0 Increase Magic M. Def. 56.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="75.0" />
+			<add order="0x60" stat="mDef" value="56.0" />
+		</for>
+	</option_data>
+	<option_data id="24853">
+		<!--Increase P. Def. 76.0 Increase Magic M. Def. 57.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="76.0" />
+			<add order="0x60" stat="mDef" value="57.0" />
+		</for>
+	</option_data>
+	<option_data id="24854">
+		<!--Increase P. Def. 77.0 Increase Magic M. Def. 58.0-->
+		<for>
+			<add order="0x60" stat="pDef" value="77.0" />
+			<add order="0x60" stat="mDef" value="58.0" />
+		</for>
+	</option_data>
+	<option_data id="24855">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 5 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="5.0" />
+			<add order="0x60" stat="defenceFire" value="5.0" />
+			<add order="0x60" stat="defenceWind" value="5.0" />
+			<add order="0x60" stat="defenceEarth" value="5.0" />
+			<add order="0x60" stat="defenceHoly" value="5.0" />
+			<add order="0x60" stat="defenceUnholy" value="5.0" />
+		</for>
+	</option_data>
+	<option_data id="24856">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 7 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="7.0" />
+			<add order="0x60" stat="defenceFire" value="7.0" />
+			<add order="0x60" stat="defenceWind" value="7.0" />
+			<add order="0x60" stat="defenceEarth" value="7.0" />
+			<add order="0x60" stat="defenceHoly" value="7.0" />
+			<add order="0x60" stat="defenceUnholy" value="7.0" />
+		</for>
+	</option_data>
+	<option_data id="24857">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 10 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="10.0" />
+			<add order="0x60" stat="defenceFire" value="10.0" />
+			<add order="0x60" stat="defenceWind" value="10.0" />
+			<add order="0x60" stat="defenceEarth" value="10.0" />
+			<add order="0x60" stat="defenceHoly" value="10.0" />
+			<add order="0x60" stat="defenceUnholy" value="10.0" />
+		</for>
+	</option_data>
+	<option_data id="24858">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 13 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="13.0" />
+			<add order="0x60" stat="defenceFire" value="13.0" />
+			<add order="0x60" stat="defenceWind" value="13.0" />
+			<add order="0x60" stat="defenceEarth" value="13.0" />
+			<add order="0x60" stat="defenceHoly" value="13.0" />
+			<add order="0x60" stat="defenceUnholy" value="13.0" />
+		</for>
+	</option_data>
+	<option_data id="24859">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 16 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="16.0" />
+			<add order="0x60" stat="defenceFire" value="16.0" />
+			<add order="0x60" stat="defenceWind" value="16.0" />
+			<add order="0x60" stat="defenceEarth" value="16.0" />
+			<add order="0x60" stat="defenceHoly" value="16.0" />
+			<add order="0x60" stat="defenceUnholy" value="16.0" />
+		</for>
+	</option_data>
+	<option_data id="24860">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 20 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="20.0" />
+			<add order="0x60" stat="defenceFire" value="20.0" />
+			<add order="0x60" stat="defenceWind" value="20.0" />
+			<add order="0x60" stat="defenceEarth" value="20.0" />
+			<add order="0x60" stat="defenceHoly" value="20.0" />
+			<add order="0x60" stat="defenceUnholy" value="20.0" />
+		</for>
+	</option_data>
+	<option_data id="24861">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 24 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="24.0" />
+			<add order="0x60" stat="defenceFire" value="24.0" />
+			<add order="0x60" stat="defenceWind" value="24.0" />
+			<add order="0x60" stat="defenceEarth" value="24.0" />
+			<add order="0x60" stat="defenceHoly" value="24.0" />
+			<add order="0x60" stat="defenceUnholy" value="24.0" />
+		</for>
+	</option_data>
+	<option_data id="24862">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 28 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="28.0" />
+			<add order="0x60" stat="defenceFire" value="28.0" />
+			<add order="0x60" stat="defenceWind" value="28.0" />
+			<add order="0x60" stat="defenceEarth" value="28.0" />
+			<add order="0x60" stat="defenceHoly" value="28.0" />
+			<add order="0x60" stat="defenceUnholy" value="28.0" />
+		</for>
+	</option_data>
+	<option_data id="24863">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 32 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="32.0" />
+			<add order="0x60" stat="defenceFire" value="32.0" />
+			<add order="0x60" stat="defenceWind" value="32.0" />
+			<add order="0x60" stat="defenceEarth" value="32.0" />
+			<add order="0x60" stat="defenceHoly" value="32.0" />
+			<add order="0x60" stat="defenceUnholy" value="32.0" />
+		</for>
+	</option_data>
+	<option_data id="24864">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 36 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="36.0" />
+			<add order="0x60" stat="defenceFire" value="36.0" />
+			<add order="0x60" stat="defenceWind" value="36.0" />
+			<add order="0x60" stat="defenceEarth" value="36.0" />
+			<add order="0x60" stat="defenceHoly" value="36.0" />
+			<add order="0x60" stat="defenceUnholy" value="36.0" />
+		</for>
+	</option_data>
+	<option_data id="24865">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 40 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="40.0" />
+			<add order="0x60" stat="defenceFire" value="40.0" />
+			<add order="0x60" stat="defenceWind" value="40.0" />
+			<add order="0x60" stat="defenceEarth" value="40.0" />
+			<add order="0x60" stat="defenceHoly" value="40.0" />
+			<add order="0x60" stat="defenceUnholy" value="40.0" />
+		</for>
+	</option_data>
+	<option_data id="24866">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 45 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="45.0" />
+			<add order="0x60" stat="defenceFire" value="45.0" />
+			<add order="0x60" stat="defenceWind" value="45.0" />
+			<add order="0x60" stat="defenceEarth" value="45.0" />
+			<add order="0x60" stat="defenceHoly" value="45.0" />
+			<add order="0x60" stat="defenceUnholy" value="45.0" />
+		</for>
+	</option_data>
+	<option_data id="24867">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24868">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24869">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24870">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24871">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24872">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24873">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24874">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24875">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24876">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24877">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24878">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24879">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24880">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24881">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24882">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24883">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24884">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24885">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24886">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24887">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24888">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24889">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24890">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24891">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24892">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24893">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24894">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24895">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24896">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24897">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24898">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+	<option_data id="24899">
+		<!--Increases Resistance to Water, Fire, Wind, Earth, Holy, and Dark attributes by 50 each.-->
+		<for>
+			<add order="0x60" stat="defenceWater" value="50.0" />
+			<add order="0x60" stat="defenceFire" value="50.0" />
+			<add order="0x60" stat="defenceWind" value="50.0" />
+			<add order="0x60" stat="defenceEarth" value="50.0" />
+			<add order="0x60" stat="defenceHoly" value="50.0" />
+			<add order="0x60" stat="defenceUnholy" value="50.0" />
+		</for>
+	</option_data>
+</list>

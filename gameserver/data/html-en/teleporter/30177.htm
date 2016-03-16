@@ -1,0 +1,25 @@
+Gatekeeper Valentina:
+
+Hello! I am Gatekeeper Valentina, dispatched here from the Ivory Tower. Some people think the Ivory Tower is plotting to dominate the world; others think it's filled with lunatics. Of course, there are a few who see it as our hope for a better, safer world...
+
+What do you think? Are the Ivory Tower's wizards evil, mad...or our salvation?
+
+[npc_%objectId%_Teleport 1|Teleport]
+
+[npc_%objectId%_multisell 002|Exchange Dimension Diamonds.]
+
+[npc_%objectId%_Util:NoblessTeleport|(Nobless only) Teleport]
+
+[npc_%objectId%_services.TeleToMDT:toMDT @811;Monster Racetrack|Move to Arena & Monster Race Track (free)]
+
+[npc_%objectId%_services.TeleToFantasyIsle:toFantasyIsle @811;Fantasy Isle|Teleport to Fantasy Isle (free)]
+
+#if ($SERVICES_PARNASSUS_ENABLED)
+[npc_%objectId%_services.TeleToParnassus:toParnassus @811;Parnassus|Move to Parnassus (offshore zone) - ${SERVICES_PARNASSUS_PRICE} Adena]<br>
+#end
+#if ($SERVICES_GIRAN_HARBOR_ENABLED)
+[npc_%objectId%_services.TeleToGH:toGH @811;Giran Harbor|I want free admission to Giran Harbor.]<br>
+#end
+[npc_%objectId%_birthdayHelper|Call Alegria]
+
+[npc_%objectId%_Quest|Quest]

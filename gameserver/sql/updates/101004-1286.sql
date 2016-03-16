@@ -1,0 +1,1 @@
+UPDATE `clanhall` SET `name`='Wild Beast Reserve' WHERE `id`=63;

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="100" name="Monastery of Silence MiniGame" impl="MonasteryOfSilenceMiniGame">
+		<on_init>
+			<spawn name="npc" />
+			<spawn name="targets" />
+		</on_init>
+		<on_time>
+			<on time="0">
+				<start name="event" />
+				<start name="fire_event" />
+			</on>
+			<on time="120">
+				<npc_say npc="32758" chat="NPC_ALL" range="1000" text="THERES_ABOUT_1_MINUTE_LEFT" />
+			</on>
+			<on time="170">
+				<npc_say npc="32758" chat="NPC_ALL" range="1000" text="THERES_JUST_10_SECONDS_LEFT" />
+			</on>
+			<on time="180">
+				<npc_say npc="32758" chat="NPC_ALL" range="1000" text="TIME_IS_UP_AND_YOU_HAVE_FAILED" />
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="npc">
+			<spawn_ex name="monastery_of_silence_minigame_sumiel1" />
+		</objects>
+		<objects name="targets">
+			<spawn_ex name="monastery_of_silence_minigame_furnace1" />
+		</objects>
+		<objects name="chest">
+			<spawn_ex name="monastery_of_silence_minigame_chest1" />
+		</objects>
+	</event>
+</list>

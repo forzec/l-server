@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="50000" name="Farm Easy Warrior" title="">
+		<set name="aggroRange" value="500" />
+		<set name="ai_type" value="Fighter" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseAtkType" value="DUAL" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="9411.611803692" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="23.40520021868" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="3804.86656104545" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="413.28" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1743" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2884.87244121247" />
+		<set name="basePAtkSpd" value="441" />
+		<set name="basePDef" value="391.639632" />
+		<set name="baseRunSpd" value="180" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="110" />
+		<set name="collision_height" value="40.0" />
+		<set name="collision_radius" value="20.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="80" />
+		<set name="race" value="UNDEAD" />
+		<set name="rewardExp" value="1986250" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="222380" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="Monster" />
+		<faction name="fantasy_clan" range="300"/>
+		<skills>
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="19" />	<!--Dual-Sword Weapons-->
+			<skill id="4416" level="1" />	<!--Undead-->
+			<skill id="5334" level="4" />	<!--NPC(party) - Physical Single Close Range Attack-->
+			<skill id="5467" level="1" />	<!--Dark Attacks-->
+		</skills>
+		
+		<rewardlist type="RATED_GROUPED">
+			<group chance="100.0">
+				<reward item_id="57" min="25000" max="33333" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="6673" min="1" max="1" chance="100.0000" />	<!--Festival Adena-->
+			</group>
+			<group chance="33.0">
+				<reward item_id="6577" min="1" max="1" chance="30.0000" />	<!--BEWS-->
+				<reward item_id="6578" min="1" max="1" chance="70.0000" />	<!--BEAS-->
+			</group>
+		</rewardlist>
+		
+		<rewardlist type="SWEEP">
+		</rewardlist>
+		
+		<attributes>
+			<attack attribute="unholy" value="200" />
+			<defence attribute="fire" value="0" />
+			<defence attribute="water" value="0" />
+			<defence attribute="wind" value="0" />
+			<defence attribute="earth" value="0" />
+			<defence attribute="holy" value="0" />
+			<defence attribute="unholy" value="0" />
+		</attributes>
+	</npc>
+	
+	<npc id="50001" name="Farm Easy Caster" title="">
+		<set name="aggroRange" value="500" />
+		<set name="ai_type" value="Mystic" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseAtkType" value="SWORD" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="12312.5" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="52.4" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1531.86" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="491.28" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1743" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="4219.87" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="412.639632" />
+		<set name="baseRunSpd" value="180" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="110" />
+		<set name="collision_height" value="50.0" />
+		<set name="collision_radius" value="24.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="82" />
+		<set name="race" value="DEMONIC" />
+		<set name="rewardExp" value="1997590" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="223650" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="Monster" />
+		<faction name="fantasy_clan" range="300"/>
+		<skills>
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="3" />	<!--One-handed Sword-->
+			<skill id="4416" level="9" />	<!--Demons-->
+			<skill id="4608" level="2" />	<!--NPC Clan Buff - Berserk-->
+			<skill id="5374" level="4" />	<!--NPC(party) -Magic Range Long Range DD - Fire-->
+			<skill id="5438" level="6" />	<!--NPC party 30 Clan Heal-->
+			<skill id="5467" level="1" />	<!--Dark Attacks-->
+		</skills>
+		
+		<rewardlist type="RATED_GROUPED">
+		
+			<group chance="100.0">
+				<reward item_id="57" min="35000" max="50000" chance="100.0000" />	<!--Adena-->
+			</group>
+			
+			<group chance="10.0">
+				<reward item_id="6673" min="1" max="1" chance="100.0000" />	<!--Festival Adena-->
+			</group>
+			
+			<group chance="15.0">
+				<reward item_id="6622" min="1" max="1" chance="100.0000" />	<!--Giant's Codex-->
+			</group>
+			
+		</rewardlist>
+		
+		<rewardlist type="SWEEP">
+		</rewardlist>
+		
+		<attributes>
+			<attack attribute="fire" value="200" />
+			<defence attribute="fire" value="0" />
+			<defence attribute="water" value="0" />
+			<defence attribute="wind" value="0" />
+			<defence attribute="earth" value="0" />
+			<defence attribute="holy" value="0" />
+			<defence attribute="unholy" value="0" />
+		</attributes>
+	</npc>
+	
+	<npc id="50002" name="Farm Hard Warrior" title="">
+		<set name="aggroRange" value="300" />
+		<set name="ai_type" value="Fighter" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseAtkType" value="SWORD" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="18" />
+		<set name="baseHpMax" value="23151.611803692" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="114.40520021868" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="3804.86656104545" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="611.28" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1743" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="7141.87244121247" />
+		<set name="basePAtkSpd" value="576" />
+		<set name="basePDef" value="613.6" />
+		<set name="baseRunSpd" value="210" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="110" />
+		<set name="collision_height" value="42.0" />
+		<set name="collision_radius" value="30.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="UNDEAD" />
+		<set name="rewardExp" value="10000000" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="1000000" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="Monster" />
+		<faction name="fantasy_clan" range="0"/>
+		<skills>
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="19" />	<!--Dual-Sword Weapons-->
+			<skill id="4416" level="1" />	<!--Undead-->
+			<skill id="5334" level="4" />	<!--NPC(party) - Physical Single Close Range Attack-->
+			<skill id="5467" level="1" />	<!--Dark Attacks-->
+		</skills>
+		
+		<rewardlist type="RATED_GROUPED">
+			<group chance="100.0">
+				<reward item_id="57" min="125000" max="166600" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="30.0">
+				<reward item_id="6673" min="1" max="1" chance="100.0000" />	<!--Festival Adena-->
+			</group>
+			<group chance="35.0">
+				<reward item_id="9626" min="1" max="1" chance="1.0000" />	<!--GCD-->
+				<reward item_id="9627" min="1" max="1" chance="99.0000" />	<!--GCM-->
+			</group>
+		</rewardlist>
+		
+		<rewardlist type="SWEEP">
+		</rewardlist>
+		
+		<attributes>
+			<attack attribute="earth" value="300" />
+			<defence attribute="fire" value="150" />
+			<defence attribute="water" value="150" />
+			<defence attribute="wind" value="150" />
+			<defence attribute="earth" value="150" />
+			<defence attribute="holy" value="150" />
+			<defence attribute="unholy" value="150" />
+		</attributes>
+	</npc>
+	
+	<npc id="50003" name="Farm Hard Caster" title="">
+		<set name="aggroRange" value="300" />
+		<set name="ai_type" value="Mystic" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseAtkType" value="SWORD" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="15" />
+		<set name="baseHpMax" value="28211.611803692" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="52.40520021868" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="2241.5" />
+		<set name="baseMAtkSpd" value="800" />
+		<set name="baseMDef" value="512.28" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1743" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="9124.8" />
+		<set name="basePAtkSpd" value="456" />
+		<set name="basePDef" value="515.639632" />
+		<set name="baseRunSpd" value="180" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="110" />
+		<set name="collision_height" value="50.0" />
+		<set name="collision_radius" value="20.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="DEMONIC" />
+		<set name="rewardExp" value="12500000" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="1500000" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="Monster" />
+		<faction name="fantasy_clan" range="0"/>
+		<skills>
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="3" />	<!--One-handed Sword-->
+			<skill id="4416" level="9" />	<!--Demons-->
+			<skill id="4610" level="2" />	<!--NPC Clan Buff - Focus-->
+			<skill id="5374" level="4" />	<!--NPC(party) -Magic Range Long Range DD - Fire-->
+			<skill id="4639" level="3" />	<!--Clan Buff - Acumen Berserk Empower-->
+		</skills>
+		
+		<rewardlist type="RATED_GROUPED">
+		
+			<group chance="100.0">
+				<reward item_id="57" min="200000" max="250000" chance="100.0000" />	<!--Adena-->
+			</group>
+			
+			<group chance="35.0">
+				<reward item_id="6673" min="1" max="1" chance="100.0000" />	<!--Festival Adena-->
+			</group>
+			
+			<group chance="35.0">
+				<reward item_id="9626" min="1" max="1" chance="1.0000" />	<!--GCD-->
+				<reward item_id="9627" min="1" max="1" chance="99.0000" />	<!--GCM-->
+			</group>
+			
+		</rewardlist>
+		
+		<rewardlist type="SWEEP">
+		</rewardlist>
+		
+		<attributes>
+			<attack attribute="fire" value="320" />
+			<defence attribute="fire" value="150" />
+			<defence attribute="water" value="150" />
+			<defence attribute="wind" value="150" />
+			<defence attribute="earth" value="150" />
+			<defence attribute="holy" value="150" />
+			<defence attribute="unholy" value="150" />
+		</attributes>
+	</npc>
+</list>

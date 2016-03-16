@@ -1,0 +1,1 @@
+DELETE FROM `epic_boss_spawn` WHERE bossID = 29045;

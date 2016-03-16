@@ -1,0 +1,1 @@
+UPDATE `siege_guards` SET respawnDelay = 300 WHERE npcId IN (36161,36162);

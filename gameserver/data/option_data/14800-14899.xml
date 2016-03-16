@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="14800">
+		<!--Active: Inflicts an earth attack.-->
+		<skills>
+			<skill id="3176" level="2" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="14801">
+		<!--Active: Inflicts a fire attack.-->
+		<skills>
+			<skill id="3173" level="2" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="14802">
+		<!--Active: Inflicts a sacred magic attack.-->
+		<skills>
+			<skill id="3177" level="2" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="14803">
+		<!--Active: Inflicts a non-attribute attack.-->
+		<skills>
+			<skill id="3179" level="2" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="14804">
+		<!--Active: Inflicts a dark attack.-->
+		<skills>
+			<skill id="3178" level="2" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+	<option_data id="14805">
+		<!--Active: Inflicts a water attack.-->
+		<skills>
+			<skill id="3174" level="2" /> <!--Item Skill: Hydro Blast-->
+		</skills>
+	</option_data>
+	<option_data id="14806">
+		<!--Active: Inflicts a wind attack.-->
+		<skills>
+			<skill id="3175" level="2" /> <!--Item Skill: Hurricane-->
+		</skills>
+	</option_data>
+	<option_data id="14807">
+		<!--Active: Cancels your enemy's target.-->
+		<skills>
+			<skill id="3152" level="2" /> <!--Item Skill: Trick-->
+		</skills>
+	</option_data>
+	<option_data id="14808">
+		<!--Active: Inflicts flint on the target by a fixed rate.-->
+		<skills>
+			<skill id="3193" level="2" /> <!--Item Skill: Medusa-->
+		</skills>
+	</option_data>
+	<option_data id="14809">
+		<!--Active: Launches a dark attack.-->
+		<skills>
+			<skill id="3171" level="2" /> <!--Item Skill: Shadow Flare-->
+		</skills>
+	</option_data>
+	<option_data id="14810">
+		<!--Active: Opens doors and treasure chests by a fixed rate. Requires a Thief Key.-->
+		<skills>
+			<skill id="3155" level="2" /> <!--Item Skill: Unlock-->
+		</skills>
+	</option_data>
+	<option_data id="14811">
+		<!--Active: Absorbs HP from your target.-->
+		<skills>
+			<skill id="3153" level="2" /> <!--Item Skill: Vampiric Touch-->
+		</skills>
+	</option_data>
+	<option_data id="14812">
+		<!--Active: Inflicts a water attack.-->
+		<skills>
+			<skill id="3167" level="2" /> <!--Item Skill: Hydro Blast-->
+		</skills>
+	</option_data>
+	<option_data id="14813">
+		<!--Active: Inflicts a fire attack.-->
+		<skills>
+			<skill id="3168" level="2" /> <!--Item Skill: Tempest-->
+		</skills>
+	</option_data>
+	<option_data id="14814">
+		<!--Chance: During a physical attack, decreases the target's Atk. Spd. by a fixed rate.-->
+		<triggers>
+			<trigger id="3084" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Winter-->
+		</triggers>
+	</option_data>
+	<option_data id="14815">
+		<!--Chance: During a physical attack, inflicts bleed on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3092" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Bleed-->
+		</triggers>
+	</option_data>
+	<option_data id="14816">
+		<!--Chance: During a physical attack, inflicts fear on the target by a fixed rate and causes him to flee.-->
+		<triggers>
+			<trigger id="3090" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Fear-->
+		</triggers>
+	</option_data>
+	<option_data id="14817">
+		<!--Chance: During a physical attack, inflicts hold on the target by a fixed rate. Additional Hold is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3086" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Hold-->
+		</triggers>
+	</option_data>
+	<option_data id="14818">
+		<!--Chance: During a physical attack, inflicts poison on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3091" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Poison-->
+		</triggers>
+	</option_data>
+	<option_data id="14819">
+		<!--Chance: During a physical attack, inflicts flint on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3089" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Medusa-->
+		</triggers>
+	</option_data>
+	<option_data id="14820">
+		<!--Chance: During a critical attack, decreases the target's Atk. Spd. by a fixed rate.-->
+		<triggers>
+			<trigger id="3112" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Winter-->
+		</triggers>
+	</option_data>
+	<option_data id="14821">
+		<!--Chance: During a critical attack, inflicts bleed on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3120" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Bleed-->
+		</triggers>
+	</option_data>
+	<option_data id="14822">
+		<!--Chance: During a critical attack, inflicts fear on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3118" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Fear-->
+		</triggers>
+	</option_data>
+	<option_data id="14823">
+		<!--Chance: During a critical attack, inflicts hold on the target by a fixed rate. Additional Hold is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3114" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Hold-->
+		</triggers>
+	</option_data>
+	<option_data id="14824">
+		<!--Chance: During a critical attack, inflicts poison on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3119" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Poison-->
+		</triggers>
+	</option_data>
+	<option_data id="14825">
+		<!--Chance: During a critical attack, inflicts flint on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3117" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Medusa-->
+		</triggers>
+	</option_data>
+	<option_data id="14826">
+		<!--Chance: Decreases the Atk. Spd. of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3227" level="2" /> <!--Item Skill: Winter-->
+		</skills>
+	</option_data>
+	<option_data id="14827">
+		<!--Chance: When damage is received, evasion increases by a fixed rate.-->
+		<skills>
+			<skill id="3221" level="2" /> <!--Item Skill: Agility-->
+		</skills>
+	</option_data>
+	<option_data id="14828">
+		<!--Chance: Inflicts bleed on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3235" level="2" /> <!--Item Skill: Bleed-->
+		</skills>
+	</option_data>
+	<option_data id="14829">
+		<!--Chance: When damage is received, recovers your own CP by a fixed rate.-->
+		<skills>
+			<skill id="3213" level="2" /> <!--Item Skill: Ritual-->
+		</skills>
+	</option_data>
+	<option_data id="14830">
+		<!--Chance: When damage is received, increases Critical attack rate by a fixed rate.-->
+		<skills>
+			<skill id="3223" level="2" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="14831">
+		<!--Chance: Decreases the attacking desire of the the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3225" level="2" /> <!--Item Skill: Charm-->
+		</skills>
+	</option_data>
+	<option_data id="14832">
+		<!--Chance: When damage is received, increases one's own accuracy by a fixed rate.-->
+		<skills>
+			<skill id="3222" level="2" /> <!--Item Skill: Guidance-->
+		</skills>
+	</option_data>
+	<option_data id="14833">
+		<!--Chance: Inflicts hold on the target who attacks you by a fixed rate. Additional Hold is not available while the effect lasts.-->
+		<skills>
+			<skill id="3229" level="2" /> <!--Item Skill: Hold-->
+		</skills>
+	</option_data>
+	<option_data id="14834">
+		<!--Chance: When damage is received, the amount of HP recovery magic received increases by a fixed rate.-->
+		<skills>
+			<skill id="3209" level="2" /> <!--Item Skill: Prayer-->
+		</skills>
+	</option_data>
+	<option_data id="14835">
+		<!--Chance: When damage is received, recovers your own HP by a fixed rate.-->
+		<skills>
+			<skill id="3207" level="2" /> <!--Item Skill: Heal-->
+		</skills>
+	</option_data>
+	<option_data id="14836">
+		<!--Chance: When damage is received, increases one's own M. Atk. by a fixed rate.-->
+		<skills>
+			<skill id="3216" level="2" /> <!--Item Skill: Empower-->
+		</skills>
+	</option_data>
+	<option_data id="14837">
+		<!--Chance: When damage is received, increases the Critical rate of damage attack magic by a fixed rate.-->
+		<skills>
+			<skill id="3224" level="2" /> <!--Item Skill: Wild Magic-->
+		</skills>
+	</option_data>
+	<option_data id="14838">
+		<!--Chance: When damage is received, Max CP increases by a fixed rate.-->
+		<skills>
+			<skill id="3214" level="2" /> <!--Item Skill: Cheer-->
+		</skills>
+	</option_data>
+	<option_data id="14839">
+		<!--Chance: When damage is received, Max HP increases by a fixed rate.-->
+		<skills>
+			<skill id="3208" level="2" /> <!--Item Skill: Blessed Body-->
+		</skills>
+	</option_data>
+	<option_data id="14840">
+		<!--Chance: When damage is received, Max MP increases by a fixed rate.-->
+		<skills>
+			<skill id="3211" level="2" /> <!--Item Skill: Blessed Soul-->
+		</skills>
+	</option_data>
+	<option_data id="14841">
+		<!--Chance: When damage is received, increases one's own M. Def. by a fixed rate.-->
+		<skills>
+			<skill id="3219" level="2" /> <!--Item Skill: Magic Barrier-->
+		</skills>
+	</option_data>
+	<option_data id="14842">
+		<!--Chance: When damage is received, increases one's own P. Atk. by a fixed rate.-->
+		<skills>
+			<skill id="3215" level="2" /> <!--Item Skill: Might-->
+		</skills>
+	</option_data>
+	<option_data id="14843">
+		<!--Chance: When damage is received, increases one's own P. Def. by a fixed rate.-->
+		<skills>
+			<skill id="3218" level="2" /> <!--Item Skill: Shield-->
+		</skills>
+	</option_data>
+	<option_data id="14844">
+		<!--Chance: During a physical attack, inflicts poison on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3234" level="2" /> <!--Item Skill: Poison-->
+		</skills>
+	</option_data>
+	<option_data id="14845">
+		<!--Chance: Decreases the PvP P. Atk. of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3220" level="2" /> <!--Item Skill: Duel Weakness-->
+		</skills>
+	</option_data>
+	<option_data id="14846">
+		<!--Chance: When damage is received, increases one's own PvP P. Atk. by a fixed rate.-->
+		<skills>
+			<skill id="3217" level="2" /> <!--Item Skill: Duel Might-->
+		</skills>
+	</option_data>
+	<option_data id="14847">
+		<!--Chance: Inflicts sleep on the target who attacks you by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<skills>
+			<skill id="3230" level="2" /> <!--Item Skill: Sleep-->
+		</skills>
+	</option_data>
+	<option_data id="14848">
+		<!--Chance: Decreases the moving speed of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3226" level="2" /> <!--Item Skill: Slow-->
+		</skills>
+	</option_data>
+	<option_data id="14849">
+		<!--Chance: During a magic attack, decreases the target's Atk. Spd. by a fixed rate.-->
+		<triggers>
+			<trigger id="3097" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Winter-->
+		</triggers>
+	</option_data>
+	<option_data id="14850">
+		<!--Chance: During a magic attack, inflicts bleed on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3105" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Bleed-->
+		</triggers>
+	</option_data>
+	<option_data id="14851">
+		<!--Chance: During a magic attack, inflicts fear on the target by a fixed rate and causes him to flee.-->
+		<triggers>
+			<trigger id="3103" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Fear-->
+		</triggers>
+	</option_data>
+	<option_data id="14852">
+		<!--Chance: During a magic attack, inflicts hold on the target by a fixed rate. Additional Hold is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3099" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Hold-->
+		</triggers>
+	</option_data>
+	<option_data id="14853">
+		<!--Chance: During a magic attack, inflicts poison on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3104" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Poison-->
+		</triggers>
+	</option_data>
+	<option_data id="14854">
+		<!--Chance: During a magic attack, inflicts flint on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3102" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Medusa-->
+		</triggers>
+	</option_data>
+	<option_data id="14855">
+		<!--Passive: Increases HP recovery magic power.-->
+		<skills>
+			<skill id="3246" level="2" /> <!--Item Skill: Heal Empower-->
+		</skills>
+	</option_data>
+	<option_data id="14856">
+		<!--Passive: Increases HP recovery magic effect.-->
+		<skills>
+			<skill id="3238" level="2" /> <!--Item Skill: Prayer-->
+		</skills>
+	</option_data>
+	<option_data id="14857">
+		<!--Passive: Increases one's own M. Atk.-->
+		<skills>
+			<skill id="3241" level="2" /> <!--Item Skill: Empower-->
+		</skills>
+	</option_data>
+	<option_data id="14858">
+		<!--Passive: Increases one's own M. Def.-->
+		<skills>
+			<skill id="3245" level="2" /> <!--Item Skill: Magic Barrier-->
+		</skills>
+	</option_data>
+	<option_data id="14859">
+		<!--Passive: Increases one's own P. Atk.-->
+		<skills>
+			<skill id="3240" level="2" /> <!--Item Skill: Might-->
+		</skills>
+	</option_data>
+	<option_data id="14860">
+		<!--Passive: Increases one's own P. Def.-->
+		<skills>
+			<skill id="3244" level="2" /> <!--Item Skill: Shield-->
+		</skills>
+	</option_data>
+	<option_data id="14861">
+		<!--Passive: Increases PvP P. Atk.-->
+		<skills>
+			<skill id="3243" level="2" /> <!--Item Skill: Duel Might-->
+		</skills>
+	</option_data>
+	<option_data id="14862">
+		<!--Passive: Increases the weight limit 2 times.-->
+		<skills>
+			<skill id="3251" level="2" /> <!--Item Skill: Weight Limit-->
+		</skills>
+	</option_data>
+	<option_data id="14863">
+		<!--Active: Temporarily increases the probability of critical attack.-->
+		<skills>
+			<skill id="3141" level="2" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="14864">
+		<!--Active: Temporarily increases the probability of critical attack.-->
+		<skills>
+			<skill id="3141" level="2" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="14865">
+		<!--Active: Temporarily increases the probability of critical attack.-->
+		<skills>
+			<skill id="3141" level="2" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="14866">
+		<!--Active: Temporarily increases the probability of critical attack.-->
+		<skills>
+			<skill id="3141" level="2" /> <!--Item Skill: Focus-->
+		</skills>
+	</option_data>
+	<option_data id="14867">
+		<!--Active: Blocks all of the target's physical/magic skills by a fixed rate.-->
+		<skills>
+			<skill id="3198" level="2" /> <!--Item Skill: Doom-->
+		</skills>
+	</option_data>
+	<option_data id="14868">
+		<!--Active: Teleports to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3147" level="1" /> <!--Item Skill: Recall-->
+		</skills>
+	</option_data>
+	<option_data id="14869">
+		<!--Use skill: Becomes invincible momentarily.-->
+		<skills>
+			<skill id="3158" level="1" /> <!--Item Skill: Lesser Celestial Shield-->
+		</skills>
+	</option_data>
+	<option_data id="14870">
+		<!--Active: Temporarily increases the critical rate of damage attack magic.-->
+		<skills>
+			<skill id="3142" level="2" /> <!--Item Skill: Wild Magic-->
+		</skills>
+	</option_data>
+	<option_data id="14871">
+		<!--Active: Teleports party members to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3205" level="1" /> <!--Item Skill: Party Recall-->
+		</skills>
+	</option_data>
+	<option_data id="14872">
+		<!--Active: Blocks the target's magic skills by a fixed rate.-->
+		<skills>
+			<skill id="3197" level="2" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="14873">
+		<!--Active: Teleports to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3147" level="1" /> <!--Item Skill: Recall-->
+		</skills>
+	</option_data>
+	<option_data id="14874">
+		<!--Active: Teleports to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3147" level="1" /> <!--Item Skill: Recall-->
+		</skills>
+	</option_data>
+	<option_data id="14875">
+		<!--Active: Blocks the target's magic skills by a fixed rate.-->
+		<skills>
+			<skill id="3197" level="2" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="14876">
+		<!--Active: Blocks the target's magic skills by a fixed rate.-->
+		<skills>
+			<skill id="3197" level="2" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="14877">
+		<!--Active: Blocks the target's magic skills by a fixed rate.-->
+		<skills>
+			<skill id="3197" level="2" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="14878">
+		<!--Active: Blocks the target's magic skills by a fixed rate.-->
+		<skills>
+			<skill id="3197" level="2" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="14879">
+		<!--Active: Blocks the target's magic skills by a fixed rate.-->
+		<skills>
+			<skill id="3197" level="2" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="14880">
+		<!--Active: Temporarily bestows the ability to recover some of the damage inflicted on the enemy as HP. Excludes damage by skill and long-range attacks.-->
+		<skills>
+			<skill id="3148" level="2" /> <!--Item Skill: Vampiric Rage-->
+		</skills>
+	</option_data>
+	<option_data id="14881">
+		<!--Chance: During a physical attack, blocks all of the target's physical/magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3094" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="14882">
+		<!--Chance: During a physical attack, burns up the target's MP by a fixed rate.-->
+		<triggers>
+			<trigger id="3082" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="14883">
+		<!--Chance: During a physical attack, inflicts paralysis on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3088" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="14884">
+		<!--Chance: During a physical attack, blocks the target's magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3093" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="14885">
+		<!--Chance: During a physical attack, inflicts sleep on the target by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3087" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="14886">
+		<!--Chance: During a physical attack, inflicts shock on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3085" level="2" type="ATTACK" chance="1.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="14887">
+		<!--Chance: During a critical attack, blocks all of the target's physical/magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3122" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Doom-->
+		</triggers>
+	</option_data>
+	<option_data id="14888">
+		<!--Chance: During a critical attack, burns up the target's MP by a fixed rate.-->
+		<triggers>
+			<trigger id="3110" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Mana Burn-->
+		</triggers>
+	</option_data>
+	<option_data id="14889">
+		<!--Chance: During a critical attack, inflicts paralysis on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3116" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Paralyze-->
+		</triggers>
+	</option_data>
+	<option_data id="14890">
+		<!--Chance: During a critical attack, blocks the target's magic skills by a fixed rate.-->
+		<triggers>
+			<trigger id="3121" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Silence-->
+		</triggers>
+	</option_data>
+	<option_data id="14891">
+		<!--Chance: During a critical attack, inflicts sleep on the target by a fixed rate. Additional sleep is not available while the effect lasts.-->
+		<triggers>
+			<trigger id="3115" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Sleep-->
+		</triggers>
+	</option_data>
+	<option_data id="14892">
+		<!--Chance: During a critical attack, inflicts shock on the target by a fixed rate.-->
+		<triggers>
+			<trigger id="3113" level="2" type="CRIT" chance="5.0" /> <!--Item Skill: Stun-->
+		</triggers>
+	</option_data>
+	<option_data id="14893">
+		<!--Chance: Blocks all the physical/magic skills of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3237" level="2" /> <!--Item Skill: Doom-->
+		</skills>
+	</option_data>
+	<option_data id="14894">
+		<!--Chance: Inflicts fear on the target who attacks you by a fixed rate and causes him to flee.-->
+		<skills>
+			<skill id="3233" level="2" /> <!--Item Skill: Fear-->
+		</skills>
+	</option_data>
+	<option_data id="14895">
+		<!--Chance: When damage is received, the amount of MP recovery magic received increases by a fixed rate.-->
+		<skills>
+			<skill id="3212" level="2" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="14896">
+		<!--Chance: When damage is received, recovers your own MP by a fixed rate.-->
+		<skills>
+			<skill id="3210" level="2" /> <!--Item Skill: Recharge-->
+		</skills>
+	</option_data>
+	<option_data id="14897">
+		<!--Chance: Inflicts paralysis on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3231" level="2" /> <!--Item Skill: Paralyze-->
+		</skills>
+	</option_data>
+	<option_data id="14898">
+		<!--Chance: Blocks the magic skills of the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3236" level="2" /> <!--Item Skill: Silence-->
+		</skills>
+	</option_data>
+	<option_data id="14899">
+		<!--Chance: Inflicts shock on the target who attacks you by a fixed rate.-->
+		<skills>
+			<skill id="3228" level="2" /> <!--Item Skill: Stun-->
+		</skills>
+	</option_data>
+</list>

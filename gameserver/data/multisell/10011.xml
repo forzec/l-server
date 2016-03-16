@@ -1,0 +1,486 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+  
+<!--B Grade Swords-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4714" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4715" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4716" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4717" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4718" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4719" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="7722" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="7723" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="7724" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8117" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8118" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8119" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade 2h Swords-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4723" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4724" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4725" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8105" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8106" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8107" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Blunts-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4747" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4748" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4749" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4753" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4754" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4755" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="8141" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="8142" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="8143" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8144" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8145" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8146" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade 2h Blunts-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="8129" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="8130" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="8131" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8132" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8133" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8134" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4897" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4898" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4899" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4900" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4901" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4902" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Daggers-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4777" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4778" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4779" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="6359" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4780" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4781" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="7813" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="7814" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="7815" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Bows-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4825" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4826" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4827" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4828" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4829" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4830" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Spears-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4855" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4856" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4857" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4858" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4859" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4860" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Claws-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4801" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4802" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="4803" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4804" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4805" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="4806" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Rapiers-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9305" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9306" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9307" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9317" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9318" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9319" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Ancient Swords-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9309" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9310" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9311" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9321" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9322" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9323" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Arbalet-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9313" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9314" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="9315" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9325" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9326" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9327" count="1" enchant="6"/>
+	</item>
+
+<!--B Grade Dual Swords-->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="2613" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="2615" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="2621" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="2623" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="2625" count="1" enchant="6"/>
+	</item>
+
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="2626" count="1" enchant="6"/>
+	</item>
+
+</list>
+
+
+

@@ -1,0 +1,19 @@
+Item Broker Adventure Guildsman:
+
+Welcome! I have never-before-seen items here available for purchase. But since I only have a few, I will auction them off to the highest bidders. Interested?
+
+[npc_%objectId%_Chat 1|View auction rules.]
+
+[npc_%objectId%_auction show|Buy Items.]
+
+[npc_%objectId%_auction cancel|Retrieve cancelled bids.]
+
+#if ($SERVICES_ALLOW_ITEM_BROKER_SEARCH )
+<font color="LEVEL">Search for dealers:</font>
+
+[npc_%objectId%_services.ItemBroker:main 1|The list of goods for sale]
+
+[npc_%objectId%_services.ItemBroker:main 3|The list of goods to buy]
+
+[npc_%objectId%_services.ItemBroker:main 5|The list of goods to craft]
+#end

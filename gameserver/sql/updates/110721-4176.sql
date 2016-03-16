@@ -1,0 +1,1 @@
+alter table castle drop column town_id;

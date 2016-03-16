@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS armor, armor_ex, etcitem, weapon, weapon_ex;

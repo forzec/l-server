@@ -1,0 +1,29 @@
+<!ELEMENT out (data)*>
+<!ATTLIST out
+	lang CDATA #REQUIRED>
+<!ELEMENT data (item_id|name|additionalname|set_ids|set_extra_ids|popup|description|supercnt0|set_bonus_desc|supercnt1|set_extra_desc|UNK1_1|UNK1_2|UNK1_3|UNK1_4|UNK1_5|UNK1_6|UNK1_7|UNK1_8|UNK1_9|set_enchant_count|set_enchant_effect|color)*>
+<!ELEMENT item_id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT additionalname (#PCDATA)>
+<!ELEMENT popup (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT supercnt0 (#PCDATA)>
+<!ELEMENT set_bonus_desc (#PCDATA)>
+<!ELEMENT set_ids (set_id)*>
+<!ELEMENT set_extra_ids (set_extra_id)*>
+<!ELEMENT supercnt1 (#PCDATA)>
+<!ELEMENT set_extra_desc (#PCDATA)>
+<!ELEMENT set_id (#PCDATA)>
+<!ELEMENT set_extra_id (#PCDATA)>
+<!ELEMENT UNK1_1 (#PCDATA)>
+<!ELEMENT UNK1_2 (#PCDATA)>
+<!ELEMENT UNK1_3 (#PCDATA)>
+<!ELEMENT UNK1_4 (#PCDATA)>
+<!ELEMENT UNK1_5 (#PCDATA)>
+<!ELEMENT UNK1_6 (#PCDATA)>
+<!ELEMENT UNK1_7 (#PCDATA)>
+<!ELEMENT UNK1_8 (#PCDATA)>
+<!ELEMENT UNK1_9 (#PCDATA)>
+<!ELEMENT set_enchant_count (#PCDATA)>
+<!ELEMENT set_enchant_effect (#PCDATA)>
+<!ELEMENT color (#PCDATA)>

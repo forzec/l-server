@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="5" name="Underground Coliseum Battle" impl="UndergroundColiseumBattle">
+		<on_start>
+			<spawn name="towers"/>
+			<active name="zones"/>
+		</on_start>
+		<on_stop>
+			<close name="doors"/>
+			<despawn name="towers"/>
+			<despawn name="boxes"/>
+			<deactive name="zones"/>
+		</on_stop>
+		<on_time>
+			<on time="-180">
+				<announce/>
+			</on>
+			<on time="-120">
+				<announce/>
+			</on>
+			<on time="-60">
+				<announce/>
+			</on>
+			<on time="0">
+				<start name="event"/>
+			</on>
+			<on time="20">
+				<open name="doors"/>
+			</on>
+			<on time="40">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="80">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="120">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="160">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="200">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="240">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="280">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="320">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="360">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="400">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="440">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="480">
+				<despawn name="boxes" />
+				<spawn name="boxes" />
+			</on>
+			<on time="590">
+				<announce/>
+			</on>
+			<on time="591">
+				<announce/>
+			</on>
+			<on time="592">
+				<announce/>
+			</on>
+			<on time="593">
+				<announce/>
+			</on>
+			<on time="594">
+				<announce/>
+			</on>
+			<on time="595">
+				<announce/>
+			</on>
+			<on time="596">
+				<announce/>
+			</on>
+			<on time="597">
+				<announce/>
+			</on>
+			<on time="598">
+				<announce/>
+			</on>
+			<on time="599">
+				<announce/>
+			</on>
+			<on time="600">
+				<announce/>
+				<stop name="event"/>
+			</on>
+		</on_time>
+	</event>
+</list>

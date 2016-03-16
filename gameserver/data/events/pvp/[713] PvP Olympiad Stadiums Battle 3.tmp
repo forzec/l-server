@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="713" name="PvP Olympiad Stadiums Battle 3" impl="CustomPvPBattle">
+		<parameter name="instance_id" value="149" />
+		<on_time>
+			<on time="-60">
+				<init name="doors" />
+				<spawn name="spawns" />
+				<teleport_players id="to_arena" />
+				<stop name="reenter" /> <!-- запретить релог -->
+				<start name="heal" />
+			</on>
+			<on time="-55">
+				<start name="heal" />
+			</on>
+			<on time="-30">
+				<announce val="30" />
+			</on>
+			<on time="-15">
+				<announce val="15" />
+			</on>
+			<on time="-10">
+				<open name="doors"/>
+				<announce val="10" />
+			</on>
+			<on time="-5">
+				<announce val="5" />
+			</on>
+			<on time="-4">
+				<announce val="4" />
+			</on>
+			<on time="-3">
+				<announce val="3" />
+			</on>
+			<on time="-2">
+				<announce val="2" />
+			</on>
+			<on time="-1">
+				<announce val="1" />
+			</on>
+			<on time="0">
+				<despawn name="spawns" />
+				<start name="event" />
+			</on>
+			<on time="300">
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="doors">
+			<door id="17100201"/>
+			<door id="17100202"/>
+		</objects>
+		<objects name="spawns">
+			<spawn_ex name="olympiad_149_buffers" />
+		</objects>
+	</event>
+</list>

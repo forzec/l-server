@@ -1,0 +1,1 @@
+UPDATE items SET augmentation_id=0 WHERE item_id IN (6660, 6662, 6661, 6659, 6656, 6658, 8191, 6657, 10170, 10314, 16025, 16026);

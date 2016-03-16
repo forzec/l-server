@@ -1,0 +1,649 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "option_data.dtd">
+<list>
+	<option_data id="21200">
+		<!--Max HP increases by 43.65. Max CP increases by 50.44.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="maxCp" value="50.438" />
+		</for>
+	</option_data>
+	<option_data id="21201">
+		<!--Max HP increases by 43.65. P. Atk. increases by 9.08.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="pAtk" value="9.083" />
+		</for>
+	</option_data>
+	<option_data id="21202">
+		<!--Max HP increases by 43.65. M. Atk. increases by 11.2.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="mAtk" value="11.195" />
+		</for>
+	</option_data>
+	<option_data id="21203">
+		<!--Max HP increases by 43.65. HP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="regHp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21204">
+		<!--Max HP increases by 43.65. MP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="regMp" value="0.12" />
+		</for>
+	</option_data>
+	<option_data id="21205">
+		<!--Max HP increases by 43.65. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21206">
+		<!--Max HP increases by 43.65. Evasion increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="rEvas" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21207">
+		<!--Max HP increases by 43.65. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21208">
+		<!--Max HP increases by 43.65. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="maxMp" value="43.647" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21209">
+		<!--Max CP increases by 55.02. P. Atk. increases by 9.08.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="pAtk" value="9.083" />
+		</for>
+	</option_data>
+	<option_data id="21210">
+		<!--Max CP increases by 55.02. M. Atk. increases by 11.2.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="mAtk" value="11.195" />
+		</for>
+	</option_data>
+	<option_data id="21211">
+		<!--Max CP increases by 55.02. HP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="regHp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21212">
+		<!--Max CP increases by 55.02. MP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="regMp" value="0.12" />
+		</for>
+	</option_data>
+	<option_data id="21213">
+		<!--Max CP increases by 55.02. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21214">
+		<!--Max CP increases by 55.02. Evasion increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="rEvas" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21215">
+		<!--Max CP increases by 55.02. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21216">
+		<!--Max CP increases by 55.02. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="maxCp" value="55.023" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21217">
+		<!--P. Atk. increases by 9.91. M. Atk. increases by 11.2.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="9.909" />
+			<add order="0x60" stat="mAtk" value="11.195" />
+		</for>
+	</option_data>
+	<option_data id="21218">
+		<!--P. Atk. increases by 9.91. HP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="9.909" />
+			<add order="0x60" stat="regHp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21219">
+		<!--P. Atk. increases by 9.91. MP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="9.909" />
+			<add order="0x60" stat="regMp" value="0.12" />
+		</for>
+	</option_data>
+	<option_data id="21220">
+		<!--P. Atk. increases by 9.91. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="9.909" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21221">
+		<!--P. Atk. increases by 9.91. Evasion increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="9.909" />
+			<add order="0x60" stat="rEvas" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21222">
+		<!--P. Atk. increases by 9.91. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="9.909" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21223">
+		<!--P. Atk. increases by 9.91. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="pAtk" value="9.909" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21224">
+		<!--M. Atk. increases by 12.21. HP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="12.213" />
+			<add order="0x60" stat="regHp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21225">
+		<!--M. Atk. increases by 12.21. MP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="12.213" />
+			<add order="0x60" stat="regMp" value="0.12" />
+		</for>
+	</option_data>
+	<option_data id="21226">
+		<!--M. Atk. increases by 12.21. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="12.213" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21227">
+		<!--M. Atk. increases by 12.21. Evasion increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="12.213" />
+			<add order="0x60" stat="rEvas" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21228">
+		<!--M. Atk. increases by 12.21. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="12.213" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21229">
+		<!--M. Atk. increases by 12.21. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="mAtk" value="12.213" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21230">
+		<!--HP Regen increases by 0.2. MP Regen increases by 0.12.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.202" />
+			<add order="0x60" stat="regMp" value="0.12" />
+		</for>
+	</option_data>
+	<option_data id="21231">
+		<!--HP Regen increases by 0.2. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.202" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21232">
+		<!--HP Regen increases by 0.2. Evasion increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.202" />
+			<add order="0x60" stat="rEvas" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21233">
+		<!--HP Regen increases by 0.2. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.202" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21234">
+		<!--HP Regen increases by 0.2. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="regHp" value="0.202" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21235">
+		<!--MP Regen increases by 0.13. CP Regen increases by 0.19.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.131" />
+			<add order="0x60" stat="regCp" value="0.185" />
+		</for>
+	</option_data>
+	<option_data id="21236">
+		<!--MP Regen increases by 0.13. Evasion increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.131" />
+			<add order="0x60" stat="rEvas" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21237">
+		<!--MP Regen increases by 0.13. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.131" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21238">
+		<!--MP Regen increases by 0.13. Critical increases by 0.97.-->
+		<for>
+			<add order="0x60" stat="regMp" value="0.131" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21239">
+		<!--CP Regen increases by 0.2. Evasion increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.202" />
+			<add order="0x60" stat="rEvas" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21240">
+		<!--CP Regen increases by 0.2. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.202" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21241">
+		<!--CP Regen increases by 0.2. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="regCp" value="0.202" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21242">
+		<!--Evasion increases by 1.35. Accuracy increases by 1.24.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="1.354" />
+			<add order="0x60" stat="accCombat" value="1.241" />
+		</for>
+	</option_data>
+	<option_data id="21243">
+		<!--Evasion increases by 1.35. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="rEvas" value="1.354" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21244">
+		<!--Accuracy increases by 1.35. Critical increases by 9.68.-->
+		<for>
+			<add order="0x60" stat="accCombat" value="1.354" />
+			<add order="0x60" stat="baseCrit" value="9.68" />
+		</for>
+	</option_data>
+	<option_data id="21245">
+		<!--Use skill: Head size increases temporarily. Increase.-->
+		<skills>
+			<skill id="3203" level="1" /> <!--Item Skill: Mystery Skill-->
+		</skills>
+	</option_data>
+	<option_data id="21246">
+		<!--Use skill: Temporarily increases lung capacity.-->
+		<skills>
+			<skill id="3143" level="10" /> <!--Item Skill: Kiss of Eva-->
+		</skills>
+	</option_data>
+	<option_data id="21247">
+		<!--Use skill: Temporarily becomes able to jump from a higher place without fall damage.-->
+		<skills>
+			<skill id="3144" level="10" /> <!--Item Skill: Acrobatics-->
+		</skills>
+	</option_data>
+	<option_data id="21248">
+		<!--Use skill: Temporarily gains resistance to topography damage.-->
+		<skills>
+			<skill id="3145" level="10" /> <!--Item Skill: Iron Body-->
+		</skills>
+	</option_data>
+	<option_data id="21249">
+		<!--Use skill: Sets off firecrackers.-->
+		<skills>
+			<skill id="3156" level="1" /> <!--Item Skill: Firework-->
+		</skills>
+	</option_data>
+	<option_data id="21250">
+		<!--Use skill: Temporarily plays music.-->
+		<skills>
+			<skill id="3206" level="1" /> <!--Item Skill: Music-->
+		</skills>
+	</option_data>
+	<option_data id="21251">
+		<!--Use skill: Sets off large firecrackers.-->
+		<skills>
+			<skill id="3157" level="1" /> <!--Item Skill: Large Firework-->
+		</skills>
+	</option_data>
+	<option_data id="21252">
+		<!--Chance: During a physical attack, temporarily decreases the target's attacking desire for oneself.-->
+		<triggers>
+			<trigger id="3081" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Charm-->
+		</triggers>
+	</option_data>
+	<option_data id="21253">
+		<!--Chance: During a physical attack, temporarily stimulates the target's attacking desire.-->
+		<triggers>
+			<trigger id="3080" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Aggression-->
+		</triggers>
+	</option_data>
+	<option_data id="21254">
+		<!--Chance: During a physical attack, temporarily decreases the target's moving speed.-->
+		<triggers>
+			<trigger id="3083" level="10" type="ATTACK" chance="1.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="21255">
+		<!--Chance: During a critical attack, temporarily decreases the target's attacking desire for oneself.-->
+		<triggers>
+			<trigger id="3109" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Aggression Down-->
+		</triggers>
+	</option_data>
+	<option_data id="21256">
+		<!--Chance: During a critical attack, temporarily stimulates the target's attacking desire.-->
+		<triggers>
+			<trigger id="3108" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Aggression Up-->
+		</triggers>
+	</option_data>
+	<option_data id="21257">
+		<!--Chance: During a critical attack, temporarily decreases the target's moving speed.-->
+		<triggers>
+			<trigger id="3111" level="10" type="CRIT" chance="5.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="21258">
+		<!--Chance: During a magic attack, temporarily decreases the target's moving speed. Effect 3.-->
+		<triggers>
+			<trigger id="3096" level="10" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="2.0" /> <!--Item Skill: Slow-->
+		</triggers>
+	</option_data>
+	<option_data id="21259">
+		<!--Equip skill: Increases lung capacity.-->
+		<skills>
+			<skill id="3252" level="10" /> <!--Item Skill: Kiss of Eva-->
+		</skills>
+	</option_data>
+	<option_data id="21260">
+		<!--Equip skill: Becomes able to jump from a higher place without fall damage.-->
+		<skills>
+			<skill id="3253" level="10" /> <!--Item Skill: Acrobatics-->
+		</skills>
+	</option_data>
+	<option_data id="21261">
+		<!--Equip skill: Gains resistance to topography damage.-->
+		<skills>
+			<skill id="3254" level="10" /> <!--Item Skill: Iron Body-->
+		</skills>
+	</option_data>
+	<option_data id="21262">
+		<!--Use skill: Temporarily decreases the target's Atk. Spd.-->
+		<skills>
+			<skill id="3188" level="10" /> <!--Item Skill: Winter-->
+		</skills>
+	</option_data>
+	<option_data id="21263">
+		<!--Use skill: Temporarily increase Evasion.-->
+		<skills>
+			<skill id="3139" level="10" /> <!--Item Skill: Agility-->
+		</skills>
+	</option_data>
+	<option_data id="21264">
+		<!--Use skill: Instantly inflicts bleed on the target.-->
+		<skills>
+			<skill id="3196" level="10" /> <!--Item Skill: Bleed-->
+		</skills>
+	</option_data>
+	<option_data id="21265">
+		<!--Use skill: Restores one's own CP.-->
+		<skills>
+			<skill id="3130" level="10" /> <!--Item Skill: Ritual-->
+		</skills>
+	</option_data>
+	<option_data id="21266">
+		<!--Use skill: Attacks by throwing a stone.-->
+		<skills>
+			<skill id="3169" level="10" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="21267">
+		<!--Use skill: Instantly inflicts fear on the target and cause him to flee.-->
+		<skills>
+			<skill id="3194" level="10" /> <!--Item Skill: Fear-->
+		</skills>
+	</option_data>
+	<option_data id="21268">
+		<!--Use skill: Condenses air to burst flames.-->
+		<skills>
+			<skill id="3165" level="10" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="21269">
+		<!--Use skill: Calms the enemy's heart and causes attacking desire to disappear.-->
+		<skills>
+			<skill id="3151" level="10" /> <!--Item Skill: Peace-->
+		</skills>
+	</option_data>
+	<option_data id="21270">
+		<!--Use skill: Decreases the target's attacking desire for oneself.-->
+		<skills>
+			<skill id="3150" level="10" /> <!--Item Skill: Charm-->
+		</skills>
+	</option_data>
+	<option_data id="21271">
+		<!--Use skill: Stimulates the target's attacking desire.-->
+		<skills>
+			<skill id="3149" level="10" /> <!--Item Skill: Aggression-->
+		</skills>
+	</option_data>
+	<option_data id="21272">
+		<!--Use skill: Temporarily increase accuracy.-->
+		<skills>
+			<skill id="3140" level="10" /> <!--Item Skill: Guidance-->
+		</skills>
+	</option_data>
+	<option_data id="21273">
+		<!--Use skill: Instantly inflicts hold on the target. Additional hold is not available while the effect lasts.-->
+		<skills>
+			<skill id="3190" level="10" /> <!--Item Skill: Hold-->
+		</skills>
+	</option_data>
+	<option_data id="21274">
+		<!--Use skill: Inflicts a holy attack.-->
+		<skills>
+			<skill id="3170" level="10" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="21275">
+		<!--Use skill: Temporarily increases HP recovery magic power.-->
+		<skills>
+			<skill id="3138" level="10" /> <!--Item Skill: Heal Empower-->
+		</skills>
+	</option_data>
+	<option_data id="21276">
+		<!--Use skill: Temporarily increases HP recovery magic effect.-->
+		<skills>
+			<skill id="3126" level="10" /> <!--Item Skill: Prayer-->
+		</skills>
+	</option_data>
+	<option_data id="21277">
+		<!--Use skill: Immediately regenerates the target's HP.-->
+		<skills>
+			<skill id="3123" level="10" /> <!--Item Skill: Heal-->
+		</skills>
+	</option_data>
+	<option_data id="21278">
+		<!--Use skill: Temporarily increases M. Atk.-->
+		<skills>
+			<skill id="3133" level="10" /> <!--Item Skill: Empower-->
+		</skills>
+	</option_data>
+	<option_data id="21279">
+		<!--Use skill: Temporarily increases Max CP.-->
+		<skills>
+			<skill id="3131" level="10" /> <!--Item Skill: Cheer-->
+		</skills>
+	</option_data>
+	<option_data id="21280">
+		<!--Use skill: Temporarily increases Max HP and recovers the amount of increased HP.-->
+		<skills>
+			<skill id="3125" level="10" /> <!--Item Skill: Battle Roar-->
+		</skills>
+	</option_data>
+	<option_data id="21281">
+		<!--Use skill: Temporarily increases Max HP.-->
+		<skills>
+			<skill id="3124" level="10" /> <!--Item Skill: Blessed Body-->
+		</skills>
+	</option_data>
+	<option_data id="21282">
+		<!--Use skill: Temporarily increases Max MP.-->
+		<skills>
+			<skill id="3128" level="10" /> <!--Item Skill: Blessed Soul-->
+		</skills>
+	</option_data>
+	<option_data id="21283">
+		<!--Use skill: Temporarily increases M. Def.-->
+		<skills>
+			<skill id="3136" level="10" /> <!--Item Skill: Magic Barrier-->
+		</skills>
+	</option_data>
+	<option_data id="21284">
+		<!--Use skill: Burns up the enemy's MP.-->
+		<skills>
+			<skill id="3154" level="10" /> <!--Item Skill: Mana Burn-->
+		</skills>
+	</option_data>
+	<option_data id="21285">
+		<!--Use skill: Increases the recovery rate when MP is being recovered by recharge.-->
+		<skills>
+			<skill id="3129" level="10" /> <!--Item Skill: Mana Gain-->
+		</skills>
+	</option_data>
+	<option_data id="21286">
+		<!--Use skill: Restores MP.-->
+		<skills>
+			<skill id="3127" level="10" /> <!--Item Skill: Recharge-->
+		</skills>
+	</option_data>
+	<option_data id="21287">
+		<!--Use skill: Uses a non-attribute attack and momentarily decreases your attack magic power during PvP.-->
+		<skills>
+			<skill id="3172" level="10" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+	<option_data id="21288">
+		<!--Use skill: Temporarily increases P. Atk.-->
+		<skills>
+			<skill id="3132" level="10" /> <!--Item Skill: Might-->
+		</skills>
+	</option_data>
+	<option_data id="21289">
+		<!--Use skill: Instantly inflicts paralysis on the target.-->
+		<skills>
+			<skill id="3192" level="10" /> <!--Item Skill: Paralyze-->
+		</skills>
+	</option_data>
+	<option_data id="21290">
+		<!--Use skill: Temporarily increases P. Def.-->
+		<skills>
+			<skill id="3135" level="10" /> <!--Item Skill: Shield-->
+		</skills>
+	</option_data>
+	<option_data id="21291">
+		<!--Use skill: Instantly inflicts poison on the target.-->
+		<skills>
+			<skill id="3195" level="10" /> <!--Item Skill: Poison-->
+		</skills>
+	</option_data>
+	<option_data id="21292">
+		<!--Use skill: Temporarily decreases the PvP opponent's P. Atk.-->
+		<skills>
+			<skill id="3137" level="10" /> <!--Item Skill: Duel Weakness-->
+		</skills>
+	</option_data>
+	<option_data id="21293">
+		<!--Use skill: Temporarily increases PvP P. Atk.-->
+		<skills>
+			<skill id="3134" level="10" /> <!--Item Skill: Duel Might-->
+		</skills>
+	</option_data>
+	<option_data id="21294">
+		<!--Use skill: Teleports to a town. Cannot be used in special areas such as the GM info center.-->
+		<skills>
+			<skill id="3146" level="1" /> <!--Item Skill: Recall-->
+		</skills>
+	</option_data>
+	<option_data id="21295">
+		<!--Use skill: Resurrects a corpse.-->
+		<skills>
+			<skill id="3160" level="9" /> <!--Item Skill: Resurrection-->
+		</skills>
+	</option_data>
+	<option_data id="21296">
+		<!--Use skill: Inflicts a rock type range attack.-->
+		<skills>
+			<skill id="3183" level="10" /> <!--Item Skill: Stone-->
+		</skills>
+	</option_data>
+	<option_data id="21297">
+		<!--Use skill: Inflicts a fire type range attack.-->
+		<skills>
+			<skill id="3180" level="10" /> <!--Item Skill: Prominence-->
+		</skills>
+	</option_data>
+	<option_data id="21298">
+		<!--Use skill: Inflicts a holy range attack.-->
+		<skills>
+			<skill id="3184" level="10" /> <!--Item Skill: Solar Flare-->
+		</skills>
+	</option_data>
+	<option_data id="21299">
+		<!--Use skill: Inflicts a non-attribute type range attack.-->
+		<skills>
+			<skill id="3186" level="10" /> <!--Item Skill: Aura Flare-->
+		</skills>
+	</option_data>
+</list>

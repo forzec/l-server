@@ -1,0 +1,125 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+    <!-- Остров Ада: Город -->
+    <instance id="2" name="Urban Area" maxChannels="10" collapseIfEmpty="3" timelimit="30" dispelBuffs="false">
+        <collapse on-party-dismiss="true" timer="60"/>
+        <level min="78" max="85"/>
+        <party min="2" max="9"/>
+        <return loc="13725 255403 -2023"/>
+        <teleport loc="14119 255443 -2016"/>
+        <remove itemId="0" count="0" necessary="false"/>
+        <give itemId="0" count="0"/>
+        <quest id="0"/>
+        <reuse resetReuse="* * * * *" setUponEntry="true" sharedReuseGroup="0"/>
+        <spawns>
+            <!-- Заключенные Аборигены -->
+            <spawn mobId="32358" count="1" respawn="0" type="loc">
+                <coords loc="14012 250444 -1984 -1784"/>
+                <coords loc="14212 250444 -1984 -1784"/>
+                <coords loc="14212 250644 -1984 -1784"/>
+                <coords loc="14012 250644 -1984 -1784"/>
+            </spawn>
+            <spawn mobId="32358" count="1" respawn="0" type="loc">
+                <coords loc="15696 252284 -2068 -1868"/>
+                <coords loc="15896 252284 -2068 -1868"/>
+                <coords loc="15896 252484 -2068 -1868"/>
+                <coords loc="15696 252484 -2068 -1868"/>
+            </spawn>
+            <spawn mobId="32358" count="1" respawn="0" type="loc">
+                <coords loc="19756 256172 -2156 -1956"/>
+                <coords loc="19956 256172 -2156 -1956"/>
+                <coords loc="19956 256372 -2156 -1956"/>
+                <coords loc="19756 256372 -2156 -1956"/>
+            </spawn>
+            <spawn mobId="32358" count="1" respawn="0" type="loc">
+                <coords loc="21900 254032 -2068 -1868"/>
+                <coords loc="22100 254032 -2068 -1868"/>
+                <coords loc="22100 254232 -2068 -1868"/>
+                <coords loc="21900 254232 -2068 -1868"/>
+            </spawn>
+            <spawn mobId="32358" count="1" respawn="0" type="loc">
+                <coords loc="17180 252772 -2060 -1860"/>
+                <coords loc="17380 252772 -2060 -1860"/>
+                <coords loc="17380 252972 -2060 -1860"/>
+                <coords loc="17180 252972 -2060 -1860"/>
+            </spawn>
+            <!-- Надгробие Лунного Света -->
+            <spawn mobId="32343" respawn="60" type="point">
+                <coords loc="19704 250067 -2022 16384"/>
+            </spawn>
+            <!-- Ключник Стальной Цитадели -->
+            <spawn mobId="22361" respawn="0" type="rnd">
+                <coords loc="14044 254892 -2035 -1"/>
+                <coords loc="15084 253788 -2038 -1"/>
+                <coords loc="14140 253132 -2039 -1"/>
+                <coords loc="13964 251860 -1962 -1"/>
+                <coords loc="14220 250428 -1966 -1"/>
+                <coords loc="16564 253932 -2060 -1"/>
+                <coords loc="15596 255580 -2041 -1"/>
+                <coords loc="16260 256284 -2043 -1"/>
+                <coords loc="20140 256220 -2116 -1"/>
+                <coords loc="19852 255132 -2034 -1"/>
+                <coords loc="17660 255060 -2045 -1"/>
+                <coords loc="17228 253020 -2041 -1"/>
+                <coords loc="17548 250476 -1948 -1"/>
+                <coords loc="18924 251268 -2035 -1"/>
+                <coords loc="21276 250468 -2006 -1"/>
+                <coords loc="21324 251148 -2034 -1"/>
+                <coords loc="18868 251820 -2037 -1"/>
+                <coords loc="20948 251756 -2033 -1"/>
+                <coords loc="21996 253388 -2040 -1"/>
+                <coords loc="22028 254028 -2036 -1"/>
+            </spawn>				
+            <!-- Городские Стражи -->
+            <spawn mobId="22359" count="15" respawn="0" type="loc">
+                <coords loc="17733 252324 -2084 -1884"/>
+                <coords loc="20480 252188 -2084 -1884"/>
+                <coords loc="20463 252670 -2084 -1884"/>
+                <coords loc="21368 252698 -2084 -1884"/>
+                <coords loc="21356 254696 -2084 -1884"/>
+                <coords loc="17816 254627 -2084 -1884"/>
+            </spawn>
+            <spawn mobId="22359" count="5" respawn="0" type="loc">
+                <coords loc="15787 254541 -2156 -1956"/>
+                <coords loc="16542 254540 -2156 -1956"/>
+                <coords loc="16568 255206 -2156 -1956"/>
+                <coords loc="15790 255203 -2156 -1956"/>
+            </spawn>
+            <spawn mobId="22359" count="5" respawn="0" type="loc">
+                <coords loc="19553 250344 -2068 -1868"/>
+                <coords loc="20550 250339 -2068 -1868"/>
+                <coords loc="20564 251253 -2068 -1868"/>
+                <coords loc="19567 251248 -2068 -1868"/>
+            </spawn>
+            <spawn mobId="22359" count="5" respawn="0" type="loc">
+                <coords loc="18821 255885 -2160 -1960"/>
+                <coords loc="19414 255885 -2160 -1960"/>
+                <coords loc="19418 256377 -2160 -1960"/>
+                <coords loc="18837 256386 -2160 -1960"/>
+            </spawn>
+            <spawn mobId="22359" count="5" respawn="0" type="loc">
+                <coords loc="14639 250818 -2056 -1856"/>
+                <coords loc="15975 250818 -2056 -1856"/>
+                <coords loc="16002 251825 -2056 -1856"/>
+                <coords loc="14686 251832 -2056 -1856"/>
+            </spawn>
+            <spawn mobId="22359" count="5" respawn="0" type="loc">
+                <coords loc="14023 253440 -2068 -1868"/>
+                <coords loc="14721 253440 -2068 -1868"/>
+                <coords loc="14721 254143 -2068 -1868"/>
+                <coords loc="14027 254134 -2068 -1868"/>
+            </spawn>
+            <!-- Городские Дозорные -->
+            <spawn mobId="22360" respawn="0" type="point">
+                <coords loc="14840 251949 -2009 17616"/>
+                <coords loc="16082 251790 -2000 11536"/>
+                <coords loc="16524 255244 -2080 10664"/>
+                <coords loc="17670 252256 -2022 -19040"/>
+            </spawn>
+            <!-- Амаскари -->
+            <spawn mobId="22449" respawn="0" type="point">
+                <coords loc="19424 253360 -2032 16860"/>
+            </spawn>
+        </spawns>
+    </instance>
+</list>

@@ -1,0 +1,1 @@
+DELETE FROM items WHERE item_id IN (8952,8953)

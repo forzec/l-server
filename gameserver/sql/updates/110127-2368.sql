@@ -1,0 +1,1 @@
+UPDATE `accounts` SET `allow_ip` = '' WHERE `allow_ip` = '*';

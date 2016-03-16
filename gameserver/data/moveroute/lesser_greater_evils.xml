@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "moveroute.dtd">
+<list>
+	<moveroute name="malign_conveyor_1_1" type="ONCE" is_running="true">
+		<node x="27886" y="248609" z="-3208" />
+		<node x="28150" y="247726" z="-3272" />
+		<node x="27340" y="246649" z="-3680" />
+		<node x="27646" y="245922" z="-3672" />
+		<node x="28072" y="245912" z="-3696" /> <!-- DS: добавлено для корректного отображения -->
+		<node x="28247" y="245907" z="-2552" />
+		<node x="29074" y="245889" z="-3672" />
+		<node x="29182" y="244811" z="-3688" />
+		<node x="28920" y="244456" z="-3696" /> <!-- DS: добавлено для корректного отображения -->
+		<node x="28770" y="244248" z="-2496" />
+	</moveroute>
+	<moveroute name="malign_conveyor_1_2" type="ONCE" is_running="true">
+		<node x="26144" y="246444" z="-3208" />
+		<node x="28063" y="247940" z="-3248" />
+		<node x="28276" y="247756" z="-3272" />
+		<node x="27344" y="246649" z="-3680" />
+		<node x="27652" y="245914" z="-3688" />
+		<node x="28072" y="245912" z="-3696" /> <!-- DS: добавлено для корректного отображения -->
+		<node x="28255" y="245912" z="-2552" />
+	</moveroute>
+	<moveroute name="malign_conveyor_1_3" type="ONCE" is_running="true">
+		<node x="27336" y="246216" z="-3656" />
+		<node x="27645" y="245921" z="-3672" />
+		<node x="28072" y="245912" z="-3696" /> <!-- DS: добавлено для корректного отображения -->
+		<node x="28245" y="245904" z="-2552" />
+	</moveroute>
+	<moveroute name="malign_conveyor_1_4" type="ONCE" is_running="true">
+		<node x="28476" y="245914" z="-3696" />
+		<node x="29058" y="245984" z="-3672" />
+		<node x="29433" y="245216" z="-3688" />
+		<node x="28942" y="244492" z="-3696" />
+	</moveroute>
+	<moveroute name="malign_conveyor_2_1" type="ONCE" is_running="true">
+		<node x="28771" y="244151" z="-2496" />
+		<node x="28495" y="243839" z="-3696" />
+		<node x="28727" y="242939" z="-3592" />
+		<node x="28188" y="242512" z="-3464" />
+		<node x="27248" y="242797" z="-3168" />
+		<node x="26850" y="243834" z="-2896" />
+		<node x="24636" y="246593" z="-1968" />
+		<node x="24519" y="248586" z="-1936" />
+		<node x="23094" y="250031" z="-1976" />
+		<node x="22673" y="251605" z="-1992" />
+		<node x="24560" y="254414" z="-1984" />
+		<node x="25392" y="255459" z="-1992" />
+	</moveroute>
+</list>

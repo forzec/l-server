@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "multisell.dtd">
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <!-- Heavy sets --><!-- S-80 -->
+  <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Helmet -->
+    <production id="9422" count="1" enchant="6"/>
+  </item>
+  <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Breast Plate -->
+    <production id="9416" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Platinum Plate Shield Master -->
+    <production id="10228" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Platinum Plate Weapon Master -->
+    <production id="10229" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Platinum Plate Force Master -->
+    <production id="10230" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Platinum Plate Bard -->
+    <production id="10231" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Gaiters -->
+    <production id="9421" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Gauntlet Heavy Armor -->
+    <production id="9423" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Boots Heavy Armor -->
+    <production id="9424" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Shield -->
+    <production id="9441" count="1" enchant="6"/>
+  </item>
+  <!-- Leather sets -->
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Leather Helmet -->
+    <production id="9429" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Leather Armor -->
+    <production id="9425" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Jewel Leather Armor Dagger Master -->
+    <production id="10233" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Jewel Leather Armor Bow Master -->
+    <production id="10234" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Jeweled Leather Armor Force Master -->
+    <production id="10487" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Jeweled Leather Armor Weapon Master -->
+    <production id="10488" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Jeweled Leather Armor Enchanter -->
+    <production id="10489" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Jeweled Leather Armor Summoner -->
+    <production id="10490" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Leather Leggings -->
+    <production id="9428" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Leather Gloves Light Armor -->
+    <production id="9430" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Leather Boots Light Armor -->
+    <production id="9431" count="1" enchant="6"/>
+  </item>
+  <!-- Roba sets -->
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Circlet -->
+    <production id="9438" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Tunic -->
+    <production id="9432" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Silver Satin Tunic Healer -->
+    <production id="10236" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Silver Satin Tunic Enchanter -->
+    <production id="10237" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Silver Satin Tunic Summoner -->
+    <production id="10238" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Silver Satin Tunic Wizard -->
+    <production id="10239" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Stockings -->
+    <production id="9437" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Gloves Robe -->
+    <production id="9439" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Shoes Robe -->
+    <production id="9440" count="1" enchant="6"/>
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Dynasty Sigil -->
+    <production id="12812" count="1" enchant="6"/>
+  </item>
+  <!-- S grade -->
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Imperial Crusader Set -->
+    <production id="6373" count="1" enchant="6"/> <!-- Imperial Crusader Breastplate -->
+    <production id="6374" count="1" enchant="6"/> <!-- Imperial Crusader Gaiters -->
+    <production id="6378" count="1" enchant="6"/> <!-- Imperial Crusader Helmet -->
+    <production id="6376" count="1" enchant="6"/> <!-- Imperial Crusader Boots -->
+    <production id="6375" count="1" enchant="6"/> <!-- Imperial Crusader Gauntlets -->
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Draconic Set -->
+    <production id="6379" count="1" enchant="6"/> <!-- Draconic Leather Armor -->
+    <production id="6382" count="1" enchant="6"/> <!-- Draconic Leather Helmet -->
+    <production id="6381" count="1" enchant="6"/> <!-- Draconic Leather Boots -->
+    <production id="6380" count="1" enchant="6"/> <!-- Draconic Leather Gloves -->
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Major Arcana Set -->
+    <production id="6383" count="1" enchant="6"/> <!-- Major Arcana Robe -->
+    <production id="6386" count="1" enchant="6"/> <!-- Major Arcana Circlet -->
+    <production id="6385" count="1" enchant="6"/> <!-- Major Arcana Boots -->
+    <production id="6384" count="1" enchant="6"/> <!-- Major Arcana Gloves -->
+  </item>
+   <item>
+    <ingredient id="57" count="20000000"/>  <!-- Imperial Crusader Shield -->
+    <production id="6377" count="1" enchant="6"/>
+  </item> 
+</list>
