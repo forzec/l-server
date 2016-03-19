@@ -1,471 +1,391 @@
-[16.03.16 02:28:26:825]  INFO gameserver.GameServer: =================================================
-[16.03.16 02:28:26:828]  INFO gameserver.GameServer: Revision: ................ -1
-[16.03.16 02:28:26:828]  INFO gameserver.GameServer: Build date: .............. -1
-[16.03.16 02:28:26:828]  INFO gameserver.GameServer: =================================================
-[16.03.16 02:28:26:941]  INFO chat.ChatFilters: ChatFilters: loaded 3 filter(s).
-[16.03.16 02:28:26:950]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatDelay in XML Player access Object
-[16.03.16 02:28:26:950]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatMaxValue in XML Player access Object
-[16.03.16 02:28:26:950]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatCountPerDay in XML Player access Object
-[16.03.16 02:28:26:950]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusId in XML Player access Object
-[16.03.16 02:28:26:950]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusCount in XML Player access Object
-[16.03.16 02:28:26:950]  INFO gameserver.Config: Not found desclarate ACCESS name: CanChatPenalty in XML Player access Object
-[16.03.16 02:28:26:951]  INFO gameserver.Config: Not found desclarate ACCESS name: CanViewNPC in XML Player access Object
-[16.03.16 02:28:26:952]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
-[16.03.16 02:28:26:952]  INFO gameserver.Config: Not found desclarate ACCESS name: Unblock in XML Player access Object
-[16.03.16 02:28:26:952]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
-[16.03.16 02:28:26:952]  INFO gameserver.Config: Not found desclarate ACCESS name: CanGmEdit in XML Player access Object
-[16.03.16 02:28:26:952]  INFO gameserver.Config: Not found desclarate ACCESS name: UseInventory in XML Player access Object
-[16.03.16 02:28:26:953]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
-[16.03.16 02:28:26:953]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
-[16.03.16 02:28:26:953]  INFO gameserver.Config: Not found desclarate ACCESS name: CanEvaluate in XML Player access Object
-[16.03.16 02:28:26:953]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinParty in XML Player access Object
-[16.03.16 02:28:26:953]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
-[16.03.16 02:28:26:953]  INFO gameserver.Config: Not found desclarate ACCESS name: UseWarehouse in XML Player access Object
-[16.03.16 02:28:26:953]  INFO gameserver.Config: Not found desclarate ACCESS name: UseShop in XML Player access Object
-[16.03.16 02:28:26:957]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatDelay in XML Player access Object
-[16.03.16 02:28:26:957]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatMaxValue in XML Player access Object
-[16.03.16 02:28:26:957]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatCountPerDay in XML Player access Object
-[16.03.16 02:28:26:957]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusId in XML Player access Object
-[16.03.16 02:28:26:957]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusCount in XML Player access Object
-[16.03.16 02:28:26:961]  INFO gameserver.Config: Not found desclarate ACCESS name: CanViewNPC in XML Player access Object
-[16.03.16 02:28:26:962]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
-[16.03.16 02:28:26:962]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
-[16.03.16 02:28:26:962]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
-[16.03.16 02:28:26:962]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
-[16.03.16 02:28:26:962]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
-[16.03.16 02:28:26:966]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
-[16.03.16 02:28:26:966]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
-[16.03.16 02:28:26:966]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
-[16.03.16 02:28:26:966]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
-[16.03.16 02:28:26:966]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
-[16.03.16 02:28:26:970]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
-[16.03.16 02:28:26:970]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
-[16.03.16 02:28:26:970]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
-[16.03.16 02:28:26:971]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
-[16.03.16 02:28:26:976]  INFO gameserver.Config: Not found desclarate ACCESS name: CanViewNPC in XML Player access Object
-[16.03.16 02:28:26:977]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
-[16.03.16 02:28:26:977]  INFO gameserver.Config: Not found desclarate ACCESS name: Unblock in XML Player access Object
-[16.03.16 02:28:26:977]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
-[16.03.16 02:28:26:977]  INFO gameserver.Config: Not found desclarate ACCESS name: CanGmEdit in XML Player access Object
-[16.03.16 02:28:26:978]  INFO gameserver.Config: Not found desclarate ACCESS name: UseInventory in XML Player access Object
-[16.03.16 02:28:26:978]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
-[16.03.16 02:28:26:978]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
-[16.03.16 02:28:26:978]  INFO gameserver.Config: Not found desclarate ACCESS name: CanEvaluate in XML Player access Object
-[16.03.16 02:28:26:978]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinParty in XML Player access Object
-[16.03.16 02:28:26:978]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
-[16.03.16 02:28:26:978]  INFO gameserver.Config: Not found desclarate ACCESS name: UseWarehouse in XML Player access Object
-[16.03.16 02:28:26:979]  INFO gameserver.Config: Not found desclarate ACCESS name: UseShop in XML Player access Object
-[16.03.16 02:28:27:356]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
-[16.03.16 02:28:27:365]  INFO idfactory.IdFactory: IdFactory: Extracted 123 used id's from characters
-[16.03.16 02:28:27:402]  INFO idfactory.IdFactory: IdFactory: Extracted 2582 used id's from items
-[16.03.16 02:28:27:402]  INFO idfactory.IdFactory: IdFactory: Extracted 6 used id's from clan_data
-[16.03.16 02:28:27:406]  INFO idfactory.IdFactory: IdFactory: Extracted total 2711 used id's.
-[16.03.16 02:28:27:408]  INFO idfactory.BitSetIDFactory: IdFactory: 205824 id's available.
-[16.03.16 02:28:27:563]  INFO scripts.Scripts: Scripts: Loading...
-[16.03.16 02:28:33:052]  INFO scripts.Scripts: Scripts: Loaded 1121 classes.
-[16.03.16 02:28:33:067]  INFO geodata.GeoEngine: GeoEngine: Loading Geodata...
-[16.03.16 02:28:36:323]  INFO geodata.GeoEngine: GeoEngine: Loaded 203 map(s), max layers: 21
-[16.03.16 02:28:36:330]  INFO utils.Strings: Loaded 418 translit entries.
-[16.03.16 02:28:36:331]  INFO gameserver.GameTimeController: GameTimeController: initialized. Current time is 20:51 in the day.
-[16.03.16 02:28:36:332]  INFO model.World: L2World: Creating regions: [256][272][16].
-[16.03.16 02:28:36:336]  INFO htm.HtmCache: HtmCache: lazy cache mode.
-[16.03.16 02:28:36:345]  INFO data.StringHolder: StringHolder: load strings: 375 for lang: ENGLISH
-[16.03.16 02:28:36:345]  INFO data.StringHolder: StringHolder: load strings: 375 for lang: RUSSIAN
-[16.03.16 02:28:39:155]  INFO holder.ItemNameLineHolder: ItemNameLineHolder: load itemname line(s): 19194 for lang: ENGLISH
-[16.03.16 02:28:39:155]  INFO holder.ItemNameLineHolder: ItemNameLineHolder: load itemname line(s): 19194 for lang: RUSSIAN
-[16.03.16 02:28:39:627]  INFO holder.NpcNameLineHolder: NpcNameLineHolder: load npcname line(s): 10461 for lang: ENGLISH
-[16.03.16 02:28:39:627]  INFO holder.NpcNameLineHolder: NpcNameLineHolder: load npcname line(s): 10461 for lang: RUSSIAN
-[16.03.16 02:28:39:627]  INFO holder.NpcNameLineHolder: NpcNameLineHolder: load 1794 blacklist names
-[16.03.16 02:28:39:823]  INFO holder.NpcStringLineHolder: NpcStringLineHolder: load npcstring line(s): 5914 for lang: ENGLISH
-[16.03.16 02:28:39:824]  INFO holder.NpcStringLineHolder: NpcStringLineHolder: load npcstring line(s): 5914 for lang: RUSSIAN
-[16.03.16 02:28:42:878]  INFO skills.SkillsEngine: SkillsEngine: Loaded 65954 skill templates from XML files. Max id: 90002, max level: 259
-[16.03.16 02:28:43:710]  INFO holder.OptionDataHolder: OptionDataHolder: loaded 24985 option data(s) count.
-[16.03.16 02:28:44:804]  INFO holder.ItemHolder: ItemHolder: loaded 19121 item(s) count.
-[16.03.16 02:28:47:350]  INFO holder.NpcHolder: NpcHolder: loaded 10460 npc(s) count.
-[16.03.16 02:28:47:368]  INFO holder.MoveRouteHolder: MoveRouteHolder: loaded 53 move route(s) count.
-[16.03.16 02:28:47:377]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
-[16.03.16 02:28:47:453]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
-[16.03.16 02:28:47:456]  INFO holder.StaticObjectHolder: StaticObjectHolder: loaded 50 static object(s) count.
-[16.03.16 02:28:47:559]  INFO holder.DoorHolder: DoorHolder: loaded 1155 door(s) count.
-[16.03.16 02:28:47:626]  INFO holder.ZoneHolder: ZoneHolder: loaded 1227 zone(s) count.
-[16.03.16 02:28:48:147]  INFO holder.SpawnHolder: SpawnHolder: loaded 28988 spawn(s) count.
-[16.03.16 02:28:48:236]  INFO holder.InstantZoneHolder: InstantZoneHolder: loaded 140 instant zone(s) count.
-[16.03.16 02:28:48:758]  INFO holder.AirshipDockHolder: AirshipDockHolder: loaded 4 airship dock(s) count.
-[16.03.16 02:28:48:912]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 56995 normal learns for 103 classes.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 76 transfer learns for 3 classes.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 120 transformation learns for 6 races.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 117 fishing learns.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 109 fishing non dwarf learns.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 76 certification learns.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 3 collection learns.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 44 pledge learns.
-[16.03.16 02:28:48:913]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 18 sub unit learns.
-[16.03.16 02:28:49:000]  INFO holder.ResidenceHolder: ResidenceHolder: total size: 83
-[16.03.16 02:28:49:000]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 dominion(s).
-[16.03.16 02:28:49:000]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 castle(s).
-[16.03.16 02:28:49:000]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 44 clanhall(s).
-[16.03.16 02:28:49:000]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 21 fortress(s).
-[16.03.16 02:28:49:049]  INFO instancemanager.RaidBossSpawnManager: RaidBossSpawnManager: Loaded 18 Statuses
-[16.03.16 02:28:49:100]  INFO entity.SevenSigns: SevenSigns: Currently in the Seal Validation period!
-[16.03.16 02:28:49:100]  INFO entity.SevenSigns: SevenSigns: The Seal of Gnosis remains unclaimed.
-[16.03.16 02:28:49:100]  INFO entity.SevenSigns: SevenSigns: The Seal of Avarice remains unclaimed.
-[16.03.16 02:28:49:100]  INFO entity.SevenSigns: SevenSigns: The Seal of Strife remains unclaimed.
-[16.03.16 02:28:49:100]  INFO entity.SevenSigns: SevenSigns: The Competition last week ended with a tie.
-[16.03.16 02:28:49:101]  INFO entity.SevenSigns: SevenSigns: Next period begins in 5 days, 15 hours and 31 mins.
-[16.03.16 02:28:49:233]  INFO holder.EventHolder: EventHolder: loaded 114 event(s) count.
-[16.03.16 02:28:49:239]  INFO holder.CubicHolder: CubicHolder: loaded 145 cubic(s) count.
-[16.03.16 02:28:49:338]  INFO holder.BuyListHolder: TradeController: Loaded 4 file(s).
-[16.03.16 02:28:49:339]  INFO holder.BuyListHolder: TradeController: Loaded 24928 Items.
-[16.03.16 02:28:49:339]  INFO holder.BuyListHolder: TradeController: Loaded 726 Buylists.
-[16.03.16 02:28:49:559]  INFO holder.RecipeHolder: RecipeController: Loaded 998 Recipes.
-[16.03.16 02:28:49:583]  WARN parser.MultiSellParser: MultiSell [10003] Production 'Shield of Nightmare' [2498] price is lower than referenced | 1422000 > 10000
-[16.03.16 02:28:49:583]  WARN parser.MultiSellParser: MultiSell [10003] Production 'Dark Crystal Shield' [641] price is lower than referenced | 935000 > 10000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Elven Long Sword' [2499] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Claymore' [70] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Morning Star' [88] price is lower than referenced | 1074000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Staff of Life' [189] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Atuba Mace' [190] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Mithril Dagger' [225] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Light Crossbow' [280] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Glaive' [297] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Scallop Jamadhr' [262] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Grand Epee' [9225] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'General's Katzbalger' [9226] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:593]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Cranequin' [9227] price is lower than referenced | 1387000 > 1000000
-[16.03.16 02:28:49:594]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Artisan's Sword*Crimson Sword' [2542] price is lower than referenced | 1275700 > 1000000
-[16.03.16 02:28:49:657]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Breast Plate' [9416] price is lower than referenced | 24398000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10228] price is lower than referenced | 33673000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10229] price is lower than referenced | 33673000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10230] price is lower than referenced | 33673000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10231] price is lower than referenced | 33673000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jewel Leather Mail' [10233] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jewel Leather Mail' [10234] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10487] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10488] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10489] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10490] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10236] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10237] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10238] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:658]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10239] price is lower than referenced | 25255000 > 20000000
-[16.03.16 02:28:49:769]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Moirai Necklace' [15725] price is lower than referenced | 10961000 > 8000000
-[16.03.16 02:28:49:770]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Moirai Earring' [15724] price is lower than referenced | 8221000 > 8000000
-[16.03.16 02:28:49:770]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Tateossian Earring' [858] price is lower than referenced | 3270000 > 1000000
-[16.03.16 02:28:49:770]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Tateossian Ring' [889] price is lower than referenced | 2180000 > 1000000
-[16.03.16 02:28:49:770]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Dynasty Earrings' [9455] price is lower than referenced | 5956000 > 1000000
-[16.03.16 02:28:49:770]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Dynasty Ring' [9457] price is lower than referenced | 3971000 > 1000000
-[16.03.16 02:28:49:770]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Majestic Earring' [862] price is lower than referenced | 1498000 > 1000000
-[16.03.16 02:28:49:857]  INFO holder.MultiSellHolder: MultiSellHolder: loaded 253 multi sell(s) count.
-[16.03.16 02:28:49:862]  INFO holder.ProductHolder: ProductItemTable: Loaded 0 product item on sale.
-[16.03.16 02:28:49:954]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:954]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:954]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:954]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
-[16.03.16 02:28:49:955]  INFO holder.AugmentationDataHolder: AugmentationDataHolder: loaded 1009 augmentation data(s) count.
-[16.03.16 02:28:49:978]  INFO holder.HennaHolder: HennaHolder: loaded 180 henna(s) count.
-[16.03.16 02:28:49:981]  INFO holder.EnchantItemHolder: EnchantItemHolder: load 4 enchant scroll(s).
-[16.03.16 02:28:49:983]  INFO holder.SoulCrystalHolder: SoulCrystalHolder: loaded 54 soul crystal(s) count.
-[16.03.16 02:28:49:987]  INFO holder.ArmorSetsHolder: ArmorSetsHolder: loaded 217 armor sets(s) count.
-[16.03.16 02:28:49:994]  INFO holder.FishDataHolder: FishDataHolder: load 278 fish(es).
-[16.03.16 02:28:49:994]  INFO holder.FishDataHolder: FishDataHolder: load 30 lure(s).
-[16.03.16 02:28:49:994]  INFO holder.FishDataHolder: FishDataHolder: load 4 distribution(s).
-[16.03.16 02:28:49:997]  INFO holder.PetitionGroupHolder: PetitionGroupHolder: loaded 1 petition group(s) count.
-[16.03.16 02:28:49:999]  INFO cache.CrestCache: CrestCache: Loaded 0 crests
-[16.03.16 02:28:50:022] ERROR pledge.SubUnit: Clan sss1 have no leader!
-[16.03.16 02:28:50:023]  WARN tables.ClanTable: membersCount = 0 for clanId: 268485820
-[16.03.16 02:28:50:034]  INFO tables.SkillTreeTable: SkillTreeTable: Loaded 526 enchanted skills.
-[16.03.16 02:28:50:046]  INFO tables.CharTemplateTable: CharTemplateTable: Loaded 206 Character Templates.
-[16.03.16 02:28:50:048]  INFO tables.EnchantHPBonusTable: EnchantHPBonusTable: Loaded bonuses for 6 grades.
-[16.03.16 02:28:50:052]  INFO tables.LevelUpTable: LevelUpData: Loaded 103 Character Level Up Templates.
-[16.03.16 02:28:50:056]  INFO tables.PetSkillsTable: PetSkillsTable: Loaded 2215 skills.
-[16.03.16 02:28:50:057]  INFO itemauction.ItemAuctionManager: Initializing ItemAuctionManager
-[16.03.16 02:28:50:488]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2000 npc for group: NONE
-[16.03.16 02:28:50:929]  INFO instancemanager.SpawnManager: SpawnManager: spawned 6000 npc for group: NONE
-[16.03.16 02:28:51:145]  INFO instancemanager.SpawnManager: SpawnManager: spawned 9000 npc for group: NONE
-[16.03.16 02:28:51:320]  INFO instancemanager.SpawnManager: SpawnManager: spawned 11000 npc for group: NONE
-[16.03.16 02:28:51:702]  INFO instancemanager.SpawnManager: SpawnManager: spawned 13000 npc for group: NONE
-[16.03.16 02:28:51:747]  INFO instancemanager.SpawnManager: SpawnManager: spawned 14000 npc for group: NONE
-[16.03.16 02:28:51:782]  INFO instancemanager.SpawnManager: SpawnManager: spawned 15000 npc for group: NONE
-[16.03.16 02:28:51:870]  INFO instancemanager.SpawnManager: SpawnManager: spawned 18000 npc for group: NONE
-[16.03.16 02:28:54:512]  INFO instancemanager.SpawnManager: SpawnManager: spawned 23000 npc for group: NONE
-[16.03.16 02:28:54:536]  INFO instancemanager.SpawnManager: SpawnManager: spawned 24000 npc for group: NONE
-[16.03.16 02:28:54:610]  INFO instancemanager.SpawnManager: SpawnManager: spawned 27000 npc for group: NONE
-[16.03.16 02:28:54:723]  INFO instancemanager.SpawnManager: SpawnManager: spawned 31000 npc for group: NONE
-[16.03.16 02:28:54:746]  INFO instancemanager.SpawnManager: SpawnManager: spawned 32000 npc for group: NONE
-[16.03.16 02:28:54:777]  INFO instancemanager.SpawnManager: SpawnManager: spawned 33000 npc for group: NONE
-[16.03.16 02:28:54:800]  INFO instancemanager.SpawnManager: SpawnManager: spawned 34000 npc for group: NONE
-[16.03.16 02:28:54:852]  INFO instancemanager.SpawnManager: SpawnManager: spawned 36000 npc for group: NONE
-[16.03.16 02:28:54:878]  INFO instancemanager.SpawnManager: SpawnManager: spawned 37000 npc for group: NONE
-[16.03.16 02:28:55:112]  INFO instancemanager.SpawnManager: SpawnManager: spawned 37404 npc; spawns: 16989; group: NONE
-[16.03.16 02:28:55:112]  INFO data.BoatHolder: BoatHolder: loaded 6 boat(s) count.
-[16.03.16 02:28:55:113]  INFO data.BoatHolder: BoatHolder: Spawning: RuneGludinBoat
-[16.03.16 02:28:55:113]  INFO data.BoatHolder: BoatHolder: Spawning: GiranTalkingIslandBoat
-[16.03.16 02:28:55:114]  INFO data.BoatHolder: BoatHolder: Spawning: GludinTalkingIslandBoat
-[16.03.16 02:28:55:114]  INFO data.BoatHolder: BoatHolder: Spawning: InnadrilPleasureBoat
-[16.03.16 02:28:55:114]  INFO data.BoatHolder: BoatHolder: Spawning: RunePrimevalBoat
-[16.03.16 02:28:55:114]  INFO data.BoatHolder: BoatHolder: Spawning: AdenGracia_Airship
-[16.03.16 02:28:55:115]  INFO holder.StaticObjectHolder: StaticObjectHolder: spawned: 50 static object(s).
-[16.03.16 02:28:55:196]  INFO model.Manor: ManorManager: Loaded 270 seeds
-[16.03.16 02:28:55:456]  INFO bosses.AntharasManager: AntharasManager: State of Antharas is NOTSPAWN.
-[16.03.16 02:28:55:456]  INFO bosses.AntharasManager: AntharasManager: Next spawn date of Antharas is 19:15 09.02.2016.
-[16.03.16 02:28:55:457]  INFO bosses.BaiumManager: BaiumManager: State of Baium is NOTSPAWN.
-[16.03.16 02:28:55:458]  INFO bosses.BaiumManager: BaiumManager: Next spawn date: 04:56 04.03.2016
-[16.03.16 02:28:55:461]  INFO bosses.BelethManager: Beleth Manager: Loaded successfuly
-[16.03.16 02:28:55:462]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
-[16.03.16 02:28:55:467]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 physical monsters spawns.
-[16.03.16 02:28:55:473]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 magical monsters spawns.
-[16.03.16 02:28:55:474]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 92 Church of duke monsters spawns.
-[16.03.16 02:28:55:475]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
-[16.03.16 02:28:55:475]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
-[16.03.16 02:28:55:476]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Emperors' Sepulcher Manager
-[16.03.16 02:28:55:476]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
-[16.03.16 02:28:55:476]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Judges' Sepulcher Manager
-[16.03.16 02:28:55:476]  INFO bosses.FourSepulchersManager: FourSepulchersManager: Beginning in Attack time
-[16.03.16 02:28:55:477]  INFO bosses.SailrenManager: SailrenManager: State of Sailren is NOTSPAWN.
-[16.03.16 02:28:55:477]  INFO bosses.SailrenManager: SailrenManager: Next spawn date of Sailren is 03:00 01.01.1970.
-[16.03.16 02:28:55:478]  INFO bosses.ValakasManager: ValakasManager: State of Valakas is NOTSPAWN.
-[16.03.16 02:28:55:478]  INFO bosses.ValakasManager: ValakasManager: Next spawn date of Valakas is 19:58 09.02.2016.
-[16.03.16 02:28:55:478]  INFO threading.RunnableImpl: Wed Mar 16 02:28:55 MSK 2016 Atk announce scheduled to 30.0 minute of this hour.
-[16.03.16 02:28:55:507]  INFO Christmas.Christmas: Loaded Event: Christmas [state: deactivated]
-[16.03.16 02:28:55:521]  INFO services.Bash: Service: Bash [disabled]
-[16.03.16 02:28:55:544]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 13 room types with 96 rooms.
-[16.03.16 02:28:55:544]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 281 dimensional rift spawns, 0 errors.
-[16.03.16 02:28:55:564]  INFO instancemanager.AutoSpawnManager: AutoSpawnHandler: Loaded 50 handlers in total.
-[16.03.16 02:28:55:570]  INFO olympiad.Olympiad: Olympiad System: Loading Olympiad System....
-[16.03.16 02:28:55:570]  INFO olympiad.Olympiad: Olympiad System: Currently in Olympiad Period
-[16.03.16 02:28:55:570]  INFO olympiad.Olympiad: Olympiad System: Period Ends....
-[16.03.16 02:28:55:571]  INFO olympiad.Olympiad: Olympiad System: In 10 days, 23 hours and 31 mins.
-[16.03.16 02:28:55:571]  INFO olympiad.Olympiad: Olympiad System: Next Weekly Change is in....
-[16.03.16 02:28:55:571]  INFO olympiad.Olympiad: Olympiad System: In 6 days, 21 hours and 11 mins.
-[16.03.16 02:28:55:571]  INFO olympiad.Olympiad: Olympiad System: Loaded 25 Noblesses
-[16.03.16 02:28:55:571]  INFO olympiad.Olympiad: Olympiad System: Competition Period Starts in 0 days, 15 hours and 32 mins.
-[16.03.16 02:28:55:571]  INFO olympiad.Olympiad: Olympiad System: Event starts/started: Wed Mar 16 18:00:55 MSK 2016
-[16.03.16 02:28:55:573]  INFO entity.Hero: Hero System: Loaded 0 Heroes.
-[16.03.16 02:28:55:573]  INFO entity.Hero: Hero System: Loaded 0 all time Heroes.
-[16.03.16 02:28:55:574]  INFO instancemanager.PetitionManager: Initializing PetitionManager
-[16.03.16 02:28:55:579]  INFO instancemanager.CursedWeaponsManager: CursedWeaponsManager: Loaded 2 cursed weapon(s).
-[16.03.16 02:28:55:580]  INFO instancemanager.CoupleManager: Initializing CoupleManager
-[16.03.16 02:28:55:580]  INFO instancemanager.CoupleManager: Loaded: 0 couples(s)
-[16.03.16 02:28:55:581]  INFO gameserver.GameServer: CoupleManager initialized
-[16.03.16 02:28:55:581]  INFO admincommands.AdminCommandHandler: AdminCommandHandler: loaded 314 admin command handler(s) count.
-[16.03.16 02:28:55:581]  INFO usercommands.UserCommandHandler: UserCommandHandler: loaded 16 user command handler(s) count.
-[16.03.16 02:28:55:581]  INFO voicecommands.VoicedCommandHandler: VoicedCommandHandler: loaded 30 voiced command handler(s) count.
-[16.03.16 02:28:55:581]  INFO bbs.BbsHandlerHolder: BbsHandlerHolder: loaded 65 bbs handler(s) count.
-[16.03.16 02:28:55:581]  INFO bypass.BypassHolder: BypassHolder: loaded 183 bypass(s) count.
-[16.03.16 02:28:55:581]  INFO onshiftaction.OnShiftActionHolder: OnShiftActionHolder: loaded 6 on shift action(s) count.
-[16.03.16 02:28:55:583]  INFO gameserver.GameServer: =[Events]=========================================
-[16.03.16 02:28:55:647]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Gludio Castle time - 18:00 20.03.2016
-[16.03.16 02:28:55:651]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Dion Castle time - 22:00 20.03.2016
-[16.03.16 02:28:55:655]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Giran Castle time - 22:00 20.03.2016
-[16.03.16 02:28:55:659]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Oren Castle time - 18:00 20.03.2016
-[16.03.16 02:28:55:666]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Aden Castle time - 18:00 20.03.2016
-[16.03.16 02:28:55:673]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Innadril Castle time - 22:00 20.03.2016
-[16.03.16 02:28:55:680]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Goddard Castle time - 18:00 20.03.2016
-[16.03.16 02:28:55:684]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Rune Castle time - 18:00 20.03.2016
-[16.03.16 02:28:55:688]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Schuttgart Castle time - 22:00 20.03.2016
-[16.03.16 02:28:55:690]  INFO impl.ClanHallNpcSiegeEvent: ClanHallNpcSiegeEvent: Fortress Of Resistance time - 20:00 21.03.2016
-[16.03.16 02:28:55:691]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:691]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:692]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Topaz Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:693]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Ruby Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:694]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Crystal Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:695]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:696]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:697]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:698]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:699]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Atramental Barracks time - 17:00 18.01.2016
-[16.03.16 02:28:55:700]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Scarlet Barracks time - 17:00 18.01.2016
-[16.03.16 02:28:55:700]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Viridian Barracks time - 17:00 18.01.2016
-[16.03.16 02:28:55:701]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Devastated Castle time - 20:00 26.03.2016
-[16.03.16 02:28:55:702]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Bandit Stronghold time - 00:00 27.03.2016
-[16.03.16 02:28:55:703]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:703]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:704]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:705]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 17:00 18.01.2016
-[16.03.16 02:28:55:705]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Gold Manor time - 17:00 18.01.2016
-[16.03.16 02:28:55:706]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:707]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:707]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:708]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:709]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:710]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 17:00 18.01.2016
-[16.03.16 02:28:55:710]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:711]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:712]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:713]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:714]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Mont Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:715]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Astaire Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:715]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Aria Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:716]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Yiana Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:717]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Roien Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:718]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Luna Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:719]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Traban Chamber time - 17:00 18.01.2016
-[16.03.16 02:28:55:720]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Eisen Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:721]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Heavy Metal Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:722]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Molten Ore Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:722]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Titan Hall time - 17:00 18.01.2016
-[16.03.16 02:28:55:724]  INFO impl.ClanHallMiniGameEvent: ClanHallMiniGameEvent: Rainbow Springs time - 00:00 27.03.2016
-[16.03.16 02:28:55:725]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Wild Beast Reserve time - 23:00 26.03.2016
-[16.03.16 02:28:55:725]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Fortress of Dead time - 20:00 26.03.2016
-[16.03.16 02:28:55:728]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Gludio Dominion time - undefined
-[16.03.16 02:28:55:728]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Dion Dominion time - undefined
-[16.03.16 02:28:55:729]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Giran Dominion time - undefined
-[16.03.16 02:28:55:730]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Oren Dominion time - undefined
-[16.03.16 02:28:55:731]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Aden Dominion time - undefined
-[16.03.16 02:28:55:732]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Innadril Dominion time - undefined
-[16.03.16 02:28:55:733]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Goddard Dominion time - undefined
-[16.03.16 02:28:55:734]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Rune Dominion time - undefined
-[16.03.16 02:28:55:735]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Schuttgart Dominion time - undefined
-[16.03.16 02:28:55:783]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Shanty Fortress time - undefined
-[16.03.16 02:28:55:833]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Southern Fortress time - undefined
-[16.03.16 02:28:55:883]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hive Fortress time - undefined
-[16.03.16 02:28:55:934]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Valley Fortress time - undefined
-[16.03.16 02:28:55:983]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Ivory Fortress time - undefined
-[16.03.16 02:28:56:033]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Narsell Fortress time - undefined
-[16.03.16 02:28:56:083]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Bayou Fortress time - undefined
-[16.03.16 02:28:56:136]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: White Sands Fortress time - undefined
-[16.03.16 02:28:56:192]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Borderland Fortress time - undefined
-[16.03.16 02:28:56:242]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Swamp Fortress time - undefined
-[16.03.16 02:28:56:300]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Archaic Fortress time - undefined
-[16.03.16 02:28:56:350]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Floran Fortress time - undefined
-[16.03.16 02:28:56:400]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Cloud Mountain Fortress time - undefined
-[16.03.16 02:28:56:450]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Tanor Fortress time - undefined
-[16.03.16 02:28:56:575]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Dragonspine Fortress time - undefined
-[16.03.16 02:28:56:625]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Antharas Fortress time - undefined
-[16.03.16 02:28:56:675]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Western Fortress time - undefined
-[16.03.16 02:28:56:725]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hunter's Fortress time - undefined
-[16.03.16 02:28:56:775]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Aaru Fortress time - undefined
-[16.03.16 02:28:56:825]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Demon Fortress time - undefined
-[16.03.16 02:28:56:875]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Monastic Fortress time - undefined
-[16.03.16 02:28:56:876]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 70-75 Level time - 02:30 16.03.2016
-[16.03.16 02:28:56:877]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 76-79 Level time - 02:30 16.03.2016
-[16.03.16 02:28:56:878]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 80-85 Level time - 02:30 16.03.2016
-[16.03.16 02:28:56:887]  INFO events.MonasteryOfSilenceMiniGameEvent: MonasteryOfSilenceMiniGameEvent: Monastery of Silence MiniGame time - undefined
-[16.03.16 02:28:56:888]  INFO events.MonasteryOfSilenceMiniGameFireEvent: MonasteryOfSilenceMiniGameFireEvent: Monastery of Silence MiniGame Fire time - undefined
-[16.03.16 02:28:56:889]  INFO events.MonasteryOfSilenceMiniGameEvent: MonasteryOfSilenceMiniGameEvent: Monastery of Silence MiniGame time - undefined
-[16.03.16 02:28:56:890]  INFO events.MonasteryOfSilenceMiniGameFireEvent: MonasteryOfSilenceMiniGameFireEvent: Monastery of Silence MiniGame Fire time - undefined
-[16.03.16 02:28:56:890]  INFO events.FunEvent: FunEvent: PCCafe Manager time - undefined
-[16.03.16 02:28:56:890]  INFO events.FunEvent: FunEvent: Master Enchanting time - undefined
-[16.03.16 02:28:56:890]  INFO gameserver.GameServer: ==================================================
-[16.03.16 02:28:56:892]  INFO instancemanager.CastleManorManager: Manor System: Initializing...
-[16.03.16 02:28:56:902]  INFO gameserver.GameServer: IdFactory: Free ObjectID's remaining: 1878997409
-[16.03.16 02:28:56:953]  INFO instancemanager.HellboundManager: HellboundManager: Loaded 628 spawn entries.
-[16.03.16 02:28:57:110]  INFO instancemanager.HellboundManager: HellboundManager: Spawned 964 mobs and NPCs according to the current Hellbound stage
-[16.03.16 02:28:57:111]  INFO instancemanager.HellboundManager: Hellbound Manager: Loaded
-[16.03.16 02:28:57:113]  INFO naia.NaiaTowerManager: Naia Tower Manager: Loaded 12 rooms
-[16.03.16 02:28:57:114]  INFO naia.NaiaTowerManager: Naia Core Manager: Loaded
-[16.03.16 02:28:57:115]  INFO instancemanager.SoDManager: Seed of Destruction Manager: Loaded
-[16.03.16 02:28:57:116]  INFO instancemanager.SoIManager: Seed of Infinity Manager: Loaded. Current stage is: 1
-[16.03.16 02:28:57:116]  INFO instancemanager.SpawnManager: SpawnManager: spawned 4 npc; spawns: 4; group: soi_world_mouths
-[16.03.16 02:28:57:117]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: soi_world_abyssgaze2
-[16.03.16 02:28:57:117]  INFO instancemanager.BloodAltarManager: Blood Altar Manager: Initializing...
-[16.03.16 02:28:57:341]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_alive_npc
-[16.03.16 02:28:57:501]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
-[16.03.16 02:28:57:513]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dawn_spawn
-[16.03.16 02:28:57:554]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dusk_spawn
-[16.03.16 02:28:57:554]  INFO gameserver.GameServer: Restoring offline traders...
-[16.03.16 02:28:57:558]  INFO gameserver.GameServer: Restored 0 offline traders.
-[16.03.16 02:28:57:558]  INFO gameserver.GameServer: GameServer started.
-[16.03.16 02:28:57:564]  INFO gameserver.GameServer: Telnet server is currently disabled.
-[16.03.16 02:28:57:564]  INFO gameserver.GameServer: =================================================
-[16.03.16 02:28:57:564]  INFO authcomm.AuthServerCommunication: Connecting to authserver on 127.0.0.1:9014
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer: AllowedMemory: ........... 3797504 KB
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer:      Allocated: .......... 3123712 KB (82.257%)
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer:      Non-Allocated: ...... 673792 KB (17.743%)
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer: AllocatedMemory: ......... 3123712 KB
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer:      Used: ............... 2097110 KB (55.2234%)
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer:      Unused (cached): .... 1026601 KB (27.0336%)
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer: UseableMemory: ........... 1700393 KB (44.7766%)
-[16.03.16 02:28:57:572]  INFO gameserver.GameServer: =================================================
-[16.03.16 02:28:57:579]  INFO as2gs.AuthResponse: Registered on authserver as 1 [Bartz]
-[16.03.16 02:50:55:484]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 02:55:55 MSK 2016
-[16.03.16 02:51:39:422]  INFO tables.PetDataTable: PetDataTable: Loaded 2354 pets.
-[16.03.16 03:00:00:081]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: NIGHT
-[16.03.16 03:28:57:356]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_dead_npc
-[16.03.16 03:28:57:358]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
-[16.03.16 03:28:57:358]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
-[16.03.16 03:28:57:358]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
-[16.03.16 03:28:57:359]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
-[16.03.16 03:28:57:359]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
-[16.03.16 03:28:57:361]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
-[16.03.16 03:28:57:361]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
-[16.03.16 03:28:57:361]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
-[16.03.16 03:28:57:362]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
-[16.03.16 03:28:57:362]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
-[16.03.16 03:28:57:362]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
-[16.03.16 03:28:57:363]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
-[16.03.16 03:50:55:495]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 03:55:55 MSK 2016
-[16.03.16 04:00:00:075]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
-[16.03.16 04:50:55:507]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 04:55:55 MSK 2016
-[16.03.16 05:28:57:357]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_alive_npc
-[16.03.16 05:50:55:519]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 05:55:55 MSK 2016
-[16.03.16 06:00:00:001]  INFO threading.RunnableImpl: Manor System: Next period approved
-[16.03.16 06:30:00:003]  INFO threading.RunnableImpl: RecNevitResetTask: start.
-[16.03.16 06:30:00:003]  INFO threading.RunnableImpl: RecNevitResetTask: done in 0 ms.
-[16.03.16 06:50:55:530]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 06:55:55 MSK 2016
-[16.03.16 07:00:00:089]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: NIGHT
-[16.03.16 07:50:55:546]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 07:55:55 MSK 2016
-[16.03.16 08:00:00:138]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
-[16.03.16 08:50:55:560]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 08:55:55 MSK 2016
-[16.03.16 09:50:55:585]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 09:55:55 MSK 2016
-[16.03.16 10:28:57:358]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_dead_npc
-[16.03.16 10:28:57:360]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
-[16.03.16 10:28:57:360]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
-[16.03.16 10:28:57:360]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
-[16.03.16 10:28:57:361]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
-[16.03.16 10:28:57:361]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
-[16.03.16 10:28:57:362]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
-[16.03.16 10:28:57:362]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
-[16.03.16 10:28:57:362]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
-[16.03.16 10:28:57:363]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
-[16.03.16 10:28:57:363]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
-[16.03.16 10:28:57:363]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
-[16.03.16 10:28:57:364]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
-[16.03.16 10:50:55:584]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 10:55:55 MSK 2016
-[16.03.16 11:00:00:125]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: NIGHT
-[16.03.16 11:50:55:599]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 11:55:55 MSK 2016
-[16.03.16 12:00:00:103]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
-[16.03.16 12:50:55:609]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 12:55:55 MSK 2016
-[16.03.16 12:58:57:355]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_alive_npc
-[16.03.16 13:50:55:619]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 13:55:55 MSK 2016
-[16.03.16 14:50:55:634]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 14:55:55 MSK 2016
-[16.03.16 15:00:00:104]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: NIGHT
-[16.03.16 15:50:55:647]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 15:55:55 MSK 2016
-[16.03.16 16:00:00:066]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
-[16.03.16 16:50:55:673]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 16:55:55 MSK 2016
-[16.03.16 17:50:55:771]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 17:55:55 MSK 2016
-[16.03.16 18:00:55:575]  INFO olympiad.CompStartTask: Olympiad System: Olympiad Game Started
-[16.03.16 18:28:57:368]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_dead_npc
-[16.03.16 18:28:57:369]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
-[16.03.16 18:28:57:369]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
-[16.03.16 18:28:57:370]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
-[16.03.16 18:28:57:370]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
-[16.03.16 18:28:57:371]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
-[16.03.16 18:28:57:371]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
-[16.03.16 18:28:57:372]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
-[16.03.16 18:28:57:372]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
-[16.03.16 18:28:57:373]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
-[16.03.16 18:28:57:373]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
-[16.03.16 18:28:57:373]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
-[16.03.16 18:28:57:373]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
-[16.03.16 18:50:55:783]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 18:55:55 MSK 2016
-[16.03.16 19:00:00:091]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: NIGHT
-[16.03.16 19:50:55:796]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 19:55:55 MSK 2016
-[16.03.16 20:00:00:001]  INFO threading.RunnableImpl: Manor System: Under maintenance mode started
-[16.03.16 20:00:00:067]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
-[16.03.16 20:06:00:000]  INFO threading.RunnableImpl: Manor System: Next period started
-[16.03.16 20:50:55:799]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 20:55:55 MSK 2016
-[16.03.16 21:28:57:374]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_alive_npc
-[16.03.16 21:50:55:829]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 21:55:55 MSK 2016
-[16.03.16 22:50:55:844]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 22:55:55 MSK 2016
-[16.03.16 23:00:00:085]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: NIGHT
-[16.03.16 23:50:55:858]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Wed Mar 16 23:55:55 MSK 2016
+[19.03.16 21:23:16:217]  INFO gameserver.GameServer: =================================================
+[19.03.16 21:23:16:222]  INFO gameserver.GameServer: Revision: ................ -1
+[19.03.16 21:23:16:223]  INFO gameserver.GameServer: Build date: .............. -1
+[19.03.16 21:23:16:223]  INFO gameserver.GameServer: =================================================
+[19.03.16 21:23:16:375]  INFO chat.ChatFilters: ChatFilters: loaded 3 filter(s).
+[19.03.16 21:23:16:386]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatDelay in XML Player access Object
+[19.03.16 21:23:16:386]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatMaxValue in XML Player access Object
+[19.03.16 21:23:16:386]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatCountPerDay in XML Player access Object
+[19.03.16 21:23:16:386]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusId in XML Player access Object
+[19.03.16 21:23:16:386]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusCount in XML Player access Object
+[19.03.16 21:23:16:386]  INFO gameserver.Config: Not found desclarate ACCESS name: CanChatPenalty in XML Player access Object
+[19.03.16 21:23:16:387]  INFO gameserver.Config: Not found desclarate ACCESS name: CanViewNPC in XML Player access Object
+[19.03.16 21:23:16:388]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
+[19.03.16 21:23:16:388]  INFO gameserver.Config: Not found desclarate ACCESS name: Unblock in XML Player access Object
+[19.03.16 21:23:16:388]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
+[19.03.16 21:23:16:388]  INFO gameserver.Config: Not found desclarate ACCESS name: CanGmEdit in XML Player access Object
+[19.03.16 21:23:16:388]  INFO gameserver.Config: Not found desclarate ACCESS name: UseInventory in XML Player access Object
+[19.03.16 21:23:16:389]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
+[19.03.16 21:23:16:389]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
+[19.03.16 21:23:16:389]  INFO gameserver.Config: Not found desclarate ACCESS name: CanEvaluate in XML Player access Object
+[19.03.16 21:23:16:389]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinParty in XML Player access Object
+[19.03.16 21:23:16:389]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
+[19.03.16 21:23:16:389]  INFO gameserver.Config: Not found desclarate ACCESS name: UseWarehouse in XML Player access Object
+[19.03.16 21:23:16:389]  INFO gameserver.Config: Not found desclarate ACCESS name: UseShop in XML Player access Object
+[19.03.16 21:23:16:393]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatDelay in XML Player access Object
+[19.03.16 21:23:16:393]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatMaxValue in XML Player access Object
+[19.03.16 21:23:16:393]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatCountPerDay in XML Player access Object
+[19.03.16 21:23:16:394]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusId in XML Player access Object
+[19.03.16 21:23:16:394]  INFO gameserver.Config: Not found desclarate ACCESS name: BanChatBonusCount in XML Player access Object
+[19.03.16 21:23:16:398]  INFO gameserver.Config: Not found desclarate ACCESS name: CanViewNPC in XML Player access Object
+[19.03.16 21:23:16:398]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
+[19.03.16 21:23:16:399]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
+[19.03.16 21:23:16:399]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
+[19.03.16 21:23:16:399]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
+[19.03.16 21:23:16:399]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
+[19.03.16 21:23:16:403]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
+[19.03.16 21:23:16:403]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
+[19.03.16 21:23:16:404]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
+[19.03.16 21:23:16:404]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
+[19.03.16 21:23:16:404]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
+[19.03.16 21:23:16:408]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
+[19.03.16 21:23:16:408]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
+[19.03.16 21:23:16:408]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
+[19.03.16 21:23:16:408]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
+[19.03.16 21:23:16:415]  INFO gameserver.Config: Not found desclarate ACCESS name: CanViewNPC in XML Player access Object
+[19.03.16 21:23:16:415]  INFO gameserver.Config: Not found desclarate ACCESS name: PeaceAttack in XML Player access Object
+[19.03.16 21:23:16:416]  INFO gameserver.Config: Not found desclarate ACCESS name: Unblock in XML Player access Object
+[19.03.16 21:23:16:416]  INFO gameserver.Config: Not found desclarate ACCESS name: BlockInventory in XML Player access Object
+[19.03.16 21:23:16:416]  INFO gameserver.Config: Not found desclarate ACCESS name: CanGmEdit in XML Player access Object
+[19.03.16 21:23:16:416]  INFO gameserver.Config: Not found desclarate ACCESS name: UseInventory in XML Player access Object
+[19.03.16 21:23:16:416]  INFO gameserver.Config: Not found desclarate ACCESS name: UseTrade in XML Player access Object
+[19.03.16 21:23:16:417]  INFO gameserver.Config: Not found desclarate ACCESS name: CanAttack in XML Player access Object
+[19.03.16 21:23:16:417]  INFO gameserver.Config: Not found desclarate ACCESS name: CanEvaluate in XML Player access Object
+[19.03.16 21:23:16:417]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinParty in XML Player access Object
+[19.03.16 21:23:16:417]  INFO gameserver.Config: Not found desclarate ACCESS name: CanJoinClan in XML Player access Object
+[19.03.16 21:23:16:417]  INFO gameserver.Config: Not found desclarate ACCESS name: UseWarehouse in XML Player access Object
+[19.03.16 21:23:16:417]  INFO gameserver.Config: Not found desclarate ACCESS name: UseShop in XML Player access Object
+[19.03.16 21:23:16:897]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
+[19.03.16 21:23:16:908]  INFO idfactory.IdFactory: IdFactory: Extracted 123 used id's from characters
+[19.03.16 21:23:16:959]  INFO idfactory.IdFactory: IdFactory: Extracted 2600 used id's from items
+[19.03.16 21:23:16:960]  INFO idfactory.IdFactory: IdFactory: Extracted 6 used id's from clan_data
+[19.03.16 21:23:16:964]  INFO idfactory.IdFactory: IdFactory: Extracted total 2729 used id's.
+[19.03.16 21:23:16:968]  INFO idfactory.BitSetIDFactory: IdFactory: 205824 id's available.
+[19.03.16 21:23:17:173]  INFO scripts.Scripts: Scripts: Loading...
+[19.03.16 21:23:23:626]  INFO scripts.Scripts: Scripts: Loaded 1121 classes.
+[19.03.16 21:23:23:654]  INFO geodata.GeoEngine: GeoEngine: Loading Geodata...
+[19.03.16 21:23:28:173]  INFO geodata.GeoEngine: GeoEngine: Loaded 203 map(s), max layers: 21
+[19.03.16 21:23:28:181]  INFO utils.Strings: Loaded 418 translit entries.
+[19.03.16 21:23:28:184]  INFO gameserver.GameTimeController: GameTimeController: initialized. Current time is 14:20 in the day.
+[19.03.16 21:23:28:185]  INFO model.World: L2World: Creating regions: [256][272][16].
+[19.03.16 21:23:28:190]  INFO htm.HtmCache: HtmCache: lazy cache mode.
+[19.03.16 21:23:28:212]  INFO data.StringHolder: StringHolder: load strings: 375 for lang: ENGLISH
+[19.03.16 21:23:28:212]  INFO data.StringHolder: StringHolder: load strings: 375 for lang: RUSSIAN
+[19.03.16 21:23:31:247]  INFO holder.ItemNameLineHolder: ItemNameLineHolder: load itemname line(s): 19194 for lang: ENGLISH
+[19.03.16 21:23:31:247]  INFO holder.ItemNameLineHolder: ItemNameLineHolder: load itemname line(s): 19194 for lang: RUSSIAN
+[19.03.16 21:23:31:777]  INFO holder.NpcNameLineHolder: NpcNameLineHolder: load npcname line(s): 10461 for lang: ENGLISH
+[19.03.16 21:23:31:777]  INFO holder.NpcNameLineHolder: NpcNameLineHolder: load npcname line(s): 10461 for lang: RUSSIAN
+[19.03.16 21:23:31:777]  INFO holder.NpcNameLineHolder: NpcNameLineHolder: load 1794 blacklist names
+[19.03.16 21:23:32:008]  INFO holder.NpcStringLineHolder: NpcStringLineHolder: load npcstring line(s): 5914 for lang: ENGLISH
+[19.03.16 21:23:32:008]  INFO holder.NpcStringLineHolder: NpcStringLineHolder: load npcstring line(s): 5914 for lang: RUSSIAN
+[19.03.16 21:23:35:603]  INFO skills.SkillsEngine: SkillsEngine: Loaded 65954 skill templates from XML files. Max id: 90002, max level: 259
+[19.03.16 21:23:36:571]  INFO holder.OptionDataHolder: OptionDataHolder: loaded 24985 option data(s) count.
+[19.03.16 21:23:37:988]  INFO holder.ItemHolder: ItemHolder: loaded 19121 item(s) count.
+[19.03.16 21:23:40:970]  INFO holder.NpcHolder: NpcHolder: loaded 10460 npc(s) count.
+[19.03.16 21:23:40:994]  INFO holder.MoveRouteHolder: MoveRouteHolder: loaded 53 move route(s) count.
+[19.03.16 21:23:41:007]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
+[19.03.16 21:23:41:045]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
+[19.03.16 21:23:41:049]  INFO holder.StaticObjectHolder: StaticObjectHolder: loaded 50 static object(s) count.
+[19.03.16 21:23:41:214]  INFO holder.DoorHolder: DoorHolder: loaded 1155 door(s) count.
+[19.03.16 21:23:41:321]  INFO holder.ZoneHolder: ZoneHolder: loaded 1227 zone(s) count.
+[19.03.16 21:23:41:975]  INFO holder.SpawnHolder: SpawnHolder: loaded 28988 spawn(s) count.
+[19.03.16 21:23:42:618]  INFO holder.InstantZoneHolder: InstantZoneHolder: loaded 140 instant zone(s) count.
+[19.03.16 21:23:43:200]  INFO holder.AirshipDockHolder: AirshipDockHolder: loaded 4 airship dock(s) count.
+[19.03.16 21:23:43:277]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 56995 normal learns for 103 classes.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 76 transfer learns for 3 classes.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 120 transformation learns for 6 races.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 117 fishing learns.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 109 fishing non dwarf learns.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 76 certification learns.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 3 collection learns.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 44 pledge learns.
+[19.03.16 21:23:43:278]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 18 sub unit learns.
+[19.03.16 21:23:43:364]  INFO holder.ResidenceHolder: ResidenceHolder: total size: 83
+[19.03.16 21:23:43:364]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 44 clanhall(s).
+[19.03.16 21:23:43:364]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 castle(s).
+[19.03.16 21:23:43:364]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 21 fortress(s).
+[19.03.16 21:23:43:364]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 dominion(s).
+[19.03.16 21:23:43:411]  INFO instancemanager.RaidBossSpawnManager: RaidBossSpawnManager: Loaded 18 Statuses
+[19.03.16 21:23:43:454]  INFO entity.SevenSigns: SevenSigns: Currently in the Seal Validation period!
+[19.03.16 21:23:43:454]  INFO entity.SevenSigns: SevenSigns: The Seal of Gnosis remains unclaimed.
+[19.03.16 21:23:43:454]  INFO entity.SevenSigns: SevenSigns: The Seal of Avarice remains unclaimed.
+[19.03.16 21:23:43:454]  INFO entity.SevenSigns: SevenSigns: The Seal of Strife remains unclaimed.
+[19.03.16 21:23:43:454]  INFO entity.SevenSigns: SevenSigns: The Competition last week ended with a tie.
+[19.03.16 21:23:43:455]  INFO entity.SevenSigns: SevenSigns: Next period begins in 1 days, 20 hours and 36 mins.
+[19.03.16 21:23:43:582]  INFO holder.EventHolder: EventHolder: loaded 114 event(s) count.
+[19.03.16 21:23:43:588]  INFO holder.CubicHolder: CubicHolder: loaded 145 cubic(s) count.
+[19.03.16 21:23:43:684]  INFO holder.BuyListHolder: TradeController: Loaded 4 file(s).
+[19.03.16 21:23:43:685]  INFO holder.BuyListHolder: TradeController: Loaded 24928 Items.
+[19.03.16 21:23:43:685]  INFO holder.BuyListHolder: TradeController: Loaded 726 Buylists.
+[19.03.16 21:23:44:092]  INFO holder.RecipeHolder: RecipeController: Loaded 998 Recipes.
+[19.03.16 21:23:44:148]  WARN parser.MultiSellParser: MultiSell [10003] Production 'Shield of Nightmare' [2498] price is lower than referenced | 1422000 > 10000
+[19.03.16 21:23:44:148]  WARN parser.MultiSellParser: MultiSell [10003] Production 'Dark Crystal Shield' [641] price is lower than referenced | 935000 > 10000
+[19.03.16 21:23:44:171]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Elven Long Sword' [2499] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:171]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Claymore' [70] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:171]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Morning Star' [88] price is lower than referenced | 1074000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Staff of Life' [189] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Atuba Mace' [190] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Mithril Dagger' [225] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Light Crossbow' [280] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Glaive' [297] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Scallop Jamadhr' [262] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Grand Epee' [9225] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'General's Katzbalger' [9226] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Cranequin' [9227] price is lower than referenced | 1387000 > 1000000
+[19.03.16 21:23:44:172]  WARN parser.MultiSellParser: MultiSell [10013] Production 'Artisan's Sword*Crimson Sword' [2542] price is lower than referenced | 1275700 > 1000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Breast Plate' [9416] price is lower than referenced | 24398000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10228] price is lower than referenced | 33673000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10229] price is lower than referenced | 33673000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10230] price is lower than referenced | 33673000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Platinum Plate' [10231] price is lower than referenced | 33673000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jewel Leather Mail' [10233] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jewel Leather Mail' [10234] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10487] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10488] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:317]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10489] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:318]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Jeweled Leather Armor' [10490] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:318]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10236] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:318]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10237] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:318]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10238] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:318]  WARN parser.MultiSellParser: MultiSell [10002] Production 'Dynasty Silver Satin Tunic' [10239] price is lower than referenced | 25255000 > 20000000
+[19.03.16 21:23:44:565]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Moirai Necklace' [15725] price is lower than referenced | 10961000 > 8000000
+[19.03.16 21:23:44:565]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Moirai Earring' [15724] price is lower than referenced | 8221000 > 8000000
+[19.03.16 21:23:44:565]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Dynasty Earrings' [9455] price is lower than referenced | 5956000 > 1000000
+[19.03.16 21:23:44:565]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Dynasty Ring' [9457] price is lower than referenced | 3971000 > 1000000
+[19.03.16 21:23:44:566]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Tateossian Earring' [858] price is lower than referenced | 3270000 > 1000000
+[19.03.16 21:23:44:566]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Tateossian Ring' [889] price is lower than referenced | 2180000 > 1000000
+[19.03.16 21:23:44:566]  WARN parser.MultiSellParser: MultiSell [10014] Production 'Majestic Earring' [862] price is lower than referenced | 1498000 > 1000000
+[19.03.16 21:23:44:816]  INFO holder.MultiSellHolder: MultiSellHolder: loaded 253 multi sell(s) count.
+[19.03.16 21:23:44:830]  INFO holder.ProductHolder: ProductItemTable: Loaded 0 product item on sale.
+[19.03.16 21:23:45:123]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:124]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:125]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:125]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:125]  WARN parser.AugmentationDataParser: AugmentationDataParser: Not find variants for mineral: 12762
+[19.03.16 21:23:45:125]  INFO holder.AugmentationDataHolder: AugmentationDataHolder: loaded 1009 augmentation data(s) count.
+[19.03.16 21:23:45:158]  INFO holder.HennaHolder: HennaHolder: loaded 180 henna(s) count.
+[19.03.16 21:23:45:162]  INFO holder.EnchantItemHolder: EnchantItemHolder: load 4 enchant scroll(s).
+[19.03.16 21:23:45:164]  INFO holder.SoulCrystalHolder: SoulCrystalHolder: loaded 54 soul crystal(s) count.
+[19.03.16 21:23:45:171]  INFO holder.ArmorSetsHolder: ArmorSetsHolder: loaded 217 armor sets(s) count.
+[19.03.16 21:23:45:182]  INFO holder.FishDataHolder: FishDataHolder: load 278 fish(es).
+[19.03.16 21:23:45:182]  INFO holder.FishDataHolder: FishDataHolder: load 30 lure(s).
+[19.03.16 21:23:45:182]  INFO holder.FishDataHolder: FishDataHolder: load 4 distribution(s).
+[19.03.16 21:23:45:188]  INFO holder.PetitionGroupHolder: PetitionGroupHolder: loaded 1 petition group(s) count.
+[19.03.16 21:23:45:191]  INFO cache.CrestCache: CrestCache: Loaded 0 crests
+[19.03.16 21:23:45:240] ERROR pledge.SubUnit: Clan sss1 have no leader!
+[19.03.16 21:23:45:242]  WARN tables.ClanTable: membersCount = 0 for clanId: 268485820
+[19.03.16 21:23:45:269]  INFO tables.SkillTreeTable: SkillTreeTable: Loaded 526 enchanted skills.
+[19.03.16 21:23:45:307]  INFO tables.CharTemplateTable: CharTemplateTable: Loaded 206 Character Templates.
+[19.03.16 21:23:45:310]  INFO tables.EnchantHPBonusTable: EnchantHPBonusTable: Loaded bonuses for 6 grades.
+[19.03.16 21:23:45:321]  INFO tables.LevelUpTable: LevelUpData: Loaded 103 Character Level Up Templates.
+[19.03.16 21:23:45:334]  INFO tables.PetSkillsTable: PetSkillsTable: Loaded 2215 skills.
+[19.03.16 21:23:45:336]  INFO itemauction.ItemAuctionManager: Initializing ItemAuctionManager
+[19.03.16 21:23:45:939]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2000 npc for group: NONE
+[19.03.16 21:23:46:474]  INFO instancemanager.SpawnManager: SpawnManager: spawned 6000 npc for group: NONE
+[19.03.16 21:23:46:825]  INFO instancemanager.SpawnManager: SpawnManager: spawned 9000 npc for group: NONE
+[19.03.16 21:23:46:958]  INFO instancemanager.SpawnManager: SpawnManager: spawned 11000 npc for group: NONE
+[19.03.16 21:23:47:234]  INFO instancemanager.SpawnManager: SpawnManager: spawned 13000 npc for group: NONE
+[19.03.16 21:23:47:355]  INFO instancemanager.SpawnManager: SpawnManager: spawned 14000 npc for group: NONE
+[19.03.16 21:23:47:396]  INFO instancemanager.SpawnManager: SpawnManager: spawned 15000 npc for group: NONE
+[19.03.16 21:23:47:690]  INFO instancemanager.SpawnManager: SpawnManager: spawned 18000 npc for group: NONE
+[19.03.16 21:23:47:841]  INFO instancemanager.SpawnManager: SpawnManager: spawned 23000 npc for group: NONE
+[19.03.16 21:23:47:862]  INFO instancemanager.SpawnManager: SpawnManager: spawned 24000 npc for group: NONE
+[19.03.16 21:23:47:927]  INFO instancemanager.SpawnManager: SpawnManager: spawned 27000 npc for group: NONE
+[19.03.16 21:23:48:075]  INFO instancemanager.SpawnManager: SpawnManager: spawned 31000 npc for group: NONE
+[19.03.16 21:23:48:112]  INFO instancemanager.SpawnManager: SpawnManager: spawned 32000 npc for group: NONE
+[19.03.16 21:23:48:152]  INFO instancemanager.SpawnManager: SpawnManager: spawned 33000 npc for group: NONE
+[19.03.16 21:23:48:175]  INFO instancemanager.SpawnManager: SpawnManager: spawned 34000 npc for group: NONE
+[19.03.16 21:23:50:948]  INFO instancemanager.SpawnManager: SpawnManager: spawned 36000 npc for group: NONE
+[19.03.16 21:23:51:049]  INFO instancemanager.SpawnManager: SpawnManager: spawned 37000 npc for group: NONE
+[19.03.16 21:23:51:120]  INFO instancemanager.SpawnManager: SpawnManager: spawned 37404 npc; spawns: 16989; group: NONE
+[19.03.16 21:23:51:120]  INFO data.BoatHolder: BoatHolder: loaded 6 boat(s) count.
+[19.03.16 21:23:51:122]  INFO data.BoatHolder: BoatHolder: Spawning: RuneGludinBoat
+[19.03.16 21:23:51:122]  INFO data.BoatHolder: BoatHolder: Spawning: GiranTalkingIslandBoat
+[19.03.16 21:23:51:122]  INFO data.BoatHolder: BoatHolder: Spawning: GludinTalkingIslandBoat
+[19.03.16 21:23:51:122]  INFO data.BoatHolder: BoatHolder: Spawning: InnadrilPleasureBoat
+[19.03.16 21:23:51:122]  INFO data.BoatHolder: BoatHolder: Spawning: RunePrimevalBoat
+[19.03.16 21:23:51:122]  INFO data.BoatHolder: BoatHolder: Spawning: AdenGracia_Airship
+[19.03.16 21:23:51:123]  INFO holder.StaticObjectHolder: StaticObjectHolder: spawned: 50 static object(s).
+[19.03.16 21:23:51:225]  INFO model.Manor: ManorManager: Loaded 270 seeds
+[19.03.16 21:23:51:482]  INFO bosses.AntharasManager: AntharasManager: State of Antharas is NOTSPAWN.
+[19.03.16 21:23:51:482]  INFO bosses.AntharasManager: AntharasManager: Next spawn date of Antharas is 19:15 09.02.2016.
+[19.03.16 21:23:51:483]  INFO bosses.BaiumManager: BaiumManager: State of Baium is NOTSPAWN.
+[19.03.16 21:23:51:483]  INFO bosses.BaiumManager: BaiumManager: Next spawn date: 04:56 04.03.2016
+[19.03.16 21:23:51:488]  INFO bosses.BelethManager: Beleth Manager: Loaded successfuly
+[19.03.16 21:23:51:489]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[19.03.16 21:23:51:505]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 physical monsters spawns.
+[19.03.16 21:23:51:521]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 magical monsters spawns.
+[19.03.16 21:23:51:525]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[19.03.16 21:23:51:529]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[19.03.16 21:23:51:529]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[19.03.16 21:23:51:529]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[19.03.16 21:23:51:529]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[19.03.16 21:23:51:529]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[19.03.16 21:23:51:531]  INFO bosses.FourSepulchersManager: FourSepulchersManager: Beginning in Attack time
+[19.03.16 21:23:51:531]  INFO bosses.SailrenManager: SailrenManager: State of Sailren is NOTSPAWN.
+[19.03.16 21:23:51:532]  INFO bosses.SailrenManager: SailrenManager: Next spawn date of Sailren is 03:00 01.01.1970.
+[19.03.16 21:23:51:532]  INFO bosses.ValakasManager: ValakasManager: State of Valakas is NOTSPAWN.
+[19.03.16 21:23:51:532]  INFO bosses.ValakasManager: ValakasManager: Next spawn date of Valakas is 19:58 09.02.2016.
+[19.03.16 21:23:51:532]  INFO threading.RunnableImpl: Sat Mar 19 21:23:51 MSK 2016 Atk announce scheduled to 25.0 minute of this hour.
+[19.03.16 21:23:51:565]  INFO Christmas.Christmas: Loaded Event: Christmas [state: deactivated]
+[19.03.16 21:23:51:581]  INFO services.Bash: Service: Bash [disabled]
+[19.03.16 21:23:51:620]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 13 room types with 96 rooms.
+[19.03.16 21:23:51:620]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 281 dimensional rift spawns, 0 errors.
+[19.03.16 21:23:51:646]  INFO instancemanager.AutoSpawnManager: AutoSpawnHandler: Loaded 50 handlers in total.
+[19.03.16 21:23:51:652]  INFO olympiad.Olympiad: Olympiad System: Loading Olympiad System....
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: Currently in Olympiad Period
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: Period Ends....
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: In 7 days, 4 hours and 36 mins.
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: Next Weekly Change is in....
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: In 3 days, 2 hours and 16 mins.
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: Loaded 25 Noblesses
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: Competition Period Starts in 0 days, 0 hours and 0 mins.
+[19.03.16 21:23:51:653]  INFO olympiad.Olympiad: Olympiad System: Event starts/started: Sat Mar 19 18:00:51 MSK 2016
+[19.03.16 21:23:51:657]  INFO entity.Hero: Hero System: Loaded 0 Heroes.
+[19.03.16 21:23:51:657]  INFO entity.Hero: Hero System: Loaded 0 all time Heroes.
+[19.03.16 21:23:51:657]  INFO instancemanager.PetitionManager: Initializing PetitionManager
+[19.03.16 21:23:51:663]  INFO instancemanager.CursedWeaponsManager: CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[19.03.16 21:23:51:664]  INFO instancemanager.CoupleManager: Initializing CoupleManager
+[19.03.16 21:23:51:664]  INFO instancemanager.CoupleManager: Loaded: 0 couples(s)
+[19.03.16 21:23:51:665]  INFO gameserver.GameServer: CoupleManager initialized
+[19.03.16 21:23:51:665]  INFO admincommands.AdminCommandHandler: AdminCommandHandler: loaded 314 admin command handler(s) count.
+[19.03.16 21:23:51:665]  INFO usercommands.UserCommandHandler: UserCommandHandler: loaded 16 user command handler(s) count.
+[19.03.16 21:23:51:665]  INFO voicecommands.VoicedCommandHandler: VoicedCommandHandler: loaded 30 voiced command handler(s) count.
+[19.03.16 21:23:51:665]  INFO bbs.BbsHandlerHolder: BbsHandlerHolder: loaded 65 bbs handler(s) count.
+[19.03.16 21:23:51:665]  INFO bypass.BypassHolder: BypassHolder: loaded 183 bypass(s) count.
+[19.03.16 21:23:51:666]  INFO onshiftaction.OnShiftActionHolder: OnShiftActionHolder: loaded 6 on shift action(s) count.
+[19.03.16 21:23:51:666]  INFO olympiad.CompStartTask: Olympiad System: Olympiad Game Started
+[19.03.16 21:23:51:668]  INFO gameserver.GameServer: =[Events]=========================================
+[19.03.16 21:23:51:775]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Gludio Castle time - 20:00 20.03.2016
+[19.03.16 21:23:51:782]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Dion Castle time - 22:00 20.03.2016
+[19.03.16 21:23:51:787]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Giran Castle time - 16:00 20.03.2016
+[19.03.16 21:23:51:794]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Oren Castle time - 18:00 20.03.2016
+[19.03.16 21:23:51:802]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Aden Castle time - 18:00 20.03.2016
+[19.03.16 21:23:51:810]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Innadril Castle time - 22:00 20.03.2016
+[19.03.16 21:23:51:815]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Goddard Castle time - 18:00 20.03.2016
+[19.03.16 21:23:51:821]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Rune Castle time - 18:00 20.03.2016
+[19.03.16 21:23:51:826]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Schuttgart Castle time - 22:00 20.03.2016
+[19.03.16 21:23:51:830]  INFO impl.ClanHallNpcSiegeEvent: ClanHallNpcSiegeEvent: Fortress Of Resistance time - 20:00 21.03.2016
+[19.03.16 21:23:51:831]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:831]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:834]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Topaz Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:836]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Ruby Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:838]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Crystal Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:839]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:840]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:842]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:843]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:844]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Atramental Barracks time - 17:00 18.01.2016
+[19.03.16 21:23:51:845]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Scarlet Barracks time - 17:00 18.01.2016
+[19.03.16 21:23:51:846]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Viridian Barracks time - 17:00 18.01.2016
+[19.03.16 21:23:51:847]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Devastated Castle time - 20:00 26.03.2016
+[19.03.16 21:23:51:848]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Bandit Stronghold time - 00:00 27.03.2016
+[19.03.16 21:23:51:849]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:849]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:851]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:852]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 17:00 18.01.2016
+[19.03.16 21:23:51:853]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Gold Manor time - 17:00 18.01.2016
+[19.03.16 21:23:51:853]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:854]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:855]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:857]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:858]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:859]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 17:00 18.01.2016
+[19.03.16 21:23:51:860]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:861]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:862]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:863]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:868]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Mont Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:870]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Astaire Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:871]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Aria Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:872]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Yiana Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:873]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Roien Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:874]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Luna Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:883]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Traban Chamber time - 17:00 18.01.2016
+[19.03.16 21:23:51:884]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Eisen Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:886]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Heavy Metal Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:887]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Molten Ore Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:890]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Titan Hall time - 17:00 18.01.2016
+[19.03.16 21:23:51:893]  INFO impl.ClanHallMiniGameEvent: ClanHallMiniGameEvent: Rainbow Springs time - 00:00 27.03.2016
+[19.03.16 21:23:51:894]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Wild Beast Reserve time - 23:00 26.03.2016
+[19.03.16 21:23:51:895]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Fortress of Dead time - 20:00 26.03.2016
+[19.03.16 21:23:51:898]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Gludio Dominion time - undefined
+[19.03.16 21:23:51:899]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Dion Dominion time - undefined
+[19.03.16 21:23:51:900]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Giran Dominion time - undefined
+[19.03.16 21:23:51:902]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Oren Dominion time - undefined
+[19.03.16 21:23:51:903]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Aden Dominion time - undefined
+[19.03.16 21:23:51:904]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Innadril Dominion time - undefined
+[19.03.16 21:23:51:905]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Goddard Dominion time - undefined
+[19.03.16 21:23:51:907]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Rune Dominion time - undefined
+[19.03.16 21:23:51:909]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Schuttgart Dominion time - undefined
+[19.03.16 21:23:52:542]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Shanty Fortress time - undefined
+[19.03.16 21:23:52:916]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Southern Fortress time - undefined
+[19.03.16 21:23:52:975]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hive Fortress time - undefined
+[19.03.16 21:23:53:058]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Valley Fortress time - undefined
+[19.03.16 21:23:53:132]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Ivory Fortress time - undefined
+[19.03.16 21:23:53:271]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Narsell Fortress time - undefined
+[19.03.16 21:23:53:633]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Bayou Fortress time - undefined
+[19.03.16 21:23:54:407]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: White Sands Fortress time - undefined
+[19.03.16 21:23:54:495]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Borderland Fortress time - undefined
+[19.03.16 21:23:54:566]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Swamp Fortress time - undefined
+[19.03.16 21:23:54:640]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Archaic Fortress time - undefined
+[19.03.16 21:23:55:007]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Floran Fortress time - undefined
+[19.03.16 21:23:55:589]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Cloud Mountain Fortress time - undefined
+[19.03.16 21:23:55:650]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Tanor Fortress time - undefined
+[19.03.16 21:23:55:731]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Dragonspine Fortress time - undefined
+[19.03.16 21:23:55:815]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Antharas Fortress time - undefined
+[19.03.16 21:23:55:896]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Western Fortress time - undefined
+[19.03.16 21:23:56:022]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hunter's Fortress time - undefined
+[19.03.16 21:23:56:366]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Aaru Fortress time - undefined
+[19.03.16 21:23:57:160]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Demon Fortress time - undefined
+[19.03.16 21:23:57:257]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Monastic Fortress time - undefined
+[19.03.16 21:23:57:258]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 70-75 Level time - 21:30 19.03.2016
+[19.03.16 21:23:57:259]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 76-79 Level time - 21:30 19.03.2016
+[19.03.16 21:23:57:260]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 80-85 Level time - 21:30 19.03.2016
+[19.03.16 21:23:57:274]  INFO events.MonasteryOfSilenceMiniGameEvent: MonasteryOfSilenceMiniGameEvent: Monastery of Silence MiniGame time - undefined
+[19.03.16 21:23:57:274]  INFO events.MonasteryOfSilenceMiniGameFireEvent: MonasteryOfSilenceMiniGameFireEvent: Monastery of Silence MiniGame Fire time - undefined
+[19.03.16 21:23:57:277]  INFO events.MonasteryOfSilenceMiniGameEvent: MonasteryOfSilenceMiniGameEvent: Monastery of Silence MiniGame time - undefined
+[19.03.16 21:23:57:277]  INFO events.MonasteryOfSilenceMiniGameFireEvent: MonasteryOfSilenceMiniGameFireEvent: Monastery of Silence MiniGame Fire time - undefined
+[19.03.16 21:23:57:278]  INFO events.FunEvent: FunEvent: PCCafe Manager time - undefined
+[19.03.16 21:23:57:278]  INFO events.FunEvent: FunEvent: Master Enchanting time - undefined
+[19.03.16 21:23:57:278]  INFO gameserver.GameServer: ==================================================
+[19.03.16 21:23:57:281]  INFO instancemanager.CastleManorManager: Manor System: Initializing...
+[19.03.16 21:23:57:292]  INFO gameserver.GameServer: IdFactory: Free ObjectID's remaining: 1878997408
+[19.03.16 21:23:57:329]  INFO instancemanager.HellboundManager: HellboundManager: Loaded 628 spawn entries.
+[19.03.16 21:23:57:507]  INFO instancemanager.HellboundManager: HellboundManager: Spawned 964 mobs and NPCs according to the current Hellbound stage
+[19.03.16 21:23:57:507]  INFO instancemanager.HellboundManager: Hellbound Manager: Loaded
+[19.03.16 21:23:57:509]  INFO naia.NaiaTowerManager: Naia Tower Manager: Loaded 12 rooms
+[19.03.16 21:23:57:510]  INFO naia.NaiaTowerManager: Naia Core Manager: Loaded
+[19.03.16 21:23:57:511]  INFO instancemanager.SoDManager: Seed of Destruction Manager: Loaded
+[19.03.16 21:23:57:512]  INFO instancemanager.SoIManager: Seed of Infinity Manager: Loaded. Current stage is: 1
+[19.03.16 21:23:57:512]  INFO instancemanager.SpawnManager: SpawnManager: spawned 4 npc; spawns: 4; group: soi_world_mouths
+[19.03.16 21:23:57:513]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: soi_world_abyssgaze2
+[19.03.16 21:23:57:513]  INFO instancemanager.BloodAltarManager: Blood Altar Manager: Initializing...
+[19.03.16 21:23:57:518]  INFO instancemanager.SpawnManager: SpawnManager: spawned 63 npc; spawns: 63; group: bloodaltar_alive_npc
+[19.03.16 21:23:57:660]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[19.03.16 21:23:58:085]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dawn_spawn
+[19.03.16 21:23:58:121]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dusk_spawn
+[19.03.16 21:23:58:121]  INFO gameserver.GameServer: Restoring offline traders...
+[19.03.16 21:23:58:123]  INFO gameserver.GameServer: Restored 0 offline traders.
+[19.03.16 21:23:58:123]  INFO gameserver.GameServer: GameServer started.
+[19.03.16 21:23:58:128]  INFO gameserver.GameServer: Telnet server is currently disabled.
+[19.03.16 21:23:58:128]  INFO gameserver.GameServer: =================================================
+[19.03.16 21:23:58:128]  INFO authcomm.AuthServerCommunication: Connecting to authserver on 127.0.0.1:9014
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer: AllowedMemory: ........... 3797504 KB
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer:      Allocated: .......... 3214784 KB (84.6552%)
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer:      Non-Allocated: ...... 582720 KB (15.3448%)
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer: AllocatedMemory: ......... 3214784 KB
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer:      Used: ............... 2085099 KB (54.9071%)
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer:      Unused (cached): .... 1129684 KB (29.7481%)
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer: UseableMemory: ........... 1712404 KB (45.0929%)
+[19.03.16 21:23:58:134]  INFO gameserver.GameServer: =================================================
+[19.03.16 21:23:58:148]  INFO as2gs.AuthResponse: Registered on authserver as 1 [Bartz]
+[19.03.16 21:25:10:657]  INFO tables.PetDataTable: PetDataTable: Loaded 2354 pets.

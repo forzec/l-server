@@ -173,7 +173,7 @@ public class CommunityBoard extends ScriptBbsHandler
 		{                  
                     try
                     {                    
-                        if(player.isDead() || player.isAlikeDead() || player.isCastingNow() || player.isInCombat() || player.isAttackingNow() || player.isInOlympiadMode() || player.isFlying() || player.getKarma() > 0 || player.isInDuel() || player.isTerritoryFlagEquipped() || player.isDamageBlocked() || player.isInvisible())
+                        if(player.isDead() || player.isAlikeDead() || player.isCastingNow() || player.isInCombat() || player.isAttackingNow() || player.isInOlympiadMode() || player.isFlying() || player.isInDuel() || player.isTerritoryFlagEquipped() || player.isDamageBlocked() || player.isInvisible())
                         {
                                 player.sendMessage("В данных условиях использовать 'Телепорт' запрещено.");
                                 onBypassCommand(player, "_bbshome");

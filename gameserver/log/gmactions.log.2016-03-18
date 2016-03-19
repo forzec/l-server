@@ -1,0 +1,55 @@
+[18.03.16 03:18:53] SUCCESS sdasdas[268488030] -> sdasdas[268488030] admin_admin
+[18.03.16 03:18:57] SUCCESS sdasdas[268488030] -> sdasdas[268488030] admin_setkarma 0
+[18.03.16 03:24:18] SUCCESS sdasdas[268488030] admin_admin
+[18.03.16 03:24:20] SUCCESS sdasdas[268488030] admin_show_moves
+[18.03.16 03:24:22] SUCCESS sdasdas[268488030] admin_show_html teleports/arena.htm
+[18.03.16 03:24:31] SUCCESS sdasdas[268488030] admin_move_to 12312 182752 -3558
+[18.03.16 03:24:42] SUCCESS sdasdas[268488030] admin_admin
+[18.03.16 03:24:43] SUCCESS sdasdas[268488030] admin_show_moves
+[18.03.16 03:35:38] SUCCESS sdasdas[268488030] -> 31210 Race Track Gatekeeper admin_instant_move
+[18.03.16 12:55:13] SUCCESS [GM]Tester[268547881] admin_server_restart 5
+[18.03.16 14:41:03] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_enchant
+[18.03.16 14:41:06] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_seteh 6
+[18.03.16 14:41:07] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setec 6
+[18.03.16 14:41:08] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setre 6
+[18.03.16 14:41:08] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setle 6
+[18.03.16 14:41:09] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_seten 6
+[18.03.16 14:41:10] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_seteg 6
+[18.03.16 14:41:10] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setel 6
+[18.03.16 14:41:12] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_seteb 6
+[18.03.16 14:41:13] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setrf 6
+[18.03.16 14:41:14] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setlf 6
+[18.03.16 14:41:14] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_seteg 6
+[18.03.16 14:41:15] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setel 6
+[18.03.16 14:41:16] SUCCESS [GM]Tester[268547881] -> [GM]Tester[268547881] admin_setle 6
+[18.03.16 22:07:24] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_admin
+[18.03.16 22:07:28] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_char_manage
+[18.03.16 22:07:30] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_admin
+[18.03.16 22:07:32] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_server admserver.htm
+[18.03.16 22:07:34] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_show_html events/events.htm
+[18.03.16 22:07:36] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_server admserver.htm
+[18.03.16 22:07:38] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_admin
+[18.03.16 22:07:46] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_char_manage
+[18.03.16 22:07:48] SUCCESS Farm[268493092] -> 50001 Farm Easy Caster admin_show_characters 0
+[18.03.16 22:25:13] SUCCESS [ADMIN][268485268] admin_admin
+[18.03.16 22:25:13] SUCCESS [ADMIN][268485268] admin_server admserver.htm
+[18.03.16 22:25:14] SUCCESS [ADMIN][268485268] admin_server_shutdown
+[18.03.16 22:25:17] SUCCESS [ADMIN][268485268] admin_server_restart 1
+[18.03.16 22:50:03] SUCCESS Farm[268493092] -> 31688 Grand Olympiad Manager admin_admin
+[18.03.16 22:50:06] SUCCESS Farm[268493092] -> 31688 Grand Olympiad Manager admin_gmshop
+[18.03.16 22:50:10] SUCCESS Farm[268493092] -> 31688 Grand Olympiad Manager admin_buy 9909
+[18.03.16 23:12:19] SUCCESS sdasdas[268488030] -> 50002 Farm Hard Warrior admin_admin
+[18.03.16 23:12:20] SUCCESS sdasdas[268488030] -> 50002 Farm Hard Warrior admin_gmshop
+[18.03.16 23:12:30] SUCCESS sdasdas[268488030] -> 50002 Farm Hard Warrior admin_buy 9909
+[18.03.16 23:13:04] SUCCESS sdasdas[268488030] -> 50002 Farm Hard Warrior admin_admin
+[18.03.16 23:13:05] SUCCESS sdasdas[268488030] -> 50002 Farm Hard Warrior admin_gmshop
+[18.03.16 23:13:05] SUCCESS sdasdas[268488030] -> 50002 Farm Hard Warrior admin_buy 9909
+[18.03.16 23:28:27] SUCCESS adm[268488030] -> adm[268488030] admin_setname adm
+[18.03.16 23:39:38] SUCCESS adm[268488030] -> 31084 Priest of Dawn admin_admin
+[18.03.16 23:40:30] SUCCESS adm[268488030] -> 31084 Priest of Dawn admin_admin
+[18.03.16 23:40:31] SUCCESS adm[268488030] -> 31084 Priest of Dawn admin_gmshop
+[18.03.16 23:40:40] SUCCESS adm[268488030] -> 31084 Priest of Dawn admin_admin
+[18.03.16 23:50:06] SUCCESS adm[268488030] -> 32491 Underground Coliseum Helper admin_admin
+[18.03.16 23:53:09] SUCCESS adm[268488030] -> 32491 Underground Coliseum Helper admin_admin
+[18.03.16 23:53:10] SUCCESS adm[268488030] -> 32491 Underground Coliseum Helper admin_admin
+[18.03.16 23:53:11] SUCCESS adm[268488030] -> 32491 Underground Coliseum Helper admin_admin

@@ -5,15 +5,15 @@
   <!-- Jewels --><!-- All -->
   <item>
     <ingredient id="57" count="120000000"/>
-    <production id="14164" count="1" enchant="6"/> <!-- Vesper Necklace -->
+    <production id="15719" count="1" enchant="6"/> <!-- Elegia Necklace -->
   </item>
   <item>
     <ingredient id="57" count="120000000"/>
-    <production id="14163" count="1" enchant="6"/> <!-- Vesper Earring -->
+    <production id="15718" count="1" enchant="6"/> <!-- Elegia Earring -->
   </item>
    <item>
     <ingredient id="57" count="120000000"/>
-    <production id="14165" count="1" enchant="6"/> <!-- Vesper Ring -->
+    <production id="15717" count="1" enchant="6"/> <!-- Elegia Ring -->
   </item>
   <item>
     <ingredient id="57" count="120000000"/>
@@ -29,15 +29,15 @@
   </item>
   <item>
     <ingredient id="57" count="120000000"/>
-    <production id="15719" count="1" enchant="6"/> <!-- Elegia Necklace -->
+    <production id="14164" count="1" enchant="6"/> <!-- Vesper Necklace -->
   </item>
   <item>
     <ingredient id="57" count="120000000"/>
-    <production id="15718" count="1" enchant="6"/> <!-- Elegia Earring -->
+    <production id="14163" count="1" enchant="6"/> <!-- Vesper Earring -->
   </item>
    <item>
     <ingredient id="57" count="120000000"/>
-    <production id="15717" count="1" enchant="6"/> <!-- Elegia Ring -->
+    <production id="14165" count="1" enchant="6"/> <!-- Vesper Ring -->
   </item>
   <item>
     <ingredient id="57" count="8000000"/>
@@ -53,18 +53,6 @@
   </item>
   <item>
     <ingredient id="57" count="20000000"/>
-    <production id="920" count="1" enchant="6"/> <!-- Tateossian Necklace -->
-  </item>
-   <item>
-    <ingredient id="57" count="1000000"/>
-    <production id="858" count="1" enchant="6"/> <!-- Tateossian Earring -->
-  </item>
-   <item>
-    <ingredient id="57" count="1000000"/>
-    <production id="889" count="1" enchant="6"/> <!-- Tateossian Ring -->
-  </item>
-  <item>
-    <ingredient id="57" count="20000000"/>
     <production id="9456" count="1" enchant="6"/> <!-- Dynasty Necklace -->
   </item>
    <item>
@@ -75,6 +63,18 @@
    <item>
     <ingredient id="57" count="1000000"/>
     <production id="9457" count="1" enchant="6"/> <!-- Dynasty Ring -->
+  </item>
+  <item>
+    <ingredient id="57" count="20000000"/>
+    <production id="920" count="1" enchant="6"/> <!-- Tateossian Necklace -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="858" count="1" enchant="6"/> <!-- Tateossian Earring -->
+  </item>
+   <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="889" count="1" enchant="6"/> <!-- Tateossian Ring -->
   </item>
   <item>
     <ingredient id="57" count="4000000"/>
@@ -124,5 +124,4 @@
     <ingredient id="57" count="1000000"/>
     <production id="879" count="1" enchant="6"/> <!-- Enchanted Ring -->
   </item>
-
 </list>

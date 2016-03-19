@@ -16,7 +16,7 @@
     <production id="57" count="900000000"/> <!-- 900kk=1FA -->
   </item>
    <item>
-    <ingredient id="6673" count="1"/>
+    <ingredient id="6673" count="9"/>
     <production id="-300" count="100"/> <!-- Fame --><!-- 100fame=9FA -->
   </item>
 </list>
